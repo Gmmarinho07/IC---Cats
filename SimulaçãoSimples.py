@@ -1,9 +1,9 @@
 #Estudo de regressão supervisionada
-#Entrada X : Temeperatura, Catalisador, tempo e etc
+#Entrada X: Temperatura, Catalisador, tempo e etc
 #Saída y: Conversão da reação (%) == y = f(x)
 #Estrutura de rede neural Feedforward == Input -> Camada Oculta -> Output
 #Cada neurônico faz z = w.x+b, a = ativação(z)
-# Objetivo: Minimizar o erro entre previsão e valor real, usando o MAE(erro absoluto médio)
+#Objetivo: Minimizar o erro entre previsão e valor real, usando o MAE(erro absoluto médio)
 #Métrica principal: R² (coeficiente de determinação) == 1, 1 ->perfeito, 0 -> ruim, <0 pior que média
 #Pre-processamento: One-hot enconding para variáveis categóricas,e normalização de escalas.
 #Outliers: Valores extremos que confundem o modelo
