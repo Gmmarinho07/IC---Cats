@@ -1,0 +1,20 @@
+[
+{
+"paper": "039MCN.pdf",
+"expected_catalysts": [
+"commercial hydroxyapatite"
+]
+},
+{
+"paper": "032MCN.pdf",
+"expected_catalysts": [
+"Mg-Al mixed oxides"
+]
+},
+{
+"paper": "034MCN.pdf",
+"expected_catalysts": [
+"Cu/Ni/HAP"
+]
+}
+]

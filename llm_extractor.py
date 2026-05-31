@@ -1,6 +1,7 @@
 from openai import OpenAI
 from dotenv import load_dotenv
 import json
+import anthropic
 
 load_dotenv()
 
@@ -75,7 +76,7 @@ Abstract:
 """
 
     response = client.chat.completions.create(
-        model="claude-sonnet-4-6",
+        model="gpt-4o-mini",
         temperature=0,
         messages=[
             {

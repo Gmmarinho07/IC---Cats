@@ -1,0 +1,26 @@
+{
+    "summary": {
+        "total_papers": 3,
+        "agent_1_accuracy": 0.0,
+        "agent_2_accuracy": 0.0
+    },
+    "results": [
+        {
+            "paper": "034MCN.pdf",
+            "expected": [],
+            "agent_1": [
+                "hydroxyapatite",
+                "magnesium oxide",
+                "HAP",
+                "magnesia",
+                "MgO"
+            ],
+            "agent_1_match": false,
+            "agent_2": [
+                "hydroxyapatite",
+                "magnesia"
+            ],
+            "agent_2_match": false
+        }
+    ]
+}
