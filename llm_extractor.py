@@ -1,45 +1,37 @@
 from openai import OpenAI
 from dotenv import load_dotenv
-
 import json
 
 load_dotenv()
 
 client = OpenAI()
 
-def extract_with_llm(text):
+
+def agent_1_catalyst(text):
 
     prompt = f"""
-You are a scientific extraction system.
+Extract catalyst names explicitly mentioned in the abstract.
 
-Extract ONLY explicitly stated information.
+Rules:
+- Return only valid JSON
+- Do not explain
+- Do not infer
+- Do not guess
 
-Return ONLY valid JSON.
-
-If information is missing:
-return null.
-
-Schema:
+Format:
 
 {{
-    "catalyst": "",
-    "temperature_C": null,
-    "pressure_bar": null,
-    "conversion_pct": null,
-    "main_product": ""
+  "catalysts": []
 }}
 
-Text:
+Abstract:
 
 {text}
 """
 
     response = client.chat.completions.create(
-
         model="gpt-4o-mini",
-
         temperature=0,
-
         messages=[
             {
                 "role": "user",
@@ -49,7 +41,51 @@ Text:
     )
 
     content = response.choices[0].message.content
-    print(content)
+
+    content = content.replace("```json", "")
+    content = content.replace("```", "")
+    content = content.strip()
+
+    return json.loads(content)
+
+
+def agent_2_catalyst(text):
+
+    prompt = f"""
+You are a catalyst extraction system.
+
+Identify catalyst materials explicitly used or evaluated in the study.
+
+Rules:
+- Use only information present in the abstract
+- Ignore reaction products
+- Ignore supports unless they are part of the catalyst name
+- Do not infer abbreviations
+- Return only valid JSON
+
+Format:
+
+{{
+  "catalysts": []
+}}
+
+Abstract:
+
+{text}
+"""
+
+    response = client.chat.completions.create(
+        model="claude-sonnet-4-6",
+        temperature=0,
+        messages=[
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ]
+    )
+
+    content = response.choices[0].message.content
 
     content = content.replace("```json", "")
     content = content.replace("```", "")

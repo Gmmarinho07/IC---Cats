@@ -2,65 +2,109 @@ import json
 import os
 
 from extractor import extract_text
-from llm_extractor import extract_with_llm
 
-pdf_path = "Papers/039MCN.pdf"
+from llm_extractor import (
+    agent_1_catalyst,
+    agent_2_catalyst
+)
 
-# =====================================
-# Extrair texto do PDF
-# =====================================
+# =====================================================
+# PAPERS
+# =====================================================
 
-text = extract_text(pdf_path)
+papers = [
+    "Papers/039MCN.pdf",
+    "Papers/032MCN.pdf",
+    "Papers/034MCN.pdf"
+]
 
-# =====================================
-# Selecionar trecho
-# =====================================
+# =====================================================
+# DATASET E LOGS
+# =====================================================
 
-text = text[:4000]
+dataset = []
+logs = []
 
-# =====================================
-# Extração com OpenAI
-# =====================================
+# =====================================================
+# LOOP DOS PAPERS
+# =====================================================
 
-data = extract_with_llm(text)
+for pdf_path in papers:
 
-# =====================================
-# Adicionar nome do paper
-# =====================================
+    print(f"\nProcessando: {pdf_path}")
 
-data["paper_name"] = os.path.basename(pdf_path)
+    text = extract_text(pdf_path)
 
-# =====================================
-# Ler dataset existente
-# =====================================
+    # =============================================
+    # PEGAR SOMENTE O ABSTRACT
+    # =============================================
 
-dataset_path = "dataset.json"
+    start = text.find("Abstract")
 
-if os.path.exists(dataset_path):
+    if start != -1:
+        text = text[start:start + 1500]
+    else:
+        text = text[:1500]
 
-    with open(dataset_path, "r", encoding="utf-8") as f:
+    # =============================================
+    # AGENTE 1
+    # =============================================
 
-        try:
-            dataset = json.load(f)
+    result_1 = agent_1_catalyst(text)
 
-        except:
-            dataset = []
+    # =============================================
+    # AGENTE 2
+    # =============================================
 
-else:
+    result_2 = agent_2_catalyst(text)
 
-    dataset = []
+    # =============================================
+    # PRINT
+    # =============================================
 
-# =====================================
-# Adicionar novo dado
-# =====================================
+    print("\nAgent 1:")
+    print(result_1)
 
-dataset.append(data)
+    print("\nAgent 2:")
+    print(result_2)
 
-# =====================================
-# Salvar dataset atualizado
-# =====================================
+    # =============================================
+    # DATASET
+    # =============================================
 
-with open(dataset_path, "w", encoding="utf-8") as f:
+    dataset.append({
+
+        "paper": os.path.basename(pdf_path),
+
+        "agent_1": result_1,
+
+        "agent_2": result_2
+    })
+
+    # =============================================
+    # LOGS
+    # =============================================
+
+    logs.append({
+
+        "paper": os.path.basename(pdf_path),
+
+        "input_length": len(text),
+
+        "agent_1_output": result_1,
+
+        "agent_2_output": result_2
+    })
+
+# =====================================================
+# SALVAR DATASET
+# =====================================================
+
+with open(
+    "dataset.json",
+    "w",
+    encoding="utf-8"
+) as f:
 
     json.dump(
         dataset,
@@ -69,10 +113,30 @@ with open(dataset_path, "w", encoding="utf-8") as f:
         ensure_ascii=False
     )
 
-# =====================================
-# Mostrar resultado
-# =====================================
+# =====================================================
+# SALVAR LOGS
+# =====================================================
 
-print("\nDataset atualizado:\n")
+with open(
+    "logs.json",
+    "w",
+    encoding="utf-8"
+) as f:
 
-print(json.dumps(data, indent=4, ensure_ascii=False))
+    json.dump(
+        logs,
+        f,
+        indent=4,
+        ensure_ascii=False
+    )
+
+# =====================================================
+# FINAL
+# =====================================================
+
+print("\n===================================")
+print("Teste concluído.")
+print("dataset.json atualizado.")
+print("logs.json atualizado.")
+print("===================================")
+

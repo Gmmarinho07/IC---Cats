@@ -1,12 +1,13 @@
 [
     {
         "paper": "039MCN.pdf",
-        "agent_1": {
+        "input_length": 1500,
+        "agent_1_output": {
             "catalysts": [
                 "hydroxyapatite"
             ]
         },
-        "agent_2": {
+        "agent_2_output": {
             "catalysts": [
                 "hydroxyapatite"
             ]
@@ -14,14 +15,15 @@
     },
     {
         "paper": "032MCN.pdf",
-        "agent_1": {
+        "input_length": 1500,
+        "agent_1_output": {
             "catalysts": [
                 "hydroxyapatite",
                 "Ca−O sites",
                 "CaO/PO4 3− pairs"
             ]
         },
-        "agent_2": {
+        "agent_2_output": {
             "catalysts": [
                 "hydroxyapatite",
                 "Ca−O",
@@ -31,7 +33,8 @@
     },
     {
         "paper": "034MCN.pdf",
-        "agent_1": {
+        "input_length": 1500,
+        "agent_1_output": {
             "catalysts": [
                 "hydroxyapatite",
                 "magnesium oxide",
@@ -40,7 +43,7 @@
                 "MgO"
             ]
         },
-        "agent_2": {
+        "agent_2_output": {
             "catalysts": [
                 "hydroxyapatite",
                 "magnesium oxide"
