@@ -5,7 +5,8 @@ from extractor import extract_text
 
 from llm_extractor import (
     agent_1_catalyst,
-    agent_2_catalyst
+    agent_2_catalyst,
+    agent_3_metal_support
 )
 
 # =====================================================
@@ -15,7 +16,9 @@ from llm_extractor import (
 papers = [
     "Papers/039MCN.pdf",
     "Papers/032MCN.pdf",
-    "Papers/034MCN.pdf"
+    "Papers/034MCN.pdf",
+    "Papers/018MCN.pdf",
+    "Papers/020CAT.pdf"
 ]
 
 # =====================================================
@@ -59,6 +62,12 @@ for pdf_path in papers:
     result_2 = agent_2_catalyst(text)
 
     # =============================================
+    # AGENTE 3
+    # =============================================
+
+    result_3 = agent_3_metal_support(text)
+
+    # =============================================
     # PRINT
     # =============================================
 
@@ -67,6 +76,9 @@ for pdf_path in papers:
 
     print("\nAgent 2:")
     print(result_2)
+
+    print("\nAgent 3:")
+    print(result_3)
 
     # =============================================
     # DATASET
@@ -78,7 +90,9 @@ for pdf_path in papers:
 
         "agent_1": result_1,
 
-        "agent_2": result_2
+        "agent_2": result_2,
+
+        "agent_3": result_3
     })
 
     # =============================================
@@ -93,7 +107,9 @@ for pdf_path in papers:
 
         "agent_1_output": result_1,
 
-        "agent_2_output": result_2
+        "agent_2_output": result_2,
+
+        "agent_3_output": result_3
     })
 
 # =====================================================
@@ -139,4 +155,3 @@ print("Teste concluído.")
 print("dataset.json atualizado.")
 print("logs.json atualizado.")
 print("===================================")
-

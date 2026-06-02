@@ -1,26 +1,66 @@
 {
     "summary": {
-        "total_papers": 3,
-        "agent_1_accuracy": 0.0,
-        "agent_2_accuracy": 0.0
+        "total_papers": 5,
+        "agent_1_accuracy": 80.0,
+        "agent_2_accuracy": 80.0,
+        "metal_accuracy": 20.0,
+        "support_accuracy": 0.0
     },
     "results": [
         {
+            "paper": "039MCN.pdf",
+            "agent_1_similarity": 100.0,
+            "agent_1_match": true,
+            "agent_2_similarity": 100.0,
+            "agent_2_match": true,
+            "metal_similarity": 0,
+            "metal_match": false,
+            "support_similarity": 22.22,
+            "support_match": false
+        },
+        {
+            "paper": "032MCN.pdf",
+            "agent_1_similarity": 100.0,
+            "agent_1_match": true,
+            "agent_2_similarity": 100.0,
+            "agent_2_match": true,
+            "metal_similarity": 33.33,
+            "metal_match": false,
+            "support_similarity": 0.0,
+            "support_match": false
+        },
+        {
             "paper": "034MCN.pdf",
-            "expected": [],
-            "agent_1": [
-                "hydroxyapatite",
-                "magnesium oxide",
-                "HAP",
-                "magnesia",
-                "MgO"
-            ],
+            "agent_1_similarity": 25.0,
             "agent_1_match": false,
-            "agent_2": [
-                "hydroxyapatite",
-                "magnesia"
-            ],
-            "agent_2_match": false
+            "agent_2_similarity": 25.0,
+            "agent_2_match": false,
+            "metal_similarity": 0,
+            "metal_match": false,
+            "support_similarity": 21.05,
+            "support_match": false
+        },
+        {
+            "paper": "018MCN.pdf",
+            "agent_1_similarity": 100.0,
+            "agent_1_match": true,
+            "agent_2_similarity": 100.0,
+            "agent_2_match": true,
+            "metal_similarity": 0,
+            "metal_match": false,
+            "support_similarity": 0.0,
+            "support_match": false
+        },
+        {
+            "paper": "020CAT.pdf",
+            "agent_1_similarity": 100.0,
+            "agent_1_match": true,
+            "agent_2_similarity": 100.0,
+            "agent_2_match": true,
+            "metal_similarity": 100.0,
+            "metal_match": true,
+            "support_similarity": 46.15,
+            "support_match": false
         }
     ]
 }

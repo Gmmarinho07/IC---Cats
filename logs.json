@@ -11,6 +11,10 @@
             "catalysts": [
                 "hydroxyapatite"
             ]
+        },
+        "agent_3_output": {
+            "metal": null,
+            "support": "hydroxyapatite"
         }
     },
     {
@@ -29,6 +33,12 @@
                 "Ca−O",
                 "CaO/PO4 3−"
             ]
+        },
+        "agent_3_output": {
+            "metal": [
+                "Ca"
+            ],
+            "support": "HAP"
         }
     },
     {
@@ -48,6 +58,51 @@
                 "hydroxyapatite",
                 "magnesia"
             ]
+        },
+        "agent_3_output": {
+            "metal": null,
+            "support": "hydroxyapatite and magnesium oxide"
+        }
+    },
+    {
+        "paper": "018MCN.pdf",
+        "input_length": 1500,
+        "agent_1_output": {
+            "catalysts": [
+                "hydroxyapatite",
+                "HAP"
+            ]
+        },
+        "agent_2_output": {
+            "catalysts": [
+                "hydroxyapatite"
+            ]
+        },
+        "agent_3_output": {
+            "metal": null,
+            "support": "HAP"
+        }
+    },
+    {
+        "paper": "020CAT.pdf",
+        "input_length": 1500,
+        "agent_1_output": {
+            "catalysts": [
+                "Atomic Ru",
+                "MgAl-LDO"
+            ]
+        },
+        "agent_2_output": {
+            "catalysts": [
+                "atomic Ru",
+                "MgAl-LDO"
+            ]
+        },
+        "agent_3_output": {
+            "metal": [
+                "Ru"
+            ],
+            "support": "MgAl-LDO"
         }
     }
 ]
