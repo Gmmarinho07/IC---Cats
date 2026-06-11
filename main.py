@@ -18,7 +18,13 @@ papers = [
     "Papers/032MCN.pdf",
     "Papers/034MCN.pdf",
     "Papers/018MCN.pdf",
-    "Papers/020CAT.pdf"
+    "Papers/020CAT.pdf",
+    "Papers/028CAT.pdf",
+    "Papers/030CAT.pdf",
+    "Papers/031RVW.pdf",
+    "Papers/036CAT.pdf",
+    "Papers/038CAT.pdf",
+
 ]
 
 # =====================================================

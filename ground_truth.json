@@ -34,5 +34,60 @@
         ],
         "expected_metal": ["Ru"],
         "expected_support": "MgAl-LDO"
+    },
+    {
+        "paper": "028CAT.pdf",
+        "expected_catalysts": [
+            "NiMgAlO",
+            "Cu"
+        ],
+        "expected_metal": [
+            "Ni",
+            "Cu"
+        ],
+        "expected_support": null
+    },
+    {
+        "paper": "030CAT.pdf",
+        "expected_catalysts": [
+            "MgO",
+            "CRu/MgO",
+            "MgxAlyO",
+            "Ru/MgxAlyO"
+        ],
+        "expected_metal": ["Ru"],
+        "expected_support": "MgO"
+    },
+    {
+        "paper": "031RVW.pdf",
+        "expected_catalysts": [],
+        "expected_metal": [
+            "Cu",
+            "Au",
+            "Ag",
+            "Co",
+            "Zn",
+            "Pd"
+        ],
+        "expected_support": "hydroxyapatite",
+        "skip_benchmark": true
+    },
+    {
+        "paper": "036CAT.pdf",
+        "expected_catalysts": [
+            "hydroxyapatite",
+            "magnesium oxide",
+            "titanium dioxide"
+        ],
+        "expected_metal": [],
+        "expected_support": null
+    },
+    {
+        "paper": "038CAT.pdf",
+        "expected_catalysts": [
+            "magnesium oxide"
+        ],
+        "expected_metal": [],
+        "expected_support": "magnesium oxide"
     }
 ]

@@ -58,7 +58,10 @@
         },
         "agent_3": {
             "metal": null,
-            "support": "hydroxyapatite and magnesium oxide"
+            "support": [
+                "HAP",
+                "MgO"
+            ]
         }
     },
     {
@@ -66,7 +69,8 @@
         "agent_1": {
             "catalysts": [
                 "hydroxyapatite",
-                "HAP"
+                "HAP",
+                "microwave-treated catalyst"
             ]
         },
         "agent_2": {
@@ -83,13 +87,12 @@
         "paper": "020CAT.pdf",
         "agent_1": {
             "catalysts": [
-                "Atomic Ru",
-                "MgAl-LDO"
+                "Atomic Ru"
             ]
         },
         "agent_2": {
             "catalysts": [
-                "atomic Ru",
+                "Atomic Ru",
                 "MgAl-LDO"
             ]
         },
@@ -98,6 +101,115 @@
                 "Ru"
             ],
             "support": "MgAl-LDO"
+        }
+    },
+    {
+        "paper": "028CAT.pdf",
+        "agent_1": {
+            "catalysts": [
+                "Cu doped NiMgAlO",
+                "2%Cu-NiMgAlO",
+                "hydrotalcite"
+            ]
+        },
+        "agent_2": {
+            "catalysts": [
+                "Cu-NiMgAlO",
+                "2%Cu-NiMgAlO"
+            ]
+        },
+        "agent_3": {
+            "metal": [
+                "Cu",
+                "Ni"
+            ],
+            "support": "NiMgAlO"
+        }
+    },
+    {
+        "paper": "030CAT.pdf",
+        "agent_1": {
+            "catalysts": [
+                "MgO",
+                "Ru/MgO",
+                "MgxAlOy",
+                "Ru/MgxAlOy"
+            ]
+        },
+        "agent_2": {
+            "catalysts": [
+                "MgO",
+                "Ru/MgO",
+                "MgxAlOy",
+                "Ru/MgxAlOy"
+            ]
+        },
+        "agent_3": {
+            "metal": [
+                "Ru"
+            ],
+            "support": "MgO"
+        }
+    },
+    {
+        "paper": "031RVW.pdf",
+        "agent_1": {
+            "catalysts": []
+        },
+        "agent_2": {
+            "catalysts": []
+        },
+        "agent_3": {
+            "metal": null,
+            "support": null
+        }
+    },
+    {
+        "paper": "036CAT.pdf",
+        "agent_1": {
+            "catalysts": [
+                "Titania",
+                "Hydroxyapatite",
+                "Magnesia",
+                "anatase titania (TiO2)",
+                "hydroxyapatite (HAP)",
+                "magnesia (MgO)"
+            ]
+        },
+        "agent_2": {
+            "catalysts": [
+                "anatase titania (TiO2)",
+                "hydroxyapatite (HAP)",
+                "magnesia (MgO)"
+            ]
+        },
+        "agent_3": {
+            "metal": null,
+            "support": [
+                "TiO2",
+                "HAP",
+                "MgO"
+            ]
+        }
+    },
+    {
+        "paper": "038CAT.pdf",
+        "agent_1": {
+            "catalysts": [
+                "alkali earth metal oxides",
+                "MgO"
+            ]
+        },
+        "agent_2": {
+            "catalysts": [
+                "alkali earth metal oxides",
+                "modified MgO",
+                "MgO"
+            ]
+        },
+        "agent_3": {
+            "metal": null,
+            "support": "MgO"
         }
     }
 ]

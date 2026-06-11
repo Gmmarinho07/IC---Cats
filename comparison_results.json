@@ -1,10 +1,11 @@
 {
     "summary": {
-        "total_papers": 5,
-        "agent_1_accuracy": 80.0,
-        "agent_2_accuracy": 80.0,
-        "metal_accuracy": 20.0,
-        "support_accuracy": 0.0
+        "total_papers": 10,
+        "similarity_threshold": 80,
+        "agent_1_accuracy": 90.0,
+        "agent_2_accuracy": 90.0,
+        "metal_accuracy": 80.0,
+        "support_accuracy": 60.0
     },
     "results": [
         {
@@ -13,10 +14,10 @@
             "agent_1_match": true,
             "agent_2_similarity": 100.0,
             "agent_2_match": true,
-            "metal_similarity": 0,
-            "metal_match": false,
-            "support_similarity": 22.22,
-            "support_match": false
+            "metal_similarity": 100,
+            "metal_match": true,
+            "support_similarity": 100.0,
+            "support_match": true
         },
         {
             "paper": "032MCN.pdf",
@@ -24,20 +25,20 @@
             "agent_1_match": true,
             "agent_2_similarity": 100.0,
             "agent_2_match": true,
-            "metal_similarity": 33.33,
+            "metal_similarity": 0,
             "metal_match": false,
-            "support_similarity": 0.0,
-            "support_match": false
+            "support_similarity": 100.0,
+            "support_match": true
         },
         {
             "paper": "034MCN.pdf",
-            "agent_1_similarity": 25.0,
-            "agent_1_match": false,
-            "agent_2_similarity": 25.0,
-            "agent_2_match": false,
-            "metal_similarity": 0,
-            "metal_match": false,
-            "support_similarity": 21.05,
+            "agent_1_similarity": 100.0,
+            "agent_1_match": true,
+            "agent_2_similarity": 100.0,
+            "agent_2_match": true,
+            "metal_similarity": 100,
+            "metal_match": true,
+            "support_similarity": 21.43,
             "support_match": false
         },
         {
@@ -46,10 +47,10 @@
             "agent_1_match": true,
             "agent_2_similarity": 100.0,
             "agent_2_match": true,
-            "metal_similarity": 0,
-            "metal_match": false,
-            "support_similarity": 0.0,
-            "support_match": false
+            "metal_similarity": 100,
+            "metal_match": true,
+            "support_similarity": 100.0,
+            "support_match": true
         },
         {
             "paper": "020CAT.pdf",
@@ -59,8 +60,63 @@
             "agent_2_match": true,
             "metal_similarity": 100.0,
             "metal_match": true,
-            "support_similarity": 46.15,
+            "support_similarity": 100.0,
+            "support_match": true
+        },
+        {
+            "paper": "028CAT.pdf",
+            "agent_1_similarity": 100.0,
+            "agent_1_match": true,
+            "agent_2_similarity": 82.35,
+            "agent_2_match": true,
+            "metal_similarity": 100.0,
+            "metal_match": true,
+            "support_similarity": 0,
             "support_match": false
+        },
+        {
+            "paper": "030CAT.pdf",
+            "agent_1_similarity": 100.0,
+            "agent_1_match": true,
+            "agent_2_similarity": 100.0,
+            "agent_2_match": true,
+            "metal_similarity": 100.0,
+            "metal_match": true,
+            "support_similarity": 100.0,
+            "support_match": true
+        },
+        {
+            "paper": "031RVW.pdf",
+            "agent_1_similarity": 0,
+            "agent_1_match": false,
+            "agent_2_similarity": 0,
+            "agent_2_match": false,
+            "metal_similarity": 0,
+            "metal_match": false,
+            "support_similarity": 0,
+            "support_match": false
+        },
+        {
+            "paper": "036CAT.pdf",
+            "agent_1_similarity": 100.0,
+            "agent_1_match": true,
+            "agent_2_similarity": 100.0,
+            "agent_2_match": true,
+            "metal_similarity": 100,
+            "metal_match": true,
+            "support_similarity": 0,
+            "support_match": false
+        },
+        {
+            "paper": "038CAT.pdf",
+            "agent_1_similarity": 100.0,
+            "agent_1_match": true,
+            "agent_2_similarity": 100.0,
+            "agent_2_match": true,
+            "metal_similarity": 100,
+            "metal_match": true,
+            "support_similarity": 100.0,
+            "support_match": true
         }
     ]
 }

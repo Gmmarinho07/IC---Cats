@@ -1,7 +1,14 @@
 import json
+
 from rapidfuzz import fuzz
 
+from normalization import (
+    normalize,
+    normalize_list
+)
+
 SIMILARITY_THRESHOLD = 80
+
 
 # =====================================
 # FUNÇÕES
@@ -31,8 +38,10 @@ def best_similarity(agent_list, expected_list):
     return best_score
 
 
-def support_similarity(agent_support,
-                       expected_support):
+def support_similarity(
+        agent_support,
+        expected_support
+):
 
     if not agent_support or not expected_support:
         return 0
@@ -41,6 +50,7 @@ def support_similarity(agent_support,
         str(agent_support).lower(),
         str(expected_support).lower()
     )
+
 
 # =====================================
 # CARREGAR ARQUIVOS
@@ -54,6 +64,7 @@ with open(
 
     dataset = json.load(f)
 
+
 with open(
     "ground_truth.json",
     "r",
@@ -61,6 +72,7 @@ with open(
 ) as f:
 
     ground_truth = json.load(f)
+
 
 # =====================================
 # INDEXAR GROUND TRUTH
@@ -71,6 +83,7 @@ truth_dict = {}
 for item in ground_truth:
 
     truth_dict[item["paper"]] = item
+
 
 # =====================================
 # CONTADORES
@@ -84,8 +97,9 @@ support_hits = 0
 
 results = []
 
+
 # =====================================
-# LOOP
+# LOOP PRINCIPAL
 # =====================================
 
 for item in dataset:
@@ -97,89 +111,122 @@ for item in dataset:
     if not truth:
         continue
 
-    expected_catalysts = truth["expected_catalysts"]
+    # ----------------------------
+    # GROUND TRUTH NORMALIZADO
+    # ----------------------------
 
-    expected_metal = truth["expected_metal"]
+    expected_catalysts = normalize_list(
+        truth["expected_catalysts"]
+    )
 
-    expected_support = truth["expected_support"]
+    expected_metal = normalize_list(
+        truth["expected_metal"]
+    )
 
-    # --------------------
+    expected_support = normalize(
+        truth["expected_support"]
+    )
+
+    # ----------------------------
     # AGENT 1
-    # --------------------
+    # ----------------------------
 
-    agent_1 = item["agent_1"]["catalysts"]
+    agent_1 = normalize_list(
+        item["agent_1"]["catalysts"]
+    )
 
     score_1 = best_similarity(
         agent_1,
         expected_catalysts
     )
 
-    match_1 = score_1 >= SIMILARITY_THRESHOLD
+    match_1 = (
+        score_1 >= SIMILARITY_THRESHOLD
+    )
 
     if match_1:
         agent_1_hits += 1
 
-    # --------------------
+    # ----------------------------
     # AGENT 2
-    # --------------------
+    # ----------------------------
 
-    agent_2 = item["agent_2"]["catalysts"]
+    agent_2 = normalize_list(
+        item["agent_2"]["catalysts"]
+    )
 
     score_2 = best_similarity(
         agent_2,
         expected_catalysts
     )
 
-    match_2 = score_2 >= SIMILARITY_THRESHOLD
+    match_2 = (
+        score_2 >= SIMILARITY_THRESHOLD
+    )
 
     if match_2:
         agent_2_hits += 1
 
-    # --------------------
-    # AGENT 3 METAL
-    # --------------------
+    # ----------------------------
+    # AGENT 3 - METAL
+    # ----------------------------
 
-    agent_metal = (
+    agent_metal = normalize_list(
         item["agent_3"]["metal"]
-        if item["agent_3"]["metal"]
-        else []
-    )
+    ) if item["agent_3"]["metal"] else []
 
-    metal_score = best_similarity(
-        agent_metal,
-        expected_metal
-    )
+    if not expected_metal and not agent_metal:
 
-    metal_match = (
-        metal_score >= SIMILARITY_THRESHOLD
-        if expected_metal
-        else True
-    )
+        metal_score = 100
+        metal_match = True
+
+    else:
+
+        metal_score = best_similarity(
+            agent_metal,
+            expected_metal
+        )
+
+        metal_match = (
+            metal_score >= SIMILARITY_THRESHOLD
+        )
 
     if metal_match:
         metal_hits += 1
 
-    # --------------------
-    # AGENT 3 SUPPORT
-    # --------------------
+    # ----------------------------
+    # AGENT 3 - SUPPORT
+    # ----------------------------
 
-    agent_support = item["agent_3"]["support"]
-
-    support_score = support_similarity(
-        agent_support,
-        expected_support
+    agent_support = normalize(
+        item["agent_3"]["support"]
     )
 
-    support_match = (
-        support_score >= SIMILARITY_THRESHOLD
-    )
+    if (
+        expected_support is None
+        and agent_support is None
+    ):
+
+        support_score = 100
+        support_match = True
+
+    else:
+
+        support_score = support_similarity(
+            agent_support,
+            expected_support
+        )
+
+        support_match = (
+            support_score >= SIMILARITY_THRESHOLD
+        )
 
     if support_match:
         support_hits += 1
 
-    # --------------------
-    # RESULTADOS
-    # --------------------
+    # ----------------------------
+    # RESULTADO INDIVIDUAL
+    # ----------------------------
 
     results.append({
 
@@ -210,6 +257,7 @@ for item in dataset:
             support_match
     })
 
+
 # =====================================
 # RESUMO
 # =====================================
@@ -219,6 +267,9 @@ total = len(results)
 summary = {
 
     "total_papers": total,
+
+    "similarity_threshold":
+        SIMILARITY_THRESHOLD,
 
     "agent_1_accuracy":
         round(
@@ -245,8 +296,9 @@ summary = {
         )
 }
 
+
 # =====================================
-# SALVAR
+# SALVAR RESULTADOS
 # =====================================
 
 with open(
@@ -265,12 +317,19 @@ with open(
         ensure_ascii=False
     )
 
+
+# =====================================
+# PRINT FINAL
+# =====================================
+
 print("\n==============================")
-print("RESULTADOS")
+print("COMPARISON COMPLETED")
 print("==============================")
 
-print(json.dumps(
-    summary,
-    indent=4,
-    ensure_ascii=False
-))
+print(
+    json.dumps(
+        summary,
+        indent=4,
+        ensure_ascii=False
+    )
+)
