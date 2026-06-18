@@ -3,7 +3,6 @@ import json
 from rapidfuzz import fuzz
 
 from normalization import (
-    normalize,
     normalize_list
 )
 
@@ -36,20 +35,6 @@ def best_similarity(agent_list, expected_list):
             )
 
     return best_score
-
-
-def support_similarity(
-        agent_support,
-        expected_support
-):
-
-    if not agent_support or not expected_support:
-        return 0
-
-    return fuzz.token_set_ratio(
-        str(agent_support).lower(),
-        str(expected_support).lower()
-    )
 
 
 # =====================================
@@ -89,11 +74,8 @@ for item in ground_truth:
 # CONTADORES
 # =====================================
 
-agent_1_hits = 0
-agent_2_hits = 0
-
-metal_hits = 0
-support_hits = 0
+gpt_hits = 0
+claude_hits = 0
 
 results = []
 
@@ -119,110 +101,45 @@ for item in dataset:
         truth["expected_catalysts"]
     )
 
-    expected_metal = normalize_list(
-        truth["expected_metal"]
-    )
-
-    expected_support = normalize(
-        truth["expected_support"]
-    )
-
     # ----------------------------
-    # AGENT 1
+    # GPT
     # ----------------------------
 
-    agent_1 = normalize_list(
-        item["agent_1"]["catalysts"]
+    gpt_list = normalize_list(
+        item["gpt"]["catalysts"]
     )
 
-    score_1 = best_similarity(
-        agent_1,
+    gpt_score = best_similarity(
+        gpt_list,
         expected_catalysts
     )
 
-    match_1 = (
-        score_1 >= SIMILARITY_THRESHOLD
+    gpt_match = (
+        gpt_score >= SIMILARITY_THRESHOLD
     )
 
-    if match_1:
-        agent_1_hits += 1
+    if gpt_match:
+        gpt_hits += 1
 
     # ----------------------------
-    # AGENT 2
+    # CLAUDE
     # ----------------------------
 
-    agent_2 = normalize_list(
-        item["agent_2"]["catalysts"]
+    claude_list = normalize_list(
+        item["claude"]["catalysts"]
     )
 
-    score_2 = best_similarity(
-        agent_2,
+    claude_score = best_similarity(
+        claude_list,
         expected_catalysts
     )
 
-    match_2 = (
-        score_2 >= SIMILARITY_THRESHOLD
+    claude_match = (
+        claude_score >= SIMILARITY_THRESHOLD
     )
 
-    if match_2:
-        agent_2_hits += 1
-
-    # ----------------------------
-    # AGENT 3 - METAL
-    # ----------------------------
-
-    agent_metal = normalize_list(
-        item["agent_3"]["metal"]
-    ) if item["agent_3"]["metal"] else []
-
-    if not expected_metal and not agent_metal:
-
-        metal_score = 100
-        metal_match = True
-
-    else:
-
-        metal_score = best_similarity(
-            agent_metal,
-            expected_metal
-        )
-
-        metal_match = (
-            metal_score >= SIMILARITY_THRESHOLD
-        )
-
-    if metal_match:
-        metal_hits += 1
-
-    # ----------------------------
-    # AGENT 3 - SUPPORT
-    # ----------------------------
-
-    agent_support = normalize(
-        item["agent_3"]["support"]
-    )
-
-    if (
-        expected_support is None
-        and agent_support is None
-    ):
-
-        support_score = 100
-        support_match = True
-
-    else:
-
-        support_score = support_similarity(
-            agent_support,
-            expected_support
-        )
-
-        support_match = (
-            support_score >= SIMILARITY_THRESHOLD
-        )
-
-    if support_match:
-        support_hits += 1
+    if claude_match:
+        claude_hits += 1
 
     # ----------------------------
     # RESULTADO INDIVIDUAL
@@ -232,29 +149,18 @@ for item in dataset:
 
         "paper": paper,
 
-        "agent_1_similarity":
-            round(score_1, 2),
+        "gpt_similarity":
+            round(gpt_score, 2),
 
-        "agent_1_match":
-            match_1,
+        "gpt_match":
+            gpt_match,
 
-        "agent_2_similarity":
-            round(score_2, 2),
+        "claude_similarity":
+            round(claude_score, 2),
 
-        "agent_2_match":
-            match_2,
+        "claude_match":
+            claude_match
 
-        "metal_similarity":
-            round(metal_score, 2),
-
-        "metal_match":
-            metal_match,
-
-        "support_similarity":
-            round(support_score, 2),
-
-        "support_match":
-            support_match
     })
 
 
@@ -266,32 +172,21 @@ total = len(results)
 
 summary = {
 
-    "total_papers": total,
+    "total_papers":
+        total,
 
     "similarity_threshold":
         SIMILARITY_THRESHOLD,
 
-    "agent_1_accuracy":
+    "gpt_accuracy":
         round(
-            agent_1_hits / total * 100,
+            gpt_hits / total * 100,
             2
         ),
 
-    "agent_2_accuracy":
+    "claude_accuracy":
         round(
-            agent_2_hits / total * 100,
-            2
-        ),
-
-    "metal_accuracy":
-        round(
-            metal_hits / total * 100,
-            2
-        ),
-
-    "support_accuracy":
-        round(
-            support_hits / total * 100,
+            claude_hits / total * 100,
             2
         )
 }

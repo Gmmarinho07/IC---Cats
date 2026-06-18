@@ -4,9 +4,8 @@ import os
 from extractor import extract_text
 
 from llm_extractor import (
-    agent_1_catalyst,
-    agent_2_catalyst,
-    agent_3_metal_support
+    gpt_catalyst,
+    claude_catalyst
 )
 
 # =====================================================
@@ -23,8 +22,7 @@ papers = [
     "Papers/030CAT.pdf",
     "Papers/031RVW.pdf",
     "Papers/036CAT.pdf",
-    "Papers/038CAT.pdf",
-
+    "Papers/038CAT.pdf"
 ]
 
 # =====================================================
@@ -45,7 +43,7 @@ for pdf_path in papers:
     text = extract_text(pdf_path)
 
     # =============================================
-    # PEGAR SOMENTE O ABSTRACT
+    # PEGAR APENAS O ABSTRACT
     # =============================================
 
     start = text.find("Abstract")
@@ -56,35 +54,26 @@ for pdf_path in papers:
         text = text[:1500]
 
     # =============================================
-    # AGENTE 1
+    # GPT
     # =============================================
 
-    result_1 = agent_1_catalyst(text)
+    gpt_result = gpt_catalyst(text)
 
     # =============================================
-    # AGENTE 2
+    # CLAUDE
     # =============================================
 
-    result_2 = agent_2_catalyst(text)
-
-    # =============================================
-    # AGENTE 3
-    # =============================================
-
-    result_3 = agent_3_metal_support(text)
+    claude_result = claude_catalyst(text)
 
     # =============================================
     # PRINT
     # =============================================
 
-    print("\nAgent 1:")
-    print(result_1)
+    print("\nGPT:")
+    print(gpt_result)
 
-    print("\nAgent 2:")
-    print(result_2)
-
-    print("\nAgent 3:")
-    print(result_3)
+    print("\nClaude:")
+    print(claude_result)
 
     # =============================================
     # DATASET
@@ -94,11 +83,10 @@ for pdf_path in papers:
 
         "paper": os.path.basename(pdf_path),
 
-        "agent_1": result_1,
+        "gpt": gpt_result,
 
-        "agent_2": result_2,
+        "claude": claude_result
 
-        "agent_3": result_3
     })
 
     # =============================================
@@ -111,11 +99,10 @@ for pdf_path in papers:
 
         "input_length": len(text),
 
-        "agent_1_output": result_1,
+        "gpt_output": gpt_result,
 
-        "agent_2_output": result_2,
+        "claude_output": claude_result
 
-        "agent_3_output": result_3
     })
 
 # =====================================================
