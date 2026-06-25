@@ -5,7 +5,9 @@ from extractor import extract_text
 
 from llm_extractor import (
     gpt_catalyst,
-    claude_catalyst
+    claude_catalyst,
+    gpt_metal_support,
+    claude_metal_support
 )
 
 # =====================================================
@@ -54,26 +56,52 @@ for pdf_path in papers:
         text = text[:1500]
 
     # =============================================
-    # GPT
+    # GPT - AGENT 1
     # =============================================
 
-    gpt_result = gpt_catalyst(text)
+    gpt_catalyst_result = gpt_catalyst(text)
 
     # =============================================
-    # CLAUDE
+    # GPT - AGENT 2
     # =============================================
 
-    claude_result = claude_catalyst(text)
+    gpt_metal_support_result = gpt_metal_support(text)
+
+    # =============================================
+    # CLAUDE - AGENT 1
+    # =============================================
+
+    claude_catalyst_result = claude_catalyst(text)
+
+    # =============================================
+    # CLAUDE - AGENT 2
+    # =============================================
+
+    claude_metal_support_result = claude_metal_support(text)
 
     # =============================================
     # PRINT
     # =============================================
 
-    print("\nGPT:")
-    print(gpt_result)
+    print("\n==============================")
+    print("GPT - Catalyst")
+    print("==============================")
+    print(gpt_catalyst_result)
 
-    print("\nClaude:")
-    print(claude_result)
+    print("\n==============================")
+    print("GPT - Metal / Support")
+    print("==============================")
+    print(gpt_metal_support_result)
+
+    print("\n==============================")
+    print("Claude - Catalyst")
+    print("==============================")
+    print(claude_catalyst_result)
+
+    print("\n==============================")
+    print("Claude - Metal / Support")
+    print("==============================")
+    print(claude_metal_support_result)
 
     # =============================================
     # DATASET
@@ -83,9 +111,21 @@ for pdf_path in papers:
 
         "paper": os.path.basename(pdf_path),
 
-        "gpt": gpt_result,
+        "gpt": {
 
-        "claude": claude_result
+            "catalyst": gpt_catalyst_result,
+
+            "metal_support": gpt_metal_support_result
+
+        },
+
+        "claude": {
+
+            "catalyst": claude_catalyst_result,
+
+            "metal_support": claude_metal_support_result
+
+        }
 
     })
 
@@ -99,9 +139,13 @@ for pdf_path in papers:
 
         "input_length": len(text),
 
-        "gpt_output": gpt_result,
+        "gpt_catalyst": gpt_catalyst_result,
 
-        "claude_output": claude_result
+        "gpt_metal_support": gpt_metal_support_result,
+
+        "claude_catalyst": claude_catalyst_result,
+
+        "claude_metal_support": claude_metal_support_result
 
     })
 

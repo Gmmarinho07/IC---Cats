@@ -2,226 +2,231 @@
 
 # Projeto
 
-Extração automática de informações de catalisadores a partir de artigos científicos para construção de datasets destinados a Machine Learning em catálise.
+Extração automática de informações catalíticas de artigos científicos utilizando Large Language Models (LLMs) para construção de datasets destinados a aplicações de Machine Learning em Catálise.
+
+---
 
 # Objetivo
 
-Construir um pipeline baseado em LLMs para extrair informações estruturadas de artigos científicos e gerar um dataset para treinamento e análise de modelos de ML.
+Automatizar a leitura de artigos científicos e extrair informações estruturadas de catalisadores, reduzindo o tempo gasto na construção manual de bases de dados.
 
-# Estrutura Atual
+---
 
-```
-Projeto/
-│
-├── Papers/
-│     ├── 039MCN.pdf
-│     ├── 032MCN.pdf
-│     ├── ...
-│
-├── extractor.py
-├── llm_extractor.py
-├── main.py
-├── compare.py
-├── normalization.py
-├── dataset.json
-├── ground_truth.json
-├── comparison_results.json
-├── logs.json
-├── .env
-├── .gitignore
-└── PROJECT_CONTEXT.md
-```
+# Arquitetura Atual
 
-# APIs
+## Modelos
 
-OpenAI:
+* GPT-4o-mini
+* Claude Sonnet 4
 
-* gpt-4o-mini
+Gemini foi testado, porém removido temporariamente devido às limitações de cota da API gratuita.
 
-Anthropic:
+---
 
-* claude-sonnet-4-6
+# Agentes Implementados
 
-Google:
+## Agent 1 — Catalyst
 
-* gemini-2.5-flash
-* temporariamente desativado devido às cotas gratuitas
+Objetivo:
 
-# Organização Atual
+Extrair os catalisadores explicitamente mencionados no abstract.
 
-## extractor.py
+Saída:
 
-Responsável por extrair texto dos PDFs utilizando PyMuPDF (fitz).
-
-Função principal:
-
-```python
-extract_text(pdf_path)
+```json
+{
+    "catalysts":[]
+}
 ```
 
-## llm_extractor.py
+Modelos:
 
-Possui:
+* GPT
+* Claude
 
-* build_prompt()
-* clean_json()
-* gpt_catalyst()
-* claude_catalyst()
+---
 
-Gemini removido temporariamente.
+## Agent 2 — Metal + Support
 
-Prompt atual:
+Objetivo:
 
-"Extract catalyst names explicitly mentioned in the abstract."
+Extrair:
 
-Restrições:
+* metais ativos
+* suporte catalítico
 
-* Use only information present in the text.
-* Do not infer.
-* Do not guess.
-* Return ONLY valid JSON.
+Saída:
 
-Formato:
-
+```json
 {
-"catalysts": []
+    "metal": [],
+    "support": null
 }
+```
 
-## main.py
+Modelos:
 
-Fluxo:
+* GPT
+* Claude
 
-1. Ler PDFs.
-2. Extrair texto.
-3. Selecionar Abstract.
-4. Enviar para GPT.
-5. Enviar para Claude.
-6. Salvar dataset.json.
-7. Salvar logs.json.
+---
 
-Dataset possui estrutura:
+# Organização Atual do Dataset
 
+```json
 {
-"paper": "...",
-"gpt": {
-"catalysts": [...]
-},
-"claude": {
-"catalysts": [...]
+    "paper": "...",
+
+    "gpt":{
+
+        "catalyst":{
+
+            "catalysts":[]
+        },
+
+        "metal_support":{
+
+            "metal":[],
+            "support":null
+        }
+    },
+
+    "claude":{
+
+        "catalyst":{
+
+            "catalysts":[]
+        },
+
+        "metal_support":{
+
+            "metal":[],
+            "support":null
+        }
+    }
 }
-}
+```
 
-## ground_truth.json
+---
 
-Estrutura:
+# Pipeline
 
-{
-"paper": "...",
-"expected_catalysts": [...]
-}
+PDF
 
-Ground truth construída manualmente.
+↓
 
-## compare.py
+extractor.py
 
-Compara:
+↓
 
-* GPT x Ground Truth
-* Claude x Ground Truth
+Abstract
 
-Utiliza:
+↓
 
-RapidFuzz
-token_set_ratio
+Agent 1
+
+↓
+
+Agent 2
+
+↓
+
+dataset.json
+
+↓
+
+compare.py
+
+↓
+
+comparison_results.json
+
+---
+
+# Benchmark
+
+Ground Truth:
+
+* expected_catalysts
+* expected_metal
+* expected_support
+
+Métrica:
+
+RapidFuzz Token Set Ratio
 
 Threshold:
 
 80%
 
-Gera:
+Artigos com:
 
-comparison_results.json
+```json
+"skip_benchmark": true
+```
 
-## normalization.py
+são ignorados automaticamente.
 
-Responsável por:
+---
 
-normalize()
+# Correções Implementadas
 
-normalize_list()
+## JSON Parser
 
-# Decisões importantes
+O Claude ocasionalmente retornava múltiplos blocos JSON acompanhados de explicações.
 
-* Utilizar somente informações explícitas do abstract.
-* Não inferir catalisadores.
-* JSON obrigatório.
-* Temperature = 0.
-* Comparação por similaridade usando RapidFuzz.
-* Threshold de 80%.
+Foi implementado um parser baseado em:
 
-# Próximos Passos
+```python
+json.JSONDecoder().raw_decode()
+```
 
-## Agent 1
+permitindo extrair apenas o primeiro objeto JSON válido.
 
-Extrair catalisadores.
+---
 
-Saída:
+# Próximos Agentes
 
-{
-"catalysts":[]
-}
+Agent 3
 
-## Agent 2
+Temperature
 
-Extrair metais ativos.
+Agent 4
 
-Saída:
+Pressure
 
-{
-"metal":[]
-}
+Agent 5
 
-## Agent 3
+Synthesis Method
 
-Extrair suportes.
+Agent 6
 
-Saída:
+Conversion
 
-{
-"support":""
-}
+Agent 7
 
-## Agent 4
+Selectivity
 
-Extrair método de síntese.
+---
 
-## Agent 5
+# Arquitetura Futura
 
-Extrair temperatura de reação.
+Planejamento:
 
-## Agent 6
+```
+agents/
 
-Extrair pressão.
+catalyst.py
 
-## Agent 7
+metal_support.py
 
-Extrair rendimento ou conversão.
+temperature.py
 
-## Agent 8
+pressure.py
 
-Extrair seletividade.
+conversion.py
 
-# Objetivo Final
+selectivity.py
+```
 
-Construir um dataset estruturado contendo:
-
-* catalisador
-* metal
-* suporte
-* método de síntese
-* temperatura
-* pressão
-* conversão
-* seletividade
-
-para utilização em Machine Learning aplicado à catálise de etanol.
+O arquivo `llm_extractor.py` ficará responsável apenas pela comunicação com os modelos (GPT, Claude e futuramente Gemini).

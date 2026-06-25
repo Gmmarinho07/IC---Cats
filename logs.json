@@ -2,37 +2,53 @@
     {
         "paper": "039MCN.pdf",
         "input_length": 1500,
-        "gpt_output": {
+        "gpt_catalyst": {
             "catalysts": [
                 "hydroxyapatite"
             ]
         },
-        "claude_output": {
+        "gpt_metal_support": {
+            "metal": [],
+            "support": "hydroxyapatite"
+        },
+        "claude_catalyst": {
             "catalysts": [
                 "hydroxyapatite"
             ]
+        },
+        "claude_metal_support": {
+            "metal": [],
+            "support": "Hydroxyapatite"
         }
     },
     {
         "paper": "032MCN.pdf",
         "input_length": 1500,
-        "gpt_output": {
+        "gpt_catalyst": {
             "catalysts": [
                 "hydroxyapatite",
                 "Ca−O sites",
                 "CaO/PO4 3− pairs"
             ]
         },
-        "claude_output": {
+        "gpt_metal_support": {
+            "metal": [],
+            "support": "Hydroxyapatite"
+        },
+        "claude_catalyst": {
             "catalysts": [
                 "hydroxyapatite"
             ]
+        },
+        "claude_metal_support": {
+            "metal": [],
+            "support": "Hydroxyapatite"
         }
     },
     {
         "paper": "034MCN.pdf",
         "input_length": 1500,
-        "gpt_output": {
+        "gpt_catalyst": {
             "catalysts": [
                 "hydroxyapatite",
                 "magnesium oxide",
@@ -41,66 +57,107 @@
                 "MgO"
             ]
         },
-        "claude_output": {
+        "gpt_metal_support": {
+            "metal": [],
+            "support": null
+        },
+        "claude_catalyst": {
             "catalysts": [
                 "hydroxyapatite",
                 "magnesium oxide",
                 "HAP",
                 "MgO"
             ]
+        },
+        "claude_metal_support": {
+            "metal": [],
+            "support": null
         }
     },
     {
         "paper": "018MCN.pdf",
         "input_length": 1500,
-        "gpt_output": {
+        "gpt_catalyst": {
             "catalysts": [
                 "hydroxyapatite",
                 "microwave-treated catalyst"
             ]
         },
-        "claude_output": {
+        "gpt_metal_support": {
+            "metal": [],
+            "support": "Hydroxyapatite"
+        },
+        "claude_catalyst": {
             "catalysts": [
                 "hydroxyapatite (HAP)"
             ]
+        },
+        "claude_metal_support": {
+            "metal": [],
+            "support": null
         }
     },
     {
         "paper": "020CAT.pdf",
         "input_length": 1500,
-        "gpt_output": {
+        "gpt_catalyst": {
             "catalysts": [
-                "Atomic Ru",
+                "Ru",
                 "MgAl-LDO"
             ]
         },
-        "claude_output": {
+        "gpt_metal_support": {
+            "metal": [
+                "Ru"
+            ],
+            "support": "MgAl-LDO"
+        },
+        "claude_catalyst": {
             "catalysts": [
                 "atomic Ru on Mg and Al containing layered double oxides (MgAl-LDO)"
             ]
+        },
+        "claude_metal_support": {
+            "metal": [
+                "Ru"
+            ],
+            "support": "MgAl-LDO"
         }
     },
     {
         "paper": "028CAT.pdf",
         "input_length": 1500,
-        "gpt_output": {
+        "gpt_catalyst": {
             "catalysts": [
                 "Cu doped NiMgAlO",
                 "2%Cu-NiMgAlO"
             ]
         },
-        "claude_output": {
+        "gpt_metal_support": {
+            "metal": [
+                "Cu"
+            ],
+            "support": "NiMgAlO"
+        },
+        "claude_catalyst": {
             "catalysts": [
                 "Cu doped NiMgAlO",
                 "NiMgAlO",
                 "2%Cu-NiMgAlO"
             ]
+        },
+        "claude_metal_support": {
+            "metal": [
+                "Cu",
+                "Ni"
+            ],
+            "support": "MgAlO"
         }
     },
     {
         "paper": "030CAT.pdf",
         "input_length": 1500,
-        "gpt_output": {
+        "gpt_catalyst": {
             "catalysts": [
                 "MgO",
                 "Ru/MgO",
@@ -108,29 +165,49 @@
                 "Ru/MgxAlOy"
             ]
         },
-        "claude_output": {
+        "gpt_metal_support": {
+            "metal": [
+                "Ru"
+            ],
+            "support": "MgO"
+        },
+        "claude_catalyst": {
             "catalysts": [
                 "MgO",
                 "Ru/MgO",
                 "MgxAlOy",
                 "Ru/MgxAlOy"
             ]
+        },
+        "claude_metal_support": {
+            "metal": [
+                "Ru"
+            ],
+            "support": "MgO"
         }
     },
     {
         "paper": "031RVW.pdf",
         "input_length": 1500,
-        "gpt_output": {
+        "gpt_catalyst": {
             "catalysts": []
         },
-        "claude_output": {
+        "gpt_metal_support": {
+            "metal": [],
+            "support": null
+        },
+        "claude_catalyst": {
             "catalysts": []
+        },
+        "claude_metal_support": {
+            "metal": [],
+            "support": null
         }
     },
     {
         "paper": "036CAT.pdf",
         "input_length": 1500,
-        "gpt_output": {
+        "gpt_catalyst": {
             "catalysts": [
                 "Titania",
                 "Hydroxyapatite",
@@ -140,29 +217,45 @@
                 "magnesia (MgO)"
             ]
         },
-        "claude_output": {
+        "gpt_metal_support": {
+            "metal": [],
+            "support": null
+        },
+        "claude_catalyst": {
             "catalysts": [
                 "anatase titania (TiO2)",
                 "hydroxyapatite (HAP)",
                 "magnesia (MgO)"
             ]
+        },
+        "claude_metal_support": {
+            "metal": [],
+            "support": null
         }
     },
     {
         "paper": "038CAT.pdf",
         "input_length": 1500,
-        "gpt_output": {
+        "gpt_catalyst": {
             "catalysts": [
                 "alkali earth metal oxides",
                 "modified MgO",
                 "MgO"
             ]
         },
-        "claude_output": {
+        "gpt_metal_support": {
+            "metal": [],
+            "support": "MgO"
+        },
+        "claude_catalyst": {
             "catalysts": [
                 "alkali earth metal oxides",
                 "MgO"
             ]
+        },
+        "claude_metal_support": {
+            "metal": [],
+            "support": "MgO"
         }
     }
 ]
