@@ -3,12 +3,9 @@ import os
 
 from extractor import extract_text
 
-from llm_extractor import (
-    gpt_catalyst,
-    claude_catalyst,
-    gpt_metal_support,
-    claude_metal_support
-)
+from agents.catalyst import extract as catalyst
+from agents.metal_support import extract as metal_support
+
 
 # =====================================================
 # PAPERS
@@ -56,28 +53,32 @@ for pdf_path in papers:
         text = text[:1500]
 
     # =============================================
-    # GPT - AGENT 1
+    # AGENT 1 - CATALYST
     # =============================================
 
-    gpt_catalyst_result = gpt_catalyst(text)
+    gpt_catalyst = catalyst(
+        text,
+        "gpt"
+    )
+
+    claude_catalyst = catalyst(
+        text,
+        "claude"
+    )
 
     # =============================================
-    # GPT - AGENT 2
+    # AGENT 2 - METAL / SUPPORT
     # =============================================
 
-    gpt_metal_support_result = gpt_metal_support(text)
+    gpt_metal_support = metal_support(
+        text,
+        "gpt"
+    )
 
-    # =============================================
-    # CLAUDE - AGENT 1
-    # =============================================
-
-    claude_catalyst_result = claude_catalyst(text)
-
-    # =============================================
-    # CLAUDE - AGENT 2
-    # =============================================
-
-    claude_metal_support_result = claude_metal_support(text)
+    claude_metal_support = metal_support(
+        text,
+        "claude"
+    )
 
     # =============================================
     # PRINT
@@ -86,22 +87,22 @@ for pdf_path in papers:
     print("\n==============================")
     print("GPT - Catalyst")
     print("==============================")
-    print(gpt_catalyst_result)
-
-    print("\n==============================")
-    print("GPT - Metal / Support")
-    print("==============================")
-    print(gpt_metal_support_result)
+    print(gpt_catalyst)
 
     print("\n==============================")
     print("Claude - Catalyst")
     print("==============================")
-    print(claude_catalyst_result)
+    print(claude_catalyst)
+
+    print("\n==============================")
+    print("GPT - Metal / Support")
+    print("==============================")
+    print(gpt_metal_support)
 
     print("\n==============================")
     print("Claude - Metal / Support")
     print("==============================")
-    print(claude_metal_support_result)
+    print(claude_metal_support)
 
     # =============================================
     # DATASET
@@ -113,17 +114,17 @@ for pdf_path in papers:
 
         "gpt": {
 
-            "catalyst": gpt_catalyst_result,
+            "catalyst": gpt_catalyst,
 
-            "metal_support": gpt_metal_support_result
+            "metal_support": gpt_metal_support
 
         },
 
         "claude": {
 
-            "catalyst": claude_catalyst_result,
+            "catalyst": claude_catalyst,
 
-            "metal_support": claude_metal_support_result
+            "metal_support": claude_metal_support
 
         }
 
@@ -139,13 +140,21 @@ for pdf_path in papers:
 
         "input_length": len(text),
 
-        "gpt_catalyst": gpt_catalyst_result,
+        "gpt": {
 
-        "gpt_metal_support": gpt_metal_support_result,
+            "catalyst": gpt_catalyst,
 
-        "claude_catalyst": claude_catalyst_result,
+            "metal_support": gpt_metal_support
 
-        "claude_metal_support": claude_metal_support_result
+        },
+
+        "claude": {
+
+            "catalyst": claude_catalyst,
+
+            "metal_support": claude_metal_support
+
+        }
 
     })
 
@@ -153,8 +162,10 @@ for pdf_path in papers:
 # SALVAR DATASET
 # =====================================================
 
+os.makedirs("benchmark", exist_ok=True)
+
 with open(
-    "dataset.json",
+    "benchmark/dataset.json",
     "w",
     encoding="utf-8"
 ) as f:
@@ -171,7 +182,7 @@ with open(
 # =====================================================
 
 with open(
-    "logs.json",
+    "benchmark/logs.json",
     "w",
     encoding="utf-8"
 ) as f:
@@ -188,7 +199,7 @@ with open(
 # =====================================================
 
 print("\n===================================")
-print("Teste concluído.")
-print("dataset.json atualizado.")
-print("logs.json atualizado.")
+print("Pipeline executado com sucesso.")
+print("benchmark/dataset.json atualizado.")
+print("benchmark/logs.json atualizado.")
 print("===================================")

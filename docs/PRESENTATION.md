@@ -281,3 +281,25 @@ Apply automation and machine learning.
 Final objective:
 
 Catalytic performance prediction.
+
+## Evolução da Arquitetura
+
+### Objetivo
+
+Melhorar a organização do projeto para permitir crescimento do pipeline.
+
+### Principais mudanças
+
+- Separação dos agentes.
+- Modularização dos prompts.
+- Criação da pasta llms.
+- Criação da pasta evaluation.
+- Separação entre similaridade, métricas e comparação.
+- Preparação para integração do Gemini.
+
+### Benefícios
+
+- Código mais organizado.
+- Fácil inclusão de novos modelos.
+- Fácil inclusão de novos agentes.
+- Benchmark escalável.

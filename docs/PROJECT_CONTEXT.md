@@ -230,3 +230,56 @@ selectivity.py
 ```
 
 O arquivo `llm_extractor.py` ficará responsável apenas pela comunicação com os modelos (GPT, Claude e futuramente Gemini).
+
+# Atualização – Julho/2026
+
+## Refatoração da Arquitetura
+
+O projeto foi reorganizado em módulos independentes:
+
+- agents/
+- llms/
+- prompts/
+- utils/
+- evaluation/
+- benchmark/
+
+Cada módulo passou a ter uma responsabilidade única, facilitando manutenção e expansão.
+
+## Novos Agentes
+
+Atualmente existem dois agentes:
+
+### Agent 1
+Extração de catalisadores.
+
+### Agent 2
+Extração de metal ativo e suporte catalítico.
+
+Ambos são executados utilizando GPT-4o-mini e Claude Sonnet 4.6.
+
+## Benchmark
+
+A avaliação foi modularizada em:
+
+- similarity.py
+- metrics.py
+- comparator.py
+
+Essa organização prepara o projeto para incorporar novas métricas, como Precision, Recall e F1-score.
+
+## Resultados Atuais
+
+- GPT Catalyst: 100%
+- Claude Catalyst: 100%
+- GPT Metal: 100%
+- Claude Metal: 100%
+- GPT Support: 77,78%
+- Claude Support: 66,67%
+
+## Próximos Passos
+
+- Adicionar Gemini utilizando a biblioteca google-genai.
+- Criar novos agentes especializados.
+- Implementar métricas por entidade (Precision, Recall e F1-score).
+- Escalar o benchmark para conjuntos maiores de artigos.
