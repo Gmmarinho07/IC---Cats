@@ -1,13 +1,47 @@
 {
     "summary": {
-        "total_papers": 9,
+        "total_papers": 10,
         "similarity_threshold": 80,
-        "gpt_catalyst_accuracy": 100.0,
-        "claude_catalyst_accuracy": 100.0,
-        "gpt_metal_accuracy": 100.0,
-        "claude_metal_accuracy": 100.0,
-        "gpt_support_accuracy": 77.78,
-        "claude_support_accuracy": 66.67
+        "gpt": {
+            "catalyst": {
+                "accuracy": 90.0,
+                "precision": 68.18,
+                "recall": 88.24,
+                "f1": 76.92
+            },
+            "metal": {
+                "accuracy": 90.0,
+                "precision": 100.0,
+                "recall": 40.0,
+                "f1": 57.14
+            },
+            "support": {
+                "accuracy": 70.0,
+                "precision": 85.71,
+                "recall": 75.0,
+                "f1": 80.0
+            }
+        },
+        "claude": {
+            "catalyst": {
+                "accuracy": 90.0,
+                "precision": 65.22,
+                "recall": 88.24,
+                "f1": 75.0
+            },
+            "metal": {
+                "accuracy": 90.0,
+                "precision": 100.0,
+                "recall": 40.0,
+                "f1": 57.14
+            },
+            "support": {
+                "accuracy": 60.0,
+                "precision": 83.33,
+                "recall": 62.5,
+                "f1": 71.43
+            }
+        }
     },
     "results": [
         {
@@ -114,6 +148,21 @@
             "gpt_support_match": true,
             "claude_support_similarity": 100.0,
             "claude_support_match": true
+        },
+        {
+            "paper": "031RVW.pdf",
+            "gpt_catalyst_similarity": 0,
+            "gpt_catalyst_match": false,
+            "claude_catalyst_similarity": 0,
+            "claude_catalyst_match": false,
+            "gpt_metal_similarity": 0,
+            "gpt_metal_match": false,
+            "claude_metal_similarity": 0,
+            "claude_metal_match": false,
+            "gpt_support_similarity": 0,
+            "gpt_support_match": false,
+            "claude_support_similarity": 0,
+            "claude_support_match": false
         },
         {
             "paper": "036CAT.pdf",

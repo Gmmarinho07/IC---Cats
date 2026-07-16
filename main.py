@@ -1,205 +1,216 @@
+"""
+main.py
+
+Pipeline principal do IC-CATS
+"""
+
 import json
 import os
 
 from extractor import extract_text
 
-from agents.catalyst import extract as catalyst
-from agents.metal_support import extract as metal_support
+from preprocessing.section_extractor import extract_sections
+from preprocessing.chunk_builder import build_chunks
+from preprocessing.chunk_ranker import (
+    rank_chunks,
+    select_chunks,
+    preview_ranking
+)
+from preprocessing.context_builder import (
+    build_context,
+    preview_context,
+    context_statistics
+)
+
+from agents.catalyst import extract
 
 
 # =====================================================
-# PAPERS
+# CONFIGURAÇÕES
 # =====================================================
 
-papers = [
-    "Papers/039MCN.pdf",
-    "Papers/032MCN.pdf",
-    "Papers/034MCN.pdf",
-    "Papers/018MCN.pdf",
-    "Papers/020CAT.pdf",
-    "Papers/028CAT.pdf",
-    "Papers/030CAT.pdf",
-    "Papers/031RVW.pdf",
-    "Papers/036CAT.pdf",
-    "Papers/038CAT.pdf"
-]
+PDF_FOLDER = "Papers"
+
+OUTPUT_FOLDER = "benchmark/results"
+
+MODEL = "gpt"
+# MODEL = "claude"
+
+SELECTION_POLICY = {
+
+    "abstract": 1,
+
+    "experimental": 2,
+
+    "results": 2
+
+}
+
 
 # =====================================================
-# DATASET E LOGS
+# PROCESSAMENTO DE UM PDF
 # =====================================================
 
-dataset = []
-logs = []
+def process_pdf(pdf_path):
 
-# =====================================================
-# LOOP DOS PAPERS
-# =====================================================
+    print("\n" + "=" * 70)
+    print(f"Processing: {os.path.basename(pdf_path)}")
+    print("=" * 70)
 
-for pdf_path in papers:
-
-    print(f"\nProcessando: {pdf_path}")
+    # -------------------------------------------------
+    # EXTRAÇÃO DO TEXTO
+    # -------------------------------------------------
 
     text = extract_text(pdf_path)
 
-    # =============================================
-    # PEGAR APENAS O ABSTRACT
-    # =============================================
+    # -------------------------------------------------
+    # SEÇÕES
+    # -------------------------------------------------
 
-    start = text.find("Abstract")
+    sections = extract_sections(text)
 
-    if start != -1:
-        text = text[start:start + 1500]
-    else:
-        text = text[:1500]
+    # Remove seções que não serão utilizadas
 
-    # =============================================
-    # AGENT 1 - CATALYST
-    # =============================================
+    sections.pop("references", None)
+    sections.pop("introduction", None)
+    sections.pop("conclusion", None)
 
-    gpt_catalyst = catalyst(
-        text,
-        "gpt"
+    # -------------------------------------------------
+    # CHUNKS
+    # -------------------------------------------------
+
+    chunks = build_chunks(sections)
+
+    print(f"\nChunks gerados: {len(chunks)}")
+
+    # -------------------------------------------------
+    # RANKING
+    # -------------------------------------------------
+
+    ranked_chunks = rank_chunks(chunks)
+
+    preview_ranking(ranked_chunks, n=5)
+
+    # -------------------------------------------------
+    # SELEÇÃO
+    # -------------------------------------------------
+
+    selected_chunks = select_chunks(
+
+        ranked_chunks,
+
+        SELECTION_POLICY
+
     )
 
-    claude_catalyst = catalyst(
-        text,
-        "claude"
+    # -------------------------------------------------
+    # CONTEXTO
+    # -------------------------------------------------
+
+    context = build_context(selected_chunks)
+
+    preview_context(context)
+
+    print()
+
+    print(context_statistics(context))
+
+    # -------------------------------------------------
+    # LLM
+    # -------------------------------------------------
+
+    result = extract(
+
+        context,
+
+        MODEL
+
     )
 
-    # =============================================
-    # AGENT 2 - METAL / SUPPORT
-    # =============================================
+    return result
 
-    gpt_metal_support = metal_support(
-        text,
-        "gpt"
+
+# =====================================================
+# TODOS OS PDFs
+# =====================================================
+
+def process_all():
+
+    os.makedirs(
+
+        OUTPUT_FOLDER,
+
+        exist_ok=True
+
     )
 
-    claude_metal_support = metal_support(
-        text,
-        "claude"
+    pdfs = sorted(
+
+        [
+
+            pdf
+
+            for pdf in os.listdir(PDF_FOLDER)
+
+            if pdf.lower().endswith(".pdf")
+
+        ]
+
     )
 
-    # =============================================
-    # PRINT
-    # =============================================
+    print(f"\n{len(pdfs)} PDFs encontrados.")
 
-    print("\n==============================")
-    print("GPT - Catalyst")
-    print("==============================")
-    print(gpt_catalyst)
+    for pdf in pdfs:
 
-    print("\n==============================")
-    print("Claude - Catalyst")
-    print("==============================")
-    print(claude_catalyst)
+        pdf_path = os.path.join(
 
-    print("\n==============================")
-    print("GPT - Metal / Support")
-    print("==============================")
-    print(gpt_metal_support)
+            PDF_FOLDER,
 
-    print("\n==============================")
-    print("Claude - Metal / Support")
-    print("==============================")
-    print(claude_metal_support)
+            pdf
 
-    # =============================================
-    # DATASET
-    # =============================================
+        )
 
-    dataset.append({
+        result = process_pdf(pdf_path)
 
-        "paper": os.path.basename(pdf_path),
+        output_path = os.path.join(
 
-        "gpt": {
+            OUTPUT_FOLDER,
 
-            "catalyst": gpt_catalyst,
+            pdf.replace(".pdf", ".json")
 
-            "metal_support": gpt_metal_support
+        )
 
-        },
+        with open(
 
-        "claude": {
+            output_path,
 
-            "catalyst": claude_catalyst,
+            "w",
 
-            "metal_support": claude_metal_support
+            encoding="utf-8"
 
-        }
+        ) as file:
 
-    })
+            json.dump(
 
-    # =============================================
-    # LOGS
-    # =============================================
+                result,
 
-    logs.append({
+                file,
 
-        "paper": os.path.basename(pdf_path),
+                indent=4,
 
-        "input_length": len(text),
+                ensure_ascii=False
 
-        "gpt": {
+            )
 
-            "catalyst": gpt_catalyst,
+        print(f"\nResultado salvo em:")
 
-            "metal_support": gpt_metal_support
+        print(output_path)
 
-        },
-
-        "claude": {
-
-            "catalyst": claude_catalyst,
-
-            "metal_support": claude_metal_support
-
-        }
-
-    })
 
 # =====================================================
-# SALVAR DATASET
+# MAIN
 # =====================================================
 
-os.makedirs("benchmark", exist_ok=True)
+if __name__ == "__main__":
 
-with open(
-    "benchmark/dataset.json",
-    "w",
-    encoding="utf-8"
-) as f:
-
-    json.dump(
-        dataset,
-        f,
-        indent=4,
-        ensure_ascii=False
-    )
-
-# =====================================================
-# SALVAR LOGS
-# =====================================================
-
-with open(
-    "benchmark/logs.json",
-    "w",
-    encoding="utf-8"
-) as f:
-
-    json.dump(
-        logs,
-        f,
-        indent=4,
-        ensure_ascii=False
-    )
-
-# =====================================================
-# FINAL
-# =====================================================
-
-print("\n===================================")
-print("Pipeline executado com sucesso.")
-print("benchmark/dataset.json atualizado.")
-print("benchmark/logs.json atualizado.")
-print("===================================")
+    process_all()

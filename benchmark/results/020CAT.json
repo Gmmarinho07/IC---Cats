@@ -1,0 +1,21 @@
+{
+    "catalysts": [
+        "Ru/Mg3Al1-LDO-D-A",
+        "Ru/Mg3Al1-LDO-E-A",
+        "Ru/Mg3Al1-LDO-I-A",
+        "Ru/Mg3Al0.9Ga0.1-LDO-P-A",
+        "Ru/Mg3Al0.9Zr0.1-LDO-P-A",
+        "Ru(OH)6 3-/Mg3Al1-LDHs-D",
+        "Ru(OH)x/Mg3Al1-LDHs-E",
+        "RuCl3/Mg3Al1-LDHs-I",
+        "Ru(OH)6 3-/Mg3Al0.9Ga0.1-LDHs-P",
+        "Ru(OH)6 3-/Mg3Al0.9Zr0.1-LDHs-P",
+        "Ru/Mg3Al1-LDO-P-N",
+        "Mg3Al1-LDO",
+        "RuOx/Mg3Al1-LDO-P-A",
+        "Ru/Mg3Al1-LDO-P-N",
+        "Ru/Mg3Al0.9Ga0.1-LDO-P-A",
+        "Ru/Mg3Al0.9Zr0.1-LDO-P-A",
+        "RuO2"
+    ]
+}

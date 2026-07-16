@@ -7,6 +7,6 @@ def extract_text(pdf_path):
     text = ""
 
     for page in doc:
-        text += page.get_text()
+        text += page.get_text("text")
 
     return text

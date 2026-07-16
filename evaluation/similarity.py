@@ -1,6 +1,5 @@
 from rapidfuzz import fuzz
 
-
 # =====================================================
 # CONFIGURAÇÃO
 # =====================================================
@@ -9,14 +8,10 @@ SIMILARITY_THRESHOLD = 80
 
 
 # =====================================================
-# MELHOR SIMILARIDADE ENTRE DUAS LISTAS
+# BEST SIMILARITY ENTRE DUAS LISTAS
 # =====================================================
 
 def best_similarity(agent_list, expected_list):
-    """
-    Calcula a maior similaridade entre os itens de duas listas.
-    Retorna um valor entre 0 e 100.
-    """
 
     if not agent_list or not expected_list:
         return 0
@@ -32,8 +27,10 @@ def best_similarity(agent_list, expected_list):
                 str(agent).lower()
             )
 
-            if score > best_score:
-                best_score = score
+            best_score = max(
+                best_score,
+                score
+            )
 
     return best_score
 
@@ -43,10 +40,6 @@ def best_similarity(agent_list, expected_list):
 # =====================================================
 
 def text_similarity(text_a, text_b):
-    """
-    Calcula a similaridade entre duas strings.
-    Utilizado principalmente para Support.
-    """
 
     if text_a is None or text_b is None:
         return 0
@@ -58,38 +51,153 @@ def text_similarity(text_a, text_b):
 
 
 # =====================================================
-# VERIFICA MATCH
+# OPTIONALS
 # =====================================================
 
-def is_match(score, threshold=SIMILARITY_THRESHOLD):
-    """
-    Retorna True se a similaridade atingir o limiar.
-    """
+def optional_text_similarity(predicted, expected):
+
+    if predicted is None and expected is None:
+        return 100
+
+    return text_similarity(
+        predicted,
+        expected
+    )
+
+
+def optional_list_similarity(predicted, expected):
+
+    if not predicted and not expected:
+        return 100
+
+    return best_similarity(
+        predicted,
+        expected
+    )
+
+
+# =====================================================
+# MATCH
+# =====================================================
+
+def is_match(
+    score,
+    threshold=SIMILARITY_THRESHOLD
+):
 
     return score >= threshold
 
 
 # =====================================================
-# COMPARAÇÃO PARA CAMPOS OPCIONAIS
+# ENTITY MATCHING (NOVO)
 # =====================================================
 
-def optional_text_similarity(predicted, expected):
+def match_entities(
+    predicted,
+    expected,
+    threshold=SIMILARITY_THRESHOLD
+):
     """
-    Trata corretamente casos onde ambos são None.
+    Realiza o matching guloso entre listas de entidades.
+
+    Retorna:
+    {
+        "tp": ...,
+        "fp": ...,
+        "fn": ...,
+        "matches": [
+            {
+                "expected": "...",
+                "predicted": "...",
+                "score": ...
+            }
+        ]
+    }
     """
 
-    if predicted is None and expected is None:
-        return 100
+    predicted = predicted or []
+    expected = expected or []
 
-    return text_similarity(predicted, expected)
+    used_predictions = set()
 
+    tp = 0
+    fp = 0
+    fn = 0
 
-def optional_list_similarity(predicted, expected):
-    """
-    Trata corretamente listas opcionais.
-    """
+    matches = []
 
-    if not predicted and not expected:
-        return 100
+    # ==========================================
+    # PARA CADA ENTIDADE ESPERADA
+    # ==========================================
 
-    return best_similarity(predicted, expected)
+    for expected_entity in expected:
+
+        best_index = None
+        best_score = 0
+
+        for i, predicted_entity in enumerate(predicted):
+
+            if i in used_predictions:
+                continue
+
+            score = fuzz.token_set_ratio(
+                str(expected_entity).lower(),
+                str(predicted_entity).lower()
+            )
+
+            if score > best_score:
+
+                best_score = score
+                best_index = i
+
+        # --------------------------------------
+
+        if (
+            best_index is not None
+            and best_score >= threshold
+        ):
+
+            tp += 1
+
+            used_predictions.add(
+                best_index
+            )
+
+            matches.append({
+
+                "expected":
+                    expected_entity,
+
+                "predicted":
+                    predicted[best_index],
+
+                "score":
+                    round(best_score, 2)
+
+            })
+
+        else:
+
+            fn += 1
+
+    # ==========================================
+    # SOBROU PREDIÇÃO = FP
+    # ==========================================
+
+    fp = len(predicted) - len(used_predictions)
+
+    # ==========================================
+    # RETORNO
+    # ==========================================
+
+    return {
+
+        "tp": tp,
+
+        "fp": fp,
+
+        "fn": fn,
+
+        "matches": matches
+
+    }

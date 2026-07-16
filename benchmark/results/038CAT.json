@@ -1,0 +1,20 @@
+{
+    "catalysts": [
+        "MgO",
+        "CaO",
+        "BaO",
+        "Al2O3",
+        "Na/Al2O3",
+        "K/Al2O3",
+        "Cs/Al2O3",
+        "Mg/SiO2",
+        "Ba/MgO",
+        "Ca/MgO",
+        "Zn/MgO",
+        "Ce/MgO",
+        "Zr/MgO",
+        "Pb/MgO",
+        "Sn/MgO",
+        "Cu/MgO"
+    ]
+}
