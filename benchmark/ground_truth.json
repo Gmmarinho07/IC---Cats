@@ -1,604 +1,635 @@
 [
     {
-        "paper": "039MCN.pdf",
-        "expected_catalysts": ["hydroxyapatite"],
-        "expected_metal": [],
-        "expected_support": "hydroxyapatite"
+        "paper": "039MCN",
+        "title": "",
+        "catalysts": [
+            {
+                "catalyst": "hydroxyapatite",
+                "metal": ""
+            }
+        ]
     },
     {
-        "paper": "032MCN.pdf",
-        "expected_catalysts": ["hydroxyapatite"],
-        "expected_metal": [],
-        "expected_support": "hydroxyapatite"
+        "paper": "032MCN",
+        "title": "",
+        "catalysts": [
+            {
+                "catalyst": "hydroxyapatite",
+                "metal": ""
+            }
+        ]
     },
     {
-        "paper": "034MCN.pdf",
-        "expected_catalysts": [
-            "hydroxyapatite",
-            "magnesium oxide"
-        ],
-        "expected_metal": [],
-        "expected_support": "hydroxyapatite"
+        "paper": "034MCN",
+        "title": "",
+        "catalysts": [
+            {
+                "catalyst": "hydroxyapatite",
+                "metal": ""
+            },
+            {
+                "catalyst": "magnesium oxide",
+                "metal": ""
+            }
+        ]
     },
     {
-        "paper": "018MCN.pdf",
-        "expected_catalysts": ["hydroxyapatite"],
-        "expected_metal": [],
-        "expected_support": "hydroxyapatite"
+        "paper": "018MCN",
+        "title": "",
+        "catalysts": [
+            {
+                "catalyst": "hydroxyapatite",
+                "metal": ""
+            }
+        ]
     },
     {
-        "paper": "020CAT.pdf",
-        "expected_catalysts": [
-            "Ru",
-            "MgAl-LDO"
-        ],
-        "expected_metal": ["Ru"],
-        "expected_support": "MgAl-LDO"
+        "paper": "020CAT",
+        "title": "",
+        "catalysts": [
+            {
+                "catalyst": "Ru",
+                "metal": ""
+            },
+            {
+                "catalyst": "MgAl-LDO",
+                "metal": ""
+            }
+        ]
     },
     {
-        "paper": "028CAT.pdf",
-        "expected_catalysts": [
-            "NiMgAlO",
-            "Cu"
-        ],
-        "expected_metal": [
-            "Ni",
-            "Cu"
-        ],
-        "expected_support": null
+        "paper": "028CAT",
+        "title": "",
+        "catalysts": [
+            {
+                "catalyst": "NiMgAlO",
+                "metal": ""
+            },
+            {
+                "catalyst": "Cu",
+                "metal": ""
+            }
+        ]
     },
     {
-        "paper": "030CAT.pdf",
-        "expected_catalysts": [
-            "MgO",
-            "CRu/MgO",
-            "MgxAlyO",
-            "Ru/MgxAlyO"
-        ],
-        "expected_metal": ["Ru"],
-        "expected_support": "MgO"
+        "paper": "030CAT",
+        "title": "",
+        "catalysts": [
+            {
+                "catalyst": "MgO",
+                "metal": ""
+            },
+            {
+                "catalyst": "CRu/MgO",
+                "metal": ""
+            },
+            {
+                "catalyst": "MgxAlyO",
+                "metal": ""
+            },
+            {
+                "catalyst": "Ru/MgxAlyO",
+                "metal": ""
+            }
+        ]
     },
     {
-        "paper": "031RVW.pdf",
-        "expected_catalysts": [],
-        "expected_metal": [
-            "Cu",
-            "Au",
-            "Ag",
-            "Co",
-            "Zn",
-            "Pd"
-        ],
-        "expected_support": "hydroxyapatite",
-        "skip_benchmark": true
+        "paper": "031RVW",
+        "title": "",
+        "catalysts": []
     },
     {
-        "paper": "036CAT.pdf",
-        "expected_catalysts": [
-            "hydroxyapatite",
-            "magnesium oxide",
-            "titanium dioxide"
-        ],
-        "expected_metal": [],
-        "expected_support": null
+        "paper": "036CAT",
+        "title": "",
+        "catalysts": [
+            {
+                "catalyst": "hydroxyapatite",
+                "metal": ""
+            },
+            {
+                "catalyst": "magnesium oxide",
+                "metal": ""
+            },
+            {
+                "catalyst": "titanium dioxide",
+                "metal": ""
+            }
+        ]
     },
     {
-        "paper": "038CAT.pdf",
-        "expected_catalysts": [
-            "magnesium oxide"
-        ],
-        "expected_metal": [],
-        "expected_support": "magnesium oxide"
-    },
-   {
-  "paper": "019CAT",
-  "title": "Cascade Reaction of Ethanol to Butadiene over Multifunctional Silica-Supported Ag and ZrO2 Catalysts",
-  "catalysts": [
-    {
-      "catalyst": "Ag/SiO2",
-      "metal": "Ag"
+        "paper": "038CAT",
+        "title": "",
+        "catalysts": [
+            {
+                "catalyst": "magnesium oxide",
+                "metal": ""
+            }
+        ]
     },
     {
-      "catalyst": "ZrO2/SiO2",
-      "metal": "Zr"
+        "paper": "019CAT",
+        "title": "Cascade Reaction of Ethanol to Butadiene over Multifunctional Silica-Supported Ag and ZrO2 Catalysts",
+        "catalysts": [
+            {
+                "catalyst": "Ag/SiO2",
+                "metal": "Ag"
+            },
+            {
+                "catalyst": "ZrO2/SiO2",
+                "metal": "Zr"
+            },
+            {
+                "catalyst": "1Ag/SiO2",
+                "metal": "Ag"
+            },
+            {
+                "catalyst": "2ZrO2/SiO2",
+                "metal": "Zr"
+            },
+            {
+                "catalyst": "4ZrO2/SiO2",
+                "metal": "Zr"
+            },
+            {
+                "catalyst": "8ZrO2/SiO2",
+                "metal": "Zr"
+            },
+            {
+                "catalyst": "16ZrO2/SiO2",
+                "metal": "Zr"
+            },
+            {
+                "catalyst": "20ZrO2/SiO2",
+                "metal": "Zr"
+            },
+            {
+                "catalyst": "1Ag/4ZrO2/SiO2",
+                "metal": "Ag,Zr"
+            },
+            {
+                "catalyst": "ZrO2(M)",
+                "metal": "Zr"
+            },
+            {
+                "catalyst": "ZrO2(M+T)",
+                "metal": "Zr"
+            }
+        ]
     },
     {
-      "catalyst": "1Ag/SiO2",
-      "metal": "Ag"
+        "paper": "021CAT",
+        "title": "Enhancing Ethanol Coupling to Produce Higher Alcohols by Tuning H2 Partial Pressure over a Copper-Hydroxyapatite Catalyst",
+        "catalysts": [
+            {
+                "catalyst": "HAP",
+                "metal": ""
+            },
+            {
+                "catalyst": "Cu-HAP",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "0.1Cu-HAP",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "0.5Cu-HAP",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "2.5Cu-HAP",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "5Cu-HAP",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "Cu/BN",
+                "metal": "Cu"
+            }
+        ]
     },
     {
-      "catalyst": "2ZrO2/SiO2",
-      "metal": "Zr"
+        "paper": "022CAT",
+        "title": "Ethanol to distillate-range molecules using Cu/MgxAlOy catalysts with low Cu loadings",
+        "catalysts": [
+            {
+                "catalyst": "0CuMMO",
+                "metal": ""
+            },
+            {
+                "catalyst": "0.1CuMMO",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "0.3CuMMO(vl)",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "0.3CuMMO(l)",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "0.3CuMMO(m)",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "0.3CuMMO(h)",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "0.3CuMMO(i)",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "1.2CuMMO",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "0.1CuMMO(pm)",
+                "metal": "Cu"
+            }
+        ]
     },
     {
-      "catalyst": "4ZrO2/SiO2",
-      "metal": "Zr"
+        "paper": "023CAT",
+        "title": "Catalytic synthesis of distillate-range ethers and olefins from ethanol through Guerbet coupling and etherification",
+        "catalysts": [
+            {
+                "catalyst": "HAP",
+                "metal": ""
+            },
+            {
+                "catalyst": "Calcium Hydroxyapatite",
+                "metal": ""
+            },
+            {
+                "catalyst": "Amberlyst 70",
+                "metal": ""
+            }
+        ]
     },
     {
-      "catalyst": "8ZrO2/SiO2",
-      "metal": "Zr"
+        "paper": "024CAT",
+        "title": "Highly Selective and Stable Cu Catalysts Based on Ni–Al Catalytic Systems for Bioethanol Upgrading to n-Butanol",
+        "catalysts": [
+            {
+                "catalyst": "Cu/Al2O3",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "Cu/NiO",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "Cu/Ni3AlOx",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "Cu/Ni1AlOx",
+                "metal": "Cu"
+            }
+        ]
     },
     {
-      "catalyst": "16ZrO2/SiO2",
-      "metal": "Zr"
+        "paper": "025CAT",
+        "title": "The selective ethanol Guerbet condensation over alkali metal-doped sepiolite",
+        "catalysts": [
+            {
+                "catalyst": "MgO",
+                "metal": ""
+            },
+            {
+                "catalyst": "2Na/Sep@500",
+                "metal": "Na"
+            },
+            {
+                "catalyst": "5Na/Sep@500",
+                "metal": "Na"
+            },
+            {
+                "catalyst": "2Na/Sep@700",
+                "metal": "Na"
+            },
+            {
+                "catalyst": "5Na/Sep@700",
+                "metal": "Na"
+            },
+            {
+                "catalyst": "2K/Sep@500",
+                "metal": "K"
+            },
+            {
+                "catalyst": "5K/Sep@500",
+                "metal": "K"
+            },
+            {
+                "catalyst": "2Cs/Sep@500",
+                "metal": "Cs"
+            },
+            {
+                "catalyst": "4Cs/Sep@500",
+                "metal": "Cs"
+            },
+            {
+                "catalyst": "7Cs/Sep@500",
+                "metal": "Cs"
+            },
+            {
+                "catalyst": "14Cs/Sep@500",
+                "metal": "Cs"
+            }
+        ]
     },
     {
-      "catalyst": "20ZrO2/SiO2",
-      "metal": "Zr"
+        "paper": "026CAT",
+        "title": "Catalytic upgrading of ethanol to n-butanol over a novel Ca-Fe modified mixed oxide Mg-Al catalyst from hydrotalcite-base precursor",
+        "catalysts": [
+            {
+                "catalyst": "MgAl-Ox",
+                "metal": ""
+            },
+            {
+                "catalyst": "Ca20Fe20MgAl-Ox",
+                "metal": "Ca,Fe"
+            }
+        ]
     },
     {
-      "catalyst": "1Ag/4ZrO2/SiO2",
-      "metal": "Ag,Zr"
+        "paper": "027CAT",
+        "title": "Catalytic upgrading of ethanol to higher alcohols over ordered mesoporous Cu-La-Al composite metal oxides",
+        "catalysts": [
+            {
+                "catalyst": "OMA",
+                "metal": ""
+            },
+            {
+                "catalyst": "OM-Cu4Al100",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "OM-La2.6Al100",
+                "metal": "La"
+            },
+            {
+                "catalyst": "OM-Cu0.8La2.6Al100",
+                "metal": "Cu,La"
+            },
+            {
+                "catalyst": "OM-Cu4La2.6Al100",
+                "metal": "Cu,La"
+            },
+            {
+                "catalyst": "OM-Cu6.3La2.6Al100",
+                "metal": "Cu,La"
+            },
+            {
+                "catalyst": "CuAl2O4",
+                "metal": "Cu"
+            }
+        ]
     },
     {
-      "catalyst": "ZrO2(M)",
-      "metal": "Zr"
+        "paper": "033CAT",
+        "title": "Bifunctional Condensation Reactions of Alcohols on Basic Oxides Modified by Copper and Potassium",
+        "catalysts": [
+            {
+                "catalyst": "Mg5CeOx",
+                "metal": ""
+            },
+            {
+                "catalyst": "Cu0.5Mg5CeOx",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "Cu7.5Mg5CeOx",
+                "metal": "Cu"
+            },
+            {
+                "catalyst": "K-Cu0.5Mg5CeOx",
+                "metal": "Cu,K"
+            },
+            {
+                "catalyst": "K-Cu7.5Mg5CeOx",
+                "metal": "Cu,K"
+            }
+        ]
     },
     {
-      "catalyst": "ZrO2(M+T)",
-      "metal": "Zr"
+        "paper": "037CAT",
+        "title": "Structural Requirements and Reaction Pathways in Condensation Reactions of Alcohols on MgyAlOx Catalysts",
+        "catalysts": [
+            {
+                "catalyst": "MgO",
+                "metal": ""
+            },
+            {
+                "catalyst": "Mg9AlOx",
+                "metal": ""
+            },
+            {
+                "catalyst": "Mg5AlOx",
+                "metal": ""
+            },
+            {
+                "catalyst": "Mg1AlOx",
+                "metal": ""
+            },
+            {
+                "catalyst": "Mg0.5AlOx",
+                "metal": ""
+            },
+            {
+                "catalyst": "Al2O3",
+                "metal": ""
+            }
+        ]
+    },
+    {
+        "paper": "007CAT",
+        "title": "",
+        "catalysts": [
+            {
+                "catalyst": "Calcined Mg-Al hydrotalcite",
+                "metal": "Mg,Al"
+            },
+            {
+                "catalyst": "Al2O3",
+                "metal": "Al"
+            },
+            {
+                "catalyst": "SiO2-Al2O3",
+                "metal": "Si,Al"
+            },
+            {
+                "catalyst": "H-FER",
+                "metal": "Si,Al"
+            },
+            {
+                "catalyst": "H-ZSM-5",
+                "metal": "Si,Al"
+            },
+            {
+                "catalyst": "USY",
+                "metal": "Si,Al"
+            }
+        ]
+    },
+    {
+        "paper": "016CAT",
+        "title": "From Sugars to Wheels: The Conversion of Ethanol to 1,3-Butadiene over Metal-Promoted Magnesia-Silicate Catalysts",
+        "catalysts": [
+            {
+                "catalyst": "10%MgO-SiO2",
+                "metal": "Mg"
+            },
+            {
+                "catalyst": "30%MgO-SiO2",
+                "metal": "Mg"
+            },
+            {
+                "catalyst": "50%MgO-SiO2",
+                "metal": "Mg"
+            },
+            {
+                "catalyst": "80%MgO-SiO2",
+                "metal": "Mg"
+            },
+            {
+                "catalyst": "Au/10%MgO-SiO2",
+                "metal": "Au"
+            },
+            {
+                "catalyst": "Au/30%MgO-SiO2",
+                "metal": "Au"
+            },
+            {
+                "catalyst": "Au/50%MgO-SiO2",
+                "metal": "Au"
+            },
+            {
+                "catalyst": "Au/80%MgO-SiO2",
+                "metal": "Au"
+            },
+            {
+                "catalyst": "Au/SiO2",
+                "metal": "Au"
+            },
+            {
+                "catalyst": "Au/MgO",
+                "metal": "Au"
+            }
+        ]
+    },
+    {
+        "paper": "017CAT",
+        "title": "Calcium Phosphate Catalysts for Ethanol Coupling to Butanol and Butadiene",
+        "catalysts": [
+            {
+                "catalyst": "CaHAP",
+                "metal": ""
+            },
+            {
+                "catalyst": "CaP untreated",
+                "metal": ""
+            },
+            {
+                "catalyst": "CaP 873K",
+                "metal": ""
+            },
+            {
+                "catalyst": "CaP 923K",
+                "metal": ""
+            },
+            {
+                "catalyst": "CaP 973K",
+                "metal": ""
+            },
+            {
+                "catalyst": "CaP 1073K",
+                "metal": ""
+            },
+            {
+                "catalyst": "CaP 1173K",
+                "metal": ""
+            },
+            {
+                "catalyst": "CaP/SiO2",
+                "metal": ""
+            },
+            {
+                "catalyst": "CaP/ZrO2",
+                "metal": "Zr"
+            },
+            {
+                "catalyst": "MgO/SiO2",
+                "metal": "Mg"
+            },
+            {
+                "catalyst": "MgO",
+                "metal": "Mg"
+            },
+            {
+                "catalyst": "Syn-SiO2",
+                "metal": ""
+            },
+            {
+                "catalyst": "ZrO2",
+                "metal": "Zr"
+            }
+        ]
+    },
+    {
+        "paper": "010CAT",
+        "title": "Structure and Surface and Catalytic Properties of Mg-Al Basic Oxides",
+        "catalysts": [
+            {
+                "catalyst": "MgO",
+                "metal": "Mg"
+            },
+            {
+                "catalyst": "CHT1",
+                "metal": "Mg,Al"
+            },
+            {
+                "catalyst": "CHT2",
+                "metal": "Mg,Al"
+            },
+            {
+                "catalyst": "CHT3",
+                "metal": "Mg,Al"
+            },
+            {
+                "catalyst": "CHT4",
+                "metal": "Mg,Al"
+            },
+            {
+                "catalyst": "CHT5",
+                "metal": "Mg,Al"
+            },
+            {
+                "catalyst": "Al2O3",
+                "metal": "Al"
+            }
+        ]
+    },
+    {
+        "paper": "011CAT",
+        "title": "Effect of MgO activation conditions on its catalytic properties for base-catalyzed reactions",
+        "catalysts": [
+            {
+                "catalyst": "MgO-673",
+                "metal": "Mg"
+            },
+            {
+                "catalyst": "MgO-773",
+                "metal": "Mg"
+            },
+            {
+                "catalyst": "MgO-873",
+                "metal": "Mg"
+            }
+        ]
     }
-  ]
-},
-{
-  "paper": "021CAT",
-  "title": "Enhancing Ethanol Coupling to Produce Higher Alcohols by Tuning H2 Partial Pressure over a Copper-Hydroxyapatite Catalyst",
-  "catalysts": [
-    {
-      "catalyst": "HAP",
-      "metal": ""
-    },
-    {
-      "catalyst": "Cu-HAP",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "0.1Cu-HAP",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "0.5Cu-HAP",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "2.5Cu-HAP",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "5Cu-HAP",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "Cu/BN",
-      "metal": "Cu"
-    }
-  ]
-},
-{
-  "paper": "022CAT",
-  "title": "Ethanol to distillate-range molecules using Cu/MgxAlOy catalysts with low Cu loadings",
-  "catalysts": [
-    {
-      "catalyst": "0CuMMO",
-      "metal": ""
-    },
-    {
-      "catalyst": "0.1CuMMO",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "0.3CuMMO(vl)",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "0.3CuMMO(l)",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "0.3CuMMO(m)",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "0.3CuMMO(h)",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "0.3CuMMO(i)",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "1.2CuMMO",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "0.1CuMMO(pm)",
-      "metal": "Cu"
-    }
-  ]
-},
-{
-  "paper": "023CAT",
-  "title": "Catalytic synthesis of distillate-range ethers and olefins from ethanol through Guerbet coupling and etherification",
-  "catalysts": [
-    {
-      "catalyst": "HAP",
-      "metal": ""
-    },
-    {
-      "catalyst": "Calcium Hydroxyapatite",
-      "metal": ""
-    },
-    {
-      "catalyst": "Amberlyst 70",
-      "metal": ""
-    }
-  ]
-},
-{
-  "paper": "024CAT",
-  "title": "Highly Selective and Stable Cu Catalysts Based on Ni–Al Catalytic Systems for Bioethanol Upgrading to n-Butanol",
-  "catalysts": [
-    {
-      "catalyst": "Cu/Al2O3",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "Cu/NiO",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "Cu/Ni3AlOx",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "Cu/Ni1AlOx",
-      "metal": "Cu"
-    }
-  ]
-},
-{
-  "paper": "025CAT",
-  "title": "The selective ethanol Guerbet condensation over alkali metal-doped sepiolite",
-  "catalysts": [
-    {
-      "catalyst": "MgO",
-      "metal": ""
-    },
-    {
-      "catalyst": "2Na/Sep@500",
-      "metal": "Na"
-    },
-    {
-      "catalyst": "5Na/Sep@500",
-      "metal": "Na"
-    },
-    {
-      "catalyst": "2Na/Sep@700",
-      "metal": "Na"
-    },
-    {
-      "catalyst": "5Na/Sep@700",
-      "metal": "Na"
-    },
-    {
-      "catalyst": "2K/Sep@500",
-      "metal": "K"
-    },
-    {
-      "catalyst": "5K/Sep@500",
-      "metal": "K"
-    },
-    {
-      "catalyst": "2Cs/Sep@500",
-      "metal": "Cs"
-    },
-    {
-      "catalyst": "4Cs/Sep@500",
-      "metal": "Cs"
-    },
-    {
-      "catalyst": "7Cs/Sep@500",
-      "metal": "Cs"
-    },
-    {
-      "catalyst": "14Cs/Sep@500",
-      "metal": "Cs"
-    }
-  ]
-},
-{
-  "paper": "026CAT",
-  "title": "Catalytic upgrading of ethanol to n-butanol over a novel Ca-Fe modified mixed oxide Mg-Al catalyst from hydrotalcite-base precursor",
-  "catalysts": [
-    {
-      "catalyst": "MgAl-Ox",
-      "metal": ""
-    },
-    {
-      "catalyst": "Ca20Fe20MgAl-Ox",
-      "metal": "Ca,Fe"
-    }
-  ]
-},
-{
-  "paper": "027CAT",
-  "title": "Catalytic upgrading of ethanol to higher alcohols over ordered mesoporous Cu-La-Al composite metal oxides",
-  "catalysts": [
-    {
-      "catalyst": "OMA",
-      "metal": ""
-    },
-    {
-      "catalyst": "OM-Cu4Al100",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "OM-La2.6Al100",
-      "metal": "La"
-    },
-    {
-      "catalyst": "OM-Cu0.8La2.6Al100",
-      "metal": "Cu,La"
-    },
-    {
-      "catalyst": "OM-Cu4La2.6Al100",
-      "metal": "Cu,La"
-    },
-    {
-      "catalyst": "OM-Cu6.3La2.6Al100",
-      "metal": "Cu,La"
-    },
-    {
-      "catalyst": "CuAl2O4",
-      "metal": "Cu"
-    }
-  ]
-},
-{
-  "paper": "033CAT",
-  "title": "Bifunctional Condensation Reactions of Alcohols on Basic Oxides Modified by Copper and Potassium",
-  "catalysts": [
-    {
-      "catalyst": "Mg5CeOx",
-      "metal": ""
-    },
-    {
-      "catalyst": "Cu0.5Mg5CeOx",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "Cu7.5Mg5CeOx",
-      "metal": "Cu"
-    },
-    {
-      "catalyst": "K-Cu0.5Mg5CeOx",
-      "metal": "Cu,K"
-    },
-    {
-      "catalyst": "K-Cu7.5Mg5CeOx",
-      "metal": "Cu,K"
-    }
-  ]
-},
-{
-  "paper": "037CAT",
-  "title": "Structural Requirements and Reaction Pathways in Condensation Reactions of Alcohols on MgyAlOx Catalysts",
-  "catalysts": [
-    {
-      "catalyst": "MgO",
-      "metal": ""
-    },
-    {
-      "catalyst": "Mg9AlOx",
-      "metal": ""
-    },
-    {
-      "catalyst": "Mg5AlOx",
-      "metal": ""
-    },
-    {
-      "catalyst": "Mg1AlOx",
-      "metal": ""
-    },
-    {
-      "catalyst": "Mg0.5AlOx",
-      "metal": ""
-    },
-    {
-      "catalyst": "Al2O3",
-      "metal": ""
-    }
-  ]
-},
-{
-  "paper": "007CAT",
-  "catalysts": [
-    {
-      "name": "Calcined hydrotalcite (MgO/Al2O3 70:30 wt%)",
-      "normalized_name": "Calcined Mg-Al hydrotalcite",
-      "metal": ["Mg", "Al"]
-    },
-    {
-      "name": "Alumina (Al2O3)",
-      "normalized_name": "Al2O3",
-      "metal": ["Al"]
-    },
-    {
-      "name": "Silica-alumina (SiO2-Al2O3)",
-      "normalized_name": "SiO2-Al2O3",
-      "metal": ["Si", "Al"]
-    },
-    {
-      "name": "H-Ferrierite",
-      "normalized_name": "H-FER",
-      "metal": ["Si", "Al"]
-    },
-    {
-      "name": "H-ZSM-5",
-      "normalized_name": "H-ZSM-5",
-      "metal": ["Si", "Al"]
-    },
-    {
-      "name": "USY (Ultra Stable Y Zeolite)",
-      "normalized_name": "USY",
-      "metal": ["Si", "Al"]
-    }
-  ]
-},
-{
-  "paper": "016CAT",
-  "title": "From Sugars to Wheels: The Conversion of Ethanol to 1,3-Butadiene over Metal-Promoted Magnesia-Silicate Catalysts",
-  "catalysts": [
-    {
-      "catalyst": "10%MgO-SiO2",
-      "metal": "Mg"
-    },
-    {
-      "catalyst": "30%MgO-SiO2",
-      "metal": "Mg"
-    },
-    {
-      "catalyst": "50%MgO-SiO2",
-      "metal": "Mg"
-    },
-    {
-      "catalyst": "80%MgO-SiO2",
-      "metal": "Mg"
-    },
-    {
-      "catalyst": "Au/10%MgO-SiO2",
-      "metal": "Au"
-    },
-    {
-      "catalyst": "Au/30%MgO-SiO2",
-      "metal": "Au"
-    },
-    {
-      "catalyst": "Au/50%MgO-SiO2",
-      "metal": "Au"
-    },
-    {
-      "catalyst": "Au/80%MgO-SiO2",
-      "metal": "Au"
-    },
-    {
-      "catalyst": "Au/SiO2",
-      "metal": "Au"
-    },
-    {
-      "catalyst": "Au/MgO",
-      "metal": "Au"
-    }
-  ]
-},
-{
-  "paper": "017CAT",
-  "title": "Calcium Phosphate Catalysts for Ethanol Coupling to Butanol and Butadiene",
-  "catalysts": [
-    {
-      "catalyst": "CaHAP",
-      "metal": ""
-    },
-    {
-      "catalyst": "CaP untreated",
-      "metal": ""
-    },
-    {
-      "catalyst": "CaP 873K",
-      "metal": ""
-    },
-    {
-      "catalyst": "CaP 923K",
-      "metal": ""
-    },
-    {
-      "catalyst": "CaP 973K",
-      "metal": ""
-    },
-    {
-      "catalyst": "CaP 1073K",
-      "metal": ""
-    },
-    {
-      "catalyst": "CaP 1173K",
-      "metal": ""
-    },
-    {
-      "catalyst": "CaP/SiO2",
-      "metal": ""
-    },
-    {
-      "catalyst": "CaP/ZrO2",
-      "metal": "Zr"
-    },
-    {
-      "catalyst": "MgO/SiO2",
-      "metal": "Mg"
-    },
-    {
-      "catalyst": "MgO",
-      "metal": "Mg"
-    },
-    {
-      "catalyst": "Syn-SiO2",
-      "metal": ""
-    },
-    {
-      "catalyst": "ZrO2",
-      "metal": "Zr"
-    }
-  ]
-},
-{
-  "paper": "010CAT",
-  "title": "Structure and Surface and Catalytic Properties of Mg-Al Basic Oxides",
-  "catalysts": [
-    {
-      "catalyst": "MgO",
-      "metal": "Mg"
-    },
-    {
-      "catalyst": "CHT1",
-      "metal": "Mg,Al"
-    },
-    {
-      "catalyst": "CHT2",
-      "metal": "Mg,Al"
-    },
-    {
-      "catalyst": "CHT3",
-      "metal": "Mg,Al"
-    },
-    {
-      "catalyst": "CHT4",
-      "metal": "Mg,Al"
-    },
-    {
-      "catalyst": "CHT5",
-      "metal": "Mg,Al"
-    },
-    {
-      "catalyst": "Al2O3",
-      "metal": "Al"
-    }
-  ]
-},
-{
-  "paper": "011CAT",
-  "title": "Effect of MgO activation conditions on its catalytic properties for base-catalyzed reactions",
-  "catalysts": [
-    {
-      "catalyst": "MgO-673",
-      "metal": "Mg"
-    },
-    {
-      "catalyst": "MgO-773",
-      "metal": "Mg"
-    },
-    {
-      "catalyst": "MgO-873",
-      "metal": "Mg"
-    }
-  ]
-}
 ]

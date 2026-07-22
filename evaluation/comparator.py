@@ -1,451 +1,152 @@
-from normalization import (
-    normalize,
-    normalize_list
-)
+"""
+evaluation/comparator.py
 
-from evaluation.similarity import (
-    SIMILARITY_THRESHOLD,
-    match_entities,
-    best_similarity,
-    optional_text_similarity,
-    optional_list_similarity,
-    is_match
-)
+Comparator V2
+"""
 
-from evaluation.metrics import (
-    build_summary
-)
+from rapidfuzz import fuzz
+
+SIMILARITY_THRESHOLD = 80
 
 
-# =====================================================
-# GROUND TRUTH
-# =====================================================
-
-def build_truth_dict(ground_truth):
-
-    truth_dict = {}
-
-    for item in ground_truth:
-
-        truth_dict[item["paper"]] = item
-
-    return truth_dict
-
-
-# =====================================================
-# COMPARATOR
-# =====================================================
-
-def compare(dataset, ground_truth):
-
-    truth_dict = build_truth_dict(
-        ground_truth
+def normalize(text):
+    if text is None:
+        return ""
+    return (
+        str(text)
+        .lower()
+        .replace("-", "")
+        .replace("_", "")
+        .replace("/", "")
+        .replace(" ", "")
+        .strip()
     )
 
-    # ==========================================
-    # ARTICLE LEVEL
-    # ==========================================
 
-    gpt_catalyst_hits = 0
-    claude_catalyst_hits = 0
+def extract_gt_names(gt):
+    names = []
 
-    gpt_metal_hits = 0
-    claude_metal_hits = 0
+    for item in gt.get("catalysts", []):
 
-    gpt_support_hits = 0
-    claude_support_hits = 0
+        if isinstance(item, str):
+            names.append(item)
 
-    # ==========================================
-    # ENTITY LEVEL - GPT
-    # (Precision / Recall / F1)
-    # ==========================================
+        elif isinstance(item, dict):
 
-    gpt_catalyst_tp = 0
-    gpt_catalyst_fp = 0
-    gpt_catalyst_fn = 0
+            if item.get("catalyst"):
+                names.append(item["catalyst"])
 
-    gpt_metal_tp = 0
-    gpt_metal_fp = 0
-    gpt_metal_fn = 0
+            elif item.get("normalized_name"):
+                names.append(item["normalized_name"])
 
-    gpt_support_tp = 0
-    gpt_support_fp = 0
-    gpt_support_fn = 0
+            elif item.get("name"):
+                names.append(item["name"])
 
-    # ==========================================
-    # ENTITY LEVEL - CLAUDE
-    # (Precision / Recall / F1)
-    # ==========================================
+    return names
 
-    claude_catalyst_tp = 0
-    claude_catalyst_fp = 0
-    claude_catalyst_fn = 0
 
-    claude_metal_tp = 0
-    claude_metal_fp = 0
-    claude_metal_fn = 0
+def best_match(pred, gt_list, used):
 
-    claude_support_tp = 0
-    claude_support_fp = 0
-    claude_support_fn = 0
+    best_index = None
+    best_score = -1
 
-    # ==========================================
+    for i, gt in enumerate(gt_list):
 
-    results = []
-
-    # ==========================================
-
-    for item in dataset:
-
-        paper = item["paper"]
-
-        truth = truth_dict.get(
-            paper
-        )
-
-        if truth is None:
+        if i in used:
             continue
 
-        # ======================================
-        # GROUND TRUTH
-        # ======================================
-
-        expected_catalysts = normalize_list(
-            truth["expected_catalysts"]
+        score = fuzz.ratio(
+            normalize(pred),
+            normalize(gt)
         )
 
-        expected_metal = normalize_list(
-            truth["expected_metal"]
-        )
+        if score > best_score:
+            best_score = score
+            best_index = i
 
-        expected_support = normalize(
-            truth["expected_support"]
-        )
-        # =====================================================
-        # GPT - CATALYST
-        # =====================================================
+    return best_index, best_score
 
-        gpt_catalyst = normalize_list(
-            item["gpt"]["catalyst"]["catalysts"]
-        )
 
-        gpt_stats = match_entities(
-            predicted=gpt_catalyst,
-            expected=expected_catalysts
-        )
+def compare(predictions, ground_truth):
 
-        gpt_catalyst_tp += gpt_stats["tp"]
-        gpt_catalyst_fp += gpt_stats["fp"]
-        gpt_catalyst_fn += gpt_stats["fn"]
-
-        gpt_score = best_similarity(
-            gpt_catalyst,
-            expected_catalysts
-        )
-
-        gpt_match = is_match(
-            gpt_score
-        )
-
-        if gpt_match:
-            gpt_catalyst_hits += 1
-
-
-        # =====================================================
-        # CLAUDE - CATALYST
-        # =====================================================
-
-        claude_catalyst = normalize_list(
-            item["claude"]["catalyst"]["catalysts"]
-        )
-
-        claude_stats = match_entities(
-            predicted=claude_catalyst,
-            expected=expected_catalysts
-        )
-
-        claude_catalyst_tp += claude_stats["tp"]
-        claude_catalyst_fp += claude_stats["fp"]
-        claude_catalyst_fn += claude_stats["fn"]
-
-        claude_score = best_similarity(
-            claude_catalyst,
-            expected_catalysts
-        )
-
-        claude_match = is_match(
-            claude_score
-        )
-
-        if claude_match:
-            claude_catalyst_hits += 1
-        # =====================================================
-        # GPT - METAL
-        # =====================================================
-
-        gpt_metal = normalize_list(
-            item["gpt"]["metal_support"]["metal"]
-        )
-
-        gpt_metal_stats = match_entities(
-            predicted=gpt_metal,
-            expected=expected_metal
-        )
-
-        gpt_metal_tp += gpt_metal_stats["tp"]
-        gpt_metal_fp += gpt_metal_stats["fp"]
-        gpt_metal_fn += gpt_metal_stats["fn"]
-
-        gpt_metal_score = optional_list_similarity(
-            gpt_metal,
-            expected_metal
-        )
-
-        gpt_metal_match = is_match(
-            gpt_metal_score
-        )
-
-        if gpt_metal_match:
-            gpt_metal_hits += 1
-
-
-        # =====================================================
-        # CLAUDE - METAL
-        # =====================================================
-
-        claude_metal = normalize_list(
-            item["claude"]["metal_support"]["metal"]
-        )
-
-        claude_metal_stats = match_entities(
-            predicted=claude_metal,
-            expected=expected_metal
-        )
-
-        claude_metal_tp += claude_metal_stats["tp"]
-        claude_metal_fp += claude_metal_stats["fp"]
-        claude_metal_fn += claude_metal_stats["fn"]
-
-        claude_metal_score = optional_list_similarity(
-            claude_metal,
-            expected_metal
-        )
-
-        claude_metal_match = is_match(
-            claude_metal_score
-        )
-
-        if claude_metal_match:
-            claude_metal_hits += 1
-
-
-        # =====================================================
-        # GPT - SUPPORT
-        # =====================================================
-
-        gpt_support = normalize(
-            item["gpt"]["metal_support"]["support"]
-        )
-
-        gpt_support_stats = match_entities(
-            predicted=[gpt_support] if gpt_support else [],
-            expected=[expected_support] if expected_support else []
-        )
-
-        gpt_support_tp += gpt_support_stats["tp"]
-        gpt_support_fp += gpt_support_stats["fp"]
-        gpt_support_fn += gpt_support_stats["fn"]
-
-        gpt_support_score = optional_text_similarity(
-            gpt_support,
-            expected_support
-        )
-
-        gpt_support_match = is_match(
-            gpt_support_score
-        )
-
-        if gpt_support_match:
-            gpt_support_hits += 1
-
-
-        # =====================================================
-        # CLAUDE - SUPPORT
-        # =====================================================
-
-        claude_support = normalize(
-            item["claude"]["metal_support"]["support"]
-        )
-
-        claude_support_stats = match_entities(
-            predicted=[claude_support] if claude_support else [],
-            expected=[expected_support] if expected_support else []
-        )
-
-        claude_support_tp += claude_support_stats["tp"]
-        claude_support_fp += claude_support_stats["fp"]
-        claude_support_fn += claude_support_stats["fn"]
-
-        claude_support_score = optional_text_similarity(
-            claude_support,
-            expected_support
-        )
-
-        claude_support_match = is_match(
-            claude_support_score
-        )
-
-        if claude_support_match:
-            claude_support_hits += 1
-
-
-        # =====================================================
-        # RESULTADOS DO PAPER
-        # =====================================================
-
-        results.append({
-
-            "paper": paper,
-
-            # ----------------------------------
-            # Catalyst
-            # ----------------------------------
-
-            "gpt_catalyst_similarity":
-                round(gpt_score, 2),
-
-            "gpt_catalyst_match":
-                gpt_match,
-
-            "claude_catalyst_similarity":
-                round(claude_score, 2),
-
-            "claude_catalyst_match":
-                claude_match,
-
-            # ----------------------------------
-            # Metal
-            # ----------------------------------
-
-            "gpt_metal_similarity":
-                round(gpt_metal_score, 2),
-
-            "gpt_metal_match":
-                gpt_metal_match,
-
-            "claude_metal_similarity":
-                round(claude_metal_score, 2),
-
-            "claude_metal_match":
-                claude_metal_match,
-
-            # ----------------------------------
-            # Support
-            # ----------------------------------
-
-            "gpt_support_similarity":
-                round(gpt_support_score, 2),
-
-            "gpt_support_match":
-                gpt_support_match,
-
-            "claude_support_similarity":
-                round(claude_support_score, 2),
-
-            "claude_support_match":
-                claude_support_match
-
-        })
-    # ==========================================
-    # SUMMARY
-    # ==========================================
-
-    total = len(results)
-
-    metrics = {
-
-        "gpt": {
-
-            "catalyst": {
-
-                "hits": gpt_catalyst_hits,
-
-                "tp": gpt_catalyst_tp,
-                "fp": gpt_catalyst_fp,
-                "fn": gpt_catalyst_fn
-
-            },
-
-            "metal": {
-
-                "hits": gpt_metal_hits,
-
-                "tp": gpt_metal_tp,
-                "fp": gpt_metal_fp,
-                "fn": gpt_metal_fn
-
-            },
-
-            "support": {
-
-                "hits": gpt_support_hits,
-
-                "tp": gpt_support_tp,
-                "fp": gpt_support_fp,
-                "fn": gpt_support_fn
-
-            }
-
-        },
-
-        "claude": {
-
-            "catalyst": {
-
-                "hits": claude_catalyst_hits,
-
-                "tp": claude_catalyst_tp,
-                "fp": claude_catalyst_fp,
-                "fn": claude_catalyst_fn
-
-            },
-
-            "metal": {
-
-                "hits": claude_metal_hits,
-
-                "tp": claude_metal_tp,
-                "fp": claude_metal_fp,
-                "fn": claude_metal_fn
-
-            },
-
-            "support": {
-
-                "hits": claude_support_hits,
-
-                "tp": claude_support_tp,
-                "fp": claude_support_fp,
-                "fn": claude_support_fn
-
-            }
-
-        }
-
+    gt_dict = {
+        normalize(item["paper"]): item
+        for item in ground_truth
     }
 
-    summary = build_summary(
+    total_tp = total_fp = total_fn = 0
+    results = []
 
-        total=total,
+    for pred in predictions:
 
-        threshold=SIMILARITY_THRESHOLD,
+        paper = normalize(pred["paper"])
 
-        metrics=metrics
+        if paper not in gt_dict:
+            print(f"Skipping {pred['paper']} (no ground truth)")
+            continue
 
+        gt = gt_dict[paper]
+
+        pred_names = pred.get("catalysts", [])
+        gt_names = extract_gt_names(gt)
+
+        used = set()
+        tp = 0
+
+        for p in pred_names:
+
+            idx, score = best_match(p, gt_names, used)
+
+            if idx is not None and score >= SIMILARITY_THRESHOLD:
+                tp += 1
+                used.add(idx)
+
+        fp = max(0, len(pred_names) - tp)
+        fn = max(0, len(gt_names) - tp)
+
+        total_tp += tp
+        total_fp += fp
+        total_fn += fn
+
+        precision = tp / (tp + fp) if tp + fp else 0
+        recall = tp / (tp + fn) if tp + fn else 0
+        f1 = (
+            2 * precision * recall / (precision + recall)
+            if precision + recall else 0
+        )
+
+        accuracy = tp / len(gt_names) if gt_names else 0
+
+        results.append({
+            "paper": pred["paper"],
+            "tp": tp,
+            "fp": fp,
+            "fn": fn,
+            "accuracy": round(accuracy * 100, 2),
+            "precision": round(precision * 100, 2),
+            "recall": round(recall * 100, 2),
+            "f1": round(f1 * 100, 2)
+        })
+
+    precision = total_tp / (total_tp + total_fp) if total_tp + total_fp else 0
+    recall = total_tp / (total_tp + total_fn) if total_tp + total_fn else 0
+    f1 = (
+        2 * precision * recall / (precision + recall)
+        if precision + recall else 0
     )
 
-    # ==========================================
-    # RETURN
-    # ==========================================
+    total_gt = total_tp + total_fn
+    accuracy = total_tp / total_gt if total_gt else 0
+
+    summary = {
+        "total_papers": len(results),
+        "similarity_threshold": SIMILARITY_THRESHOLD,
+        "catalyst": {
+            "accuracy": round(accuracy * 100, 2),
+            "precision": round(precision * 100, 2),
+            "recall": round(recall * 100, 2),
+            "f1": round(f1 * 100, 2)
+        }
+    }
 
     return summary, results

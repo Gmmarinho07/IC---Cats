@@ -1,19 +1,31 @@
 import json
+from pathlib import Path
 
 from evaluation.comparator import compare
 
 
 # =====================================================
-# CARREGAR DATASET
+# CARREGAR RESULTADOS DOS AGENTES
 # =====================================================
 
-with open(
-    "benchmark/dataset.json",
-    "r",
-    encoding="utf-8"
-) as f:
+results_folder = Path("benchmark/results")
 
-    dataset = json.load(f)
+predictions = []
+
+for file in sorted(results_folder.glob("*.json")):
+
+    with open(file, "r", encoding="utf-8") as f:
+
+        data = json.load(f)
+
+    predictions.append(
+        {
+            "paper": file.stem,
+            "catalysts": data.get("catalysts", [])
+        }
+    )
+
+print(f"\nLoaded {len(predictions)} prediction files.")
 
 
 # =====================================================
@@ -28,13 +40,26 @@ with open(
 
     ground_truth = json.load(f)
 
+print(f"Loaded {len(ground_truth)} ground truth entries.")
+
+
+# =====================================================
+# DEBUG (PODE REMOVER DEPOIS)
+# =====================================================
+
+print("\nExample prediction:")
+print(json.dumps(predictions[0], indent=4, ensure_ascii=False))
+
+print("\nExample ground truth:")
+print(json.dumps(ground_truth[0], indent=4, ensure_ascii=False))
+
 
 # =====================================================
 # EXECUTAR COMPARAÇÃO
 # =====================================================
 
 summary, results = compare(
-    dataset,
+    predictions,
     ground_truth
 )
 
@@ -44,11 +69,8 @@ summary, results = compare(
 # =====================================================
 
 comparison = {
-
     "summary": summary,
-
     "results": results
-
 }
 
 with open(
