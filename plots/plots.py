@@ -359,4 +359,3 @@ plot_radar(
     summary_df,
     plots_folder
 )
-,

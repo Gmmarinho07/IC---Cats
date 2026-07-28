@@ -631,5 +631,59 @@
                 "metal": "Mg"
             }
         ]
-    }
+    },
+    {
+    "paper": "014MCN",
+    "catalysts": [
+        {
+            "catalyst": "MgO",
+            "metal": "Mg",
+            "support": null
+        }
+    ]
+},
+{
+    "paper": "013MCN",
+    "expected_catalysts": [
+        "MgO"
+    ],
+    "expected_metal": [
+        "Mg"
+    ],
+    "expected_support": null
+},
+{
+    "paper": "029MCN",
+    "expected_catalysts": [
+        "MgO"
+    ],
+    "expected_metal": [
+        "Mg"
+    ],
+    "expected_support": null
+},
+{
+    "paper": "035MCN",
+    "expected_catalysts": [
+        "MgO/SiO2"
+    ],
+    "expected_metal": [
+        "Mg"
+    ],
+    "expected_support": [
+        "SiO2"
+    ]
+},
+{
+    "paper": "012MCN",
+    "expected_catalysts": [
+        "MgO"
+    ],
+    "expected_metal": [
+        "Mg"
+    ],
+    "expected_support": [
+        null
+    ]
+}
 ]

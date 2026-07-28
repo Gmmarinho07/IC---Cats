@@ -9,24 +9,28 @@ from evaluation.comparator import compare
 # LOAD PREDICTIONS
 # =====================================================
 
-results_folder = Path("benchmark/results")
+def load_predictions(results_folder):
 
-predictions = []
+    predictions = []
 
-for file in sorted(results_folder.glob("*.json")):
+    results_folder = Path(results_folder)
 
-    with open(file, "r", encoding="utf-8") as f:
+    for file in sorted(results_folder.glob("*.json")):
 
-        data = json.load(f)
+        with open(file, "r", encoding="utf-8") as f:
 
-    predictions.append(
-        {
-            "paper": file.stem,
-            "catalysts": data.get("catalysts", [])
-        }
-    )
+            data = json.load(f)
 
-print(f"\nLoaded {len(predictions)} prediction files.")
+        predictions.append(
+            {
+                "paper": file.stem,
+                "catalysts": data.get("catalysts", [])
+            }
+        )
+
+    print(f"Loaded {len(predictions)} prediction files from {results_folder}")
+
+    return predictions
 
 
 # =====================================================
@@ -48,191 +52,235 @@ print(f"Loaded {len(ground_truth)} ground truth entries.")
 # RUN COMPARATOR
 # =====================================================
 
-summary, results = compare(
-    predictions,
+gpt_predictions = load_predictions(
+    "benchmark/results/gpt"
+)
+
+claude_predictions = load_predictions(
+    "benchmark/results/claude"
+)
+gpt_summary, gpt_results = compare(
+    gpt_predictions,
     ground_truth
 )
 
-print(f"Compared {len(results)} papers successfully.")
+claude_summary, claude_results = compare(
+    claude_predictions,
+    ground_truth
+)
+
+print(f"Compared {len(gpt_results)} papers successfully.")
 
 
 # =====================================================
 # SAVE JSON
 # =====================================================
 
-comparison = {
-    "summary": summary,
-    "results": results
-}
+for model_name, summary, results in [
 
-with open(
-    "benchmark/comparison_results.json",
-    "w",
-    encoding="utf-8"
-) as f:
+    ("gpt", gpt_summary, gpt_results),
 
-    json.dump(
-        comparison,
-        f,
-        indent=4,
-        ensure_ascii=False
-    )
+    ("claude", claude_summary, claude_results)
 
+]:
 
+    comparison = {
+
+        "summary": summary,
+
+        "results": results
+
+    }
+
+    with open(
+
+        f"benchmark/comparison_{model_name}.json",
+
+        "w",
+
+        encoding="utf-8"
+
+    ) as f:
+
+        json.dump(
+
+            comparison,
+
+            f,
+
+            indent=4,
+
+            ensure_ascii=False
+
+        )
 # =====================================================
 # EXPORT METRICS CSV
 # =====================================================
 
-with open(
-    "benchmark/metrics.csv",
-    "w",
-    newline="",
-    encoding="utf-8"
-) as f:
+for model_name, results in [
 
-    writer = csv.writer(f)
+    ("gpt", gpt_results),
 
-    writer.writerow([
-        "paper",
-        "tp",
-        "fp",
-        "fn",
-        "predicted",
-        "expected",
-        "accuracy",
-        "precision",
-        "recall",
-        "f1"
-    ])
+    ("claude", claude_results)
 
-    for r in results:
+]:
+
+    with open(
+        f"benchmark/metrics_{model_name}.csv",
+        "w",
+        newline="",
+        encoding="utf-8"
+    ) as f:
+
+        writer = csv.writer(f)
 
         writer.writerow([
-
-            r["paper"],
-
-            r["tp"],
-
-            r["fp"],
-
-            r["fn"],
-
-            r["tp"] + r["fp"],
-
-            r["tp"] + r["fn"],
-
-            r["accuracy"],
-
-            r["precision"],
-
-            r["recall"],
-
-            r["f1"]
-
+            "paper",
+            "tp",
+            "fp",
+            "fn",
+            "predicted",
+            "expected",
+            "accuracy",
+            "precision",
+            "recall",
+            "f1"
         ])
 
+        for r in results:
+
+            writer.writerow([
+
+                r["paper"],
+
+                r["tp"],
+
+                r["fp"],
+
+                r["fn"],
+
+                r["tp"] + r["fp"],
+
+                r["tp"] + r["fn"],
+
+                r["accuracy"],
+
+                r["precision"],
+
+                r["recall"],
+
+                r["f1"]
+
+            ])
 
 # =====================================================
 # EXPORT SUMMARY CSV
 # =====================================================
 
-with open(
-    "benchmark/summary.csv",
-    "w",
-    newline="",
-    encoding="utf-8"
-) as f:
+for model_name, summary in [
 
-    writer = csv.writer(f)
+    ("gpt", gpt_summary),
 
-    writer.writerow([
-        "Metric",
-        "Value"
-    ])
+    ("claude", claude_summary)
 
-    writer.writerow([
-        "Total Papers",
-        summary["total_papers"]
-    ])
+]:
 
-    writer.writerow([
-        "Similarity Threshold",
-        summary["similarity_threshold"]
-    ])
+    with open(
+        f"benchmark/summary_{model_name}.csv",
+        "w",
+        newline="",
+        encoding="utf-8"
+    ) as f:
 
-    writer.writerow([])
+        writer = csv.writer(f)
 
-    # -------------------------
-    # MICRO AVERAGE
-    # -------------------------
+        writer.writerow([
+            "Metric",
+            "Value"
+        ])
 
-    writer.writerow([
-        "Micro Accuracy",
-        summary["micro_average"]["accuracy"]
-    ])
+        writer.writerow([
+            "Total Papers",
+            summary["total_papers"]
+        ])
 
-    writer.writerow([
-        "Micro Precision",
-        summary["micro_average"]["precision"]
-    ])
+        writer.writerow([
+            "Similarity Threshold",
+            summary["similarity_threshold"]
+        ])
 
-    writer.writerow([
-        "Micro Recall",
-        summary["micro_average"]["recall"]
-    ])
+        writer.writerow([])
 
-    writer.writerow([
-        "Micro F1",
-        summary["micro_average"]["f1"]
-    ])
+        # -------------------------
+        # MICRO AVERAGE
+        # -------------------------
 
-    writer.writerow([])
+        writer.writerow([
+            "Micro Accuracy",
+            summary["micro_average"]["accuracy"]
+        ])
 
-    # -------------------------
-    # MACRO AVERAGE
-    # -------------------------
+        writer.writerow([
+            "Micro Precision",
+            summary["micro_average"]["precision"]
+        ])
 
-    writer.writerow([
-        "Macro Accuracy",
-        summary["macro_average"]["accuracy"]
-    ])
+        writer.writerow([
+            "Micro Recall",
+            summary["micro_average"]["recall"]
+        ])
 
-    writer.writerow([
-        "Macro Precision",
-        summary["macro_average"]["precision"]
-    ])
+        writer.writerow([
+            "Micro F1",
+            summary["micro_average"]["f1"]
+        ])
 
-    writer.writerow([
-        "Macro Recall",
-        summary["macro_average"]["recall"]
-    ])
+        writer.writerow([])
 
-    writer.writerow([
-        "Macro F1",
-        summary["macro_average"]["f1"]
-    ])
+        # -------------------------
+        # MACRO AVERAGE
+        # -------------------------
 
-    writer.writerow([])
+        writer.writerow([
+            "Macro Accuracy",
+            summary["macro_average"]["accuracy"]
+        ])
 
-    # -------------------------
-    # CONFUSION
-    # -------------------------
+        writer.writerow([
+            "Macro Precision",
+            summary["macro_average"]["precision"]
+        ])
 
-    writer.writerow([
-        "True Positives",
-        summary["confusion"]["tp"]
-    ])
+        writer.writerow([
+            "Macro Recall",
+            summary["macro_average"]["recall"]
+        ])
 
-    writer.writerow([
-        "False Positives",
-        summary["confusion"]["fp"]
-    ])
+        writer.writerow([
+            "Macro F1",
+            summary["macro_average"]["f1"]
+        ])
 
-    writer.writerow([
-        "False Negatives",
-        summary["confusion"]["fn"]
-    ])
+        writer.writerow([])
 
+        # -------------------------
+        # CONFUSION
+        # -------------------------
+
+        writer.writerow([
+            "True Positives",
+            summary["confusion"]["tp"]
+        ])
+
+        writer.writerow([
+            "False Positives",
+            summary["confusion"]["fp"]
+        ])
+
+        writer.writerow([
+            "False Negatives",
+            summary["confusion"]["fn"]
+        ])
 
 # =====================================================
 # PRINT FINAL
@@ -244,7 +292,7 @@ print("==============================")
 
 print(
     json.dumps(
-        summary,
+        gpt_summary,
         indent=4,
         ensure_ascii=False
     )
@@ -252,6 +300,7 @@ print(
 
 print("\nGenerated files:")
 
-print("benchmark/comparison_results.json")
+print("benchmark/comparison_gpt.json")
+print("benchmark/comparison_claude.json")
 print("benchmark/metrics.csv")
 print("benchmark/summary.csv")
