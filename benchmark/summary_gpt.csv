@@ -1,0 +1,17 @@
+Metric,Value
+Total Papers,25
+Similarity Threshold,80
+
+Micro Accuracy,31.55
+Micro Precision,47.2
+Micro Recall,48.76
+Micro F1,47.97
+
+Macro Accuracy,35.27
+Macro Precision,56.15
+Macro Recall,48.0
+Macro F1,45.27
+
+True Positives,59
+False Positives,66
+False Negatives,62

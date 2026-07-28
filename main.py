@@ -7,6 +7,8 @@ Pipeline principal do IC-CATS
 import json
 import os
 
+from matplotlib.style import context
+
 from extractor import extract_text
 
 from preprocessing.section_extractor import extract_sections
@@ -33,8 +35,10 @@ PDF_FOLDER = "Papers"
 
 OUTPUT_FOLDER = "benchmark/results"
 
-MODEL = "gpt"
-# MODEL = "claude"
+MODELS = [
+    "gpt",
+    "claude"
+]
 
 SELECTION_POLICY = {
 
@@ -119,15 +123,21 @@ def process_pdf(pdf_path):
     # LLM
     # -------------------------------------------------
 
-    result = extract(
+    results = {}
 
-        context,
+    for model in MODELS:
 
-        MODEL
+        print(f"\nRunning {model.upper()}...")
 
-    )
+        results[model] = extract(
 
-    return result
+            context,
+
+            model
+
+        )
+
+    return results
 
 
 # =====================================================
@@ -170,41 +180,61 @@ def process_all():
 
         )
 
-        result = process_pdf(pdf_path)
+        # Executa TODOS os modelos
+        results = process_pdf(pdf_path)
 
-        output_path = os.path.join(
+        # Salva o resultado de cada modelo
+        for model, result in results.items():
 
-            OUTPUT_FOLDER,
+            model_folder = os.path.join(
 
-            pdf.replace(".pdf", ".json")
+                OUTPUT_FOLDER,
 
-        )
-
-        with open(
-
-            output_path,
-
-            "w",
-
-            encoding="utf-8"
-
-        ) as file:
-
-            json.dump(
-
-                result,
-
-                file,
-
-                indent=4,
-
-                ensure_ascii=False
+                model
 
             )
 
-        print(f"\nResultado salvo em:")
+            os.makedirs(
 
-        print(output_path)
+                model_folder,
+
+                exist_ok=True
+
+            )
+
+            output_path = os.path.join(
+
+                model_folder,
+
+                pdf.replace(".pdf", ".json")
+
+            )
+
+            with open(
+
+                output_path,
+
+                "w",
+
+                encoding="utf-8"
+
+            ) as file:
+
+                json.dump(
+
+                    result,
+
+                    file,
+
+                    indent=4,
+
+                    ensure_ascii=False
+
+                )
+
+            print(f"\nResultado {model.upper()} salvo em:")
+
+            print(output_path)
 
 
 # =====================================================
