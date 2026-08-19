@@ -78,46 +78,16 @@ def similarity(a, b):
 # =====================================================
 
 def extract_gt_names(gt):
+
     """
-    Extract catalyst names from Ground Truth.
-
-    Compatible with:
-
-    {
-        "catalysts":[
-            {
-                "catalyst":"..."
-            }
-        ]
-    }
+    Extract catalyst names from the standardized Ground Truth.
     """
 
-    names = []
-
-    for item in gt.get("catalysts", []):
-
-        if isinstance(item, str):
-
-            names.append(item)
-
-            continue
-
-        if not isinstance(item, dict):
-            continue
-
-        if item.get("catalyst"):
-
-            names.append(item["catalyst"])
-
-        elif item.get("normalized_name"):
-
-            names.append(item["normalized_name"])
-
-        elif item.get("name"):
-
-            names.append(item["name"])
-
-    return names
+    return [
+        item["catalyst"]
+        for item in gt.get("catalysts", [])
+        if item.get("catalyst")
+    ]
 
 
 # =====================================================
@@ -319,6 +289,19 @@ def compare(predictions, ground_truth):
 
         gt = gt_dict[paper]
 
+        # -----------------------------------------
+        # Skip articles excluded from benchmark
+        # -----------------------------------------
+
+        if gt.get("skip_benchmark", False):
+
+            print(
+                f"Skipping {prediction['paper']} "
+                "(excluded from benchmark)"
+            )
+
+            continue
+
         pred_names = prediction.get(
             "catalysts",
             []
@@ -326,16 +309,29 @@ def compare(predictions, ground_truth):
 
         gt_names = extract_gt_names(gt)
 
+        # -----------------------------------------
+        # Skip articles without valid ground truth
+        # -----------------------------------------
+
+        if not gt_names:
+
+            print(
+                f"Skipping {prediction['paper']} "
+                "(no catalysts in ground truth)"
+            )
+
+            continue
+
         tp, fp, fn = match_predictions(
             pred_names,
             gt_names
         )
-
         metrics = calculate_metrics(
             tp,
             fp,
             fn
         )
+        
 
         # -----------------------------------------
         # Global counters

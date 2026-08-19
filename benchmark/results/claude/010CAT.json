@@ -2,13 +2,11 @@
     "catalysts": [
         "alumina",
         "MgO",
-        "CHT samples",
-        "CHT5",
-        "CHT4",
+        "Al2O3",
         "CHT1",
         "CHT2",
-        "Al2O3",
-        "Mg-Al mixed oxides",
-        "Mg-Al calcined hydrotalcites"
+        "CHT3",
+        "CHT4",
+        "CHT5"
     ]
 }

@@ -300,7 +300,7 @@ print(
 
 print("\nGenerated files:")
 
-print("benchmark/comparison_gpt.json")
-print("benchmark/comparison_claude.json")
-print("benchmark/metrics.csv")
-print("benchmark/summary.csv")
+print("benchmark/metrics_gpt.csv")
+print("benchmark/metrics_claude.csv")
+print("benchmark/summary_gpt.csv")
+print("benchmark/summary_claude.csv")

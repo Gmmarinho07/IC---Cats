@@ -46,7 +46,7 @@ SELECTION_POLICY = {
 
     "experimental": 2,
 
-    "results": 2
+    "results": 4
 
 }
 

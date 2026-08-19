@@ -1,26 +1,36 @@
 {
     "summary": {
-        "total_papers": 30,
+        "total_papers": 29,
         "similarity_threshold": 80,
         "confusion": {
-            "tp": 82,
-            "fp": 111,
-            "fn": 40
+            "tp": 111,
+            "fp": 57,
+            "fn": 37
         },
         "micro_average": {
-            "accuracy": 35.19,
-            "precision": 42.49,
-            "recall": 67.21,
-            "f1": 52.06
+            "accuracy": 54.15,
+            "precision": 66.07,
+            "recall": 75.0,
+            "f1": 70.25
         },
         "macro_average": {
-            "accuracy": 40.42,
-            "precision": 47.6,
-            "recall": 56.39,
-            "f1": 48.04
+            "accuracy": 55.05,
+            "precision": 62.39,
+            "recall": 76.57,
+            "f1": 63.76
         }
     },
     "results": [
+        {
+            "paper": "013MCN",
+            "tp": 1,
+            "fp": 0,
+            "fn": 0,
+            "accuracy": 100.0,
+            "precision": 100.0,
+            "recall": 100.0,
+            "f1": 100.0
+        },
         {
             "paper": "024CAT",
             "tp": 4,
@@ -34,6 +44,16 @@
         {
             "paper": "026CAT",
             "tp": 2,
+            "fp": 0,
+            "fn": 0,
+            "accuracy": 100.0,
+            "precision": 100.0,
+            "recall": 100.0,
+            "f1": 100.0
+        },
+        {
+            "paper": "029MCN",
+            "tp": 1,
             "fp": 0,
             "fn": 0,
             "accuracy": 100.0,
@@ -72,6 +92,36 @@
             "f1": 94.74
         },
         {
+            "paper": "010CAT",
+            "tp": 7,
+            "fp": 1,
+            "fn": 0,
+            "accuracy": 87.5,
+            "precision": 87.5,
+            "recall": 100.0,
+            "f1": 93.33
+        },
+        {
+            "paper": "038CAT",
+            "tp": 20,
+            "fp": 0,
+            "fn": 3,
+            "accuracy": 86.96,
+            "precision": 100.0,
+            "recall": 86.96,
+            "f1": 93.02
+        },
+        {
+            "paper": "025CAT",
+            "tp": 11,
+            "fp": 2,
+            "fn": 0,
+            "accuracy": 84.62,
+            "precision": 84.62,
+            "recall": 100.0,
+            "f1": 91.67
+        },
+        {
             "paper": "033CAT",
             "tp": 5,
             "fp": 1,
@@ -92,26 +142,6 @@
             "f1": 85.71
         },
         {
-            "paper": "037CAT",
-            "tp": 6,
-            "fp": 2,
-            "fn": 0,
-            "accuracy": 75.0,
-            "precision": 75.0,
-            "recall": 100.0,
-            "f1": 85.71
-        },
-        {
-            "paper": "010CAT",
-            "tp": 7,
-            "fp": 3,
-            "fn": 0,
-            "accuracy": 70.0,
-            "precision": 70.0,
-            "recall": 100.0,
-            "f1": 82.35
-        },
-        {
             "paper": "023CAT",
             "tp": 2,
             "fp": 0,
@@ -122,14 +152,14 @@
             "f1": 80.0
         },
         {
-            "paper": "025CAT",
-            "tp": 7,
-            "fp": 2,
-            "fn": 4,
-            "accuracy": 53.85,
-            "precision": 77.78,
-            "recall": 63.64,
-            "f1": 70.0
+            "paper": "037CAT",
+            "tp": 6,
+            "fp": 3,
+            "fn": 0,
+            "accuracy": 66.67,
+            "precision": 66.67,
+            "recall": 100.0,
+            "f1": 80.0
         },
         {
             "paper": "027CAT",
@@ -152,24 +182,24 @@
             "f1": 55.56
         },
         {
-            "paper": "016CAT",
-            "tp": 4,
-            "fp": 1,
-            "fn": 6,
-            "accuracy": 36.36,
-            "precision": 80.0,
-            "recall": 40.0,
-            "f1": 53.33
+            "paper": "017CAT",
+            "tp": 6,
+            "fp": 3,
+            "fn": 7,
+            "accuracy": 37.5,
+            "precision": 66.67,
+            "recall": 46.15,
+            "f1": 54.55
         },
         {
-            "paper": "007CAT",
-            "tp": 3,
-            "fp": 4,
-            "fn": 3,
-            "accuracy": 30.0,
-            "precision": 42.86,
-            "recall": 50.0,
-            "f1": 46.15
+            "paper": "035MCN",
+            "tp": 1,
+            "fp": 2,
+            "fn": 0,
+            "accuracy": 33.33,
+            "precision": 33.33,
+            "recall": 100.0,
+            "f1": 50.0
         },
         {
             "paper": "036CAT",
@@ -182,6 +212,26 @@
             "f1": 44.44
         },
         {
+            "paper": "007CAT",
+            "tp": 3,
+            "fp": 5,
+            "fn": 3,
+            "accuracy": 27.27,
+            "precision": 37.5,
+            "recall": 50.0,
+            "f1": 42.86
+        },
+        {
+            "paper": "016CAT",
+            "tp": 3,
+            "fp": 1,
+            "fn": 7,
+            "accuracy": 27.27,
+            "precision": 75.0,
+            "recall": 30.0,
+            "f1": 42.86
+        },
+        {
             "paper": "021CAT",
             "tp": 2,
             "fp": 1,
@@ -190,16 +240,6 @@
             "precision": 66.67,
             "recall": 28.57,
             "f1": 40.0
-        },
-        {
-            "paper": "017CAT",
-            "tp": 4,
-            "fp": 5,
-            "fn": 9,
-            "accuracy": 22.22,
-            "precision": 44.44,
-            "recall": 30.77,
-            "f1": 36.36
         },
         {
             "paper": "020CAT",
@@ -222,7 +262,7 @@
             "f1": 36.36
         },
         {
-            "paper": "039MCN",
+            "paper": "012MCN",
             "tp": 1,
             "fp": 4,
             "fn": 0,
@@ -232,24 +272,14 @@
             "f1": 33.33
         },
         {
-            "paper": "012MCN",
-            "tp": 0,
+            "paper": "039MCN",
+            "tp": 1,
             "fp": 4,
             "fn": 0,
-            "accuracy": 0.0,
-            "precision": 0.0,
-            "recall": 0,
-            "f1": 0
-        },
-        {
-            "paper": "013MCN",
-            "tp": 0,
-            "fp": 1,
-            "fn": 0,
-            "accuracy": 0.0,
-            "precision": 0.0,
-            "recall": 0,
-            "f1": 0
+            "accuracy": 20.0,
+            "precision": 20.0,
+            "recall": 100.0,
+            "f1": 33.33
         },
         {
             "paper": "014MCN",
@@ -272,50 +302,10 @@
             "f1": 0
         },
         {
-            "paper": "029MCN",
-            "tp": 0,
-            "fp": 1,
-            "fn": 0,
-            "accuracy": 0.0,
-            "precision": 0.0,
-            "recall": 0,
-            "f1": 0
-        },
-        {
-            "paper": "031RVW",
-            "tp": 0,
-            "fp": 33,
-            "fn": 0,
-            "accuracy": 0.0,
-            "precision": 0.0,
-            "recall": 0,
-            "f1": 0
-        },
-        {
             "paper": "034MCN",
             "tp": 0,
             "fp": 2,
             "fn": 2,
-            "accuracy": 0.0,
-            "precision": 0.0,
-            "recall": 0.0,
-            "f1": 0
-        },
-        {
-            "paper": "035MCN",
-            "tp": 0,
-            "fp": 3,
-            "fn": 0,
-            "accuracy": 0.0,
-            "precision": 0.0,
-            "recall": 0,
-            "f1": 0
-        },
-        {
-            "paper": "038CAT",
-            "tp": 0,
-            "fp": 16,
-            "fn": 1,
             "accuracy": 0.0,
             "precision": 0.0,
             "recall": 0.0,

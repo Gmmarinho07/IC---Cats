@@ -2,11 +2,11 @@
     "catalysts": [
         "calcium phosphate",
         "calcium phosphate on zirconia",
-        "calcium hydroxyapatite",
-        "zirconia",
-        "silica",
+        "CaHAP",
         "MgO/SiO2",
         "MgO",
+        "SiO2",
+        "ZrO2",
         "CaP/SiO2",
         "CaP/ZrO2"
     ]

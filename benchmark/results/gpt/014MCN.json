@@ -1,10 +1,5 @@
 {
     "catalysts": [
-        "Mg(OH)2-sol-gel",
-        "MgO-hydration",
-        "MgO-precipitation",
-        "MgO-sol-gel",
-        "MgO-smoke",
-        "MgO-CVD"
+        "MgO"
     ]
 }
