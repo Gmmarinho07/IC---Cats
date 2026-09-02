@@ -1,6 +1,14 @@
 {
     "catalysts": [
-        "HAP",
-        "MgO"
+        {
+            "catalyst": "HAP",
+            "raw_name": "HAP",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        }
     ]
 }

@@ -1,6 +1,14 @@
 {
     "catalysts": [
-        "MgO",
-        "SiO2"
+        {
+            "catalyst": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "SiO2",
+            "raw_name": "SiO2",
+            "article_identifiers": []
+        }
     ]
 }

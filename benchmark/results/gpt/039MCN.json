@@ -1,7 +1,19 @@
 {
     "catalysts": [
-        "MgAAl mixed oxides",
-        "HAP",
-        "MgAAlAO"
+        {
+            "catalyst": "MgAAl mixed oxides",
+            "raw_name": "MgAAl mixed oxides",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "HAP",
+            "raw_name": "HAP",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgAAlAO",
+            "raw_name": "MgAAlAO",
+            "article_identifiers": []
+        }
     ]
 }

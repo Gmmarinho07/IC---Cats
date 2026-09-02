@@ -1,8 +1,24 @@
 {
     "catalysts": [
-        "MgO-sol–gel",
-        "MgO-precipitation",
-        "MgO-hydration",
-        "MgO-CVD"
+        {
+            "catalyst": "MgO-sol–gel",
+            "raw_name": "MgO-sol–gel",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgO-precipitation",
+            "raw_name": "MgO-precipitation",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgO-hydration",
+            "raw_name": "MgO-hydration",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgO-CVD",
+            "raw_name": "MgO-CVD",
+            "article_identifiers": []
+        }
     ]
 }

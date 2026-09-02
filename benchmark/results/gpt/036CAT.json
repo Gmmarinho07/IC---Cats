@@ -1,7 +1,19 @@
 {
     "catalysts": [
-        "TiO2",
-        "HAP",
-        "MgO"
+        {
+            "catalyst": "anatase titania",
+            "raw_name": "anatase titania (TiO2)",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "hydroxyapatite",
+            "raw_name": "hydroxyapatite (HAP)",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "magnesia",
+            "raw_name": "magnesia (MgO)",
+            "article_identifiers": []
+        }
     ]
 }

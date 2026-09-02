@@ -1,5 +1,24 @@
 {
     "catalysts": [
-        "MgO"
+        {
+            "catalyst": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "O2 3C",
+            "raw_name": "O2 3C",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "O2 4C",
+            "raw_name": "O2 4C",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "O2 5C",
+            "raw_name": "O2 5C",
+            "article_identifiers": []
+        }
     ]
 }

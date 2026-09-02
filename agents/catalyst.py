@@ -35,4 +35,8 @@ def extract(text, model):
 
     response = GENERATORS[model](prompt)
 
+    print("\n===== RESPOSTA BRUTA DO GPT =====")
+    print(repr(response))
+    print("=================================\n")
+
     return clean_json(response)

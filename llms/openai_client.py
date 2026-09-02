@@ -8,6 +8,7 @@ def generate(prompt, model="gpt-4o-mini", temperature=0):
     response = client.chat.completions.create(
         model=model,
         temperature=temperature,
+        max_tokens=2000,
         messages=[
             {
                 "role": "user",

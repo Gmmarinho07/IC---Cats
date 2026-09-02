@@ -1,6 +1,14 @@
 {
     "catalysts": [
-        "Amberlyst™70",
-        "HAP"
+        {
+            "catalyst": "Amberlyst™70",
+            "raw_name": "Amberlyst™70",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "HAP",
+            "raw_name": "HAP",
+            "article_identifiers": []
+        }
     ]
 }

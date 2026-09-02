@@ -1,17 +1,69 @@
 {
     "catalysts": [
-        "MgO",
-        "Sep@500",
-        "Sep@700",
-        "2Na/Sep@500",
-        "5Na/Sep@500",
-        "2Na/Sep@700",
-        "5Na/Sep@700",
-        "2K/Sep@500",
-        "5K/Sep@500",
-        "2Cs/Sep@500",
-        "4Cs/Sep@500",
-        "7Cs/Sep@500",
-        "14Cs/Sep@500"
+        {
+            "catalyst": "Magnesium oxide",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Sepiolite calcined at 500°C",
+            "raw_name": "Sep@ 500",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Sepiolite calcined at 700°C",
+            "raw_name": "Sep@ 700",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "2 wt% Na on sepiolite calcined at 500°C",
+            "raw_name": "2Na/Sep@ 500",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "5 wt% Na on sepiolite calcined at 500°C",
+            "raw_name": "5Na/Sep@ 500",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "2 wt% Na on sepiolite calcined at 700°C",
+            "raw_name": "2Na/Sep@ 700",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "5 wt% Na on sepiolite calcined at 700°C",
+            "raw_name": "5Na/Sep@ 700",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "2 wt% K on sepiolite calcined at 500°C",
+            "raw_name": "2 K/Sep@ 500",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "5 wt% K on sepiolite calcined at 500°C",
+            "raw_name": "5 K/Sep@ 500",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "2 wt% Cs on sepiolite calcined at 500°C",
+            "raw_name": "2Cs/Sep@ 500",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "4 wt% Cs on sepiolite calcined at 500°C",
+            "raw_name": "4Cs/Sep@ 500",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "7 wt% Cs on sepiolite calcined at 500°C",
+            "raw_name": "7Cs/Sep@ 500",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "14 wt% Cs on sepiolite calcined at 500°C",
+            "raw_name": "14Cs/Sep@ 500",
+            "article_identifiers": []
+        }
     ]
 }

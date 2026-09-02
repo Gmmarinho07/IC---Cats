@@ -1,8 +1,24 @@
 {
     "catalysts": [
-        "MgO",
-        "Ru/MgO",
-        "MgxAlOy",
-        "Ru/MgxAlOy"
+        {
+            "catalyst": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Ru/MgO",
+            "raw_name": "Ru/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgxAlOy",
+            "raw_name": "MgxAlOy",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Ru/MgxAlOy",
+            "raw_name": "Ru/MgxAlOy",
+            "article_identifiers": []
+        }
     ]
 }

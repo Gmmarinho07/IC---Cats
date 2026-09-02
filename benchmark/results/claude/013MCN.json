@@ -1,5 +1,9 @@
 {
     "catalysts": [
-        "MgO"
+        {
+            "catalyst": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        }
     ]
 }

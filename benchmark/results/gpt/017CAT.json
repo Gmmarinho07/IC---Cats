@@ -1,10 +1,64 @@
 {
     "catalysts": [
-        "calcium phosphate",
-        "CaHAP",
-        "CaP",
-        "CaP/ZrO2",
-        "ZrO2",
-        "CaP/SiO2"
+        {
+            "catalyst": "Calcium hydroxyapatite",
+            "raw_name": "Calcium hydroxyapatite (CaHAP)",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Calcium phosphate",
+            "raw_name": "calcium phosphate (CaP)",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Calcium phosphate",
+            "raw_name": "CaP untreated",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Calcium phosphate",
+            "raw_name": "CaP 873 K",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Calcium phosphate",
+            "raw_name": "CaP 923 K",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Calcium phosphate",
+            "raw_name": "CaP 973 K",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Calcium phosphate",
+            "raw_name": "CaP 1073 K",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Calcium phosphate",
+            "raw_name": "CaP 1173 K",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Calcium phosphate",
+            "raw_name": "CaP/SiO2",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Calcium phosphate",
+            "raw_name": "CaP/ZrO2",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Zirconia",
+            "raw_name": "ZrO2",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Silica",
+            "raw_name": "SiO2",
+            "article_identifiers": []
+        }
     ]
 }

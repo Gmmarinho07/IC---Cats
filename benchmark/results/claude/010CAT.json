@@ -1,12 +1,59 @@
 {
     "catalysts": [
-        "alumina",
-        "MgO",
-        "Al2O3",
-        "CHT1",
-        "CHT2",
-        "CHT3",
-        "CHT4",
-        "CHT5"
+        {
+            "catalyst": "alumina",
+            "raw_name": "alumina",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Al2O3",
+            "raw_name": "Al2O3",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "calcined hydrotalcite",
+            "raw_name": "calcined hydrotalcites",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "CHT1",
+            "raw_name": "CHT1",
+            "article_identifiers": [
+                "CHT1"
+            ]
+        },
+        {
+            "catalyst": "CHT2",
+            "raw_name": "CHT2",
+            "article_identifiers": [
+                "CHT2"
+            ]
+        },
+        {
+            "catalyst": "CHT3",
+            "raw_name": "CHT3",
+            "article_identifiers": [
+                "CHT3"
+            ]
+        },
+        {
+            "catalyst": "CHT4",
+            "raw_name": "CHT4",
+            "article_identifiers": [
+                "CHT4"
+            ]
+        },
+        {
+            "catalyst": "CHT5",
+            "raw_name": "CHT5",
+            "article_identifiers": [
+                "CHT5"
+            ]
+        }
     ]
 }

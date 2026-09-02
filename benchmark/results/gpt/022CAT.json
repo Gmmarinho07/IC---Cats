@@ -1,12 +1,54 @@
 {
     "catalysts": [
-        "0.1CuMMO",
-        "0.3CuMMO(vl)",
-        "0.3CuMMO(l)",
-        "0.3CuMMO(h)",
-        "0.3CuMMO(i)",
-        "0CuMMO",
-        "1.2CuMMO",
-        "0.1CuMMO(pm)"
+        {
+            "catalyst": "CuMMO",
+            "raw_name": "CuMMO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "0.1CuMMO",
+            "raw_name": "0.1CuMMO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "0.3CuMMO(vl)",
+            "raw_name": "0.3CuMMO(vl)",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "0.3CuMMO(l)",
+            "raw_name": "0.3CuMMO(l)",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "0.3CuMMO(h)",
+            "raw_name": "0.3CuMMO(h)",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "0.3CuMMO(i)",
+            "raw_name": "0.3CuMMO(i)",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "1.2CuMMO",
+            "raw_name": "1.2CuMMO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "0CuMMO",
+            "raw_name": "0CuMMO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "0.1CuMMO(pm)",
+            "raw_name": "0.1CuMMO(pm)",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "0.3CuMMO(m)",
+            "raw_name": "0.3CuMMO(m)",
+            "article_identifiers": []
+        }
     ]
 }

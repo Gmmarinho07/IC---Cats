@@ -1,24 +1,104 @@
 {
     "catalysts": [
-        "MgO",
-        "CaO",
-        "BaO",
-        "10% Na/Al2O3",
-        "10% K/Al2O3",
-        "10% Cs/Al2O3",
-        "10% Mg/SiO2",
-        "10% Ba/MgO",
-        "10% Ca/MgO",
-        "10% Zn/MgO",
-        "10% Ce/MgO",
-        "10% Zr/MgO",
-        "10% Pb/MgO",
-        "10% Sn/MgO",
-        "10% Cu/MgO",
-        "10% HCl/MgO",
-        "10% H2PO4/MgO",
-        "10% Acetic/MgO",
-        "1% H2SO4/MgO",
-        "-Al2O3"
+        {
+            "catalyst": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "CaO",
+            "raw_name": "CaO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "BaO",
+            "raw_name": "BaO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "γ-Alumina",
+            "raw_name": "-Al2O3",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Na/Al2O3",
+            "raw_name": "10% Na/Al2O3",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% K/Al2O3",
+            "raw_name": "10% K/Al2O3",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Cs/Al2O3",
+            "raw_name": "10% Cs/Al2O3",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Mg/SiO2",
+            "raw_name": "10% Mg/SiO2",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Ba/MgO",
+            "raw_name": "10% Ba/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Ca/MgO",
+            "raw_name": "10% Ca/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Zn/MgO",
+            "raw_name": "10% Zn/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Ce/MgO",
+            "raw_name": "10% Ce/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Zr/MgO",
+            "raw_name": "10% Zr/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Pb/MgO",
+            "raw_name": "10% Pb/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Sn/MgO",
+            "raw_name": "10% Sn/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Cu/MgO",
+            "raw_name": "10% Cu/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% HCl/MgO",
+            "raw_name": "10% HCl/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% H2PO4/MgO",
+            "raw_name": "10% H2PO4/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "10% Acetic/MgO",
+            "raw_name": "10% Acetic/MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "1% H2SO4/MgO",
+            "raw_name": "1% H2SO4/MgO",
+            "article_identifiers": []
+        }
     ]
 }

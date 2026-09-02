@@ -14,7 +14,7 @@ def generate(
         prompt,
         model="claude-sonnet-4-6",
         temperature=0,
-        max_tokens=500
+        max_tokens=2000
 ):
 
     response = client.messages.create(

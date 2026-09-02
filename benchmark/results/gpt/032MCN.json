@@ -1,7 +1,16 @@
 {
     "catalysts": [
-        "hydroxyapatite",
-        "Ca−O",
-        "CaO/PO4 3−"
+        {
+            "catalyst": "hydroxyapatite",
+            "raw_name": "hydroxyapatite (HAP)",
+            "article_identifiers": [
+                "HAP"
+            ]
+        },
+        {
+            "catalyst": "Calcium oxide",
+            "raw_name": "Calcium oxide",
+            "article_identifiers": []
+        }
     ]
 }

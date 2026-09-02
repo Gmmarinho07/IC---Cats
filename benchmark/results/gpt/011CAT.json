@@ -1,5 +1,24 @@
 {
     "catalysts": [
-        "MgO"
+        {
+            "catalyst": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgO-673",
+            "raw_name": "MgO-673",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgO-773",
+            "raw_name": "MgO-773",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgO-873",
+            "raw_name": "MgO-873",
+            "article_identifiers": []
+        }
     ]
 }

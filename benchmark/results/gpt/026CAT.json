@@ -1,8 +1,29 @@
 {
     "catalysts": [
-        "Ca20Fe20MgAl-LDH",
-        "MgAl-LDH",
-        "Ca20Fe20MgAl-Ox",
-        "MgAl-Ox"
+        {
+            "catalyst": "Calcium-iron-modified Mg-Al based-hydrotalcite",
+            "raw_name": "Calcium-iron-modified Mg-Al based-hydrotalcite",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Ca20Fe20MgAl-LDH",
+            "raw_name": "Ca20Fe20MgAl-LDH",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgAl-LDH",
+            "raw_name": "MgAl-LDH",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "Ca20Fe20MgAl-Ox",
+            "raw_name": "Ca20Fe20MgAl-Ox",
+            "article_identifiers": []
+        },
+        {
+            "catalyst": "MgAl-Ox",
+            "raw_name": "MgAl-Ox",
+            "article_identifiers": []
+        }
     ]
 }

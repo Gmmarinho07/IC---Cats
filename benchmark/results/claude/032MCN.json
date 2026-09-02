@@ -1,5 +1,16 @@
 {
     "catalysts": [
-        "hydroxyapatite"
+        {
+            "catalyst": "hydroxyapatite",
+            "raw_name": "hydroxyapatite",
+            "article_identifiers": [
+                "HAP"
+            ]
+        },
+        {
+            "catalyst": "Calcium oxide",
+            "raw_name": "Calcium oxide",
+            "article_identifiers": []
+        }
     ]
 }
