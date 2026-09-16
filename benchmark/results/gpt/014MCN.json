@@ -1,34 +1,44 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "MgO",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO-hydration",
+                "raw_name": "MgO-hydration",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO-precipitation",
+                "raw_name": "MgO-precipitation",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO-sol-gel",
+                "raw_name": "MgO-sol-gel",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO-smoke",
+                "raw_name": "MgO-smoke",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO-CVD",
+                "raw_name": "MgO-CVD",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "MgO",
             "raw_name": "MgO",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "MgO-hydration",
-            "raw_name": "MgO-hydration",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgO-precipitation",
-            "raw_name": "MgO-precipitation",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgO-sol-gel",
-            "raw_name": "MgO-sol-gel",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgO-smoke",
-            "raw_name": "MgO-smoke",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgO-CVD",
-            "raw_name": "MgO-CVD",
-            "article_identifiers": []
         }
-    ]
+    }
 }

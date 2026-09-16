@@ -1,14 +1,24 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "Amberlyst™70",
-            "raw_name": "Amberlyst™70",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "HAP",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Amberlyst™70",
+                "raw_name": "Amberlyst™70",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Hydroxyapatite",
             "raw_name": "HAP",
             "article_identifiers": []
         }
-    ]
+    }
 }

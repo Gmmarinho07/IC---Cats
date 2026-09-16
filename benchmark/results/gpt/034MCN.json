@@ -1,14 +1,24 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "HAP",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "HAP",
             "raw_name": "HAP",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "MgO",
-            "raw_name": "MgO",
-            "article_identifiers": []
         }
-    ]
+    }
 }

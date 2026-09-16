@@ -24,7 +24,8 @@ from preprocessing.context_builder import (
     context_statistics
 )
 
-from agents.catalyst import extract
+from agents.catalyst import extract as extract_catalyst
+from agents.metal_support import extract as extract_metal_support
 
 
 # =====================================================
@@ -129,13 +130,20 @@ def process_pdf(pdf_path):
 
         print(f"\nRunning {model.upper()}...")
 
-        results[model] = extract(
-
+        catalyst_result = extract_catalyst(
             context,
-
             model
-
         )
+
+        metal_support_result = extract_metal_support(
+            context,
+            model
+        )
+
+        results[model] = {
+            "catalyst": catalyst_result,
+            "metal_support": metal_support_result
+        }
 
     return results
 

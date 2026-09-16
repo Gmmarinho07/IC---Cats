@@ -1,46 +1,56 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "Calcined hydrotalcite",
-            "raw_name": "Calcined hydrotalcite",
-            "article_identifiers": [
-                "MgA"
-            ]
-        },
-        {
-            "catalyst": "Alumina",
-            "raw_name": "Alumina",
-            "article_identifiers": [
-                "A"
-            ]
-        },
-        {
-            "catalyst": "Silica-alumina",
-            "raw_name": "Silica–alumina",
-            "article_identifiers": [
-                "SA"
-            ]
-        },
-        {
-            "catalyst": "H-ferrierite",
-            "raw_name": "H-ferrierite",
-            "article_identifiers": [
-                "FER"
-            ]
-        },
-        {
-            "catalyst": "H-ZSM-5",
-            "raw_name": "H-ZSM-5",
-            "article_identifiers": [
-                "MFI"
-            ]
-        },
-        {
-            "catalyst": "H-faujasite",
-            "raw_name": "H-faujasite",
-            "article_identifiers": [
-                "USY"
-            ]
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Calcined hydrotalcite",
+                "raw_name": "Calcined hydrotalcite",
+                "article_identifiers": [
+                    "MgA"
+                ]
+            },
+            {
+                "catalyst": "Alumina",
+                "raw_name": "Alumina",
+                "article_identifiers": [
+                    "A"
+                ]
+            },
+            {
+                "catalyst": "Silica-alumina",
+                "raw_name": "Silica–alumina",
+                "article_identifiers": [
+                    "SA"
+                ]
+            },
+            {
+                "catalyst": "H-ferrierite",
+                "raw_name": "H-ferrierite",
+                "article_identifiers": [
+                    "FER"
+                ]
+            },
+            {
+                "catalyst": "H-ZSM-5",
+                "raw_name": "H-ZSM-5",
+                "article_identifiers": [
+                    "MFI"
+                ]
+            },
+            {
+                "catalyst": "H-faujasite",
+                "raw_name": "H-faujasite",
+                "article_identifiers": [
+                    "USY"
+                ]
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": null,
+            "raw_name": null,
+            "article_identifiers": []
         }
-    ]
+    }
 }

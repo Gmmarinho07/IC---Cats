@@ -1,29 +1,60 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "Calcium-iron-modified Mg-Al based-hydrotalcite",
-            "raw_name": "Calcium-iron-modified Mg-Al based-hydrotalcite",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Ca20Fe20MgAl-LDH",
-            "raw_name": "Ca20Fe20MgAl-LDH",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgAl-LDH",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Calcium-iron-modified Mg-Al based-hydrotalcite",
+                "raw_name": "Calcium-iron-modified Mg-Al based-hydrotalcite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca20Fe20MgAl-LDH",
+                "raw_name": "Ca20Fe20MgAl-LDH",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgAl-LDH",
+                "raw_name": "MgAl-LDH",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca20Fe20MgAl-Ox",
+                "raw_name": "Ca20Fe20MgAl-Ox",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgAl-Ox",
+                "raw_name": "MgAl-Ox",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ca",
+                "raw_name": "Ca",
+                "article_identifiers": []
+            },
+            {
+                "name": "Fe",
+                "raw_name": "Fe",
+                "article_identifiers": []
+            },
+            {
+                "name": "Mg",
+                "raw_name": "Mg",
+                "article_identifiers": []
+            },
+            {
+                "name": "Al",
+                "raw_name": "Al",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgAl-LDH",
             "raw_name": "MgAl-LDH",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "Ca20Fe20MgAl-Ox",
-            "raw_name": "Ca20Fe20MgAl-Ox",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgAl-Ox",
-            "raw_name": "MgAl-Ox",
-            "article_identifiers": []
         }
-    ]
+    }
 }

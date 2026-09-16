@@ -1,64 +1,80 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "Calcium hydroxyapatite",
-            "raw_name": "Calcium hydroxyapatite (CaHAP)",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcium phosphate",
-            "raw_name": "calcium phosphate (CaP)",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcium phosphate",
-            "raw_name": "CaP untreated",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcium phosphate",
-            "raw_name": "CaP 873 K",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcium phosphate",
-            "raw_name": "CaP 923 K",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcium phosphate",
-            "raw_name": "CaP 973 K",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcium phosphate",
-            "raw_name": "CaP 1073 K",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcium phosphate",
-            "raw_name": "CaP 1173 K",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcium phosphate",
-            "raw_name": "CaP/SiO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcium phosphate",
-            "raw_name": "CaP/ZrO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Zirconia",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Calcium hydroxyapatite",
+                "raw_name": "Calcium hydroxyapatite (CaHAP)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium phosphate",
+                "raw_name": "calcium phosphate (CaP)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium phosphate",
+                "raw_name": "CaP untreated",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium phosphate",
+                "raw_name": "CaP 873 K",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium phosphate",
+                "raw_name": "CaP 923 K",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium phosphate",
+                "raw_name": "CaP 973 K",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium phosphate",
+                "raw_name": "CaP 1073 K",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium phosphate",
+                "raw_name": "CaP 1173 K",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium phosphate",
+                "raw_name": "CaP/ZrO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium phosphate",
+                "raw_name": "CaP/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Zirconia",
+                "raw_name": "ZrO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Silica",
+                "raw_name": "SiO2",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Calcium",
+                "raw_name": "Calcium",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Zirconia",
             "raw_name": "ZrO2",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "Silica",
-            "raw_name": "SiO2",
-            "article_identifiers": []
         }
-    ]
+    }
 }

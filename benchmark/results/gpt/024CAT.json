@@ -1,24 +1,45 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "Cu/Al2O3",
-            "raw_name": "Cu/Al2O3",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Cu/NiO",
-            "raw_name": "Cu/NiO",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Cu/Ni3AlOx",
-            "raw_name": "Cu/Ni3AlOx",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Cu/Ni1AlOx",
-            "raw_name": "Cu/Ni1AlOx",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu/Al2O3",
+                "raw_name": "Cu/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/NiO",
+                "raw_name": "Cu/NiO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/Ni3AlOx",
+                "raw_name": "Cu/Ni3AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/Ni1AlOx",
+                "raw_name": "Cu/Ni1AlOx",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Ni–Al–LDH",
+            "raw_name": "Ni–Al–LDH",
             "article_identifiers": []
         }
-    ]
+    }
 }

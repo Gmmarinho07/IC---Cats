@@ -1,192 +1,241 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "ConMg3−nAlOx",
-            "raw_name": "ConMg3−nAlOx",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Cu−CeO2/AC",
-            "raw_name": "Cu−CeO2/AC",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Cu/AC",
-            "raw_name": "Cu/AC",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "CeO2/AC",
-            "raw_name": "CeO2/AC",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "5Cu−CeO2/AC",
-            "raw_name": "5Cu−CeO2/AC",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "3Cu−CeO2/AC",
-            "raw_name": "3Cu−CeO2/AC",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "1Cu−CeO2/AC",
-            "raw_name": "1Cu−CeO2/AC",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "3Cu−CeO2/SiO2",
-            "raw_name": "3Cu−CeO2/SiO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "3Cu−CeO2/Al2O3",
-            "raw_name": "3Cu−CeO2/Al2O3",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Fe−CeO2/AC",
-            "raw_name": "Fe−CeO2/AC",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Co−CeO2/AC",
-            "raw_name": "Co−CeO2/AC",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Ni−CeO2/AC",
-            "raw_name": "Ni−CeO2/AC",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Pd−CeO2/AC",
-            "raw_name": "Pd−CeO2/AC",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "10%Ni15%CeO2/AC",
-            "raw_name": "10%Ni15%CeO2/AC",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "PdAu single-atom alloy",
-            "raw_name": "PdAu single-atom alloy",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Pd@UiO-66",
-            "raw_name": "Pd@UiO-66",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Hydroxyapatite",
-            "raw_name": "HAP",
-            "article_identifiers": [
-                "HAP"
-            ]
-        },
-        {
-            "catalyst": "HAP (Ca/P = 1.64)",
-            "raw_name": "HAP (Ca/P = 1.64)",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "HAP (Ca/P = 1.67)",
-            "raw_name": "HAP (Ca/P = 1.67)",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Ca10(PO4)6(OH)2",
-            "raw_name": "Ca10(PO4)6(OH)2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Sr10(PO4)6(OH)2",
-            "raw_name": "Sr10(PO4)6(OH)2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Ca10(VO4)6(OH)2",
-            "raw_name": "Ca10(VO4)6(OH)2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Sr10(VO4)6(OH)2",
-            "raw_name": "Sr10(VO4)6(OH)2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Sr-HAP (Sr/P = 1.70)",
-            "raw_name": "Sr-HAP (Sr/P = 1.70)",
-            "article_identifiers": [
-                "Sr−HAP"
-            ]
-        },
-        {
-            "catalyst": "HAP-W",
-            "raw_name": "HAP-W",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Cu-HAP",
-            "raw_name": "Cu-HAP",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "β-Ca3(PO4)2",
-            "raw_name": "β-Ca3 (PO4)2",
-            "article_identifiers": [
-                "β-TCP"
-            ]
-        },
-        {
-            "catalyst": "Ca10(PO4)6F2",
-            "raw_name": "Ca10(PO4)6F2",
-            "article_identifiers": [
-                "FAP"
-            ]
-        },
-        {
-            "catalyst": "Mg3(PO4)2",
-            "raw_name": "Mg3(PO4)2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Sr3(PO4)2",
-            "raw_name": "Sr3(PO4)2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "AgMg4AlOx",
-            "raw_name": "AgMg4AlOx",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "AgMg3AlOx",
-            "raw_name": "AgMg3AlOx",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "AgMg2AlOx",
-            "raw_name": "AgMg2AlOx",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "RuMg3AlOx",
-            "raw_name": "RuMg3AlOx",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "NiMg4AlO",
-            "raw_name": "NiMg4AlO",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "2%Cu−NiMg4AlO",
-            "raw_name": "2%Cu−NiMg4AlO",
-            "article_identifiers": []
-        }
-    ]
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "ConMg3−nAlOx",
+                "raw_name": "ConMg3−nAlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu−CeO2/AC",
+                "raw_name": "Cu−CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/AC",
+                "raw_name": "Cu/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CeO2/AC",
+                "raw_name": "CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "5Cu−CeO2/AC",
+                "raw_name": "5Cu−CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "3Cu−CeO2/AC",
+                "raw_name": "3Cu−CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "1Cu−CeO2/AC",
+                "raw_name": "1Cu−CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "3Cu−CeO2/SiO2",
+                "raw_name": "3Cu−CeO2/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "3Cu−CeO2/Al2O3",
+                "raw_name": "3Cu−CeO2/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Fe−CeO2/AC",
+                "raw_name": "Fe−CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Co−CeO2/AC",
+                "raw_name": "Co−CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni−CeO2/AC",
+                "raw_name": "Ni−CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd−CeO2/AC",
+                "raw_name": "Pd−CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "10%Ni15%CeO2/AC",
+                "raw_name": "10%Ni15%CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "PdAu single-atom alloy",
+                "raw_name": "PdAu single-atom alloy",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd@UiO-66",
+                "raw_name": "Pd@UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Hydroxyapatite",
+                "raw_name": "HAP",
+                "article_identifiers": [
+                    "HAP"
+                ]
+            },
+            {
+                "catalyst": "HAP (Ca/P = 1.64)",
+                "raw_name": "HAP (Ca/P = 1.64)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP (Ca/P = 1.67)",
+                "raw_name": "HAP (Ca/P = 1.67)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca10(PO4)6(OH)2",
+                "raw_name": "Ca10(PO4)6(OH)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Sr10(PO4)6(OH)2",
+                "raw_name": "Sr10(PO4)6(OH)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca10(VO4)6(OH)2",
+                "raw_name": "Ca10(VO4)6(OH)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Sr10(VO4)6(OH)2",
+                "raw_name": "Sr10(VO4)6(OH)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Sr-HAP (Sr/P = 1.70)",
+                "raw_name": "Sr-HAP (Sr/P = 1.70)",
+                "article_identifiers": [
+                    "Sr-HAP"
+                ]
+            },
+            {
+                "catalyst": "HAP-W",
+                "raw_name": "HAP-W",
+                "article_identifiers": [
+                    "HAP-W"
+                ]
+            },
+            {
+                "catalyst": "Cu-HAP",
+                "raw_name": "Cu-HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "β-Ca3(PO4)2",
+                "raw_name": "β-Ca3 (PO4)2",
+                "article_identifiers": [
+                    "β-TCP"
+                ]
+            },
+            {
+                "catalyst": "Ca10(PO4)6F2",
+                "raw_name": "Ca10(PO4)6F2",
+                "article_identifiers": [
+                    "FAP"
+                ]
+            },
+            {
+                "catalyst": "Mg3(PO4)2",
+                "raw_name": "Mg3(PO4)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Sr3(PO4)2",
+                "raw_name": "Sr3(PO4)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "AgMg4AlOx",
+                "raw_name": "AgMg4AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "AgMg3AlOx",
+                "raw_name": "AgMg3AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "AgMg2AlOx",
+                "raw_name": "AgMg2AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "RuMg3AlOx",
+                "raw_name": "RuMg3AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiMg4AlO",
+                "raw_name": "NiMg4AlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "2%Cu−NiMg4AlO",
+                "raw_name": "2%Cu−NiMg4AlO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Co",
+                "raw_name": "Co",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pd",
+                "raw_name": "Pd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Fe",
+                "raw_name": "Fe",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ag",
+                "raw_name": "Ag",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ru",
+                "raw_name": "Ru",
+                "article_identifiers": []
+            },
+            {
+                "name": "Au",
+                "raw_name": "Au",
+                "article_identifiers": []
+            }
+        ],
+        "support": null
+    }
 }

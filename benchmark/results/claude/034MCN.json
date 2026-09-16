@@ -1,14 +1,31 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "HAP",
-            "raw_name": "HAP",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgO",
-            "raw_name": "MgO",
-            "article_identifiers": []
-        }
-    ]
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": [
+            {
+                "name": "Hydroxyapatite",
+                "raw_name": "HAP",
+                "article_identifiers": []
+            },
+            {
+                "name": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            }
+        ]
+    }
 }

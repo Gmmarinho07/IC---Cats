@@ -1,54 +1,65 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "Au/MgO-SiO2",
-            "raw_name": "Au/MgO-SiO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgO-SiO2",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Au/MgO-SiO2",
+                "raw_name": "Au/MgO-SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO-SiO2",
+                "raw_name": "MgO-SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Au/SiO2",
+                "raw_name": "Au/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Au/MgO",
+                "raw_name": "Au/MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "50%MgO-SiO2",
+                "raw_name": "50%MgO-SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "10%MgO-SiO2",
+                "raw_name": "10%MgO-SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "30%MgO-SiO2",
+                "raw_name": "30%MgO-SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "80%MgO-SiO2",
+                "raw_name": "80%MgO-SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "~3%Au/50%MgO-SiO2",
+                "raw_name": "~3%Au/50%MgO-SiO2",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Au",
+                "raw_name": "Au",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgO-SiO2",
             "raw_name": "MgO-SiO2",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "Au",
-            "raw_name": "Au",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Au/SiO2",
-            "raw_name": "Au/SiO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "50%MgO-SiO2",
-            "raw_name": "50%MgO-SiO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "10%MgO-SiO2",
-            "raw_name": "10%MgO-SiO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "30%MgO-SiO2",
-            "raw_name": "30%MgO-SiO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "80%MgO-SiO2",
-            "raw_name": "80%MgO-SiO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "~3%Au/50%MgO-SiO2",
-            "raw_name": "~3%Au/50%MgO-SiO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgO",
-            "raw_name": "MgO",
-            "article_identifiers": []
         }
-    ]
+    }
 }

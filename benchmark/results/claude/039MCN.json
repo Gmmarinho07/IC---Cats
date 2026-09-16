@@ -1,31 +1,43 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "hydroxyapatite",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "hydroxyapatite",
+                "raw_name": "hydroxyapatite",
+                "article_identifiers": [
+                    "HAP"
+                ]
+            },
+            {
+                "catalyst": "MgAAl mixed oxides",
+                "raw_name": "MgAAl mixed oxides",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgAAlAO catalyst",
+                "raw_name": "MgAAlAO catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-based catalysts",
+                "raw_name": "Cu-based catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "alumina-based catalysts",
+                "raw_name": "alumina-based catalysts",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Hydroxyapatite",
             "raw_name": "hydroxyapatite",
             "article_identifiers": [
                 "HAP"
             ]
-        },
-        {
-            "catalyst": "MgAAl mixed oxides",
-            "raw_name": "MgAAl mixed oxides",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgAAlAO catalyst",
-            "raw_name": "MgAAlAO catalyst",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Cu-based catalysts",
-            "raw_name": "Cu-based catalysts",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "alumina-based catalysts",
-            "raw_name": "alumina-based catalysts",
-            "article_identifiers": []
         }
-    ]
+    }
 }

@@ -1,40 +1,50 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "MgO",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO calcined at 673 K",
+                "raw_name": "MgO-673",
+                "article_identifiers": [
+                    "MgO-673"
+                ]
+            },
+            {
+                "catalyst": "MgO calcined at 773 K",
+                "raw_name": "MgO-773",
+                "article_identifiers": [
+                    "MgO-773"
+                ]
+            },
+            {
+                "catalyst": "MgO calcined at 873 K",
+                "raw_name": "MgO-873",
+                "article_identifiers": [
+                    "MgO-873"
+                ]
+            },
+            {
+                "catalyst": "Ni/Kieselghur",
+                "raw_name": "Ni/Kieselghur",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg(OH)2",
+                "raw_name": "Mg(OH)2",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "MgO",
             "raw_name": "MgO",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "MgO calcined at 673 K",
-            "raw_name": "MgO-673",
-            "article_identifiers": [
-                "MgO-673"
-            ]
-        },
-        {
-            "catalyst": "MgO calcined at 773 K",
-            "raw_name": "MgO-773",
-            "article_identifiers": [
-                "MgO-773"
-            ]
-        },
-        {
-            "catalyst": "MgO calcined at 873 K",
-            "raw_name": "MgO-873",
-            "article_identifiers": [
-                "MgO-873"
-            ]
-        },
-        {
-            "catalyst": "Ni/Kieselghur",
-            "raw_name": "Ni/Kieselghur",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Mg(OH)2",
-            "raw_name": "Mg(OH)2",
-            "article_identifiers": []
         }
-    ]
+    }
 }

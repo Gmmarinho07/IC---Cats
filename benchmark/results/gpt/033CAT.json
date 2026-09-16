@@ -1,24 +1,40 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "Mg5CeOx",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Mg5CeOx",
+                "raw_name": "Mg5CeOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "K–Cu0.5Mg5CeOx",
+                "raw_name": "1.0 wt% K–Cu0.5Mg5CeOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "K–Cu7.5Mg5CeOx",
+                "raw_name": "1.2 wt% K–Cu7.5Mg5CeOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/ZnO",
+                "raw_name": "Cu/ZnO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Mg5CeOx",
             "raw_name": "Mg5CeOx",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "K–Cu0.5Mg5CeOx",
-            "raw_name": "1.0 wt% K–Cu0.5Mg5CeOx",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "K–Cu7.5Mg5CeOx",
-            "raw_name": "1.2 wt% K–Cu7.5Mg5CeOx",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Cu/ZnO",
-            "raw_name": "Cu/ZnO",
-            "article_identifiers": []
         }
-    ]
+    }
 }

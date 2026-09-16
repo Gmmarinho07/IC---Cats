@@ -1,24 +1,40 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "MgO",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru/MgO",
+                "raw_name": "Ru/MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgxAlOy",
+                "raw_name": "MgxAlOy",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru/MgxAlOy",
+                "raw_name": "Ru/MgxAlOy",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ru",
+                "raw_name": "Ru",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgO",
             "raw_name": "MgO",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "Ru/MgO",
-            "raw_name": "Ru/MgO",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgxAlOy",
-            "raw_name": "MgxAlOy",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Ru/MgxAlOy",
-            "raw_name": "Ru/MgxAlOy",
-            "article_identifiers": []
         }
-    ]
+    }
 }

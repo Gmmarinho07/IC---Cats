@@ -1,19 +1,35 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "MgAAl mixed oxides",
-            "raw_name": "MgAAl mixed oxides",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "HAP",
-            "raw_name": "HAP",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgAAlAO",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgAAl mixed oxides",
+                "raw_name": "MgAAl mixed oxides",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgAAlAO",
+                "raw_name": "MgAAlAO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgAAlAO",
             "raw_name": "MgAAlAO",
             "article_identifiers": []
         }
-    ]
+    }
 }

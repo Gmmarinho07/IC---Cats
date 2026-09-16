@@ -1,3 +1,9 @@
 {
-    "catalysts": []
+    "catalyst": {
+        "catalysts": []
+    },
+    "metal_support": {
+        "metal": [],
+        "support": null
+    }
 }

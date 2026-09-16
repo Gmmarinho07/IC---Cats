@@ -1,24 +1,34 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "MgO",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru/CeO2",
+                "raw_name": "Ru/CeO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru/CeO2-ZrO2",
+                "raw_name": "Ru/CeO2−ZrO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Rh(111)",
+                "raw_name": "Rh(111)",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "MgO",
             "raw_name": "MgO",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "Ru/CeO2",
-            "raw_name": "Ru/CeO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Ru/CeO2−ZrO2",
-            "raw_name": "Ru/CeO2−ZrO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Rh(111)",
-            "raw_name": "Rh(111)",
-            "article_identifiers": []
         }
-    ]
+    }
 }

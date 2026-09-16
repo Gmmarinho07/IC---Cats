@@ -1,9 +1,20 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "MgO",
-            "raw_name": "MgO",
-            "article_identifiers": []
-        }
-    ]
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "precipitation-MgO",
+                "raw_name": "precipitation-MgO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": null
+    }
 }

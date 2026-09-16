@@ -1,54 +1,80 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "7Cs/Sep@ 500",
-            "raw_name": "7Cs/Sep@ 500",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "2Na/Sep@ 500",
-            "raw_name": "2Na/Sep@ 500",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "2 K/Sep@ 500",
-            "raw_name": "2 K/Sep@ 500",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "5Na/Sep@ 500",
-            "raw_name": "5Na/Sep@ 500",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Sep@ 500",
-            "raw_name": "Sep@ 500",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Sep@ 700",
-            "raw_name": "Sep@ 700",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "2Cs/Sep@ 500",
-            "raw_name": "2Cs/Sep@ 500",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "4Cs/Sep@ 500",
-            "raw_name": "4Cs/Sep@ 500",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "5 K/Sep@ 500",
-            "raw_name": "5 K/Sep@ 500",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "14Cs/Sep@ 500",
-            "raw_name": "14Cs/Sep@ 500",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "7Cs/Sep@ 500",
+                "raw_name": "7Cs/Sep@ 500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "2Na/Sep@ 500",
+                "raw_name": "2Na/Sep@ 500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "2 K/Sep@ 500",
+                "raw_name": "2 K/Sep@ 500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "5Na/Sep@ 500",
+                "raw_name": "5Na/Sep@ 500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Sep@ 500",
+                "raw_name": "Sep@ 500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Sep@ 700",
+                "raw_name": "Sep@ 700",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "2Cs/Sep@ 500",
+                "raw_name": "2Cs/Sep@ 500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "4Cs/Sep@ 500",
+                "raw_name": "4Cs/Sep@ 500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "5 K/Sep@ 500",
+                "raw_name": "5 K/Sep@ 500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "14Cs/Sep@ 500",
+                "raw_name": "14Cs/Sep@ 500",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Na",
+                "raw_name": "Na",
+                "article_identifiers": []
+            },
+            {
+                "name": "K",
+                "raw_name": "K",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cs",
+                "raw_name": "Cs",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Sepiolite",
+            "raw_name": "Sepiolite 11AS-13",
             "article_identifiers": []
         }
-    ]
+    }
 }

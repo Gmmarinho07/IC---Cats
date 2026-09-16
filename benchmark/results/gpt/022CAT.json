@@ -1,54 +1,65 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "CuMMO",
-            "raw_name": "CuMMO",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "0.1CuMMO",
-            "raw_name": "0.1CuMMO",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "0.3CuMMO(vl)",
-            "raw_name": "0.3CuMMO(vl)",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "0.3CuMMO(l)",
-            "raw_name": "0.3CuMMO(l)",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "0.3CuMMO(h)",
-            "raw_name": "0.3CuMMO(h)",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "0.3CuMMO(i)",
-            "raw_name": "0.3CuMMO(i)",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "1.2CuMMO",
-            "raw_name": "1.2CuMMO",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "0CuMMO",
-            "raw_name": "0CuMMO",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "0.1CuMMO(pm)",
-            "raw_name": "0.1CuMMO(pm)",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "0.3CuMMO(m)",
-            "raw_name": "0.3CuMMO(m)",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "CuMMO",
+                "raw_name": "CuMMO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.1CuMMO",
+                "raw_name": "0.1CuMMO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.3CuMMO(vl)",
+                "raw_name": "0.3CuMMO(vl)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.3CuMMO(l)",
+                "raw_name": "0.3CuMMO(l)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.3CuMMO(h)",
+                "raw_name": "0.3CuMMO(h)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.3CuMMO(i)",
+                "raw_name": "0.3CuMMO(i)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0CuMMO",
+                "raw_name": "0CuMMO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "1.2CuMMO",
+                "raw_name": "1.2CuMMO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.1CuMMO(pm)",
+                "raw_name": "0.1CuMMO(pm)",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgAl hydrotalcite",
+            "raw_name": "MgAl hydrotalcite",
             "article_identifiers": []
         }
-    ]
+    }
 }

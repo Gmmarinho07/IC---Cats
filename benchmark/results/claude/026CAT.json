@@ -1,32 +1,34 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "Calcium-iron-modified Mg-Al based-hydrotalcite precursor",
-            "raw_name": "Ca20Fe20MgAl-LDH",
-            "article_identifiers": [
-                "Ca20Fe20MgAl-LDH"
-            ]
-        },
-        {
-            "catalyst": "Non-modified mixed oxide hydrotalcite-base precursor",
-            "raw_name": "MgAl-LDH",
-            "article_identifiers": [
-                "MgAl-LDH"
-            ]
-        },
-        {
-            "catalyst": "Calcium-iron-modified mixed oxide catalyst",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Calcium-iron-modified Mg-Al based-hydrotalcite precursor",
+                "raw_name": "Ca20Fe20MgAl-LDH",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Non-modified mixed oxide hydrotalcite-base precursor",
+                "raw_name": "MgAl-LDH",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium-iron-modified mixed oxide catalyst",
+                "raw_name": "Ca20Fe20MgAl-Ox",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mixed oxide catalyst",
+                "raw_name": "MgAl-Ox",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "MgAl-based hydrotalcite / mixed oxide",
             "raw_name": "Ca20Fe20MgAl-Ox",
-            "article_identifiers": [
-                "Ca20Fe20MgAl-Ox"
-            ]
-        },
-        {
-            "catalyst": "Non-modified mixed oxide catalyst",
-            "raw_name": "MgAl-Ox",
-            "article_identifiers": [
-                "MgAl-Ox"
-            ]
+            "article_identifiers": []
         }
-    ]
+    }
 }

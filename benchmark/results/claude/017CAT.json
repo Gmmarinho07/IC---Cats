@@ -1,87 +1,99 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "MgO/SiO2",
-            "raw_name": "MgO/SiO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcium hydroxyapatite",
-            "raw_name": "CaHAP",
-            "article_identifiers": [
-                "CaHAP"
-            ]
-        },
-        {
-            "catalyst": "MgO",
-            "raw_name": "MgO",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "SiO2",
-            "raw_name": "Syn-SiO2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "ZrO2",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgO/SiO2",
+                "raw_name": "MgO/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium hydroxyapatite",
+                "raw_name": "CaHAP",
+                "article_identifiers": [
+                    "CaHAP"
+                ]
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Synthetic silica",
+                "raw_name": "Syn-SiO2",
+                "article_identifiers": [
+                    "Syn-SiO2"
+                ]
+            },
+            {
+                "catalyst": "Zirconia",
+                "raw_name": "ZrO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium phosphate untreated",
+                "raw_name": "CaP untreated",
+                "article_identifiers": [
+                    "CaP untreated"
+                ]
+            },
+            {
+                "catalyst": "Calcium phosphate treated at 873 K",
+                "raw_name": "CaP 873 K",
+                "article_identifiers": [
+                    "CaP 873 K"
+                ]
+            },
+            {
+                "catalyst": "Calcium phosphate treated at 923 K",
+                "raw_name": "CaP 923 K",
+                "article_identifiers": [
+                    "CaP 923 K"
+                ]
+            },
+            {
+                "catalyst": "Calcium phosphate treated at 973 K",
+                "raw_name": "CaP 973 K",
+                "article_identifiers": [
+                    "CaP 973 K"
+                ]
+            },
+            {
+                "catalyst": "Calcium phosphate treated at 1073 K",
+                "raw_name": "CaP 1073 K",
+                "article_identifiers": [
+                    "CaP 1073 K"
+                ]
+            },
+            {
+                "catalyst": "Calcium phosphate treated at 1173 K",
+                "raw_name": "CaP 1173 K",
+                "article_identifiers": [
+                    "CaP 1173 K"
+                ]
+            },
+            {
+                "catalyst": "Calcium phosphate on silica",
+                "raw_name": "CaP/SiO2",
+                "article_identifiers": [
+                    "CaP/SiO2"
+                ]
+            },
+            {
+                "catalyst": "Calcium phosphate on zirconia",
+                "raw_name": "CaP/ZrO2",
+                "article_identifiers": [
+                    "CaP/ZrO2"
+                ]
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Zirconia",
             "raw_name": "ZrO2",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcium phosphate untreated",
-            "raw_name": "CaP untreated",
-            "article_identifiers": [
-                "CaP untreated"
-            ]
-        },
-        {
-            "catalyst": "Calcium phosphate treated at 873 K",
-            "raw_name": "CaP 873 K",
-            "article_identifiers": [
-                "CaP 873 K"
-            ]
-        },
-        {
-            "catalyst": "Calcium phosphate treated at 923 K",
-            "raw_name": "CaP 923 K",
-            "article_identifiers": [
-                "CaP 923 K"
-            ]
-        },
-        {
-            "catalyst": "Calcium phosphate treated at 973 K",
-            "raw_name": "CaP 973 K",
-            "article_identifiers": [
-                "CaP 973 K"
-            ]
-        },
-        {
-            "catalyst": "Calcium phosphate treated at 1073 K",
-            "raw_name": "CaP 1073 K",
-            "article_identifiers": [
-                "CaP 1073 K"
-            ]
-        },
-        {
-            "catalyst": "Calcium phosphate treated at 1173 K",
-            "raw_name": "CaP 1173 K",
-            "article_identifiers": [
-                "CaP 1173 K"
-            ]
-        },
-        {
-            "catalyst": "Calcium phosphate supported on SiO2",
-            "raw_name": "CaP/SiO2",
-            "article_identifiers": [
-                "CaP/SiO2"
-            ]
-        },
-        {
-            "catalyst": "Calcium phosphate supported on ZrO2",
-            "raw_name": "CaP/ZrO2",
-            "article_identifiers": [
-                "CaP/ZrO2"
-            ]
         }
-    ]
+    }
 }

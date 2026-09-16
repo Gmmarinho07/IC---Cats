@@ -1,19 +1,35 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "Cu-hydroxyapatite",
-            "raw_name": "Cu-HAP",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "hydroxyapatite",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu-hydroxyapatite",
+                "raw_name": "Cu-HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "hydroxyapatite",
+                "raw_name": "HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.5Cu-hydroxyapatite",
+                "raw_name": "0.5Cu-HAP",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "hydroxyapatite",
             "raw_name": "HAP",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "0.5Cu-hydroxyapatite",
-            "raw_name": "0.5Cu-HAP",
-            "article_identifiers": []
         }
-    ]
+    }
 }

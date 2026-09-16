@@ -1,9 +1,19 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "MgO",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "MgO",
             "raw_name": "MgO",
             "article_identifiers": []
         }
-    ]
+    }
 }

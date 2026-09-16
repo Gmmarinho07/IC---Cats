@@ -1,49 +1,59 @@
 {
-    "catalysts": [
-        {
-            "catalyst": "Alumina",
-            "raw_name": "alumina",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Calcined hydrotalcite",
-            "raw_name": "calcined hydrotalcites",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "MgO",
-            "raw_name": "MgO",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "Al2O3",
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Alumina",
+                "raw_name": "alumina",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcined hydrotalcite",
+                "raw_name": "calcined hydrotalcites",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Al2O3",
+                "raw_name": "Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CHT1",
+                "raw_name": "CHT1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CHT2",
+                "raw_name": "CHT2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CHT3",
+                "raw_name": "CHT3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CHT4",
+                "raw_name": "CHT4",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CHT5",
+                "raw_name": "CHT5",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Alumina",
             "raw_name": "Al2O3",
             "article_identifiers": []
-        },
-        {
-            "catalyst": "CHT1",
-            "raw_name": "CHT1",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "CHT2",
-            "raw_name": "CHT2",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "CHT3",
-            "raw_name": "CHT3",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "CHT4",
-            "raw_name": "CHT4",
-            "article_identifiers": []
-        },
-        {
-            "catalyst": "CHT5",
-            "raw_name": "CHT5",
-            "article_identifiers": []
         }
-    ]
+    }
 }
