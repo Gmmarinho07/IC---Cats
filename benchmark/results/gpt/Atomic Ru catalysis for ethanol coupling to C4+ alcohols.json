@@ -1,0 +1,60 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Ru/Mg3Al1-LDO-P-A",
+                "raw_name": "1.04 wt% Ru/Mg3Al1-LDO-P-A",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru/Mg3Al1-LDO-D-A",
+                "raw_name": "1.02 wt% Ru/Mg3Al1-LDO-D-A",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru/Mg3Al1-LDO-E-A",
+                "raw_name": "0.95 wt% Ru/Mg3Al1-LDO-E-A",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru/Mg3Al1-LDO-I-A",
+                "raw_name": "0.97 wt% Ru/Mg3Al1-LDO-I-A",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru/Mg3Al1-LDO-P-N",
+                "raw_name": "1.08 wt% Ru/Mg3Al1-LDO-P-N",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru/Mg3Al0.9Ga0.1-LDO-P-A",
+                "raw_name": "1.11 wt% Ru/Mg3Al0.9Ga0.1-LDO-P-A",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru/Mg3Al0.9Zr0.1-LDO-P-A",
+                "raw_name": "1.07 wt% Ru/Mg3Al0.9Zr0.1-LDO-P-A",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "RuOx/Mg3Al1-LDO-P-A",
+                "raw_name": "RuOx/Mg3Al1-LDO-P-A",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ru",
+                "raw_name": "Ru",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Mg3Al1-LDO",
+            "raw_name": "Mg3Al1-LDO",
+            "article_identifiers": []
+        }
+    }
+}

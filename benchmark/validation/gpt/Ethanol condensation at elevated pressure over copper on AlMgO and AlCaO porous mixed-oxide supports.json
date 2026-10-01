@@ -1,0 +1,119 @@
+{
+    "paper": "Ethanol condensation at elevated pressure over copper on AlMgO and AlCaO porous mixed-oxide supports",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "AlMgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "AlMgO and AlMgO-P achieving only 7.1 and 11.1% conversion",
+                "reason": "The catalyst AlMgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "AlMgO-P",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "AlMgO and AlMgO-P achieving only 7.1 and 11.1% conversion",
+                "reason": "The catalyst AlMgO-P is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "AlCaO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "AlCaO and AlCaO-P demonstrating essentially no activity",
+                "reason": "The catalyst AlCaO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "AlCaO-P",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "AlCaO and AlCaO-P demonstrating essentially no activity",
+                "reason": "The catalyst AlCaO-P is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/AlMgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/AlMgO and Cu/AlMgO-P showed similar activities",
+                "reason": "The catalyst Cu/AlMgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/AlMgO-P",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/AlMgO and Cu/AlMgO-P showed similar activities",
+                "reason": "The catalyst Cu/AlMgO-P is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/AlCaO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/AlCaO for Cu/AlCaO-P, respectively",
+                "reason": "The catalyst Cu/AlCaO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/AlCaO-P",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/AlCaO for Cu/AlCaO-P, respectively",
+                "reason": "The catalyst Cu/AlCaO-P is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu loading determined by ICP.",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu loading determined by ICP.",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "AlMgO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "AlMgO and AlMgO-P achieving only 7.1 and 11.1% conversion",
+                "reason": "The support AlMgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "AlMgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "AlMgO and AlMgO-P achieving only 7.1 and 11.1% conversion",
+                "reason": "The support AlMgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "S1",
+                "field": "article_identifiers",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The identifier S1 is not explicitly mentioned in the context."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 1,
+            "partial": 0,
+            "correct": 12
+        }
+    }
+}

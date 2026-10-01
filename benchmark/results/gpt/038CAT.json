@@ -17,87 +17,87 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "Alumina",
+                "catalyst": "-Alumina",
                 "raw_name": "-Al2O3",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Sodium-loaded alumina",
+                "catalyst": "10% Na/Al2O3",
                 "raw_name": "10% Na/Al2O3",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Potassium-loaded alumina",
+                "catalyst": "10% K/Al2O3",
                 "raw_name": "10% K/Al2O3",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Cesium-loaded alumina",
+                "catalyst": "10% Cs/Al2O3",
                 "raw_name": "10% Cs/Al2O3",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Magnesium-silica",
+                "catalyst": "10% Mg/SiO2",
                 "raw_name": "10% Mg/SiO2",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Barium-loaded magnesium oxide",
+                "catalyst": "10% Ba/MgO",
                 "raw_name": "10% Ba/MgO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Calcium-loaded magnesium oxide",
+                "catalyst": "10% Ca/MgO",
                 "raw_name": "10% Ca/MgO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Zinc-loaded magnesium oxide",
+                "catalyst": "10% Zn/MgO",
                 "raw_name": "10% Zn/MgO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Cerium-loaded magnesium oxide",
+                "catalyst": "10% Ce/MgO",
                 "raw_name": "10% Ce/MgO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Zirconium-loaded magnesium oxide",
+                "catalyst": "10% Zr/MgO",
                 "raw_name": "10% Zr/MgO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Lead-loaded magnesium oxide",
+                "catalyst": "10% Pb/MgO",
                 "raw_name": "10% Pb/MgO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Tin-loaded magnesium oxide",
+                "catalyst": "10% Sn/MgO",
                 "raw_name": "10% Sn/MgO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Copper-loaded magnesium oxide",
+                "catalyst": "10% Cu/MgO",
                 "raw_name": "10% Cu/MgO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Hydrochloric acid-modified magnesium oxide",
+                "catalyst": "10% HCl/MgO",
                 "raw_name": "10% HCl/MgO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Phosphoric acid-modified magnesium oxide",
+                "catalyst": "10% H2PO4/MgO",
                 "raw_name": "10% H2PO4/MgO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Acetic acid-modified magnesium oxide",
+                "catalyst": "10% Acetic/MgO",
                 "raw_name": "10% Acetic/MgO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Sulfuric acid-modified magnesium oxide",
+                "catalyst": "1% H2SO4/MgO",
                 "raw_name": "1% H2SO4/MgO",
                 "article_identifiers": []
             }

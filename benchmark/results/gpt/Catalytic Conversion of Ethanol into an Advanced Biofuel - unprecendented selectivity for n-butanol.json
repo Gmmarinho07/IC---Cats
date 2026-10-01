@@ -1,0 +1,45 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "[RuCl(h6-p-cymene)(3)]Cl",
+                "raw_name": "[RuCl(h6-p-cymene)(3)]Cl",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "trans-[RuCl2(3)]",
+                "raw_name": "trans-[RuCl2(3)]",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "[RuH2(3)]",
+                "raw_name": "[RuH2(3)]",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "[RuCl2(L)]",
+                "raw_name": "[RuCl2(L)]",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "trans-[RuCl2(3)2]",
+                "raw_name": "trans-[RuCl2(3)2]",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ruthenium",
+                "raw_name": "[RuCl(h6-p-cymene)(3)]Cl",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": null,
+            "raw_name": null,
+            "article_identifiers": []
+        }
+    }
+}

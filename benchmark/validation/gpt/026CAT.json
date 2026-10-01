@@ -1,0 +1,95 @@
+{
+    "paper": "026CAT",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium-iron-modified Mg-Al based-hydrotalcite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium-iron-modified Mg-Al based-hydrotalcite precursor was prepared by a co-precipitation method",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca20Fe20MgAl-LDH",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the resulting hydrotalcites were calcined at 400 ◦C... deriving in mixed oxides catalysts designated as Ca20Fe20MgAl-Ox and MgAl-Ox",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAl-LDH",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Another non-modified mixed oxide hydrotalcite-base precursor, MgAl-LDH, was synthesized",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca20Fe20MgAl-Ox",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the resulting hydrotalcites were calcined at 400 ◦C... deriving in mixed oxides catalysts designated as Ca20Fe20MgAl-Ox and MgAl-Ox",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAl-Ox",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the resulting hydrotalcites were calcined at 400 ◦C... deriving in mixed oxides catalysts designated as Ca20Fe20MgAl-Ox and MgAl-Ox",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ca",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "partial substitution of Mg by Ca (80%Mg2+ + 20%Ca2+ in molar basis)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Fe",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "partial substitution of Al by Fe (80%Al3+ + 20%Fe3+ in molar basis)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Mg",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "partial substitution of Mg by Ca (80%Mg2+ + 20%Ca2+ in molar basis)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Al",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "partial substitution of Al by Fe (80%Al3+ + 20%Fe3+ in molar basis)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAl-LDH",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Another non-modified mixed oxide hydrotalcite-base precursor, MgAl-LDH, was synthesized",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 10
+        }
+    }
+}

@@ -1,0 +1,229 @@
+========== ABSTRACT ==========
+
+ABSTRACT: Although butadiene is currently a byproduct of
+naphtha cracking, interest in producing butadiene from biobased
+ethanol has increased because of the lower environmental impact
+of the ethanol to butadiene reaction. This work explores a
+multifunctional catalyst system composed of silica-supported Ag
+and ZrO2 used for the cascade reaction of ethanol to butadiene at
+573 K. The Ag and ZrO2 components were synthesized on
+separate support particles, enabling the characterization of each
+component without interference from the other. High selectivity to
+butadiene (65%) at high ethanol conversion (75%) was achieved
+with an appropriate ratio of Ag and ZrO2 in the reactor. Silver
+catalyzed the initial dehydrogenation of ethanol to acetaldehyde,
+while ZrO2 catalyzed the C−C coupling and subsequent dehydration reactions. The silica-supported ZrO2 exhibited superior
+selectivity relative to bulk ZrO2 in the Ag-promoted ethanol to butadiene reaction.
+
+
+========== EXPERIMENTAL ==========
+
+m.
+Zirconia is known to have two band-to-band transitions
+occurring at 238 and 214 nm for monoclinic ZrO2.34 Addition
+of tetragonal ZrO2 tends to blue shift the feature at 238 nm.
+The diﬀerence in band maximum for tetragonal versus
+monoclinic ZrO2 is well described in literature.35,36 Therefore,
+it is not surprising that the band maximum reported in Figure
+2b occurs at a higher wavelength for the monoclinic ZrO2(M)
+compared to the mixed phase ZrO2(M + T). Although the
+band maximum red-shifted with increasing ZrO2 content for
+the ZrO2/SiO2 samples, the band maximum for each of the
+two bulk ZrO2 samples was at a higher wavelength than that of
+16ZrO2/SiO2. These results indicate that the supported ZrO2
+is highly dispersed on the surface of the SiO2, but approaches a
+more crystalline form at higher loadings of ZrO2.33,35
+X-ray Absorption Spectroscopy. In situ X-ray absorption
+spectroscopy (XAS) was conducted on catalysts with diﬀerent
+ZrO2 loadings to study the change in the Zr environment with
+respect to ZrO2 loading and thermal treatment. Figure 3 shows
+the Zr K-edge X-ray absorption near edge structure (XANES)
+of catalysts with diﬀerent ZrO2 loadings compared with
+monoclinic and tetragonal ZrO2. The spectra of the
+unsupported ZrO2 samples are consistent with the monoclinic
+Table 1. Surface Area, Pore Volume, and Composition of
+Catalysts
+catalysta
+surface
+area
+(m2 g−1)
+pore
+volume
+(cm3 g−1)
+nominal Zr
+loading
+(wt %)
+ICP-OES
+results
+(wt %)
+ZrO2(M)
+8.0
+0.014
+ZrO2(M + T)
+110
+0.36
+SiO2
+500
+0.83
+1Ag/SiO2
+430
+0.82
+Ag - 1.0
+2ZrO2/SiO2
+460
+0.85
+1.5
+Zr - 1.2
+4ZrO2/SiO2
+460
+0.86
+3.0
+Zr - 2.6
+8ZrO2/SiO2
+440
+0.79
+6.0
+Zr - 5.5
+16ZrO2/SiO2
+390
+0.71
+12
+Zr - 10
+20ZrO2/SiO2
+390
+0.73
+15
+Zr - 13
+1Ag/4ZrO2/SiO2
+450
+0.77
+Ag - 0.9
+3.0
+Zr - 2.7
+axAg and xZro2 are the nominal composition.
+ACS Sustainable Chemistry & Engineering
+pubs.acs.org/journal/ascecg
+Research Article
+https://doi.org/10.1021/acssuschemeng.1c07459
+ACS Sustainable Chem. Eng. 2022, 10, 1020−1035
+1023
+and tetragonal Zr K-edg
+
+rted ZrO2 is
+independent of the Zr surface density over the tested range.
+Table 5. Ethanol Reaction over Bulk and Supported ZrO2 Catalystsa
+selectivity (%)
+catalyst
+conv (%)
+rate × 10−3 (mol (mol Zr)−1 s−1)
+DEE + ethenec
+AcHc
+butadiene
+otherc
+ZrO2(M)b
+6.1
+0.81
+89
+11
+ZrO2(M + T)
+16
+10
+78
+11
+5
+6
+4ZrO2/SiO2
+10
+0.75
+90
+10
+4ZrO2/SiO2
+17
+0.43
+93
+6
+1
+aReaction conditions: 6 kPa ethanol, 573 K. bLower conversion due to lower surface area. cDEE = diethyl ether, AcH = acetaldehyde, other =
+crotonaldehyde, butanol, butenes, C5+, C6+ products.
+Table 6. Ethanol Reaction over Coimpregnated and Physical Mixture of Silica-Supported Ag and ZrO2a
+selectivity (%)
+catalyst
+conv (%)
+DEE + etheneb
+AcHb
+butadiene
+otherb
+1Ag/4ZrO2/SiO2
+20
+15
+47
+36
+2
+1Ag/SiO2 and 4ZrO2/SiO2
+25
+14
+35
+49
+2
+aReaction conditions: 6 kPa ethanol, 573 K. bDEE = diethyl ether, AcH = acetaldehyde, other = crotonaldehyde, butanol, butenes, C5+, C6+
+products.
+Table 7. Physical Mixture of 1Ag/SiO2 and 4ZrO2/SiO2 at Diﬀerent Mass Ratios in the Ethanol Reactiona
+selectivity (%)
+entry
+catalyst
+mass ratio
+conv (%)
+DEE + etheneb
+AcHb
+butadiene
+otherb
+1
+1Ag/SiO2 and 4ZrO2/SiO2
+0.5
+21
+8
+45
+44
+3
+2
+1Ag/SiO2 and 4ZrO2/SiO2
+0.25
+24
+34
+22
+42
+2
+3
+1Ag/SiO2 and 8ZrO2/SiO2
+1
+26
+10
+40
+46
+4
+a1Ag/SiO2 was kept constant at 0.2 g, while 4ZrO2/SiO2 was varied. Reaction conditions: 6 kPa ethanol, 573 K. bDEE = diethyl ether, AcH =
+acetaldehyde, other = crotonaldehyde, butanol, butenes, and C5+ and C6+ products.
+ACS Sustainable Chemistry & Engineering
+pubs.acs.org/journal/ascecg
+Research Article
+https://doi.org/10.1021/acssuschemeng.1c07459
+ACS Sustainable Chem. Eng. 2022, 10, 1020−1035
+1029
+Ethanol Reactions over Unsupported and SiO2-
+Supported ZrO2 Physically Mixed with 1Ag/SiO2.
+Physical mixtures of ZrO2(M) and 1Ag/SiO2 were compared
+with physical mixtures of 4ZrO2/SiO2 and 1Ag/SiO2 in the
+reaction of ethanol at 573 K and the results for similar ethanol
+conversion (∼25%) are summarized in Figure 11. The ratio of
+Ag to ZrO2 present in the p
+
+
+========== RESULTS ==========
+
+Results from Zr K-edge X-ray absorption
+spectroscopy and UV−vis spectroscopy showed that ZrO2 was highly dispersed on the silica support over a range of loadings.
+Infrared spectroscopy of adsorbed pyridine, CO, and CO2, and kinetics of probe reactions 1-butene double bond isomerization, 2-
+propanol decomposition, and ethanol hydrogenation of acetone were used to compare the acid−base nature and chemical reactivity
+of silica-supported ZrO2 to bulk ZrO2.
+KEYWORDS: acid, base, Lebedev reaction, zirconia, ethanol coupling
+■

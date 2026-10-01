@@ -1,0 +1,60 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "CuZn-BTC",
+                "raw_name": "CuZn-BTC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuZnBTC@SiO2",
+                "raw_name": "CuZnBTC@SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuZnO@SiO2",
+                "raw_name": "CuZnO@SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/ZnO@SiO2",
+                "raw_name": "Cu/ZnO@SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/ZnO",
+                "raw_name": "Cu/ZnO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu@SiO2",
+                "raw_name": "Cu@SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "ZnO@SiO2",
+                "raw_name": "ZnO@SiO2",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Zn",
+                "raw_name": "Zn",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "SiO2",
+            "raw_name": "SiO2",
+            "article_identifiers": []
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Ni",
+                "raw_name": "Ni-19",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HTC",
+                "raw_name": "HTC-500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Co",
+                "raw_name": "Co-16",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu",
+                "raw_name": "Cu-1.8",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu",
+                "raw_name": "Cu-4.5",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni-19",
+                "article_identifiers": []
+            },
+            {
+                "name": "Co",
+                "raw_name": "Co-16",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cu",
+                "raw_name": "Cu-1.8",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cu",
+                "raw_name": "Cu-4.5",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Al2O3",
+            "raw_name": "Al2O3",
+            "article_identifiers": []
+        }
+    }
+}

@@ -1,0 +1,153 @@
+========== ABSTRACT ==========
+
+Abstract: The coupling of biomass-derived ethanol to n-butanol is 
+a topic of contemporary interest. Indeed, n-butanol can not only be 
+used as a higher energy-density fuel additive, it is also a key 
+component in perfumes and serves as a solvent for paints and 
+dyes. Hydroxyapatite (HAP) emerged in the literature as a 
+promising catalysts for this transformation, with n-butanol selectivity 
+reaching ~75% at 10% ethanol conversion. However, the 
+molecular-level mechanism for this reaction is still unclear and 
+several mechanistic questions remain unanswered. Here, we use 
+diffuse reflectance infrared Fourier Transform spectroscopy, 
+coupled with mass spectrometry following a modulation excitation 
+approach (ME-DRIFTS-MS) that enables us to better understand 
+the dynamic processes involved. Our approach allows for a 
+vibrational characterization of the active surface species and the 
+formulation of a consistent mechanism. Based on our
+
+
+========== EXPERIMENTAL ==========
+
+experimental 
+observations, Ca2+/OH- can be put forward as the main active site 
+for the aldol condensation. POH/OH- acid-base pair is proposed as 
+the active site for the Meerwein-Ponndorf-Verley (MPV) direct 
+hydrogen 
+transfer 
+of 
+the 
+aldol 
+condensation 
+product, 
+crotonaldehyde.
+
+
+========== RESULTS ==========
+
+Results and Discussion 
+In this work we use modulation excitation (ME) with diffuse 
+reflectance infrared Fourier Transform spectroscopy coupled 
+with mass spectrometry (DRIFTS-MS). Modulation excitation 
+spectroscopy works similarly to a lock-in amplifier which is 
+used to enhance the signal-to-noise ratio and extract the 
+desired signals from noisy condition.[16-17] The same concept 
+can also apply to a spectroscopic technique by periodically 
+perturbing the system with one variable such as reactant 
+concentration, temperature, pressure, or radiation.[15a] When a 
+catalytic system is perturbed under quasi steady-state 
+conditions, reaction intermediates will oscillate with the same 
+frequency. After averaging several periods, the signal from 
+active species will be enhanced while the spectator species will 
+not respond to the stimulation and can thus be easily 
+distinguished. In addition, the signal-to-noise ratio will increase 
+because of the averaging. Moreover, by operating with phase 
+sensitive detection (PSD) to transform from time-domain to 
+phase-domain, different active species will show distinct phase-
+delays compared to the starting reactant. These different phase 
+shifts contain kinetic information. 
+ The transmission IR spectrum of the commercial HAP 
+sample dehydrated at 600oC is shown in Figure S1. The peak 
+at 3572 cm-1 corresponds to the columnar hydroxyl group (OH-) 
+on HAP. The band at 3648 cm-1 is attributed to bulk POH group; 
+3674 and 3706 cm-1 correspond to surface POH site which 
+coincide with previous reports. The combination bands and 
+overtone of P-O feature can also be observed at 2200-1900 
+cm-1. The bands between 1550 and 1250 cm-1 are attributed to 
+carbonate species.[10a, 18] The wavenumbers of POH peaks 
+discovered here are slightly higher than in the literature. 
+Although the recording temperature may affect the IR peak 
+position, the room temperature HAP reference IR spectrum 
+(Figure S1) is similar to a previous study.[18b] In op
+
+buted to 
+carbonate species.[10a, 18] The wavenumbers of POH peaks 
+discovered here are slightly higher than in the literature. 
+Although the recording temperature may affect the IR peak 
+position, the room temperature HAP reference IR spectrum 
+(Figure S1) is similar to a previous study.[18b] In operando 
+condition, we recorded the IR spectra at 330oC compared to 
+350oC in previous report.[13] Given the closeness of the 
+recording temperatures, we attribute POH peak position 
+discrepancies mainly to the higher dehydration temperature 
+(600oC) in this study. The X-ray diffraction pattern is presented 
+in Figure S2 and is identical to previous literature and shows no 
+signs of impurities.[10a] 
+ 
+Modulation experiments with ethanol 
+We first introduce the starting reactant, ethanol, to the 
+system to understand the formation of reaction intermediates. 
+Before starting the modulation experiment, HAP was treated 
+under pure Ar flow and heated to 330 °C, followed by periodic 
+switching between ethanol and pure Ar. The outlet is monitored 
+by mass spectrometry. The chosen m/z values correspond to 
+unique MS fragments of each intermediate and product and 
+some signals are scaled for better reading (Figure 1a). When 
+ethanol is introduced into the system, the signals from the 
+reaction intermediates and product such as acetaldehyde 
+(m/z=44), crotyl alcohol (m/z=57), and n-butanol (m/z=56) can 
+be observed. During ethanol coupling, 1,3-butadiene (m/z=54) 
+occurs as the side product obtained via the dehydration of 
+crotyl alcohol by Lewis acid site on HAP.[12] Only trace amounts 
+of butanal (m/z=72) and crotonaldehyde (m/z=70) are observed, 
+implying that hydrogenation of the carbonyl group on both 
+species occurs rapidly. The product distribution (i.e. the 
+selectivity) is in line with a previous kinetic study.[10a]
+10.1002/cctc.202000331
+Accepted Manuscript
+ChemCatChem
+This article is protected by copyright. All rights reserved.
+FULL PAPER 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+Figure 1. Modula
+
+bonyl group on both 
+species occurs rapidly. The product distribution (i.e. the 
+selectivity) is in line with a previous kinetic study.[10a]
+10.1002/cctc.202000331
+Accepted Manuscript
+ChemCatChem
+This article is protected by copyright. All rights reserved.
+FULL PAPER 
+ 
+ 
+ 
+3 
+ 
+ 
+ 
+Figure 1. Modulation experiment between ethanol (5.0%) in Ar and pure Ar (20 mL min-1) over 5 mg hydroxyapatite (HAP) at 330oC, the total flow rate for both 
+channel are 20 mL min-1 which Ar behaves as balance gas (a) selected m/z signals from mass spectrometry response (b) Time-domain DRIFT spectra and the 
+line at 122 sec. indicates gas channels switch. 
+In the first half period of the experiment, the surface is 
+covered by ethanol as indicated by the features at 3666, 2972, 
+2933 and 2903 cm-1 for υ(O-H), υ(CH3, asymmetric stretching), 
+υ(CH2, 
+asymmetric 
+stretching), 
+and 
+υ(CH3, 
+symmetric 
+stretching), 
+respectively 
+(Figure 
+1b). 
+This 
+observation 
+corroborates the

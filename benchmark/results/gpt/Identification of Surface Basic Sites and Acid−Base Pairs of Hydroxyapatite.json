@@ -1,0 +1,24 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "hydroxyapatite",
+                "raw_name": "hydroxyapatite (HAp)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "calcium hydroxapatite",
+                "raw_name": "calcium hydroxapatite sample (Ca10(PO4)6(OH)2)",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "hydroxyapatite",
+            "raw_name": "HAp",
+            "article_identifiers": []
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "hydroxyapatite",
+                "raw_name": "hydroxyapatite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAp-S623 K",
+                "raw_name": "HAp-S623 K",
+                "article_identifiers": [
+                    "S"
+                ]
+            },
+            {
+                "catalyst": "HAp-O623 K",
+                "raw_name": "HAp-O623 K",
+                "article_identifiers": [
+                    "O"
+                ]
+            },
+            {
+                "catalyst": "HAp-O873 K",
+                "raw_name": "HAp-O873 K",
+                "article_identifiers": [
+                    "O"
+                ]
+            },
+            {
+                "catalyst": "HAp-U623 K",
+                "raw_name": "HAp-U623 K",
+                "article_identifiers": [
+                    "U"
+                ]
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "hydroxyapatite",
+            "raw_name": "Hydroxyapatite",
+            "article_identifiers": []
+        }
+    }
+}

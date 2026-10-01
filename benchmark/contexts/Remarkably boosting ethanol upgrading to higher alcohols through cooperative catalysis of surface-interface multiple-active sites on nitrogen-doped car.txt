@@ -1,0 +1,402 @@
+========== ABSTRACT ==========
+
+ lactones to diols over CuLax/γ-Al2O3 catalyst: 
+the promoting role of LaOx, Appl. Catal. B: Environ. 317 (2022), 121689. 
+[73] X. Li, J. Pang, Y. Zhao, P. Wu, W. Yu, P. Yan, Y. Su, M. Zheng, Ethanol 
+dehydrogenation to acetaldehyde over a Cuδ+-based Cu-MFI catalyst, Chin. J. 
+Catal. 49 (2023) 91–101. 
+[74] Z.-Q. Li, X. Fu, C. Gao, J. Huang, B. Li, Y. Yang, J. Gao, Y. Shen, Z. Peng, J.-H. Yang, 
+Z. Liu, Enhancing the matching of acid/metal balance by engineering an extra 
+Si–Al framework outside the Pd/HBeta catalyst towards benzene hydroalkylation, 
+Catal. Sci. Technol. 10 (2020) 1467–1476. 
+[75] Y. Fang, H. Sun, W. Peng, Q.H. Yuan, C. Zhao, Effect of surface [Cu4O] moieties on 
+the activity of Cu-based catalysts, ACS Catal. 12 (2022) 5162–5173. 
+[76] E.X. Yuan, P. Ni, J. Xie, P.M. Jian, X. Hou, Highly efficient dehydrogenation of 2,3- 
+butanediol induced by metal–support interface over Cu-SiO2 catalysts, ACS Sus. 
+Chem. Eng. 8 (2020) 15716–15731. 
+[77] J. Zhang, Y.Z. Zhang, J.Q. Zhao, Z. An, Y.R. Zhu, X. Shu, H.Y. Song, X. Xiang, X. 
+D. Ma, J. He, Cu-Pd pair facilitated simultaneous activation of ethanol and CO, 
+J. Catal. 386 (2020) 81–93. 
+[78] J.F. Yu, M. Yang, J.X. Zhang, Q.J. Ge, A.N. Zimina, T. Pruessmann, L. Zheng, J. 
+D. Grunwaldt, J. Sun, Stabilizing Cu+ in Cu/SiO2 catalysts with a shattuckite-like 
+structure boosts CO2 hydrogenation into methanol, ACS Catal. 10 (2020) 
+14694–14706. 
+[79] Y.J. Zhao, H.H. Zhang, Y.X. Xu, S.N. Wang, Y. Xu, S.P. Wang, X.B. Ma, Interface 
+tuning of Cu+/Cu0 by zirconia for dimethyl oxalate hydrogenation to ethylene 
+glycol over Cu/SiO2 catalyst, J. Energy Chem. 49 (2020) 248–256. 
+[80] Y. Wang, Y.L. Shen, Y.J. Zhao, J. Lv, S.P. Wang, X.B. Ma, Insight into the balancing 
+effect of active Cu species for hydrogenation of carbon–oxygen bonds, ACS Catal. 5 
+(2015) 6200–6208. 
+[81] R.P. Ye, L. Lin, L.C. Wang, D. Ding, Z.F. Zhou, P.B. Pan, Z.H. Xu, J. Liu, 
+H. Adidharma, M. Radosz, M.H. Fan, Y.G. Yao, Perspectives on the active sites
+
+
+========== EXPERIMENTAL ==========
+
+Experimental section 
+2.1. Preparation of catalysts 
+Melamine/CuMgAl-LDH composite precursors were prepared by the 
+coprecipitation method with a microliquid film (MLF) reactor [38]. 
+First, a 150 mL of metal salt solution (solution A) containing Cu 
+(NO3)2⋅6 H2O, Mg(NO3)2⋅6 H2O, and Al(NO3)3⋅9 H2O with a set molar 
+ratio of 0.5:3:1 was prepared. Meanwhile, a base solution (150 mL, so­
+lution B) containing Na2CO3 (0.2 M) and NaOH (0.75 M) was prepared. 
+Both solutions were poured simultaneously into the MLF reactor and 
+stirred vigorously for 5 min at a rotor speed of 3500 rpm. Next, a certain 
+amount of melamine at a set melamine/Cu molar ratio of x (x = 0, 1, 2, 
+3) was added into the synthesis suspension before stirring vigorously at 
+60 ◦C for 12 h. The resulting suspension was centrifuged, washed until 
+the pH reached 7.0 ± 0.2, and further dried in air at 60 ◦C overnight to 
+obtain melamine/LDH precursors. The precursors were subsequently 
+treated at various temperatures for 6 h in a nitrogen atmosphere and 
+then reduced at 300 ◦C for 2 h in a flow of 10% H2/N2. The resulting 
+samples were named Cu-NC-x-T, where T represents the calcination 
+temperatures (T = 450, 550, 650, and 750 ◦C). In addition, the precursor 
+with a melamine/Cu molar ratio of 2.0 was calcinated at 550 ◦C in air 
+and subsequently reduced in10% H2/N2 atmosphere at 300 ◦C for 2 h to 
+obtain Cu-NC-2–550(A) comparison catalyst. 
+2.2. Sample characterization 
+Various characterizations including powder X-ray diffraction (XRD), 
+low-temperature N2 adsorption-desorption, transmission electron mi­
+croscopy (TEM), scanning transmission electron microscopy (STEM), X- 
+ray photoelectron spectroscopy (XPS), X-ray absorption fine-structure 
+spectroscopy (XAFS), hydrogen temperature programmed reduction 
+(H2-TPR), temperature programmed desorption with CO2, NH3, or H2 as 
+probe molecules (CO2-TPD, NH3-TPD, or H2-TPD), temperature pro­
+grammed decomposition (TPDE), N2O titration, in situ Fourier trans­
+fo
+
+ at 200 ◦C by a high-pressure 
+liquid pump at 40 µL/min, with N2 co-feed at 40 mL/min. The reaction 
+was maintained under the desired conditions until a steady state was 
+reached (10 h). Then the products were kept heated at > 200 ◦C before 
+flowing to vent or to the preheated autosampler through a three-way 
+valve, then monitored on-line by a gas chromatograph (GC) equipped 
+with a flame ionization detector (FID, with a FFAP column (30 m × 0.32 
+mm)) and a thermal conductivity detector (TCD, with a HP-PLOT/Q 
+column (30 m × 0.32 mm)). The products were simultaneously detec­
+ted by TCD and FID detectors every 0.5 h via a six-way valve in the 
+autosampler. The obtained products were further identified by GC-MS, 
+and the relative correction factors of each product were quantitatively 
+calculated by internal standard method. Ethanol conversion (Conv), 
+product selectivity (Select), rate of ethanol conversion (r), and space- 
+time yield of higher alcohols (STY) were calculated by Eq. (1-4) as 
+follows: 
+Conv(%) =
+(
+1 −Remaining
+molar
+amount
+of
+ethanol
+Total
+molar
+amount
+of
+ethanol
+)
+× 100
+(1) 
+Select(%) = Molar
+amount
+of
+carbon
+in
+the
+target
+product
+Molar
+amount
+of
+carbon
+in
+converted
+ethanol
+× 100
+(2) 
+L. Yuan et al. 
+Applied Catalysis B: Environmental 343 (2024) 123488
+3
+r(mmol⋅
+g−1
+cat
+⋅h−1) = F
+EtOH,in
+× Conv
+Wcat
+(3) 
+STY(mmol⋅
+g−1
+cat
+⋅h−1) = F
+EtOH,in
+× Conv ×
+SelectHA
+Wcat
+(4) 
+where FEtOH,in is the molar flow of ethanol in the inlet (mmol⋅h−1), 
+SelectHA is the selectivity of higher alcohols in the outlet, and Wcat (g) is 
+the catalyst weight. 
+3.
+
+
+========== RESULTS ==========
+
+Results and discussion 
+3.1. Catalytic activity in the conversion of ethanol 
+As illustrated in Fig. 1A, the conversion of ethanol to higher alcohols 
+(Guerbet reaction) typically involves tandem reactions consisting of 
+ethanol dehydrogenation, acetaldehyde condensation, dehydration, and 
+hydrogenation [43], accompanied by dehydrogenation coupling reac­
+tion to produce ethyl acetate (EA) as the main side reaction. Various 
+NC-decorated Cu-based obtained at the calcination temperature of 
+550 ◦C were first evaluated in the continuous conversion of ethanol to 
+higher alcohols at 250 ◦C and 4 MPa of reaction pressure. As depicted in 
+Fig. 1. (A) Schematic representation for reaction paths of ethanol conversion. (B) Comparison of catalytic performance in Guerbet reaction over different NC- 
+decorated Cu-based catalysts (AcH = acetaldehyde, EA = ethyl acetate, BuOH = n-butanol, HexOH = n-hexanol, OctOH = n-octanol；other by-products include 
+butyl acetate, ethyl butyrate, 1,1-diethoxyethane, 2-ethyl-butanol, 2-ethyl hexanal). (C) Arrhenius plots of reaction rate of Guerbet reaction over Cu-NC-0–550 and 
+Cu-NC-2–550 catalysts. (D) Effect of calcination temperature for precursors on the catalytic performance of different Cu-NC-2-T catalysts. Reaction conditions: 
+250 ◦C; LHSV of 2.4 mL⋅gcat
+−1⋅h−1; 4.0 MPa; and N2 atmosphere); (E) Catalytic performance of Cu-NC-2–550 under different reaction conditions: (a) 250 ◦C, LHSV of 
+2.4 mL⋅gcat
+−1⋅h−1, 4 MPa, and N2 atmosphere; (b) 250 ◦C, LHSV of 3.6 mL⋅gcat
+−1⋅h−1, 2.0 MPa, and N2 atmosphere. (F) Comparison of yield of higher alcohols versus 
+ethanol reaction rate reported in this work and in the literature in continuous Guerbet reaction in fixed bed reactor. (G) Stability test of Cu-NC-2–550 catalysts in 
+upgrading ethanol to higher alcohols at 250 ◦C, 2.0 MPa, LHSV of 3.6 mL⋅gcat
+−1⋅h−1, and N2 atmosphere. 
+L. Yuan et al. 
+Applied Catalysis B: Environmental 343 (2024) 123488
+4
+Fig. 1B, the unmodified Cu-NC-0–550 catalyst exhibi
+
+on in fixed bed reactor. (G) Stability test of Cu-NC-2–550 catalysts in 
+upgrading ethanol to higher alcohols at 250 ◦C, 2.0 MPa, LHSV of 3.6 mL⋅gcat
+−1⋅h−1, and N2 atmosphere. 
+L. Yuan et al. 
+Applied Catalysis B: Environmental 343 (2024) 123488
+4
+Fig. 1B, the unmodified Cu-NC-0–550 catalyst exhibits poorer catalytic 
+activity with a low ethanol conversion of 38% compared to 
+NC-decorated Cu-based catalysts. Notably, as the melamine/Cu molar 
+ratio in precursors increases from 1:1–3:1, ethanol conversion first in­
+creases and then declines. Accordingly, Cu-NC-2–550 catalyst achieves a 
+highest conversion of 57%. Of all Cu-based catalysts, however, no sig­
+nificant change in selectivity to higher alcohols (C4–8-OH) is observed, 
+maintaining selectivity to higher alcohols at 65–68%. Therefore, with 
+the increasing melamine/Cu molar ratio in precursors, the space-time 
+yield (STY) of higher alcohols also shows a similar change trend with 
+ethanol conversion. As for Cu-NC-2–550 catalyst, the overall space-time 
+yield for C4–8-OH reaches the maximum of 16 mmol⋅gcat
+−1⋅h−1, further 
+suggesting that the introduction of proper amount of melamine into 
+catalyst precursors can significantly promote the Guerbet reaction of 
+ethanol. However, more melamine introduced may be detrimental to the 
+surface exposure of active sites, thereby inhibiting ethanol conversion 
+and the formation of higher alcohols. Meanwhile, it is noted that despite 
+a slight difference in total selectivity to C4–8-OH, the introduction of 
+melamine into precursors may effectively promote C-C coupling to 
+produce long-chain alcohols with higher carbon numbers (Fig. 1B and 
+Table S1) [44], but this trend becomes less evident with the increase of 
+melamine/Cu molar ratio. However, compared to Cu-NC-2–550, 
+Cu-NC-2–550(A) catalyst obtained by calcining the precursor at 550 ◦C 
+in air achieves poorer catalytic performance (Fig. S2), along with a 
+lower selectivity to higher alcohols (60%) at 39.0% ethanol conv
+
+ Cu-NC-2–450 samples is obviously 
+different from those for other Cu-NC samples due to lower calcination 
+temperatures and the difference in crystalline phase structure. Accord­
+ing to Table 2, except for the Cu-NC-2–750 sample, the surface Cu+/Cu0 
+ratios on NC-decorated Cu-based samples are higher than that on the 
+Cu-NC-0–550 sample, and the Cu-NC-2–550 sample has a higher surface 
+Cu+/Cu0 ratio compared to other samples. These results unambiguously 
+demonstrate that both surface NC modification and an appropriate 
+calcination temperature can efficiently enhance Cu-support in­
+teractions, thereby facilitating the formation of Cu+ species at 
+metal-support interfaces. It is suggested that these interfacial Cu+ sites 
+function as active sites responsible for the adsorption and activation of 
+ethoxide and carbonyl species formed during ethanol conversion. 
+Furthermore, in the O 1 s region of Cu-NC-0–550 sample, two main 
+deconvoluted peaks are observed (Fig. 3D). The first peak (OI, 530.2 eV) 
+is correlated with lattice oxygen species, while the second peak (OII, 
+531.4 eV) relates to the oxygen species adsorbed on surface defects, such 
+as oxygen vacancies (Ov) [66]. As the calcination temperature increases, 
+the O 1 s signals shift to lower binding energies. This suggests that both 
+NC-modification and calcination temperature are imperative in regu­
+lating metal-support interactions. Melamine/LDH precursors undergo 
+high temperature carbonization and subsequent reduction, which 
+partially removes lattice oxygen atoms, resulting in the formation of 
+defective Cu+-Ov-M or Mg-Ov-M structures (M=Mg, Al), consistent with 
+the results of more Cu+ sites generated in Cu-NC catalysts. Notably, the 
+Table 1 
+Comparison of different reference catalysts in the continuous upgrading of ethanol into higher alcohols. 
+Catalysts 
+Reaction conditions 
+in fixed bed reactor 
+Conv. 
+(%) 
+Select.a 
+(%) 
+Yield.b 
+(%) 
+Rethanol
+c 
+(mmol⋅gcat
+−1⋅h−1) 
+STYd 
+(mmol⋅gcat
+−1⋅h−1) 
+Refs 
+MgO 
+
+
+lysts. Notably, the 
+Table 1 
+Comparison of different reference catalysts in the continuous upgrading of ethanol into higher alcohols. 
+Catalysts 
+Reaction conditions 
+in fixed bed reactor 
+Conv. 
+(%) 
+Select.a 
+(%) 
+Yield.b 
+(%) 
+Rethanol
+c 
+(mmol⋅gcat
+−1⋅h−1) 
+STYd 
+(mmol⋅gcat
+−1⋅h−1) 
+Refs 
+MgO 
+450 ◦C, 0.1 MPa, W/F= 20.83 g⋅h⋅mol−1 
+56.0 
+32.8 
+18.4 
+26.8 
+8.8 
+[46] 
+Mg3AlOx 
+350 ◦C, 0.1 MPa, W/F= 23.33 g⋅h⋅mol−1 
+33.2 
+34.3 
+11.4 
+14.3 
+4.9 
+[47] 
+Sr-HAP 
+300 ◦C, 0.1 MPa, W/F= 130 g⋅h⋅mol−1 
+11.3 
+86.4 
+9.8 
+0.9 
+0.8 
+[48] 
+Cu/AlMgO-P 
+325 ◦C, 3.2 MPa, LHSV= 2.4 mL/(h⋅gcat) 
+23.3 
+48.8 
+11.4 
+9.6 
+4.7 
+[49] 
+Cu/HSACeO2 
+260 ◦C, 10 MPa, LHSV= 1.97 h−1 
+67 
+44.8 
+30.0 
+28.7 
+12.9 
+[14] 
+Cu-CeO2/AC 
+250 ◦C, 2 MPa, LHSV= 2 h−1 
+45.6 
+42.4 
+19.3 
+31.8 
+13.5 
+[29] 
+Co-MgAlOx 
+250 ◦C, 0.1 MPa, 0.96 g⋅gcat
+−1⋅h−1 
+32.9 
+95.4 
+31.4 
+6.7 
+6.4 
+[43] 
+Ni-MgAlOx 
+250 ◦C, 3 MPa, WHSV= 3.2 h−1 
+18.7 
+85 
+15.9 
+12.9 
+11.0 
+[31] 
+CuLaAlOx 
+260 ◦C, 3 MPa, LHSV= 2 mL/(h⋅gcat) 
+52.5 
+72.7 
+38.2 
+17.7 
+12.9 
+[50] 
+NiO-Cu-LaAlOx 
+250 ◦C, 3 MPa, LHSV= 2 mL/(h⋅gcat) 
+56.7 
+76.1 
+43.1 
+19.4 
+14.8 
+[51] 
+Ag/Mg2AlOx 
+350 ◦C, 0.1 MPa, LHSV= 6 mL/(h⋅gcat) 
+23.3 
+77.0 
+17.9 
+24.0 
+18.5 
+[52] 
+Pd@UiO-66 
+250 ◦C, 2 MPa, LHSV= 4 mL/(h⋅gcat) 
+49.9 
+50.1 
+25.0 
+34.2 
+17.2 
+[15] 
+Ru/Mg3AlOx 
+350 ◦C, 0.1 MPa, WHSV= 3.2 h−1 
+29.6 
+82.6 
+24.4 
+20.6 
+17.0 
+[33] 
+Cu-NiMgAl 
+250 ◦C, 3 MPa, WHSV= 1.69 h−1 
+30 
+64.2 
+19.3 
+11.0 
+7.1 
+[34] 
+Cu-NC-2–550 
+250 ◦C, 2 MPa, LHSV= 3.6 mL/(h⋅gcat) 
+63.0 
+82.0 
+51.7 
+38.9 
+31.9 
+This work 
+a The products include n-BuOH, HexOH and OctOH. 
+b Yield represents the yield of higher alcohols. 
+c R represents the reaction rate of ethanol. 
+d STY represents the space time yield of higher alcohols. 
+L. Yuan et al. 
+Applied Catalysis B: Environmental 343 (2024) 123488
+6
+Cu-NC-2–550 catalyst exhibits the highest OII/OI ratio of 0.47 (Fig. 3D), 
+indicating more oxygen vacancies on its surface. It has previously been 
+reported that oxygen vacancies may activate and stabilize ac

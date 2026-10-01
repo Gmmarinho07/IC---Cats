@@ -1,0 +1,87 @@
+{
+    "paper": "1-Butanol synthesis from ethanol over strontium phosphate hydroxyapatite catalysts with various Sr-P ratios",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Strontium phosphate hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared using hydrothermal methods",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared using hydrothermal methods",
+                "reason": "The raw name is explicitly supported by the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP (1.58)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.58) catalyst exhibited higher selectivity for 2-buten-1-ol",
+                "reason": "The raw name is explicitly supported by the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP (1.64)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.64) catalyst exhibited higher selectivity for 2-buten-1-ol",
+                "reason": "The raw name is explicitly supported by the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP (1.67)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.67) catalyst exhibited higher selectivity for 2-buten-1-ol",
+                "reason": "The raw name is explicitly supported by the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP (1.70)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.70) catalyst exhibited lower selectivity for C6 and C8 alcohols than Sr-HAP (1.67) catalyst.",
+                "reason": "The raw name is explicitly supported by the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP-NH3",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Sr-HAP-NH3 catalysts were prepared by the same method as Sr-HAP catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Sr-HAP",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared using hydrothermal methods",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Sr-HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared using hydrothermal methods",
+                "reason": "The raw name is explicitly supported by the context."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 9
+        }
+    }
+}

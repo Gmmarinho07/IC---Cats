@@ -1,0 +1,480 @@
+========== ABSTRACT ==========
+
+Abstract
+Ethanol conversion into butanol was performed
+over MMgAlO mixed oxide catalysts (M = Pd, Ag, Mn,
+Fe, Cu Sm, Yb). The highest butanol yields were obtained
+with the Pd-containing mixed oxide, which exhibited a
+remarkable stability during the reaction. A good correlation
+was found between the amount of basic sites of medium
+and high strength and the selectivity to butanol.
+Keywords
+Mixed oxide catalysts Hydrotalcites 
+Ethanol Butanol
+1
+
+
+========== EXPERIMENTAL ==========
+
+Experimental
+2.1 Catalysts Preparation
+LDH precursors were prepared by coprecipitation at con-
+stant pH (&10) of suitable amounts of Mg(NO3)26H2O
+and Al(NO3)39H2O (Mg/Al = 3) with a solution of NaOH
+I.-C. Marcu N. Tanchoux (&) F. Fajula D. Tichit
+Institut Charles Gerhardt, UMR 5253 CNRS/ENSCM/UM2/
+UM1, Mate´riaux Avance´s pour la Catalyse et la Sante´ (MACS),
+Ecole Nationale Supe´rieure de Chimie, 8, rue de L’Ecole
+Normale, 34296 Montpellier Cedex 5, France
+e-mail: nathalie.tanchoux@enscm.fr
+Present Address:
+I.-C. Marcu
+Laboratory of Chemical Technology & Catalysis, Department of
+Organic Chemistry, Biochemistry and Catalysis, Faculty of
+Chemistry, University of Bucharest, 4-12, Blv. Regina Elisabeta,
+030018 Bucharest, Romania
+123
+Catal Lett (2013) 143:23–30
+DOI 10.1007/s10562-012-0935-9
+(2 M) into a well-stirred beaker containing 200 mL of a
+solution of suitable amount of different metal nitrate
+solutions
+M(NO3)nxH2O
+(M/(M ? Mg ? Al) = 0.05)
+where M = Pd, Ag, Mn, Fe, Cu, Sm, Yb. The addition
+of the alkaline solution and the pH were controlled by
+pH-STAT Titrino (Metrohm). The precipitates formed
+were aged in their mother liquor overnight at 353 K under
+stirring, separated by centrifugation, washed with deion-
+ized water until a pH of 7 was reached and dried at 353 K
+overnight. The samples were noted M5MgAlOH, where 5
+is the metal content as atomic percent with respect to the
+cations.
+The previous dried samples were calcined in ﬂowing
+nitrogen at 823 K during 8 h in order to form the corre-
+sponding mixed metal oxides catalysts. They were noted
+M5MgAlO.
+2.2 Catalysts Characterization
+The textural characterization was achieved using conven-
+tional
+nitrogen adsorption/desorption
+method, with
+a
+Micromeritics ASAP 2010 automatic analyzer. Prior to
+nitrogen adsorption, the samples were outgassed for 8 h at
+523 K.
+Powder X-ray diffraction (XRD) patterns were obtained
+using a Siemens D5000 Diffractometer and monochromatic
+Cu Ka radiation. They were recorded with 0.02 (2) st
+
+tion
+method, with
+a
+Micromeritics ASAP 2010 automatic analyzer. Prior to
+nitrogen adsorption, the samples were outgassed for 8 h at
+523 K.
+Powder X-ray diffraction (XRD) patterns were obtained
+using a Siemens D5000 Diffractometer and monochromatic
+Cu Ka radiation. They were recorded with 0.02 (2) steps
+over the 3–70 angular range with 1 s counting time per
+step.
+The thermal analysis (TG and DTG) was carried out
+using a Netzsch TG 209 device, in the following condi-
+tions: linear heating rate 10 K min-1. from room temper-
+ature to 1,173 K, dynamic air atmosphere, Al2O3 crucible,
+sample weight approximately 20 mg.
+Temperature-programmed desorption (TPD) of CO2 and
+NH3 were carried out using a Micromeritics Autochem
+model 2910 instrument. Fresh calcined samples (100 mg)
+were pretreated in air at 823 K before adsorption of the
+probe molecules at 373 K. During desorption, the sample
+was heated in a helium ﬂow (30 mL min-1) at a ramp of
+10 K min-1. The amount of the probe molecules desorbed
+from the sample was estimated from the area under the
+peak
+after
+taking
+the
+thermal
+conductivity
+detector
+response into consideration.
+Characterization of the samples has been performed
+before and, for some of them, after the catalytic test.
+2.3 Catalytic Reaction
+The catalytic performances of the various catalysts were
+evaluated by means of experiments with 50 mL (39.5 g)
+ethanol (Riedel-de Hae¨n, 99.8 %) conducted in a 100 mL
+steel autoclave at 473 K or in the range 473–533 K and
+autogenic pressure under stirring. Unless speciﬁed, each run
+was carried out over a period of 5 h using 0.5 g of catalyst
+activated at 823 K. The reaction products were analyzed by
+gas chromatography (HP 4890D, equipped with a DB-1
+capillary column and a ﬂame ionization detector), and the
+response factors related to decane as external standard were
+determined for ethanol and the products which were identiﬁed
+with pure commercial samples. The predominant reaction
+products were n-butanol, 1,1-diethoxyethane, a
+
+
+========== RESULTS ==========
+
+Results and Discussion
+3.1 Catalysts Characterization
+Catalysts textural properties, obtained by nitrogen adsorp-
+tion at 77 K, are summarized in Table 1. The speciﬁc
+surface areas of the samples were in the range from 166 to
+213 m2 g-1. All materials displayed type IV nitrogen
+adsorption/desorption isotherms with a distinct hysteresis
+loop, characteristic of mesoporous materials. The absence
+of micropores in these materials was ascertained by the
+analysis of the t-plots derived from the sorption isotherms.
+After the catalytic reaction, the speciﬁc surface areas of the
+samples remained practically the same (Table 1).
+The XRD patterns of the as-prepared precursors and
+ﬁnal catalysts are displayed in Figs. 1 and 2, respectively.
+Poorly
+crystallized
+hydrotalcite-type
+structures
+were
+detected on all dried as-prepared samples. The basal
+spacing corresponding to the (003) reﬂection of ca. 8 A˚ ,
+was in agreement with the presence of nitrates as com-
+pensating anions [18]. Pd5MgAlOH, Ag5MgAlOH and
+Sm5MgAlOH samples, displayed diffraction peaks corre-
+sponding to poorly crystallized PdO (JCPDS 41-1107),
+Table 1 Catalysts textural properties, obtained by nitrogen adsorp-
+tion at 77 K
+Catalyst
+Speciﬁc surface area (m2 g-1)
+Pore volume
+(mL g-1)
+Before reaction
+After reaction
+Pd5MgAlO
+187
+189
+0.20
+Ag5MgAlO
+166
+–
+0.23
+Mn5MgAlO
+167
+163
+0.22
+Fe5MgAlO
+213
+–
+0.25
+Cu5MgAlO
+180
+–
+0.23
+Sm5MgAlO
+187
+187
+0.39
+Yb5MgAlO
+183
+–
+0.74
+24
+I.-C Marcu et al.
+123
+Ag2O (JCPDS 75-1532) and Sm(OH)3 (JCPDS 83-2036)
+phases, respectively. Samples calcined at 823 K exhibited,
+in all cases, the characteristic peaks of the MgAlO mixed
+oxide corresponding to the salt rock-like structure (JCPDS-
+ICDD 4-0829), as a major phase. Lines corresponding to
+PdO, Ag2O, FeAl2O4 (JCPDS 34-0192), Sm2O3 (JCPDS
+15-0813) and Yb2O3 (JCPDS 41-1106) were also detected
+for the Pd, Ag, Fe, Sm and Yb-containing mixed oxide
+catalysts, respectively. XRD patterns of the samples
+remained practically unchanged after reaction, in line
+
+ of moles of butanol made per unit
+surface of catalyst were also calculated and presented in
+Table 4. We observe that the ethanol conversion varied
+between 0.3 % for Fe based catalyst and 4.1 % for Cu
+based catalyst. Obviously, the catalytic activity depends on
+the acido-basic properties of the catalysts related to the
+nature of the metal M. In all cases butanol was the main
+reaction product. Cu and Pd-based catalysts were the most
+active both in terms of conversion and intrinsic activity, but
+the former gave both butanol and 1,1-diethoxyethane as
+main products, while the later was quite selective to
+butanol. Note that they have similar concentrations of
+strong basic sites, but Cu5MgAlO has a higher concen-
+tration of strong acid sites as well as a higher total acidity.
+Sm5MgAlO is also highly selective to butanol which is in
+agreement with its similar total concentration and distri-
+bution of basic sites of different strength than Pd5MgAlO.
+However, Sm5MgAlO is less active than Pd5MgAlO,
+suggesting that the equilibrium between basic and acid
+sites is better achieved in the case of Pd5MgAlO. The same
+conversion was reached with Yb5MgAlO and Sm5MgAlO
+but the former was less selective to butanol according, as
+previously suggested for the other samples, to its lower
+basic character. Fe5MgAlO and Mn5MgAlO which were
+amongst the most acid catalysts, were poorly active and
+highly selective to 1,1-diethoxyethane and acetaldehyde.
+Ag5MgAlO which has the lowest concentration of strong
+basic sites gave the lowest selectivity to butanol and a high
+selectivity to ethyl acetate. These results conﬁrmed that the
+Table 2 Number of basic sites of different strength for mixed oxides,
+derived from TPD of CO2
+Catalyst
+CO2 desorbed (mmol g-1)
+Total basicity
+(mmol CO2 g-1)
+W
+M
+H
+Pd5MgAlO
+0.39
+0.76
+0.79
+1.94
+Ag5MgAlO
+0.29
+0.98
+0.35
+1.62
+Mn5MgAlO
+0.35
+0.52
+0.49
+1.36
+Fe5MgAlO
+0.50
+0.64
+0.46
+1.60
+Cu5MgAlO
+0.37
+0.42
+0.79
+1.58
+Sm5MgAlO
+0.44
+0.82
+0.71
+1.97
+Yb5MgAlO
+0.47
+0.64
+0.57
+1.68
+373
+473
+5
+
+hways already proposed for
+the ethanol transformation over Cu–Mg–Al oxides [16] and
+presented in Fig. 6.
+The Pd based catalyst being the most selective for
+butanol, was more extensively studied. Firstly, we checked
+the stability of Pd5MgAlO calcined at 823 K. Three suc-
+cessive reactions were carried out with the same catalyst
+recovered between each run by ﬁltration and dried over-
+night at 523 K. The results obtained are shown in Fig. 7.
+Because the conversion and the product distribution
+remained strictly the same, we can consider that the cata-
+lytic properties are stable at least during three successive
+reactions.
+Figure 8 shows the variations of the total conversion of
+ethanol and selectivities to main reaction products with the
+reaction temperature in the range 473–533 K. As expected,
+the conversion increased with the reaction temperature
+from *4 % at 473 K to 17 % at 533 K. At the same time,
+the selectivity for butanol increased up to 81 % at the
+expense of acetaldehyde and butyraldehyde.
+When the reaction time was varied from 2 to 100 h, the
+ethanol conversion increased from 2.1 to 13.2 % and the
+selectivity for butanol increased from 65 to 81.5 %
+(Fig. 9a) still at the expense of acetaldehyde and butyral-
+dehyde. At the same time, the intrinsic activities of the
+catalyst as well as the space–time yield (STY) of butanol
+follow typical curves as a function of time as shown in
+Fig. 9b.
+Water which is a by-product of the reaction (see Fig. 6)
+can inﬂuence the structure of the catalysts due to the well
+known memory effect of the Mg(Al)O mixed oxide
+obtained from LDH precursor. Presence of water is also
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Fresh catalyst
+Recovered (1)
+Recovered (2)
+Catalyst Pd5MgAlO 
+Selectivities (%)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Conversion (%)
+Conversion
+Acetal C6
+Acetaldehyde
+Butyraldehyde
+Butanol
+Ethyl acetate
+Fig. 7 Activity of the Pd5MgAlO system for three successive runs.
+Reaction conditions: 473 K, 5 h reaction time
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+463
+473
+483
+493
+
+
+2)
+Catalyst Pd5MgAlO 
+Selectivities (%)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Conversion (%)
+Conversion
+Acetal C6
+Acetaldehyde
+Butyraldehyde
+Butanol
+Ethyl acetate
+Fig. 7 Activity of the Pd5MgAlO system for three successive runs.
+Reaction conditions: 473 K, 5 h reaction time
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+463
+473
+483
+493
+503
+513
+523
+533
+543
+Temperature (K)
+Selectivities (%)
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+Conversion (%)
+Acetaldehyde
+Butyraldehyde
+Butanol
+Conversion
+Fig. 8 Variation of the total conversion of ethanol and of the
+selectivities as a function of the reaction temperature for the
+Pd5MgAlO catalytic system. Reaction time: 5 h
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+0
+20
+40
+60
+80
+100
+Reaction time (h)
+Selectivities (%)
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+Conversion (%)
+Acetaldehyde
+Butanol
+Conversion
+(a)
+0
+5
+10
+15
+20
+25
+30
+35
+0
+20
+40
+60
+80
+100
+Reaction time (h)
+Activity & STY (109.mol.m-2.s-1)
+Intrinsic activity
+Butanol STY
+(b)
+Fig. 9 Effect of the reaction time on the catalytic properties of
+Pd5MgAlO: a Evolution with time of conversion and selectivities.
+b Evolution with time of intrinsic activity and space–time butanol
+yield. Reaction temperature: 473 K
+Catalytic Conversion of Ethanol into Butanol Over M–Mg–Al Mixed Oxide Catalysts
+29
+123
+able to modify the nature of the active sites from Lewis to
+Brønsted type. Therefore the inﬂuence of the addition of
+water to ethanol was investigated in this work with the
+most active Pd5MgAlO catalyst. As reported in Table 5,
+only a slight decrease of conversion was observed whereas
+selectivities to acetals, acetaldehyde and butyraldehyde
+were increased at the expense of that to butanol.
+4

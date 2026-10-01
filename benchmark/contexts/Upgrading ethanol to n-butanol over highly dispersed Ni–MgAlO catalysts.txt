@@ -1,0 +1,117 @@
+========== ABSTRACT ==========
+
+summary, ethanol was continuously converted to high-
+carbon alcohols over Ni–MgAlO catalysts in a ﬁxed-bed reactor.
+Over the best catalyst, Ni4MgAlO (19.5 wt.% Ni), the selectivities
+for n-butanol and C4–C8 primary alcohols were 55.2 and 85%,
+respectively, with 18.7% ethanol conversion and an areal reaction
+rate of 62.6 lmol h1 m2. The catalyst was operated over a rela-
+tively wide temperature window of 473–548 K and had high sta-
+bility during operation for 60 h without a reduction in butanol
+selectivity.
+Hydrotalcite is a good precursor for preparing Ni–MgAlO cata-
+lysts with desired dispersions of Ni, acid, and base sites and gives
+Ni particles of size ca. 5 nm. The presence of Ni facilitated hydrogen
+evolution from ethanol via dehydrogenation, and also in situ
+hydrogenation, because of its special hydrogen adsorption and des-
+orption properties. The composite oxides had relatively strong base
+and moderate acid pairs for aldol condensation reactions. The
+numbers of metal, acid, and base sites were well balanced on the
+Ni4MgAlO catalyst, which showed the best selectivity for n-
+butanol, with enhanced ethanol conversion. Finally, a reaction net-
+work for ethanol conversion to different products is proposed.
+Acknowledgments
+This work was supported by the National Nature Science Foun-
+dation of China (Grants 21376239, 21306191 and 21506022) and
+the Strategic Priority Research Program of the Chinese Academy
+of Sciences (XDB17020100).
+Appendix A. Supplementary material
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.jcat.2016.08.024.
+
+
+========== EXPERIMENTAL ==========
+
+ of ethanol reacted were calculated based on the
+moles of carbon in all liquid and gaseous products.
+3. Results and discussion
+3.1. Catalytic conversion of ethanol
+3.1.1. Ethanol conversion over various catalysts
+The Mg/Al ratio in oxide catalysts greatly affects the n-butanol
+selectivity and ethanol conversion [34]; therefore the Mg/Al ratio
+in the Ni/MgAlO catalysts was ﬁrst optimized. As shown in Fig. 1,
+the ethanol conversion over the 5%Ni/Al2O3 catalyst was 25%, with
+35% selectivity for n-butanol. Large amounts of diethyl ether and
+ethylene were produced; this is attributed to dehydration reac-
+tions occurring at strong acid sites on the catalyst [6,35]. To lower
+the density of strong acid sites, MgO was introduced into the car-
+rier, using a coprecipitation method. The ethanol conversion
+decreased with increasing Mg/Al ratio, but the selectivity for
+high-carbon alcohols increased. At an Mg/Al ratio of 4:1, the selec-
+tivity for n-butanol increased to 50.2%, and the selectivity for C4–C8
+alcohols reached 77.3%. The Mg/Al ratio was therefore set at 4:1 for
+catalyst evaluation to obtain high yields of primary alcohols.
+The effects of the Ni content on alcohol selectivity and ethanol
+conversion were investigated. As shown in Fig. 2, over the mixed
+oxide catalyst in the absence of Ni, the predominant product was
+n-butanol, with a selectivity of 58%, but the ethanol conversion
+was 0.5%. Increasing the Ni content from zero to 19.5 wt.% led to
+a monotonic increase in ethanol conversion from 0.5% to 18.8%,
+without a decrease in the selectivity for n-butanol. Over the
+optimal Ni4MgAlO (19.5 wt.% Ni) catalyst, the selectivities for
+n-butanol and total C4–C8 alcohols reached 55.2% and 85%, respec-
+tively (ratios of C4:C6:C8 were 8:3:1). However, further increasing
+the Ni content to 45.2 wt.% signiﬁcantly decreased the alcohol
+selectivity. A large amount of gaseous byproducts was produced,
+including hydrogen, carbon monoxide, methane, and carbon
+dioxide; these products acc
+
+io as the Ni4M-
+gAlO catalyst, the areal reaction rate reached 235.2 lmol h1 m2
+at 523 K. When the Ni content was decreased to 18.7%, i.e., the
+Ni3AlO catalyst, which has a Ni percentage similar to that of Ni4M-
+gAlO, an areal reaction rate of 74.4 lmol h1 m2 was obtained
+(entry 3). The order of the activities over the three catalysts was
+NiAlO > Ni3AlO > Ni4MgAlO.
+These
+results
+indicate
+that
+both
+metallic Ni and Al oxide promote ethanol conversion. However,
+the selectivities for n-butanol over the NiAlO and Ni3AlO catalysts
+were inferior to that over Ni4MgAlO. Although the areal reaction
+rates were controlled at a low level, 19–24 lmol h1 m2, with
+ca. 7% ethanol conversion, the selectivity was still less than 36%
+over the ﬁrst two catalysts, lower than that over the Ni4MgAlO cat-
+alyst (55.5%). Large amounts of gaseous products were detected;
+this is attributed to the decomposition of products over abundant
+Ni sites and the dehydration of ethanol over acid sites on these
+two catalysts [41].
+For the Ni–MgO catalysts of Ni4MgO and Ni6MgO (entries 4 and
+5), which have Ni:Mg molar ratio and Ni content similar to those
+for the Ni4MgAlO catalyst, the areal reaction rates at 523 K were
+40.0 and 38.0 lmol h1 m2, respectively, notably lower than that
+over the Ni4MgAlO catalyst (62.6 lmol h1 m2, entry 1). Evi-
+dently, high MgO content in Ni–MgO catalysts inhibit ethanol con-
+version. The selectivity for n-butanol over the Ni4MgAlO catalyst
+was much higher than over the Ni-MgO catalysts (55% vs. 46%).
+At a similar ethanol conversion of ca. 7%, the areal reaction rate
+over Ni6MgO was 99.2 lmol h1 m2, much higher than that over
+the Ni4MgAlO catalyst, but the n-butanol selectivity decreased to
+43.0% because of the side reactions induced by the higher reaction
+temperature (543 K).
+A comparison of the results obtained using different catalysts
+shows that both metallic Ni and alumina in catalysts promoted
+ethanol conversion. The presence of Mg was important for n-
+butanol selectivi
+
+
+========== RESULTS ==========
+
+results show that metallic Ni sites promoted ethanol dehydrogenation, and the
+released hydrogen spilled over the catalyst, leading to in situ hydrogenation of reaction intermediates.
+Strong basic and moderately acidic sites were needed for aldol condensation reactions. A reaction net-
+work was proposed based on product analysis under different conditions.
+ 2016 Elsevier Inc. All rights reserved.
+1.

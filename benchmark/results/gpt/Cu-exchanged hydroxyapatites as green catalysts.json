@@ -1,0 +1,40 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "needle HA",
+                "raw_name": "needle HA",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "plate HA",
+                "raw_name": "plate HA",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "needle_6",
+                "raw_name": "needle_6",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "plate_14",
+                "raw_name": "plate_14",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "HA",
+            "article_identifiers": []
+        }
+    }
+}

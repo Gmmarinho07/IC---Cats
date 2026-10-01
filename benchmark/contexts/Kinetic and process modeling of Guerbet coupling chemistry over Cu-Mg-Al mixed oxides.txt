@@ -1,0 +1,85 @@
+========== EXPERIMENTAL ==========
+
+ second reactor is designed as an equilibrium reactor
+operating at 200 1C based on our previous findings,9,12 where
+we observed that the maximum ester hydrogenolysis yields are
+achieved at high contact times, with convergence towards equili-
+brium composition when employing copper-based catalysts.
+The operating pressure of the reactor is decreased from 30 barg,
+as used elsewhere,12 to 19 barg to decrease the investment and
+operating costs required for compression. The equilibrium reac-
+tions included for modeling the hydrogenation reactor are pre-
+sented in Table S1 in the ESI.†
+After the hydrogenolysis stage, the gaseous product is cooled
+and separated into a liquid and a gas phase in a flash drum
+(F-101). The gaseous fraction consisting mainly of hydrogen is
+compressed to 20 barg and recycled to the hydrogenolysis and
+Guerbet coupling reactors. The split ratio is adjusted to achieve
+the H2 : alcohol ratio of 1 : 4 in the Guerbet coupling reactor
+and the desired H2 : ester ratio in the hydrogenolysis reactor.
+A purge gas stream is implemented to prevent accumulation of
+undesirable species within the process. The liquid fraction of the
+flash drum (F-101) is expanded with a pressure regulation valve
+(V-101) to atmospheric pressure and is directly fed to a first
+rectification column (S-101). The top product of this column
+contains mainly water and unconverted ethanol, as well as gaseous
+components that were dissolved in the liquid at higher pressure
+(e.g., H2, CO). A molecular sieve (S-102) is used to separate most of
+the water from the organic products, and a subsequent distillation
+column (S-103) is employed to maximize the separation eﬃciency
+of water and ethanol. The alcohol mixture is then pumped (P-102)
+upstream towards the Guerbet reactor.
+The bottom product of the rectification column (S-101) con-
+tains oxygenates (e.g., alcohols, esters, ketones) with a carbon
+number of four or higher. This stream is then fed into a sub-
+sequent rectification column (S-104), 
+
+tlet
+Decanol
+2CInlet
+Ethanol
+(7)
+3. Results and discussion
+3.1
+Kinetic modeling
+In the following paragraphs, we present the kinetic modeling
+for the Guerbet coupling chemistry using a fresh catalyst.
+The stability of this catalyst has been previously tested under
+Fig. 2
+Process flowsheet simulated in ASPEN Plus V14 including the Guerbet coupling reactor (R-101), a hydrogenolysis reactor (R-102) and various
+separation units (S-101 to S-104). Stream PR-1 is the product stream with long chain alcohols, and PR-2 is a discharge of butanol from the process.
+EES Catalysis
+Paper
+Open Access Article. Published on 20 February 2025. Downloaded on 12/10/2025 8:28:50 PM. 
+This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.
+View Article Online
+466 | EES Catal., 2025, 3, 459–474
+© 2025 The Author(s). Published by the Royal Society of Chemistry
+prolonged time on stream, demonstrating sustained catalytic
+activity for up to 170 h. Coke formation, rather than metal sintering,
+was identified as the primary deactivation mechanism.10 Catalyst
+deactivation caused changes in carbon selectivities as demonstrated
+in the ESI† of our previous work. Comparable observations
+were reported by Guo et al.,31 who tested a similar catalyst
+under the here examined reaction conditions (except for a
+reaction pressure of 600 psi). Their findings indicate that
+carbon selectivity profiles remain relatively stable over time
+after reaching the steady state. Surface properties of our catalyst
+are summarized in Table 2 except for the number of copper
+surface sites or average particle size, which could not be
+counted successfully through N2O titration due to low copper
+load. Expanded discussion and detailed characterization of
+the fresh and spent catalysts are available in our previous
+publication.10
+Ethanol oligomerization over copper catalysts supported on
+Mg–Al mixed oxides has been reported to produce more than
+160 different species including alcohols, aldehydes, esters,
+keton
+
+
+========== RESULTS ==========
+
+results reveal that cofeeding butanol into the Guerbet reactor enhances initial production
+rates of C6+ alcohols, at the expense of fostering production of byproducts from butanol self-coupling.
+A maximum carbon yield of 82.2% for C6+ diesel fuel precursors can be obtained by minimizing the
+byproduct production after

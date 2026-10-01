@@ -1,0 +1,127 @@
+{
+    "paper": "Mg and Al mixed oxides and the synthesis of n-butanol from ethanol",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg–Al mixed oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The Mg–Al hydrotalcite precursors of the Mg–Al mixed oxides were prepared by the co-precipitation method.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg–Al hydrotalcite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The Mg–Al hydrotalcite precursors of the Mg–Al mixed oxides were prepared by the co-precipitation method.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Magnesium oxide",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Magnesium oxide (MgO) and alumina (Al2O3) were also prepared following the same synthetic route.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Magnesium oxide (MgO) and alumina (Al2O3) were also prepared following the same synthetic route.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAl 1:1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the case of the MgAl 1:1 catalyst, is lower than the one from chemical analysis.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAl 3:1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the case of the MgAl 3:1 sample, the Mg/Al ratio inferred by XRD is much higher than the one obtained by the chemical analyses.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAl2O4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The spinel structure is shown by MgAl2O4 and Al2O3 and both are composed of Mg and Al.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "-Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the case of Al2O3 and MgO samples, -Al2O3 and MgO (cubic) were observed, respectively.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Mg",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The Mg/Al atomic ratios of the synthesized catalysts were determined by X-ray fluorescence (XRF).",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Mg",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The Mg/Al atomic ratios of the synthesized catalysts were determined by X-ray fluorescence (XRF).",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Al",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The Mg/Al atomic ratios of the synthesized catalysts were determined by X-ray fluorescence (XRF).",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Al",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The Mg/Al atomic ratios of the synthesized catalysts were determined by X-ray fluorescence (XRF).",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg–Al mixed oxides",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The Mg–Al hydrotalcite precursors of the Mg–Al mixed oxides were prepared by the co-precipitation method.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg–Al mixed oxides",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The Mg–Al hydrotalcite precursors of the Mg–Al mixed oxides were prepared by the co-precipitation method.",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 14
+        }
+    }
+}

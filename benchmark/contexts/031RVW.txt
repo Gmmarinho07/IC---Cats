@@ -1,0 +1,463 @@
+========== ABSTRACT ==========
+
+ABSTRACT: Ethanol, mainly produced from the yeast fermentation
+of biomass, is one of the most important renewable building blocks for
+synthesizing value-added chemicals. Different pathways of ethanol
+conversion, including dehydrogenation, C−C bond coupling, aroma-
+tization, hydrogen transfer, dehydration, etc., can be achieved over a
+variety of catalysts. In this Perspective, we focus on the catalytic one-pot
+ethanol conversion processes for producing oxygen-containing value-
+added chemicals. The details include the catalyst design strategy,
+selectivity manipulation, and mechanism investigation. We hope this
+Perspective will inspire future catalyst design for reactions by tailoring
+the C−H bond, C−O bond, or O−H bond and shed light on industry
+applications with carbon neutrality.
+KEYWORDS: ethanol, dehydrogenation, C−C coupling, aromatization, catalyst design
+1.
+
+
+========== EXPERIMENTAL ==========
+
+Ni alloys, which accelerated the
+hydrogen transfer and offered more Lewis acid−base pairs for
+aldol condensation. Moreover, the strong interaction between
+the CuNi alloy and metal oxides lead to the long-term stability
+in this reaction. Our group recently reported the
+ConMg3−nAlOx catalysts derived from CoMgAl−HT, which
+could efficiently catalyze the conversion of ethanol to C4−10
+alcohols with nearly 30% yield.48 Various characterizations
+reveal that the atomically dispersed Co2+ in the lattice of
+MgAlOx. facilitated ethanol dehydrogenation and thus
+improved the activity at relatively low temperature. Meanwhile,
+abundant acidic and basic sites boosted the following aldol
+condensation step.
+3.3. Other Supported Metal Catalysts. Li et al. reported
+that Cu−CeO2/AC exhibited high performance as a catalyst
+for the conversion of ethanol to n-butanol for the first time.49
+The yield of n-butanol could reach nearly 20% under mild
+reaction conditions at 523 K and 2 MPa over Cu−CeO2/AC.
+It was considered that the high ethanol conversion was
+ascribed to the high dispersion of Cu metals, and highly
+dispersive Ce species are favorable for the next acetaldehyde
+aldol condensation step. In addition, the highly dispersive Ce
+species could stabilize the Cu nanoparticles on the surface of
+activated carbon to further improve the stability of the Cu−
+CeO2/AC catalyst. They further prepared a range of activated
+carbon supported M−CeO2 catalysts (M = Cu, Co, Ni, Pd,
+and Fe) to evaluate the catalytic performance in the conversion
+of ethanol to n-butanol (Figure 7).50 As shown in Table 2,
+ethanol conversion and n-butanol selectivity were different
+over these catalysts due to their different capabilities of
+dehydrogenation, hydrogenation, and C−C bond cracking.
+Among these catalysts, the Pd−CeO2/AC catalyst exhibited
+the highest selectivity of n-butanol (67.6%), and Cu−CeO2/
+Figure 7. (a) Scheme of ethanol conversion on Pd@UiO-66. (b) Conversion and selectivity as a function of time over Pd
+
+bilities of
+dehydrogenation, hydrogenation, and C−C bond cracking.
+Among these catalysts, the Pd−CeO2/AC catalyst exhibited
+the highest selectivity of n-butanol (67.6%), and Cu−CeO2/
+Figure 7. (a) Scheme of ethanol conversion on Pd@UiO-66. (b) Conversion and selectivity as a function of time over Pd@UiO-66. Reproduced
+from ref 52. Copyright 2018 American Chemical Society.
+Table 2. Catalytic Performance of X−CeO2/AC Catalystsa
+selectivity (%)
+catalyst
+conversion
+(%)
+butanol
+C6
+productsb
+butanol yield
+(%)
+Cu/AC
+1.2
+12.1
+0.1
+CeO2/AC
+3.1
+4.4
+1.6
+23.4
+5Cu−CeO2/AC
+46.2
+41.2
+20.6
+19
+3Cu−CeO2/AC
+46.2
+41.3
+19.7
+19.1
+1Cu−CeO2/AC
+44
+36.8
+8.7
+16.3
+3Cu−CeO2/SiO2
+23.3
+10.2
+2.1
+2.4
+3Cu−CeO2/
+Al2O3
+46.9
+12.1
+5.3
+5.7
+3Cu−CeO2/ACc
+39.1
+55.2
+20.3
+21.6
+Fe−CeO2/AC
+4.7
+2.9
+28.5
+21.9
+Co−CeO2/AC
+34.1
+5.6
+47.6
+13.3
+Ni−CeO2/AC
+31.6
+3.9
+50.6
+18.7
+Pd−CeO2/AC
+11.9
+2.9
+67.6
+12
+aConversion, selectivity, and yield are obtained at steady−state.
+Reaction conditions are as follows: catalyst (1.0 g), 523 K, 2 MPa
+(N2), LHSV = 4 mL (h g cat)−1, and N2/ethanol (v/v) = 500:1. bC6
+products include 2-ethylbutyraldehyde, hexaldehyde, ethylbutanol,
+and 1-hexanol. Other products include 1-ethoxyethane, 1,1-diethoxy-
+ethane, butyl acetate, etc. cReaction was carried out in a batch reactor
+with volume of 250 mL. Reaction conditions: catalyst, 3.3 g (<120
+mesh); 80 g absolute ethanol; 523 K, 0.1 MPa (N2); reaction time 48
+h.
+ACS Catalysis
+pubs.acs.org/acscatalysis
+Perspective
+https://doi.org/10.1021/acscatal.3c01481
+ACS Catal. 2023, 13, 11291−11304
+11298
+AC showed the highest ethanol conversion (46.2%). This
+investigation will inspire the design of more effective catalysts
+containing two or more active metals for catalytic upgrading
+ethanol to n-butanol.
+Wang et al. synthesized a series of NiCeO2 on different
+carbon supports for catalytic upgrading of ethanol to C4+
+alcohols.51 The optimal catalyst 10%Ni15%CeO2/AC ex-
+hibited 85.6% selectivity of C4+ alcohols with 27.2% ethanol
+conversion. Superior catalytic per
+
+
+========== RESULTS ==========
+
+results in a high metallic Ni content on the
+catalyst surface and complete deactivation within 40 h, whereas
+the O2-pretreated catalysts possess more Ni2+ with only 15%
+catalytic activity loss. More recently, they investigated a PdAu
+single-atom alloy for ethanol dehydrogenation.28 The obtained
+alloy phase is active for C−H activation but not for C−C
+scission, yielding 100% selectivity to acetaldehyde and
+hydrogen. In contrast, surface Pd aggregation induced by
+CO can accelerate both C−H and C−C bonds, which
+decompose the ethanol to form CO, CH4, and other by-
+products. The adjustment of the surficial alloy structure
+provides an atomic understanding for bimetallic catalysts and
+provides the possibility of designing novel catalysts.
+In summary, copper has been proven to be the best non-
+noble active metal for direct ethanol dehydrogenation to
+acetaldehyde. Supports with fewer functional groups are
+beneficial for satisfactory acetaldehyde selectivity, while the
+strong interaction between the support and Cu is essential for
+maintaining high stability.
+3. C−C COUPLING TO HIGHER ALCOHOLS (C4−C12
+ALCOHOLS)
+The higher alcohols can be produced from ethanol through
+direct coupling or the Guerbet pathway, involving dehydrogen-
+ation, C−C coupling, and hydrogenation steps. Both acid and
+base sites are necessary to achieve high C−C coupling rates.
+Hydroxyapatite (HAP) with an acid−base pair has been
+proven to be suitable for this reaction, and mixed oxides
+derived from hydrotalcites (HT) are also efficient with a
+tunable structure of acid−base sites. Thus, we will focus on the
+introduction of HAP- and HT-derived catalysts in this section.
+3.1. Hydroxyapatite Catalysts. Hydroxyapatite
+(Ca10(PO4)6(OH)2) is a highly nonstoichiometric calcium
+phosphate compound with a Ca/P molar ratio ranging from
+1.50 to 1.67 that contains acid−base pairs in a single crystal
+lattice. Moreover, Ca2+ ions on the HAP surface are easily
+exchanged by other divalent metal cations (such as Co2+, Fe2+,
+Ni
+
+
+(Ca10(PO4)6(OH)2) is a highly nonstoichiometric calcium
+phosphate compound with a Ca/P molar ratio ranging from
+1.50 to 1.67 that contains acid−base pairs in a single crystal
+lattice. Moreover, Ca2+ ions on the HAP surface are easily
+exchanged by other divalent metal cations (such as Co2+, Fe2+,
+Ni2+, etc.) due to the flexible chemical composition of the
+hexagonal unit cell, thus presenting broad opportunities for the
+design of multifunctional catalysts with atomically dispersed
+metal sites. Meanwhile, the anions in HAP can also be replaced
+to form catalysts with different acid−base densities and
+strength.
+HAP mainly showed good selectivity for upgrading ethanol
+to n-butanol and higher aliphatic alcohols (C6−12−OH) in the
+literature (Table 1). Tsuchida et al. reported a one-step
+process for synthesizing n-butanol from ethanol over a highly
+active nonstoichiometric HAP catalyst.29 The highest n-
+butanol selectivity reached 76.3% over the HAP catalyst,
+with a Ca/P molar ratio of 1.64. Their further studies indicated
+that both the catalytic activity and higher alcohol selectivity
+increased over HAP with a larger Ca/P molar ratio due to the
+higher density of basic sites.30 Ogo et al. systematically
+prepared the Ca10(PO4)6(OH)2 and substituted hydroxyapa-
+tite catalysts, such as Sr10(PO4)6(OH)2, Ca10(VO4)6(OH)2,
+and Sr10(VO4)6(OH)2, for ethanol conversion at 300 °C under
+atmospheric pressure.31 1-Butanol was the major product over
+Ca10(PO4)6(OH)2 and Sr10(PO4)6(OH)2 catalysts, while the
+byproduct,
+such
+as
+ethylene,
+was
+formed
+over
+Ca10(VO4)6(OH)2 and Sr10(VO4)6(OH)2 catalysts. The high-
+Table 1. Catalytic Performance of Different Hydroxyapatite Catalysts
+selectivity (%)
+catalyst
+reaction conditions
+conversion (%)
+n-butanol
+C6−10−OH
+C4−10−OH
+ref
+HAP (Ca/P = 1.64)
+T = 300 °C, WHSV = 1.4 h−1
+14.7
+76.3
+9.8
+86.1
+29
+HAP (Ca/P = 1.67)
+T = 298 °C, WHSV = 1.5 h−1
+20.0
+69.8
+14.5
+84.3
+30
+Ca10 (PO4)6 (OH)2
+T = 300 °C WHSV = 0.93 h−1
+7.1
+74.5
+15.1
+89.6
+31
+Sr10 (PO4)6 (OH)2
+T = 300 °
+
+yst
+reaction conditions
+conversion (%)
+n-butanol
+C6−10−OH
+C4−10−OH
+ref
+HAP (Ca/P = 1.64)
+T = 300 °C, WHSV = 1.4 h−1
+14.7
+76.3
+9.8
+86.1
+29
+HAP (Ca/P = 1.67)
+T = 298 °C, WHSV = 1.5 h−1
+20.0
+69.8
+14.5
+84.3
+30
+Ca10 (PO4)6 (OH)2
+T = 300 °C WHSV = 0.93 h−1
+7.1
+74.5
+15.1
+89.6
+31
+Sr10 (PO4)6 (OH)2
+T = 300 °C, WHSV = 0.35 h−1
+7.6
+81.2
+12.7
+93.6
+31
+Ca10 (VO4)6 (OH)2
+T = 300 °C, WHSV = 1.18 h−1
+6.6
+21.9
+0.6
+22.5
+31
+Sr10 (VO4)6 (OH)2
+T = 300 °C, WHSV = 0.06 h−1
+5.8
+8.1
+1.2
+9.3
+31
+Sr-HAP (Sr/P = 1.70)
+T = 300 °C, WHSV = 0.35 h−1
+11.3
+86.4
+7.8
+94.2
+32
+HAP
+T = 360 °C,
+4.9
+72.0
+33
+HAP-W
+T = 350 °C, WHSV = 0.8 h−1
+45.7
+30.4
+63.9
+94.3
+35
+Cu-HAP
+T = 350 °C, WHSV = 2.0 h−1
+36.6
+37.2
+49.5
+86.7
+36
+AgMg4AlOx
+T = 623 K, P = 0.1 MPa
+31.7
+62.2
+2.6
+64.8
+44
+LHSV = 6 mL·gcat
+−1·h−1
+AgMg3AlOx
+T = 623 K, P = 0.1 MPa
+28.5
+69.2
+3.1
+72.3
+44
+LHSV = 6 mL·gcat
+−1·h−1
+AgMg2AlOx
+T = 623 K, P = 0.1 MPa
+23.2
+76.6
+5.3
+81.9
+44
+LHSV = 6 mL·gcat
+−1·h−1
+AgMg2AlOx
+T = 523 K, P = 2 MPa
+45.2
+60.3
+12.0
+72.3
+44
+LHSV = 6 mL·gcat
+−1·h−1
+RuMg3AlOx
+T = 623 K, P = 0.1 MPa
+29.6
+70.1
+12.5
+82.6
+45
+WHSV = 3.2·h−1
+NiMg4AlO
+T = 523 K, P = 3 MPa
+18.8
+55.2
+31.1
+86.3
+46
+WHSV = 3.2 h−1
+2%Cu−NiMg4AlO
+T = 523 K, P = 3 MPa
+30.0
+64.2
+15.0
+79.2
+47
+WHSV = 3.2 h−1
+ConMg3‑nAlOx
+T = 523 K, P = 0.1 MPa
+32.9
+46.8
+48.6
+95.4
+48
+WHSV = 0.96 h−1
+ACS Catalysis
+pubs.acs.org/acscatalysis
+Perspective
+https://doi.org/10.1021/acscatal.3c01481
+ACS Catal. 2023, 13, 11291−11304
+11295
+est selectivity for n-butanol is 81.2% over the Sr10(PO4)6(OH)2
+catalyst due to its high aldol condensation activation of
+acetaldehyde and its hydrogen transfer ability of 2-buten-1-ol
+to n-butanol. Subsequently, they adjusted the Sr/P molar ratios
+between 1.58 and 1.70.32 The ethanol conversion test
+indicated that Sr−HAP with the Sr/P molar ratio of 1.70
+showed the maximum 86.4% selectivity to n-butanol due to
+stronger basic property of Sr compared with Ca.
+Hanspal et al. prepared β-Ca3 (PO4)2 (β-TCP),
+Ca10(PO4)6F2 (FAP), Mg3(PO4)2, and Sr3(PO4)2 compared
+to HAP to investig
+
+anol conversion test
+indicated that Sr−HAP with the Sr/P molar ratio of 1.70
+showed the maximum 86.4% selectivity to n-butanol due to
+stronger basic property of Sr compared with Ca.
+Hanspal et al. prepared β-Ca3 (PO4)2 (β-TCP),
+Ca10(PO4)6F2 (FAP), Mg3(PO4)2, and Sr3(PO4)2 compared
+to HAP to investigate the impact of different anions of HAP on
+the acid−base property and catalytic performance.33 The
+selectivity toward 1-butanol over β-TCP and FAP was less
+active (∼35%) compared with that over HAP (72%),
+meanwhile fewer basic sites were presented over these two
+catalysts, indicating that PO4
+3−has adequate basicity for the 1-
+butanol formation and OH−could offer more basic sites and
+play a beneficial role in catalyzing the reaction of ethanol to 1-
+butanol. The Mg3(PO4)2 catalyst exhibited a more acidic
+reaction due to Mg2+, which leads to more ethanol dehydration
+products such as diethyl ether (52% selectivity) and ethene
+(36% selectivity). The highest rate of ethanol conversion was
+achieved over the Sr3(PO4)2 catalyst. However, the main
+product was acetaldehyde (91% selectivity), which resulted
+from the the weaker Lewis acid interactions between
+acetaldehyde and Sr2+ cations. The β-TCP catalyst showed
+the highest 1-butanol selectivity among the three metal
+phosphates due to its intermediate-strength Lewis acidity.
+Brasil et al. synthesized HAP by different preparation methods
+(ultrasound, microwave, and autoclave) to change the acidic/
+basic sites and investigated its activity for ethanol conversion.34
+The highest selectivity for butanol occurred on HAP treated
+with a microwave for 30 min due to its greater number of basic
+sites and better balance of acidic and basic sites. Additionally,
+they first reported the DFT calculations for key elementary
+steps for ethanol conversion on HAP.
+Our group reported that the nanowire-like hydroxyapatite
+(HAP−W) containing abundant [Ca−O−P] sites could
+accelerate the C−C coupling rate in ethanol direct coupling
+and boosted the produ

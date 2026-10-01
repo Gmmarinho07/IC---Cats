@@ -1,0 +1,35 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Mg–Al spinel catalyst",
+                "raw_name": "Mg–Al spinel catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgAl2O4",
+                "raw_name": "MgAl2O4",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "calcined MgAl2O4 mixed oxide catalyst",
+                "raw_name": "calcined MgAl2O4 mixed oxide catalyst",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ru",
+                "raw_name": "Ru",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        }
+    }
+}

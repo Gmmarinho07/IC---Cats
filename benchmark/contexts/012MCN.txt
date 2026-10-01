@@ -1,0 +1,302 @@
+========== ABSTRACT ==========
+
+Abstract
+The relationship between thermodynamic Brønsted basicity and reactivity of basic sites of MgO samples was investigated by means of methanol
+deprotonation followed by IR and the conversion of 2-methylbut-3-yn-2-ol (MBOH), respectively. The relative distribution of basic oxide ions,
+O2−
+LC, in low coordination (where LC = 3C, 4C, and 5C refer to tri-, tetra-, and penta-coordinated oxide ions, respectively) was modulated
+using different preparation routes. The resulting samples were classiﬁed on the basis of the relative distributions of O2−
+LC ions determined by
+photoluminescence. The inﬂuence of the coordination of O2−
+LC ions on the basic properties was studied for clean surfaces obtained after high-
+temperature (⩾1023 K) evacuation of CO2 and water; the lower the coordination of O2−
+LC ions, the higher the deprotonation ability and the
+reactivity of basic sites of the catalyst. The hydroxylation of clean MgO surfaces was studied and its inﬂuence on Brønsted basicity determined.
+Despite a low deprotonation ability, hydroxylated surfaces are more reactive than clean surfaces. The direct inﬂuence of OH groups on reactivity of
+basic sites was evidenced by correlating the latter and the amount of isolated OH groups evaluated by in situ diffuse reﬂectance Fourier transform
+infrared spectroscopy. It can be inferred that the peculiar reactivity of OH groups compared with O2−
+LC ions is due to the variable stability of the
+alcoholate intermediate formed on both kinds of basic sites. On hydroxylated surfaces, because OH groups are poor Brønsted bases, the number
+of alcoholate species is lower than on clean surfaces, but these intermediates are less stabilized and so are more reactive.
+2005 Elsevier Inc. All rights reserved.
+Keywords: Basicity; MgO; Surface; Methylbutynol conversion; Oxide ion; Hydroxyls; Coordination; FTIR; Diffuse reﬂectance; Photoluminescence; Spectroscopy;
+Catalysis; Active site
+1.
+
+
+========== EXPERIMENTAL ==========
+
+Experimental
+2.1. Sample preparation
+Four samples were studied: MgO-sol–gel, MgO-precipita-
+tion, MgO-hydration, and MgO-CVD, so named according to
+the preparation method, as described earlier [12]. MgO-sol–
+gel, MgO-precipitation, and MgO-hydration were obtained by
+treatment under dynamic vacuum (around 0.13 Pa) at 1273 K
+for 2 h of the corresponding hydroxides. Mg(OH)2-sol–gel
+was prepared from the hydrolysis of magnesium methanolate.
+Mg(OH)2-precipitation was formed by the action of aqueous
+ammonia on magnesium nitrate. Mg(OH)2-hydration was ob-
+tained by stirring a commercial MgO (Aldrich, 99.99%) in wa-
+ter for 24 h at room temperature. MgO-CVD, kindly provided
+by Knözinger [18,19], was obtained through chemical vapor
+deposition by oxidizing metallic magnesium in a ﬂow of oxy-
+gen/argon.
+2.2. Speciﬁc surface area measurement
+The speciﬁc surface area and the pore volume of the solids
+were determined using an automatic porosimeter (Micromerit-
+ics ASAP 2010). The samples were outgassed at 473 K for 15 h
+and then at 573 K for 2 h before measuring the adsorption of
+nitrogen. The speciﬁc surface areas were evaluated by the BET
+method.
+2.3. Sample treatment
+2.3.1. Hydroxylation treatment
+A 20 mg sample was treated for 1 h at 1023 K under ni-
+trogen (70 cm3 min−1). Once cooled to 373 K, the sample was
+treated for 10 min with water vapour (about 840 Pa) diluted in
+nitrogen (10 cm3 min−1). Finally, it was heated (5 K min−1)
+under nitrogen (70 cm3 min−1) up to the selected activation
+temperature and maintained at this temperature for 15 min. This
+treatment led to the so-called “hydroxylated” surfaces and was
+used in situ in the diffuse reﬂectance Fourier transform infrared
+(DRIFT) cell or in the MBOH reactor.
+2.3.2. High-temperature treatment
+A high-temperature (1023–1273 K) in situ treatment was
+used to remove water and carbon dioxide, producing the so-
+called “clean” surfaces. The highest possible temperature was
+determined by the heat resistance of the experimental se
+
+4 Pa and 673 K for
+1 h.
+Small aliquots of methanol were introduced on the sample
+before or after hydroxylation, at ambient temperature so as to
+reach a ﬁnal residual pressure of 133 Pa in the cell. The spec-
+trum of the gas phase was subtracted from the spectrum of the
+sample.
+2.6. Methylbutynol reaction
+MBOH reaction was followed in an automated differential-
+ﬂow microreactor. For each experiment, 20 mg of catalyst
+was pressed into wafers under a pressure of 5 × 105 Pa and
+crushed into pellets of 125–200 µm diameter. The sample was
+deposited on porous glass, in the centre of a 10 mm-i.d. U
+quartz tube. The reaction temperature of 393 K was controlled
+within ±1 K by a thermocouple located by the catalyst. The
+desired MBOH partial pressure was obtained by bubbling ni-
+trogen (100 cm3 min−1) in liquid MBOH at the selected tem-
+perature. Reaction products were analysed every 120 s using a
+Varian micro gas chromatograph equipped with a catharometric
+detector and a CP WAX 52 CB column.
+2.6.1. Standard run
+In a standard run, the sample was ﬁrst subjected to a high-
+temperature treatment leading to clean surfaces consisting of
+in situ activation under nitrogen (70 cm3 min−1) at 1073 K
+(5 K min−1) for 2 h in the reactor. The sample was then cooled
+to 393 K, and MBOH diluted in nitrogen was introduced at a
+partial pressure of 1.73 kPa by adjusting the saturator temper-
+ature to 293 K. The catalytic reaction was then performed at
+393 K as described earlier. These conditions were used when
+416
+M.-L. Bailly et al. / Journal of Catalysis 235 (2005) 413–422
+the conversion was such as to ensure the absence of diffusional
+limitations.
+2.6.2. Isosurface area experiments on clean surface
+Because samples have different speciﬁc surface areas, it is
+not possible to compare their catalytic activities in the same
+conditions without being limited by diffusional phenomena.
+Isosurface area experiments have thus been performed adapt-
+ing the mass of catalyst so as to obtain a surface of 5 m2 
+
+
+========== RESULTS ==========
+
+Results
+3.1. Surface oxide morphology
+Table 1 gives, as described earlier [12], the textural and
+morphological properties of the four MgO samples studied,
+as well as the relative distribution of O2−
+LC ions determined by
+photoluminescence after treatment under dynamic vacuum at
+1273 K for 2 h [11,12]. The O2−
+3C ions excited at 270 nm emit
+at 460 nm, whereas the O2−
+4C ions excited at 230 nm emit at
+380 nm. The ratio of integrated areas of the excitation bands
+reported in Table 1, is equal to αO2−
+3C/O2−
+4C, where α is a con-
+stant. The position of the emission band of O2−
+4C ions is also
+given in Table 1. The shift of this position from 380 nm to
+a lower wavelength is linked either to direct contribution of
+O2−
+5C [12] or to emission of O2−
+4C located on extended defect-free
+edges [R. Hacquart, Surf. Sci., in press]. In both cases, it probes
+the relative abundance of O2−
+5C ions located on extended (100)
+planes; the lower the wavelength, the higher the O2−
+5C relative
+abundance.
+The MgO samples differ, particularly in their relative distri-
+bution of O2−
+LC ions. MgO-sol–gel has a rough surface, probably
+due to defects created by desorption of the last residual methoxy
+groups introduced during synthesis [20]. MgO-hydration and
+MgO-precipitation exhibit very similar characteristics but for
+morphology and particle size. The values obtained for MgO-
+hydration differ from those published earlier [12], indicating
+that the preparation method is not easily reproducible. Indeed,
+rehydration of commercial MgO strongly affects the corners
+of the particles, and the erosion process is not yet well under-
+stood [21,22]. MgO-CVD exhibits a very high surface area but,
+because of its cubic particles, involves O2−
+LC ions with higher
+coordination than for the other samples.
+Thus, on the basis of photoluminescence data, the relative
+distribution of O2−
+LC ions is shifted toward the less coordinated
+O2−
+LC ions along the series MgO-CVD < MgO-hydration ≈
+MgO-precipitation < MgO-sol–ge
+
+bic particles, involves O2−
+LC ions with higher
+coordination than for the other samples.
+Thus, on the basis of photoluminescence data, the relative
+distribution of O2−
+LC ions is shifted toward the less coordinated
+O2−
+LC ions along the series MgO-CVD < MgO-hydration ≈
+MgO-precipitation < MgO-sol–gel.
+3.2. Typical catalytic activity of MgO on clean surface
+The DRIFT spectrum of MgO-precipitation is shown in
+Fig. 2 before and after high temperature treatment (1023 K
+for 2 h under nitrogen) in the DRIFTS cell. It is seen that this
+treatment removes carbonates (1300–1500 cm−1), leaving only
+some residual OH groups (3720 cm−1). The MgO samples thus
+can be considered to exhibit a clean surface and even more so
+for MgO treated in the catalytic cell at 1073 K. Fig. 3 gives
+the conversion and selectivity obtained in a standard run for
+MgO-precipitation; only acetone and acetylene are produced in
+equimolar ratio, and the conversion versus time on stream is
+very stable. The carbon balance between the converted reactant
+Table 1
+Texture, morphology and populations of the O2−
+LC ions of MgO samples (reproduced from [12])
+Sample
+Shape of the particlesa
+BET surface areab (m2 g−1)
+Particle sizec (Å)
+α·O2−
+3C /O2−
+4C
+d
+λmax (nm) of O2−
+4c ionse
+MgO-sol–gel
+Irregular
+150
+87
+0.15
+380
+MgO-precipitation
+Irregular
+198
+75
+0.06
+380
+MgO-hydratation
+Cubic
+150
+159
+0.06
+378
+MgO-CVD
+Cubic
+300
+70
+0.05
+370
+a Determined from transmission electron microscopy graphs.
+b After preparation (Section 2.1), the samples are left in air. Before N2-adsorption measurements, they are outgassed at 473 K for 15 h and then at 573 K for 2 h
+(Section 2.2).
+c Estimated from X-ray diffraction patterns.
+d Obtained from photoluminescence experiments. α is a constant.
+e Obtained from photoluminescence experiments. The excitation wavelength is 230 nm.
+M.-L. Bailly et al. / Journal of Catalysis 235 (2005) 413–422
+417
+Fig. 2. DRIFT spectra of MgO-precipitation: (a) before activation treatment
+(- - -) and after activation u
+
+oluminescence experiments. α is a constant.
+e Obtained from photoluminescence experiments. The excitation wavelength is 230 nm.
+M.-L. Bailly et al. / Journal of Catalysis 235 (2005) 413–422
+417
+Fig. 2. DRIFT spectra of MgO-precipitation: (a) before activation treatment
+(- - -) and after activation under nitrogen ﬂow (70 cm3 min−1) at 1023 K for 2 h
+(—); (b) after activation under nitrogen ﬂow (70 cm3 min−1) at 1023 K for 2 h,
+with zoom on the 3000–4000 cm−1 region.
+Fig. 3. Conversion and selectivity obtained in a standard run of MBOH reaction
+on MgO-precipitation as a function of time on stream.
+and the products is estimated at >90%. A similar behavior is
+observed for the other samples.
+3.3. Comparison of the activity of basic sites of MgO samples
+In isosurface area conditions, the conversions of the differ-
+ent samples are directly linked to the number/m2 and strength
+of basic sites. The order of activity thus obtained is MgO-
+Fig. 4. DRIFT spectra of MgO-precipitation in the νOH vibration region after
+each hydroxylation step. Water is adsorbed at 373 K and the sample is heated
+under nitrogen ﬂow (70 cm3 min−1) at the desired activation temperature and
+maintained at this temperature for 15 min. DRIFT spectra are taken at the acti-
+vation temperature at the end of the dwell.
+CVD < MgO-precipitation < MgO-hydration < MgO-sol–gel,
+corresponding to mean conversion values of 23, 15, 12, and 7%,
+respectively.
+3.4. Relation between catalytic activity and number of OH
+groups
+3.4.1. Surface hydroxylation followed by DRIFTS
+To evaluate the role of OH groups in reactivity of basic
+sites, the hydroxylation of clean surfaces has been studied. Af-
+ter treatment with water (see Experimental section), the tem-
+perature of the sample is increased under ﬂowing nitrogen in
+100 ◦C steps to progressively eliminate physisorbed water and
+OH groups. Fig. 4 shows the DRIFT spectra in the νOH region
+obtained on MgO-precipitation after 15 min at each tempera-
+ture. They consist of two bands,
+
+ental section), the tem-
+perature of the sample is increased under ﬂowing nitrogen in
+100 ◦C steps to progressively eliminate physisorbed water and
+OH groups. Fig. 4 shows the DRIFT spectra in the νOH region
+obtained on MgO-precipitation after 15 min at each tempera-
+ture. They consist of two bands, a broad one around 3500–
+3650 cm−1 and a narrow band around 3700–3750 cm−1. The
+ﬁrst is usually assigned to OH groups associated by H-bonding,
+whereas the second corresponds to isolated OH groups [23–25].
+By increasing the desorption temperature, the intensity of the
+two bands decreases, and at 973 K, only isolated OH groups
+remain. The area of the two bands measured after subtraction
+of the background decreases with increasing temperature, as
+shown in Fig. 5.
+418
+M.-L. Bailly et al. / Journal of Catalysis 235 (2005) 413–422
+Fig. 5. Evolution of MBOH conversion and of the integrated area of two
+νOH DRIFTS bands corresponding respectively to the isolated groups (νOH =
+3700–3750 cm−1) and to the associated groups (νOH = 3500–3650 cm−1) on
+MgO-precipitation as a function of treatment temperature.
+3.4.2. Catalytic activity of hydroxylated surfaces
+The catalytic properties of MgO-sol–gel, MgO-precipitation,
+and MgO-hydration, treated in the same conditions as those de-
+scribed for DRIFT experiments, were determined. MgO-CVD
+was not tested in these conditions, because the cubic particles
+are eroded on rehydration treatment (TEM results not shown)
+with modiﬁcation of the O2−
+3C/O2−
+4C ratio evidenced by photolu-
+minescence [10,12]. Fig. 5 shows the evolution of conversion τ
+and of the integrated area of the two νOH bands with treatment
+temperature for MgO-precipitation. The same evolution is ob-
+served only for τ and the area of the νOH band corresponding to
+isolated OH groups. The same result is obtained for MgO-sol–
+gel and MgO-hydration, suggesting that isolated OH groups
+play a major role in the reaction. A similar

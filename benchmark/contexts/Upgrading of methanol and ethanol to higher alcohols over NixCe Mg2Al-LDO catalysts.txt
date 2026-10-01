@@ -1,0 +1,113 @@
+========== ABSTRACT ==========
+
+d have appeared to influence 
+the work reported in this paper.
+Acknowledgement
+This work was supported by the National Natural Science Foundation 
+of China (22179137) and the Doctoral Research Foundation of Shi­
+jiazhuang University (20BS005).
+Supplementary materials
+Supplementary material associated with this article can be found, in 
+the online version, at doi:10.1016/j.mcat.2025.115079.
+Data availability
+The authors do not have permission to share data.
+
+
+========== EXPERIMENTAL ==========
+
+ion products also was investigated, and the result are shown in 
+Figure.S1A. We observed that decreasing the LHSV led to higher con­
+versions of both methanol and ethanol, while the highest C3+OH 
+selectivity was achieved at 3.76 mL⋅gcat−1⋅h−1. The Methanol/Ethanol 
+ratio (M/E) plays a crucial role in determining the cross-condensation 
+selectivity and consequently influences the product distribution. 
+Therefore, we systematically investigated the effect of varying M/E ra­
+tios (6:1, 3:1, 1:1, 1:3) on the reaction performance, as shown in Figure. 
+S1B. With increasing M/E ratio, methanol conversion decreases while 
+ethanol conversion rises, attributed to the reduced ethanol concentra­
+tion in the feed stream. The C3+OH selectivity exhibits a volcano-type 
+dependence, reaching its maximum at a M/E ratio of 3:1. The selectiv­
+ities toward propanol, isopropanol, and pentanol increased, accompa­
+nied by reduced butanol formation. The observed enhancement in cross- 
+condensation ratio clearly demonstrates a preference for methanol- 
+ethanol cross-condensation over ethanol self-condensation pathways. 
+However, further increasing M/E ratio, the amount of ethanol involved 
+in cross-coupling and self-condensation reduces, leading to the 
+decreasing space-time yield of C3+OH. Based on the above results, we 
+keep the M/E ratio of 3:1 and LHSV of 3.76 as the optimal condition for 
+this catalytic system.
+The product distribution and conversion are sensitive to tempera­
+ture. Therefore, the influence of temperature on catalytic performance 
+over Ni30Ce/Mg2Al-LDO was studied. As shown in Fig. 1A, with the 
+temperature varying from 320 ◦C to 380 ◦C, the conversion (methanol, 
+ethanol) shows a linear increase and the conversion of ethanol increases 
+from 16.0 % to 34.3 %, but the selectivity for C3+ alcohols decreases to 
+49.6 % due to the generation of gaseous products, such as CO, CO2 and 
+olefins. According to the literature, dehydrogenation is an endothermic 
+process. Increasing
+
+ 
+and Ce species inside the pores of Mg2Al-LDO.
+All catalysts exhibit diffraction peaks at 36.9◦, 42.9◦, and 62.3◦, 
+which can be attributed to the (111), (200) and (220) crystallographic 
+planes of MgO (PDF#45-0946), respectively (Fig. 3). After loading with 
+Ni and Ce, the diffraction peaks of MgO become more intense, demon­
+strating the strong interaction between Ni and Mg. In addition, no 
+characteristic crystal planes of Al2O3, NiO, and CeO2 are detected, 
+suggesting that Al2O3, NiO, and CeO2 are highly dispersed on catalysts 
+or exist in amorphous forms.
+Fig. 1. Methanol and ethanol conversions over the Ni30Ce/Mg2Al-LDO catalyst at various temperatures (A). Stability of the Ni30Ce/Mg2Al-LDO for methanol and 
+ethanol to C3+ alcohols at 320 ◦C (B). 
+Reaction conditions: 800 mg catalyst, P = 0.1 MPa, flowing rate = 60 mL/min, LHSV = 3.76 mL⋅gcat−1⋅h−1, Methanol/Ethanol molar ratio= 3/1.
+Fig. 2. N2 adsorption-desorption isotherm (A) and pore size distribution curves (B) of the Mg2Al-LDO and NixCe/Mg2Al-LDO catalysts.
+Fig. 3. XRD patterns of the Mg2Al-LDO and NixCe/Mg2Al-LDO catalysts.
+D. He et al. 
+Molecular Catalysis 580 (2025) 115079 
+4 
+Fig. 4. TEM images of (a-a’) Mg2Al-LDO, (b-b’) Ni/Mg2Al-LDO, and (c-c’) Ni30Ce/Mg2Al-LDO catalysts.
+Fig. 5. (A) XPS spectra of Ni 2p and (B) Ce 3d for the NixCe/Mg2Al-LDO catalysts (C) Correlation between the reaction rate of ethanol with the amount of Ni0 and (D) 
+the ratio of Ce3+/Ce4+. Reaction conditions: T = 320 ◦C, P = 0.1 MPa, flowing rate = 60 mL/min, LHSV = 3.76 mL⋅gcat−1⋅h−1, Methanol/Ethanol molar ratio= 3/1.
+D. He et al. 
+Molecular Catalysis 580 (2025) 115079 
+5 
+TEM images of Mg2Al-LDO, Ni/Mg2Al-LDO, and Ni30Ce/Mg2Al-LDO 
+catalysts are shown in Fig. 4. From Fig. 4a, it is clear that Mg2Al-LDO 
+retains the layered structure of the hydrotalcite precursor. In the large- 
+scale image, the lattice distance of 0.210 nm can be seen, which is 
+related to the MgO (200) plane (Figure 4a’). There are no lattice 
+diffraction st
+
+
+========== RESULTS ==========
+
+results, the metal Ni promotes ethanol dehydroge­
+nation. However, the powerful cleaving ability of C–C bond over Ni 
+active sites leads to the production of CO, CO2 and CH4 while promoting 
+ethanol dehydrogenation, reducing the total carbon efficiency of the 
+reaction. Then some researchers tried to add the second element through 
+adjusting the electronic structure of Ni to improve the higher alcohols 
+selectivity of catalysts. Wu et al. achieved 93.8 % higher alcohol selec­
+tivity according to restrict the cracking of C–C bond over Ni-based 
+catalyst by adding Sn [37]. Additionally, CeO2 with abundant basic 
+sites has been used as an active catalyst to promote the aldol conden­
+sation. Li et al. found that adding CeO2 not only favored the aldol 
+condensation but also improved the dispersion of metal due to the strong 
+interaction of metal and CeO2 species over M-CeO2/AC(M=Cu, Fe, Co, 
+Ni, Pd) [28,41]. Furthermore, Wang et al. also reported that the inter­
+action of Ni and CeO2 impacted the electronic structure of Ni over 
+NiCeO2@C catalysts which achieved a 89.7 % selectivity towards 
+C4–8OH [42].
+Combining the virtue of MgAl layered double hydroxides and NiCe 
+composites, a series of NixCe/Mg2Al-LDO catalysts were synthesized by 
+co-impregnation method in the present work. The surface properties, 
+geometric structure and electronic structure of NixCe/Mg2Al-LDO were 
+characterized using BET, XRD, TEM, NH3/CO2-TPD and XPS. In-situ 
+DRIFTS was employed to elucidate the mechanism between the sur­
+face properties and catalytic performance. According to the character­
+ization results, Mg2Al-LDO provided a high surface area for metal 
+dispersion of and numerous strong basic and acidic sites. Adding Ce can 
+not only adjust the electronic structure of Ni, but also regulate the acid- 
+base distribution, synergistically accelerating the dehydrogenation and 
+C–C coupling reaction, therby achieving high-efficiency conversion to 
+C3+OH under mild reaction conditions.
+2.

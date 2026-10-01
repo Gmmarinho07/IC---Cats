@@ -1,0 +1,155 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu/PPC",
+                "raw_name": "Cu/PPC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/CMC",
+                "raw_name": "Cu/CMC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu20CA-C",
+                "raw_name": "Cu20CA-C",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu40CA-C",
+                "raw_name": "Cu40CA-C",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu20CA-R",
+                "raw_name": "Cu20CA-R",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu40CA-R",
+                "raw_name": "Cu40CA-R",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HT-Cu20",
+                "raw_name": "HT-Cu20",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HT-Cu40",
+                "raw_name": "HT-Cu40",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CeCu20",
+                "raw_name": "CeCu20",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CeCu40",
+                "raw_name": "CeCu40",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "ReCu20",
+                "raw_name": "ReCu20",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "ReCu40",
+                "raw_name": "ReCu40",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/MgAlOx-P",
+                "raw_name": "Cu/MgAlOx-P",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/MgAlOx",
+                "raw_name": "Cu/MgAlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu30ZA",
+                "raw_name": "Cu30ZA",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/C/SiO2",
+                "raw_name": "Cu/C/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/SiO2",
+                "raw_name": "Cu/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/SiC",
+                "raw_name": "Cu/SiC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/SiO2/SiC",
+                "raw_name": "Cu/SiO2/SiC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/C/SiC",
+                "raw_name": "Cu/C/SiC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/SiO2-AE",
+                "raw_name": "Cu/SiO2-AE",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/ZrO2",
+                "raw_name": "Cu/ZrO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/La2O3",
+                "raw_name": "Cu/La2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/MgO",
+                "raw_name": "Cu/MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/MSU-9",
+                "raw_name": "Cu/MSU-9",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/C@SiO2",
+                "raw_name": "Cu/C@SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "10Cu/MCM-41",
+                "raw_name": "10Cu/MCM-41",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgAlOx",
+            "raw_name": "MgAlOx",
+            "article_identifiers": []
+        }
+    }
+}

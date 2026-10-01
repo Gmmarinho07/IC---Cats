@@ -1,0 +1,71 @@
+{
+    "paper": "Mechanism and Kinetics of Ethanol Coupling to Butanol over Hydroxiapatite",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The mechanism and kinetics for ethanol coupling to n-butanol over hydroxyapatite (HAP) were investigated",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite (HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "hydroxyapatite (HAP)",
+                "reason": "The raw name is explicitly mentioned in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The catalyst was calcined in 100 mL/min of air at 873 K for 2 h before use.",
+                "reason": "The article explicitly associates HAP with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium oxide",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not explicitly identify Calcium oxide as a catalyst."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The mechanism and kinetics for ethanol coupling to n-butanol over hydroxyapatite (HAP) were investigated",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "hydroxyapatite (HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "hydroxyapatite (HAP)",
+                "reason": "The raw name is explicitly mentioned in the text."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "",
+                "field": "article_identifiers",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "There are no article identifiers explicitly associated with the support."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 2,
+            "partial": 0,
+            "correct": 5
+        }
+    }
+}

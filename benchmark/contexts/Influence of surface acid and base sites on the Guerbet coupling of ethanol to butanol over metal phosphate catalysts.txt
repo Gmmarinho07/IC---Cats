@@ -1,0 +1,94 @@
+========== EXPERIMENTAL ==========
+
+mplying that
+the ﬁnal magnesium phosphate phase was fully dehydrated after
+calcination at 873 K.
+The nature, density, and strength of surface base sites and acid
+sites of the catalytic materials were characterized using adsorption
+microcalorimetry of CO2 and TEA, respectively, at 303 K. Adsorp-
+tion isotherms of CO2 on HAP, MgO, Sr3(PO4)2, and b-TCP are pre-
+sented in Fig. 5a. Stoichiometric HAP exhibited the highest
+overall CO2 uptake of 2.5 mmol m2, which was calculated by
+extrapolating the physisorption region of the isotherm to zero
+pressure. The measured CO2 adsorption capacities of the other cat-
+alysts were signiﬁcantly lower, suggesting a much higher base site
+density exists on the surface of HAP compared to MgO, Sr3(PO4)2,
+and b-TCP. The b-TCP catalyst had the lowest surface coverage of
+CO2 (0.3 lmol m2) suggesting a small number of base sites pre-
+sent on this surface. The MgO and Sr3(PO4)2 surfaces exhibited an
+intermediate base site density of 1.0 mmol m2. The CO2 adsorp-
+tion isotherm on Sr3(PO4)2 was measured over a smaller pressure
+range because of its very low surface area relative to the other
+materials (Table 1).
+Differential heats of CO2 adsorption as a function of surface
+coverage are presented in Fig. 5b. The highest initial heat of CO2
+adsorption was measured on the MgO surface (DHads = 130
+kJ mol1) suggesting MgO exposed the strongest base sites that
+Fig. 1. X-ray diffraction patterns of (a) HAP, (b) FAP, (c) periclase MgO, and (d)
+strontium phosphate (Sr3(PO4)2). Patterns are offset for clarity.
+Fig. 2. Powder X-ray diffraction pattern of calcium-deﬁcient hydroxyapatite at (a)
+room temperature and (b) after calcination at 1073 K for 2 h in ﬂowing air to give b-
+TCP. Patterns are offset for clarity.
+Fig. 3. Powder X-ray diffraction pattern of Mg3(PO4)2H2O at (a) room temperature
+and (b) after calcination at 873 K for 2 h. in ﬂowing air. Patterns are offset for clarity.
+Fig. 4. Thermogravimetric analysis (TGA) proﬁle of magnesium phosphate hydr
+
+ing the
+ethanol coupling reaction. In addition, the potential roles of cations
+(Ca2+, Mg2+, Sr2+) and anions (OH, F) on the reactivity of
+phosphate-based catalysts were explored. A variety of catalysts
+such as b-TCP, Sr3(PO4)2, Mg3(PO4)2, and FAP were tested in Guer-
+bet coupling and compared to HAP. The product distribution and
+steady-state rate observed during ethanol conversion at 633 K for
+the catalysts are listed in Table 2. All catalytic reactions were con-
+ducted at low ethanol conversion (5%) to ensure differential reac-
+tor conditions.
+The HAP catalyst exhibited the highest catalytic activity for
+butanol production and the highest selectivity to butanol (72%)
+among all of the catalysts tested. The b-TCP and FAP catalysts were
+3 times less active on an area basis and 50% less selective
+toward butanol, compared to HAP, which implies that the hydroxyl
+group of HAP likely plays a beneﬁcial role in the catalysis during
+the coupling of ethanol to butanol. Although the catalytic activity
+and selectivity to butanol over b-TCP and FAP were not as impres-
+sive as those over HAP, the Guerbet coupling reaction was never-
+theless still observed. This observation suggests that the PO4
+3
+group is critical for the production of butanol over b-TCP and FAP
+and is likely involved in the active acid-base site pair for butanol
+formation during ethanol coupling over HAP. These results are con-
+sistent with the water co-feeding experiments over HAP (Fig. 9)
+where the inhibiting effect of water on butanol formation was
+likely the result of water interactions with adjacent Ca2+-PO4
+3 site
+pairs on the surface [34].
+The MgO catalyst was the least active among all of the catalysts
+tested and catalyzed primarily the dehydrogenation of ethanol to
+acetaldehyde (59% selectivity). The undesired ethene, which was
+formed
+by
+dehydration
+of
+ethanol,
+was
+also
+observed
+(8%
+selectivity).
+As discussed earlier, the Guerbet coupling of ethanol to butanol
+likely proceeds over an acid-base site pair,
+
+
+========== RESULTS ==========
+
+results were compared with those using stoichiometric HAP to gain
+insight into the importance of the OH and PO4
+3 anions of HAP.
+The inﬂuence of cations in the metal phosphate catalysts was also
+explored by investigating the catalytic activity of Mg- and Sr-
+phosphate in ethanol conversion. Additionally, to help elucidate
+the role of dihydrogen and water that are evolved in the Guerbet
+reaction, these by-products were co-fed with ethanol during the
+steady-state gas-phase conversion of ethanol over stoichiometric
+HAP.
+2.

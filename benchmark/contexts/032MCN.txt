@@ -1,0 +1,194 @@
+========== ABSTRACT ==========
+
+ABSTRACT: The mechanism and kinetics for ethanol
+coupling to n-butanol over hydroxyapatite (HAP) were investi-
+gated at 573−613 K. In situ titration experiments show that the
+active sites for acetaldehyde and butanol formation are diﬀerent.
+In combination with FTIR studies, it was found that ethanol
+dehydrogenation is catalyzed by Ca−O sites, whereas con-
+densation of acetaldehyde is catalyzed by CaO/PO4
+3−pairs.
+Measurements of the reaction kinetics at various ethanol (3.5−
+9.4 kPa) and acetaldehyde (0.055−0.12 kPa) partial pressures reveal that direct condensation involving two ethanol molecules does
+not play a signiﬁcant role in butanol formation; instead, n-butanol is formed via a Guerbet pathway. At a constant acetaldehyde
+pressure, enolate formation is rate-limiting, and ethanol inhibits acetaldehyde condensation rates by competitive adsorption.
+A model of the reaction kinetics consistent with all
+
+
+========== EXPERIMENTAL ==========
+
+experimental observations is developed.
+KEYWORDS: hydroxyapatite, ethanol coupling, acetaldehyde, butanol, Guerbet reaction
+■
+
+
+========== RESULTS ==========
+
+ght in air. The catalyst was calcined in 100 mL/min of air
+at 873 K for 2 h before use.
+Calcium oxide was synthesized by a precipitation method
+using aqueous solutions of calcium chloride and sodium hy-
+droxide to form the corresponding hydroxide before calcining
+at 773 K for 1 h.
+Characterization Techniques. Powder X-ray diﬀraction
+(PXRD) patterns were taken with a Bruker D8 GADDS diﬀrac-
+tometer equipped with a Cu−Kα source (40 kV, 40 mA). BET
+surface areas were calculated from nitrogen adsorption
+isotherms obtained using a Micromeritics Gemini VII 2390
+surface area analyzer. The Ca/P ratio of HAP was determined
+by ICP-OES using an Optima 7000 DV instrument. Infrared
+spectra (FTIR) were acquired using a Thermo Scientiﬁc
+Nicolet 6700 spectrometer equipped with a liquid-nitrogen-
+cooled MCT detector. Samples were prepared by pressing
+0.04 g of catalyst into a 20 mm-diameter pellet and placing it
+into a custom-built transmission cell with CaF2 windows. All
+pellets for FTIR were pretreated in helium at 723 K overnight.
+Measurements of Catalytic Activity. Measurements of
+reaction rates were carried out in a quartz-tube, packed-bed
+reactor (10 mm inner diameter). Quartz wool was placed below
+the catalyst bed to hold the catalyst in place. The reactor
+temperature was maintained using a tube furnace equipped
+with a Watlow temperature controller and a K-type thermo-
+couple. Prior to reaction, the catalyst was treated in 50 mL min−1
+of air (Praxair, zero grade) at 773 K for 1 h before cooling to the
+reaction temperature. This method was also used for catalyst
+regeneration.
+In a typical experiment, ethanol (Sigma-Aldrich, 99.5%) and
+10 vol % acetaldehyde (Sigma-Aldrich, 99.5%) in ethanol were
+introduced into a He (Praxair, 99.999%) stream ﬂowing at
+30 cm3 min−1 using two syringe pumps (Cole Parmer, 74900
+series). Propanol (Sigma-Aldrich, 99.8%), pyridine (Fisher
+Scientiﬁc, ACS grade), and propanoic acid (Sigma-Aldrich,
+99.5%) were also fed in a similar manner. All experiment
+
+ule of butadiene produced. Reaction orders,
+model parameter values, and their associated errors were
+calculated by a least-squares regression analysis.
+■RESULTS AND DISCUSSION
+The X-ray diﬀraction pattern of HAP shown in Figure 1a is
+characteristic of nanocrystalline apatite.41,42 The IR spectrum of
+the catalyst presented in Figure 1b shows characteristic bands at
+3572 (columnar OH−) and 2200−1900 cm−1 (P−O overtone/
+combination modes) along with small bands at 1444 and
+1414 cm−1 related to carbonate impurities.26,43 The Ca/P ratio
+as measured by ICP-OES is 1.67, indicating a stoichiometric
+composition. The catalyst BET surface area is 81 m2 g−1.
+Spacetime studies of ethanol conversion over HAP are
+shown in Figure 2. The yield of acetaldehyde reaches a plateau
+beyond 1/WHSV = 16 min, indicating that acetaldehyde is an
+intermediate for other products. The selectivity toward butanol
+reaches a maximum of 77% at an ethanol conversion of 8%.
+Above this conversion, the butanol selectivity decreases due to
+further coupling to form C6 alcohols. As shown in Table 1,
+several other products are observed in small quantities, most
+ACS Catalysis
+Research Article
+DOI: 10.1021/acscatal.5b02672
+ACS Catal. 2016, 6, 939−948
+940
+notably crotonaldehyde, butanal, and crotyl alcohol, which are
+key intermediates in the Guerbet mechanism.
+To gain more insight into the reaction pathway, several
+Guerbet intermediates (acetaldehyde, crotonaldehyde, butanal,
+crotyl alcohol) were fed into the reactor, and the conversions
+and product yields are shown in Table 2. In all cases, the carbon
+balance was poor, presumably due to the formation and
+deposition of heavy aldol oligomers on the catalyst surface.
+Quantitative conversion of acetaldehyde is achieved, with
+crotonaldehyde being the major observed product, demonstrat-
+ing that aldol condensation proceeds rapidly under reaction
+conditions. When butanal is fed into the reactor, only trace
+amounts of crotyl alcohol and butanol are formed, indicating
+t
+
+and
+butanal). In the context of ethanol coupling to butanol, the
+results of these cofeed studies suggest that acetaldehyde formed
+by ethanol dehydrogenation easily undergoes aldol condensa-
+tion to form crotonaldehyde. Crotonaldehyde is then rapidly
+hydrogenated to butanal, crotyl alcohol, and ultimately butanol,
+by hydrogen transfer with ethanol.
+The apparent rates of acetaldehyde and butanol formation
+were measured as a function of ethanol partial pressure and are
+presented in Figure 3. The conversion ranged from 1% at high
+ethanol partial pressures to 5% at low ethanol partial pressures.
+The observed reaction order for acetaldehyde formation
+decreases from 1.0 to 0.3 ± 0.1 as ethanol partial pressure
+increases from 0.1 to 9.4 kPa. The rate of butanol formation is
+ﬁrst order at low ethanol partial pressures (<1 kPa) and zero
+order at high ethanol partial pressures (9.4 kPa).
+To assess the role of ethanol and acetaldehyde in the reaction
+more accurately, both reactants were cofed into the reactor to
+maintain constant ethanol and acetaldehyde partial pressures
+throughout the catalyst bed. Ethanol and acetaldehyde con-
+versions were kept below 10% and 15% respectively to achieve
+diﬀerential conditions. Figure 4 shows butanol formation rates
+over HAP for a range of ethanol (3.5−9.4 kPa) and acetaldehyde
+Figure 2. Eﬀect of space velocity on ethanol conversion and product
+yields. Inset shows a vertically stretched region of the same plot. Solid
+lines are meant to guide the eye. T = 603 K; PEtOH = 5.7 kPa; WHSV =
+w8 hly space velocity.
+Table 1. Initial Ethanol Conversion and Product Selectivity
+over HAPa
+catalyst
+HAP
+surface area (m2/g)
+81
+conversion (%)
+17.1
+selectivity (%)
+ethylene
+1.4
+acetaldehyde
+2.9
+butadiene
+3.5
+butanol
+63.2
+crotonaldehyde
+0.1
+butanal
+0.2
+crotyl alcohol
+0.7
+C6+ alcohols
+24.5
+aT = 603 K; catalyst mass = 0.3 g; PEtOH = 5.7 kPa; total gas ﬂow rate
+at STP = 30 cm3 min−1.
+Figure 1. (a) XRD pattern and (b) IR spectrum of HAP. The main diﬀraction peaks of
+
+e ﬂow of CO2, the butanol rate recovers
+back to 40% of its original value, indicating that a signiﬁcant
+fraction of adsorbed CO2 remains on the surface. When a
+stronger titrant such as propanoic acid is used, the rate of
+acetaldehyde formation decreases 6-fold, and the rate of
+butanol formation is completely suppressed (Figure S1). In
+addition, the butanol rate recovers much more slowly than the
+acetaldehyde rate. If HAP possesses a single active site that
+performs both unimolecular (dehydrogenation) and bimolec-
+ular (condensation) reaction, it would be expected that the
+identity of the titrant would not aﬀect the relative selectivity of
+acetaldehyde and butanol as long as the same number of sites
+are titrated. However, this is not observed. The formation rate
+of butanol is strongly aﬀected by the choice of titrant (Figure 5 −
+pyridine titration vs Figure 6 - CO2 titration), while the forma-
+tion rate of acetaldehyde does not change much. This suggests
+that the diﬀerences in transient responses for each of these
+titrants are due to the diﬀerent site requirements for the
+formation of acetaldehyde and butanol.
+FTIR spectra of HAP acquired under a continuous ﬂow of
+CO2 (1 kPa) at 473 and 603 K are shown in Figure 7. The
+bands observed at 1703, 1660, and 1626 cm−1 at 473 K
+correspond to surface bicarbonate species formed by reaction
+of CO2 with Ca−OH groups.27,32 The bands at 1482 and
+1345 cm−1 can be assigned to surface carbonates bound to
+phosphate groups, whereas the bands at 1420 and 1400 cm−1
+are related to carbonate species on Ca−O sites derived from
+condensation of two adjacent surface Ca−OH groups.27,43 At
+603 K, the bicarbonate species disappear, but the surface
+carbonates remain, indicating that most Ca−OH surface groups
+have been converted to Ca−O.43
+Figure 7 also shows diﬀerence spectra for HAP taken in the
+presence of a continuous ethanol feed after introduction of
+CO2. The reaction conditions (T = 603 K, PEtOH = 5.7 kPa,
+PCO2 = 1.0 kPa) were identical to

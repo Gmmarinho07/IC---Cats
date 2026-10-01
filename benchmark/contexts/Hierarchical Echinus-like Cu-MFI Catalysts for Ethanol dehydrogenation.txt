@@ -1,0 +1,215 @@
+========== ABSTRACT ==========
+
+to the peroxide-type sites, which
+participate in catalyzing the rate-determining step of C−H
+bond cleavage. As such, over a Au/MgCuCr2O4 catalyst, the
+yield of acetaldehyde was reported to be ∼95% at 523 K in 500
+h time on stream (TOS).14 Although many progresses have
+been made in oxidative dehydrogenation, the non-oxidative
+dehydrogenation of ethanol to acetaldehyde is more attractive
+in view of the atom economy and viability of the reaction. Over
+Cu catalysts on the supports of rice husk ash,15,16 silica,17
+mesoporous carbon, N-containing carbon- and silica carbon
+complex,18,19 > 90% acetaldehyde selectivity was obtained.
+Nevertheless, owing to the low Tamman temperature of Cu,
+most Cu particles are prone to be deactivated because of the
+aggregation of Cu in the presence of H2 byproduct at elevated
+temperatures.20,21 Moreover, various Cu species, including
+Cu0, Cu+, and Cu2+, are observed in Cu-based catalysts and are
+indispensable during the dehydrogenation reaction. The
+instability of Cu species in the presence of produced H2 also
+leads to the challenge in identifying the role of Cu species in
+ethanol conversion. Hence, it is highly desirable to develop an
+eﬃcient catalyst with great stability in the non-oxidative
+dehydrogenation of ethanol to acetaldehyde.
+In this research, a hierarchical echinus-like catalyst of Cu-
+MFI-AE (silicalite-1) was developed for the non-oxidative
+dehydrogenation of ethanol to acetaldehyde. With this newly
+developed catalyst, the selectivity to acetaldehyde reached 93%
+under a conversion of 97% at 523 K and a WHSV (weight
+hourly space velocity) of 0.53 h−1 in the 500 h TOS. This
+unexpected activity of Cu-MFI-AE was attributed to the
+synergistic eﬀect between Cu+ and Cu0 species on Cu-MFI-AE
+catalysts, which activated the O−H and the nearby C−H
+bonds, and promoted the H atoms migration and combination,
+respectively. Meanwhile, the strong interfacial interactions
+between Cu and crystallized MFI via Cu−O−Si bonds
+formation endowed the ca
+
+
+========== EXPERIMENTAL ==========
+
+experimental observation. Meanwhile, the
+combination of H adatoms to release gaseous H2 is crucial to
+the ﬁnal product and the completeness of catalytic cycle over
+the catalyst. An energy barrier on Cu2O (100) surface is as
+high as 1.99 eV. While, it is only 0.98 eV over the Cu (111)
+surface, much lower than that on the Cu2O. Therefore, it can
+be supposed that the H atoms undergo migration to metallic
+Cu sites and combine to H2 product therein. As a result, the
+coexistence of Cu+ and Cu0 on the catalyst may account for the
+high activity of Cu-MFI-AE catalyst. The rapid migration of H
+from Cu+ to Cu0 also avoids the reduction of Cu+ to metallic
+Cu and enhances the unprecedented stability in ethanol
+dehydrogenation. Otherwise, the Cu+ species were rapidly
+reduced to metallic Cu, and caused the particle aggregation, as
+previously reported.45 Based on the catalyst structure analysis
+and theoretical calculations, a possible reaction pathway for the
+dehydrogenation of ethanol was proposed in Figure 4B.
+Ethanol was preferably adsorbed on the Cu+ sites of catalysts,
+which weakened the O−H bond and facilitated its cleavage.
+Afterward, the absorbed ethanol was transformed to Cu(+)-
+ethoxy and H atom, which were adsorbed on Cu+ and Cu0
+sites, respectively. The C−H bond of Cu(+)-ethoxy was then
+activated by Cu+ to produce the adsorbed acetaldehyde, and H
+atom was transferred to Cu0 for combination.46 Finally, the
+adsorbed hydrogen on Cu0 and the acetaldehyde on Cu+ were
+desorbed to the gas phase. Diﬀerent from Cu−Cr based
+catalysts,47 synergistic eﬀect of Cu+ and Cu0 species over the
+Cu-MFI-AE catalyst ensured the ethanol dehydrogantion
+reaction, rather than the estiﬁcation reaction.
+In
+
+
+========== RESULTS ==========
+
+results, the AE method plays a pivotal role in
+anchoring Cu species for the high stability of catalysts in
+ethanol conversion. The AE method was conducted in a high
+pH solution, which deprotonated the surface −OH of silica to
+adsorb the Cu species, forming the (NH3)−Cu−O-Si
+precursor. After the calcination process, strong interfacial
+interactions between Cu species and the MFI support were
+constructed via the Cu−O−Si bonds (Supporting Information
+1.3; Figure S3,
+29Si MAS NMR spectra).27,28 The strong
+interfacial interaction between Cu and Si via the Cu−O−Si
+bonds inhibited the Cu nanoparticles aggregation,29,30 For the
+MFI support, it kept a high crystallization and hierarchical
+structure after the AE process, not only providing a rather
+stable silica matrix to interact with Cu particles to lessen the
+deactivation of catalysts31−33 but also minimizing the steric
+and/or diﬀusional hindrance to facilitate the product trans-
+fer.34,35 Additionally, the acidity of the MFI support was rather
+weak, preventing the side reaction of ethanol dehydration.36 As
+a result, the uniformly distributed Cu particles, the hierarchical
+porosity, and the strong interaction between Cu species and
+MFI support enabled this Cu-MFI-AE catalyst behaves as a
+best candidate in ethanol non-oxidative dehydrogenation in
+diﬀerent SiO2 supported catalysts (Figures S12−14).
+To get insight into the active sites of the Cu-MFI-AE
+catalyst in ethanol non-oxidative dehydrogenation, the
+chemical states of Cu species were investigated with Cu K-
+edge XANES spectroscopy. As shown in Figure 3A, besides the
+Cu2+ and Cu0 species, a distinctive peak at 8981.5 eV
+attributed to Cu+ specie (with the ﬁrst derivative XANES
+peak at 8980.5 eV in Figure 3B) was observed over the Cu-
+MFI-AE catalyst. By ﬁtting the XANES spectra at the K-edge
+of Cu into diﬀerent chemical states of copper, the amount of
+Cu+ was estimated to be 35.9% (Table S2 and Figure S15).
+The presence of Cu+ was further reﬂected by H2-TPR (Figure
+S16), 
+
+peak at 8980.5 eV in Figure 3B) was observed over the Cu-
+MFI-AE catalyst. By ﬁtting the XANES spectra at the K-edge
+of Cu into diﬀerent chemical states of copper, the amount of
+Cu+ was estimated to be 35.9% (Table S2 and Figure S15).
+The presence of Cu+ was further reﬂected by H2-TPR (Figure
+S16), in which a lower reduction peak was observed over the
+Cu-MFI-AE and Cu-SiO2-AE samples than those prepared by
+the IM method.37,38 Even for the Cu2+ species of Cu-MFI-AE
+(62.8%), it also behaves diﬀerently from the benchmark of
+CuO, arising from the Cu−O−Si bonds in Cu-MFI-AE rather
+than the Cu−O−Cu bonds in CuO. These can be the other
+evidence of the strong interfacial interactions between metallic
+Cu and MFI support. Two obvious separated peaks at 8980.8
+and 8985.6 eV were detected over the Cu/MFI-IM catalyst
+(Figure 3A,B), which should be attributed to the Cu0 and Cu2+
+species, respectively. The Cu0 and Cu2+ connected with -O-Cu
+are the dominated species (Cu0: 30%, Cu2+: 65.9%), with the
+content of Cu+ being negligible (4.2%) in the Cu/MFI-IM
+catalyst.
+In view of the possible reduction Cu species during the H2-
+abundant dehydrogenation condition, the chemical state of
+superﬁcial Cu species on Cu-MFI-AE was further investigated
+by the operando X-ray photoelectron spectroscopy (XPS)
+(Figure 3C). Two peaks at 935.2 and 932.9 eV were observed,
+which should be attributed to the Cu2+ (35%), and Cu0 and/or
+Cu+ (65%) species, respectively. As evidenced by the
+overlapping peaks at 913.7 and 917.8 eV with the Auger Cu
+LMM spectrum (Figure 3D), the coexistence of Cu+ and Cu0
+with a Cu+/Cu0 ratio of 0.47 was conﬁrmed on the Cu-MFI-
+AE sample under operando conditions.39 Accordingly, the Cu0,
+Cu+, and Cu2+ species are concomitant on the surface of Cu-
+MFI-AE sample under reaction conditions.40,41
+The anchoring sites of reactant on Cu sites were explored by
+DRIFTS using CO as a probe molecule. As shown in Figure
+Figure 3. Chemical structure of Cu based catalysts. (A,B) Normalized
+and
+
+Cu0,
+Cu+, and Cu2+ species are concomitant on the surface of Cu-
+MFI-AE sample under reaction conditions.40,41
+The anchoring sites of reactant on Cu sites were explored by
+DRIFTS using CO as a probe molecule. As shown in Figure
+Figure 3. Chemical structure of Cu based catalysts. (A,B) Normalized
+and First derivative XANES spectra at the K-edge of the Cu foil,
+Cu2O, CuO, Cu-MFI-AE, and Cu/MFI-IM catalysts; (C) Cu 2p XPS
+spectrum of the used Cu-MFI-AE catalyst; (D) Cu LMM XAES
+spectrum of the used Cu-MFI-AE catalyst; (E) DRIFTS analysis of
+sequential adsorbed CO and ethanol over the Cu-MFI-AE catalyst;
+(F) DRIFTS analysis of the desorption process at diﬀerent
+temperatures over the Cu-MFI-AE catalyst.
+ACS Catalysis
+pubs.acs.org/acscatalysis
+Letter
+https://dx.doi.org/10.1021/acscatal.0c03860
+ACS Catal. 2020, 10, 13624−13629
+13626
+3E, two distinct bands were observed at 2129 and 2111 cm−1,
+which were assigned to the CO adsorption on Cu+ and Cu0
+sites, respectively. Further introducing ethanol caused a great
+decrease in the amount of CO adsorbed on Cu+ sites, with
+gaseous CO emission as detected by the on line MS (Figure
+S17). In contrast, the band of CO adsorption on Cu0 sites had
+little change. Thus, Cu+ species are responsible for the ethanol
+adsorbing and activating in this reaction. Based on the
+interactions between Cu+ and O containing species, the
+ethanol was partially activated to form the Cu-ethoxyl species.
+The as-formed Cu-ethoxyl species were rather stable at ≤523
+K and gradually converted at higher temperatures (Figure 3F
+and Figure S18). Correspondingly, ethoxyl species were
+detected at the wavenumbers of 2956 and 2857 cm−1,
+conﬁrming the key role of Cu(+)-ethoxyl species in this
+reaction.42 Additionally, the bands of CO on Cu0 species
+gradually shifted to higher numbers with desorption temper-
+ature increasing and disappeared at 423 K. The blue shift of
+the Cu-CO bands indicates the weakened interaction between
+Cu0 and CO, which might be attributed to the c
+
+ species in this
+reaction.42 Additionally, the bands of CO on Cu0 species
+gradually shifted to higher numbers with desorption temper-
+ature increasing and disappeared at 423 K. The blue shift of
+the Cu-CO bands indicates the weakened interaction between
+Cu0 and CO, which might be attributed to the coadsorption of
+H atoms derived from the nearby C−H bonds at higher
+temperatures. Similar to the synergistic eﬀect of Cu+/Cux+ and
+Cu0 species in CO2 and ethanol conversion,43,44 over the Cu-
+MFI-AE catalyst, the Cu+ adsorbed and activated the O−H
+group of ethanol, and the Cu+/Cu0 promoted the C−H bond
+cleavage and H atoms transfer, forming a catalytic cycle for the
+conversion of ethanol to acetaldehyde and hydrogen.
+To gain an atomic level understanding of the ethanol
+dehydrogenation mechanism over the Cu-MFI-AE catalyst, the
+elementary steps for ethanol dehydrogenation on Cu (111)
+and Cu2O (100) surfaces were explored theoretically. As
+shown in Figure 4A, over the Cu (111) surface, the barriers for
+O−H and C−H bonds cleavage are 1.06 and 1.36 eV,
+respectively, consistent with the previous report and
+conﬁrming the rate-determining step of C−H bond cleavage
+in ethanol dehydrogenation.17 In contrast, the barriers for O−
+H and C−H bonds cleavage over the Cu2O (100) surface are
+only 0.19 and 0.83 eV, respectively, indicating the preferable
+adsorption and activation of ethanol over the Cu+ sites, in
+agreement with the

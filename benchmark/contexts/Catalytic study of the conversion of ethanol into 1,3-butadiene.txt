@@ -1,0 +1,1390 @@
+========== EXPERIMENTAL ==========
+
+Experimental
+2.1.
+ Catalysts
+ preparation
+Catalysts
+ MgO(x)–SiO2-a–e,
+ where
+ x
+ =
+ Mg/Si,
+ were
+ prepared
+ by
+different
+ techniques.
+ (a)
+ Samples
+ MgO(x)–SiO2-a
+ were
+ prepared
+by
+ mechanical
+ mixing
+ of
+ calcined
+ magnesium
+ oxide
+ and
+ silica;
+ (b)
+samples
+ MgO(x)–SiO2-b
+ were
+ prepared
+ by
+ mechanical
+ mixing
+ of
+magnesium
+ hydroxide
+ and
+ silica;
+ (c)
+ sample
+ MgO(1)–SiO2-c
+ was
+prepared
+ by
+ wet-kneading
+ of
+ magnesium
+ hydroxide
+ and
+ silica
+ for
+4
+ h
+ at
+ room
+ temperature
+ as
+ described
+ elsewhere
+ [9]; (d)
+ sample
+MgO(x)–SiO2-d
+ was
+ prepared
+ by
+ excess
+ solvent
+ impregnation
+ of
+silica
+ support
+ with
+ a
+ magnesium
+ nitrate
+ aqueous
+ solution;
+ (e)
+ sam-
+ple
+ MgO(2)–SiO2-e
+ was
+ prepared
+ by
+ wet-kneading
+ of
+ magnesium
+oxide
+ and
+ silica
+ in
+ ethanol
+ for
+ 8
+ h
+ at
+ room
+ temperature.
+ Samples
+ b–e
+were
+ dried
+ at
+ 80 ◦C
+ and
+ calcined
+ at
+ 500 ◦C
+ for
+ 4
+ h.
+ Grace
+ silicagel
+ 254
+was
+ used
+ as
+ the
+ silica
+ support
+ in
+ all
+ cases
+ except
+ (c),
+ where
+ TEOS
+was
+ used
+ as
+ the
+ silica
+ source.
+Three
+ series
+ of
+ MgO(x)–SiO2 samples
+ containing
+ MOx promoter,
+where
+ M
+ =
+ Cr,
+ Mn,
+ Fe,
+ Co,
+ Ni,
+ Cu,
+ Zn,
+ Ag
+ were
+ prepared.
+ The
+ﬁrst
+ series
+ of
+ samples
+ MOx(y)/MgO(2)–SiO2-e,
+ where
+ y
+ = M/Si
+ ratio
+were
+ obtained
+ by
+ incipient
+ wetness
+ impregnation
+ of
+ MgO(2)–SiO2-
+e
+ with
+ appropriate
+ amount
+ of
+ aqueous
+ metal
+ nitrate
+ solutions.
+For
+ all
+ sample
+ in
+ the
+ series
+ the
+ ratios
+ M/Si
+ =
+ 0.05
+ and
+ Mg/Si
+ =
+ 2.
+The
+ second
+ series
+ of
+ Ag(y)/MgO(x)–SiO2-b
+ samples
+ with
+ differ-
+ent
+ silver
+ and
+ magnesium
+ loading
+ were
+ prepared
+ by
+ incipient
+wetness
+ impregnation
+ of
+ MgO(x)–SiO2-b
+ materials
+ with
+ appropri-
+ate
+ amount
+ of
+ aqueous
+ silver
+ nitrate
+ solution.
+ The
+ third
+ series
+ of
+ZnO(y)/MgO(2)–SiO2-f
+ samples
+ with
+ different
+ zinc
+ loading
+ were
+prepared
+ by
+ excess
+ solvent
+ impregnation
+ of
+ silica
+ with
+ mixed
+ aque-
+ous
+ solution
+ of
+ magnesium
+ and
+ zinc
+ nitrates
+ at
+ 50 ◦C
+ for
+ 4
+ h.
+ All
+samples
+ were
+ dried
+ at
+ 80 ◦C
+ and
+
+
+lso
+ found
+ for
+ the
+ Ni-doped
+samples
+ at
+ 400 ◦C
+ (Fig.
+ 4II
+ and
+ III).
+ The
+ same
+ catalytic
+ behavior
+ has
+been
+ observed
+ for
+ Ni-supported
+ sepiolite
+ in
+ [17]
+ compared
+ to
+ other
+transition
+ metal
+ dopants.
+Modifying
+ the
+ binary
+ support
+ with
+ chromium
+ and
+ cobalt
+ oxide
+leads
+ to
+ a
+ similar
+ activity
+ with
+ total
+ ethanol
+ conversion
+ of
+ about
+58–65%
+ and
+ BD
+ yield
+ 34–35
+ mol.%
+ (Table
+ 3,
+ entries
+ 2
+ and
+ 5;
+ Fig.
+ 4).
+Our
+ results
+ for
+ CrOx/MgO(2)–SiO2-e
+ sample
+ was
+ lower
+ than
+ for
+the
+ sample
+ prepared
+ in
+ [14]:
+ we
+ obtain
+ about
+ 34
+ mol.%
+ of
+ buta-
+diene
+ (with
+ 53%
+ BD
+ selectivity)
+ at
+ 400 ◦C
+ with
+ a
+ 5.7
+ ×
+ 104 ppm
+of
+ ethanol
+ feed
+ (Fig.
+ 4),
+ while
+ the
+ reference
+ claims
+ a
+ BD
+ yield
+ of
+38
+ mol.%
+ (entry
+ 14,
+ Table
+ 1).
+ This
+ could
+ tentatively
+ be
+ explained
+due
+ to
+ the
+ different
+ reaction
+ conditions
+ of
+ the
+ catalytic
+ testing
+ and
+to
+ the
+ different
+ preparation
+ procedure.
+ Regarding
+ the
+ results
+ of
+ the
+cobalt
+ containing
+ catalyst,
+ this
+ work
+ did
+ not
+ observe
+ the
+ reported
+high
+ activity
+ in
+ ethanol
+ reforming
+ that
+ was
+ mentioned
+ in
+ [16].
+ The
+total
+ amount
+ of
+ carbon
+ oxides
+ and
+ methane
+ was
+ below
+ 1
+ mol.%
+(regardless
+ of
+ testing
+ conditions),
+ and
+ this
+ value
+ was
+ comparable
+to
+ that
+ of
+ the
+ catalysts
+ containing
+ chromium
+ and
+ manganese
+ and
+even
+ lower
+ than
+ that
+ of
+ the
+ others.
+Among
+ the
+ dopants,
+ supported
+ CuO,
+ ZnO
+ and
+ Ag
+ catalysts
+exhibit
+ the
+ highest
+ activity
+ with
+ a
+ total
+ ethanol
+ conversion
+ close
+to
+ 100%
+ and
+ a
+ BD
+ yield
+ higher
+ than
+ 50
+ mol.%,
+ when
+ tested
+ at
+350 ◦C
+ and
+ low
+ ethanol
+ feed
+ concentration
+ (entries
+ 7–9
+ in
+ Table
+ 3,
+Fig.
+ 4.
+ Catalytic
+ activity
+ of
+ the
+ MOx/MgO–SiO2 catalysts
+ measured
+ at
+ 350
+ and
+ 400 ◦C
+using
+ low
+ (1.5
+ ×
+ 104 ppm)
+ and
+ high
+ (5.7
+ ×
+ 104 ppm)
+ concentration
+ of
+ EtOH
+ in
+ the
+feed
+ with
+ Ar
+ ﬂow
+ rate
+ of
+ 20
+ ml/min:
+ I – BD
+ yield;
+ II
+ –
+ selectivity
+ toward
+ BD;
+ III
+ –
+selectivity
+ toward
+ BD
+ in
+ C4
+ hydroca
+
+
+========== RESULTS ==========
+
+results.
+ Table
+ 1
+ summarizes
+ catalytic
+ data
+ in
+ terms
+ of
+ BD
+ yield
+(%),
+ selectivity
+ (%)
+ and
+ productivity
+ (gBD gcat−1 h−1) of
+ various
+MgO/SiO2 systems
+ (entries
+ 1–13)
+ and
+ includes
+ the
+ inﬂuence
+ of
+temperature
+ (entries
+ 1–5),
+ contact
+ time
+ (entries
+ 6–9),
+ ethanol
+ feed
+concentration
+ (entries
+ 10–12),
+ and
+ presence
+ of
+ modiﬁers
+ (entries
+14–16).
+Different
+ dopants
+ have
+ been
+ proposed
+ to
+ increase
+ the
+ catalysts
+activity
+ and
+ selectivity
+ of
+ the
+ binary
+ MgO–SiO2 system
+ and
+ related
+clays
+ such
+ as
+ sepiolite.
+ Washing
+ or
+ impregnating
+ the
+ catalyst
+ with
+NaOH
+ to
+ reduce
+ acidity
+ has
+ been
+ reported
+ to
+ increase
+ the
+ BD
+ yields
+[21,32,33], but
+ apparently
+ this
+ modiﬁcation
+ is
+ only
+ successful
+ in
+case
+ of
+ MgO–SiO2 materials
+ [16,34]. Among
+ the
+ other
+ dopants,
+ zinc,
+chromium,
+ copper,
+ manganese,
+ nickel
+ and
+ silver
+ were
+ studied
+ and
+their
+ presence
+ results
+ in
+ more
+ active
+ and
+ selective
+ catalysts
+ for
+ BD
+synthesis
+ [10,14,15,17,27–33,35,36].
+ It
+ was
+ demonstrated
+ that
+ the
+addition
+ of
+ small
+ amounts
+ of
+ zinc
+ oxide
+ led
+ to
+ higher
+ BD
+ yields,
+while
+ suppressing
+ the
+ formation
+ of
+ ethylene.
+ The
+ optimal
+ ZnO
+ con-
+tent
+ to
+ improve
+ BD
+ selectivity
+ is
+ however
+ very
+ subtle:
+ above
+ a
+certain
+ concentration
+ of
+ the
+ dopant,
+ the
+ formation
+ of
+ other
+ by-
+products
+ again
+ decreases
+ the
+ BD
+ yield
+ [27]. A
+ maximum
+ BD
+ yield
+of
+ 45%
+ has
+ been
+ reported
+ over
+ the
+ ZnO
+ doped
+ MgO–SiO2 system.
+Chromium
+ oxide
+ is
+ another
+ modiﬁer
+ often
+ studied.
+ A catalyst
+ con-
+taining
+ 2
+ mol.%
+ of
+ Cr2O3 on
+ a
+ 59%MgO–39%SiO2 support
+ was
+ found
+to
+ be
+ the
+ catalyst
+ of
+ choice
+ among
+ almost
+ 500
+ samples
+ tested
+ in
+ the
+one-step
+ BD
+ formation
+ from
+ ethanol
+ [14]. Gruver
+ in
+ [15]
+ observed
+an
+ increasing
+ BD
+ yield
+ on
+ silver-exchanged
+ aluminated
+ sepiolite
+in
+ comparison
+ to
+ the
+ unmodiﬁed
+ sample.
+ A
+ comparison
+ of
+ other
+several
+ transition
+ metal
+ (such
+ as
+ Zn,
+ Ni,
+ Mn,
+ Co
+ and
+ Cu)
+ oxide
+supported
+
+he
+one-step
+ BD
+ formation
+ from
+ ethanol
+ [14]. Gruver
+ in
+ [15]
+ observed
+an
+ increasing
+ BD
+ yield
+ on
+ silver-exchanged
+ aluminated
+ sepiolite
+in
+ comparison
+ to
+ the
+ unmodiﬁed
+ sample.
+ A
+ comparison
+ of
+ other
+several
+ transition
+ metal
+ (such
+ as
+ Zn,
+ Ni,
+ Mn,
+ Co
+ and
+ Cu)
+ oxide
+supported
+ on
+ sepiolite
+ has
+ been
+ made
+ in
+ [17], ZnO
+ being
+ the
+ mod-
+iﬁer
+ of
+ choice
+ here.
+Table
+ 1
+Overview
+ of
+ catalysts
+ performance
+ over
+ magnesia–silica
+ containing
+ materials.
+Entry
+ 
+Sample
+ 
+T
+ (◦C)
+ 
+CEtOH
+(ppm)
+WHSV
+(h−1)
+TC
+(mol.%)
+Yields
+(mol.%)
+Selectivity
+(%)
+BD
+ productivity
+(g
+ gcat−1 h−1)
+BD
+(ppm)
+Ref.
+1
+MgO/SiO2
+400
+ 
+–
+ 
+0.3
+ 
+36
+ 
+19
+ 
+52
+ 
+0.03
+ 
+–
+ 
+[20]
+2
+ 
+410
+ 
+–
+ 
+0.3
+ 
+39
+ 
+21
+ 
+54
+ 
+0.03
+ 
+–
+3
+ 
+420
+ 
+–
+ 
+0.3
+ 
+47
+ 
+25
+ 
+54
+ 
+0.04
+ 
+–
+4
+ 
+430
+ 
+–
+ 
+0.3
+ 
+63
+ 
+32
+ 
+49
+ 
+0.05
+ 
+–
+5
+440
+ 
+–
+ 
+0.3
+ 
+71
+ 
+37
+ 
+53
+ 
+0.06
+ 
+–
+6
+MgO/SiO2
+(Mg/Si
+ =
+ 3)
+380
+ 
+1
+ ×
+ 105
+0.4
+ 
+–
+ 
+28
+ 
+–
+ 
+0.07
+ 
+14,300
+ 
+[11]
+7
+ 
+380
+ 
+1
+ ×
+ 105
+1.1
+ 
+–
+ 
+15
+ 
+–
+ 
+0.10
+ 
+7600
+8
+ 
+380
+ 
+1
+ ×
+ 105
+1.4
+ 
+–
+ 
+11
+ 
+–
+ 
+0.09
+ 
+5700
+9
+ 
+380
+ 
+1
+ ×
+ 105
+2.8
+ 
+–
+ 
+6 
+–
+ 
+0.09
+ 
+2850
+10
+MgO/SiO2
+(Mg/Si
+ =
+ 0.83)
+350
+3
+ ×
+ 103
+0.03
+ 
+53
+ 
+16
+ 
+30
+ 
+0.003
+ 
+220
+ 
+[9]
+11
+ 
+6
+ ×
+ 103
+0.06
+ 
+32
+ 
+8 
+25
+ 
+0.003
+ 
+230
+12
+ 
+1
+ ×
+ 104
+0.13
+ 
+22
+ 
+4 
+17
+ 
+0.003
+ 
+230
+13
+MgO/SiO2 (Mg/Si
+ = 1)
+ 
+350
+ 
+2
+ ×
+ 104
+0.15
+ 
+50
+ 
+42
+ 
+84
+ 
+0.04
+ 
+3360
+ 
+[21]
+14
+ 
+2%Cr2O3–59%MgO–39%SiO2
+400
+ 
+–
+ 
+0.42
+ 
+68
+ 
+38
+ 
+56
+ 
+0.08
+ 
+–
+ 
+[14]
+15
+ZnO–MgO–SiO2
+<410
+ 
+–
+ 
+–
+ 
+67
+ 
+46
+ 
+69
+ 
+–
+ 
+–
+ 
+[27]
+16
+ 
+Ag–sepiolite
+ 
+280
+ 
+–
+ 
+0.8
+ 
+63
+ 
+6 
+9
+ 
+0.03
+ 
+1800
+ 
+[15]
+340
+E.V.
+ Makshina
+ et
+ al.
+ / Catalysis
+ Today
+ 198 (2012) 338–
+ 344
+A
+ systematic
+ study
+ of
+ the
+ role
+ of
+ various
+ transition
+ metal
+oxide
+ modiﬁers
+ on
+ the
+ catalytic
+ activity
+ and
+ BD
+ selectivity
+ of
+magnesia–silica
+ materials
+ has
+ not
+ been
+ reported
+ yet.
+ The
+ data
+ cur-
+rently
+ presented
+ in
+ literature
+ for
+ such
+ ternary
+ MOx–MgO–SiO2
+systems
+ were
+ obtained
+ for
+ materials
+ prepared
+ by
+ different
+ synthe-
+sis
+ procedures
+ using
+
+
+rs
+ on
+ the
+ catalytic
+ activity
+ and
+ BD
+ selectivity
+ of
+magnesia–silica
+ materials
+ has
+ not
+ been
+ reported
+ yet.
+ The
+ data
+ cur-
+rently
+ presented
+ in
+ literature
+ for
+ such
+ ternary
+ MOx–MgO–SiO2
+systems
+ were
+ obtained
+ for
+ materials
+ prepared
+ by
+ different
+ synthe-
+sis
+ procedures
+ using
+ different
+ testing
+ conditions
+ and
+ often
+ they
+ are
+contradictory
+ due
+ to
+ a
+ lack
+ of
+ information.
+ This
+ leads
+ to
+ a
+ misleading
+in
+ interpretation
+ and
+ complicates
+ the
+ reproducibility
+ of
+ experi-
+ments.
+ Therefore
+ the
+ aim
+ of
+ this
+ study
+ is
+ to
+ determine
+ the
+ inﬂuence
+of
+ the
+ nature
+ of
+ the
+ redox
+ dopant
+ on
+ the
+ catalytic
+ performance
+of
+ the
+ binary
+ Mg–Si
+ oxide
+ material
+ and
+ to
+ understand
+ what
+ could
+be
+ the
+ optimum
+ catalysts
+ composition
+ in
+ direct
+ transformation
+ of
+ethanol
+ into
+ BD.
+2.

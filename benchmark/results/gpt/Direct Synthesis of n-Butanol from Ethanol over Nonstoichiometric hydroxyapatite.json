@@ -1,0 +1,85 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Nonstoichiometric HAP",
+                "raw_name": "Nonstoichiometric HAP (Ca/P ratio 1.61)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "hydrotalcite",
+                "raw_name": "hydrotalcite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg(OH)2",
+                "raw_name": "Mg(OH)2 (particle size: 0.07 µm)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CaF2",
+                "raw_name": "CaF2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP catalyst with a low Ca/P ratio of 1.52",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP catalysts with low Ca/P ratios",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP catalysts with higher Ca/P ratios",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP catalyst with a Ca/P ratio of 1.64",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP with a Ca/P ratio of 1.64",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP with a low Ca/P ratio",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP with a higher Ca/P ratio",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP catalyst with Ca2+ ions replaced by strontium",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP catalyst containing both Ca2+ and Cu2+ ions",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu2+",
+                "raw_name": "Cu2+",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "HAP",
+            "raw_name": "HAP",
+            "article_identifiers": []
+        }
+    }
+}

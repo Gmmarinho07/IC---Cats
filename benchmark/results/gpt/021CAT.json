@@ -3,16 +3,18 @@
         "catalysts": [
             {
                 "catalyst": "Cu-hydroxyapatite",
-                "raw_name": "Cu-HAP",
-                "article_identifiers": []
+                "raw_name": "Cu-hydroxyapatite (Cu-HAP)",
+                "article_identifiers": [
+                    "Cu-HAP"
+                ]
             },
             {
-                "catalyst": "hydroxyapatite",
+                "catalyst": "HAP",
                 "raw_name": "HAP",
                 "article_identifiers": []
             },
             {
-                "catalyst": "0.5Cu-hydroxyapatite",
+                "catalyst": "0.5Cu-HAP",
                 "raw_name": "0.5Cu-HAP",
                 "article_identifiers": []
             }

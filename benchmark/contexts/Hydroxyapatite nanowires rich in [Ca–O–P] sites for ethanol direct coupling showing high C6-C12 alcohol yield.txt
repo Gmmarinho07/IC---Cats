@@ -1,0 +1,112 @@
+========== ABSTRACT ==========
+
+summary, 30.4% n-butanol selectivity and 63.9% C6–12OH
+selectivity were achieved in the ethanol coupling reaction on
+wire-like HAP at a conversion of 45.7% at 325 1C, thereby
+showing nearly 30% yield of C6–12OH. This yield is greatly higher
+than that using the state-of-the-art catalysts (6%). The [Ca–O–P]
+site is responsible for C–C formation and its high density
+increases the coverage of alcohol reactants, thus accelerating
+the C–C coupling rate and boosting C6–12 alcohol production.
+Ethanol coupling on wire-like HAP proceeds mainly via the
+‘‘direct-coupling’’ route to form aliphatic alcohols.
+This work was supported by a Joint Sino-German Research
+Project (21761132011), the State Key Program of the National
+Natural Science Foundation of China (21733002), and the
+Cheung Kong Scholars Program of China (T2015036).
+Conflicts of interest
+There are no conflicts to declare.
+Notes and
+
+
+========== RESULTS ==========
+
+results
+support that the n-butanol forms via at least two parallel routes:
+direct coupling of ethanol and sequential paths involving the
+hydrogenation of 2-butenal derived from acetaldehyde (Guerbet
+reaction). The steep initial slope (inset panel) suggests that ethanol
+direct-coupling is the dominant path for the formation of aliphatic
+alcohols. In this case, ethanol reaction rates would be independent
+of H2 pressure because H2O is the only coproduct (eqn (2)).
+However, when the Guerbet reaction was dominant, H2 would
+play a detrimental role, because of high H2 pressure hindering
+the dehydrogenation of ethanol (eqn (3)–(5)). Therefore, a series
+of experiments were conducted by cofeeding H2–ethanol over
+HAP-W. Fig. 4b shows that the ethanol reaction rate was almost
+constant when the H2 pressure increased from 0.5 to 94 vol%
+(i.e., r B [H2]0). Furthermore, the selectivity of n-butanol, C6–12OH,
+2-butenol, and acetaldehyde remained unchanged (Fig. 4b and
+Fig. S7, ESI†). When only ethanol was fed, very small amounts of H2
+were detected (Table S2, ESI†). In addition, no deuterium atoms
+Fig. 4
+(a) Dependence of the product distributions on the residence time
+(1/WHSV). (b) Dependence of ethanol reaction rates and product selectivity
+on H2 pressure. (c) In situ IR spectra collected right after each dose of
+ethanol (5 108 mol). (d) Proposed reaction routes for aliphatic alcohol
+formation. Experiments were tested at 325 1C for (a, b) and 300 1C for (c).
+ChemComm
+Communication
+Published on 05 August 2019. Downloaded by UNIV FEDERAL DO RIO DE JANEIRO on 7/2/2025 4:34:27 PM. 
+View Article Online
+This journal is ©The Royal Society of Chemistry 2019
+Chem. Commun., 2019, 55, 10420--10423 | 10423
+incorporated into n-butanol produced over HAP using D2 as the
+carrier gas,18 which precludes the possibility that H species derived
+from the ethanol dehydrogenation, if possible, interact with the
+HAP surface and then incorporate into n-butanol. Scalbert et al.17
+also reported quantitative 
+
+ | 10423
+incorporated into n-butanol produced over HAP using D2 as the
+carrier gas,18 which precludes the possibility that H species derived
+from the ethanol dehydrogenation, if possible, interact with the
+HAP surface and then incorporate into n-butanol. Scalbert et al.17
+also reported quantitative evidence of the majority role of the
+‘‘direct coupling’’ over the route involving acetaldehyde on HAP,
+and they proposed that intermediate hydrogenation involves
+H-transfer from an ethanol molecule (instead of H2).
+Next, observation of surface species aldehydes on HAP-W was
+conducted by in situ IR (Fig. 4c). In the first 1 min, pronounced
+peaks are observed in the n(C–H) region. The peaks centered at
+2976 and 2914 cm1 are assigned to nas(CH3) and nas(CH2) of
+ethanol, respectively.19 Ethanol dissociated on acid–base sites will
+elongate C–O bonds, thus shifting nas(CH2) to a lower wavenumber,
+B2820 cm1.20 A peak at 2960 cm1, together with bands at 2933
+and 2870 cm1, corresponds to n-butanol compared with the
+reference spectrum (the gray line). The coexistence of ethanol and
+n-butanol right after one dose of ethanol demonstrates the fast
+coupling of ethanol. Importantly, no signal at B1710 cm1 typically
+assigned to the n(CQO) mode of acetaldehyde is detected,21 even
+though after the second and third doses. This observation agrees
+with the finding reported by Hanspal et al. that the active sites
+responsible for acetaldehyde formation are much fewer than that
+for n-butanol.19b Furthermore, in our recent work,3c cobalt–HAP
+catalysts were used to directly produce aromatic oxygenates from
+ethanol, which is initiated by acetaldehyde derived from ethanol via
+dehydrogenation on cobalt. In that case, the signal at 1710 cm1 of
+acetaldehyde was discernibly observed by in situ IR, even though the
+ethanol feeding (5 108 mol) was very low, demonstrating that
+the absence of acetaldehyde in this work was not because of the
+unsatisfactory time resolution.
+Therefore, the above results objecti
+
+ that case, the signal at 1710 cm1 of
+acetaldehyde was discernibly observed by in situ IR, even though the
+ethanol feeding (5 108 mol) was very low, demonstrating that
+the absence of acetaldehyde in this work was not because of the
+unsatisfactory time resolution.
+Therefore, the above results objectively prove that the upgrading
+of ethanol to aliphatic alcohols on HAP-W proceeds mainly via the
+‘‘direct-coupling’’ route (Fig. 4d, solid line).17 Meanwhile, the Guer-
+bet route also contributes a small fraction to aliphatic alcohol
+formation (Fig. 4d, dashed line).6a,9b,11 Diﬀerently, several previous
+studies concluded the upgrading of ethanol to aliphatic alcohols via
+the Guerbet route,6,15b whose kinetic and IR studies were performed
+usually after a long time (hours) on stream. In fact, the active sites
+might change from [Ca–O–P] to [Ca–OH] and [P–OH] because of
+hydrolysis after the long reaction time (Fig. S8, ESI†).11,22 These
+strong basic sites can be regenerated after high temperature treat-
+ment (Table S4, ESI†). However, in this work, IR studies were
+performed right away after starting the reaction using fresh catalyst.
+In

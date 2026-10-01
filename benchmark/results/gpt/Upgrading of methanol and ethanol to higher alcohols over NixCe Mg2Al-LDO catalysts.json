@@ -1,0 +1,55 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Ni30Ce/Mg2Al-LDO",
+                "raw_name": "Ni30Ce/Mg2Al-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg2Al-LDO",
+                "raw_name": "Mg2Al-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NixCe/Mg2Al-LDO",
+                "raw_name": "NixCe/Mg2Al-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni/Mg2Al-LDO",
+                "raw_name": "Ni/Mg2Al-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiCeO2@C",
+                "raw_name": "NiCeO2@C",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "M-CeO2/AC",
+                "raw_name": "M-CeO2/AC",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ce",
+                "raw_name": "Ce",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Mg2Al-LDO",
+            "raw_name": "Mg2Al-LDO",
+            "article_identifiers": []
+        }
+    }
+}

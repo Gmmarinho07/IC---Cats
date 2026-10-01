@@ -1,0 +1,190 @@
+========== EXPERIMENTAL ==========
+
+experimental conditions as well as the subsequent
+thermal treatments: the proportions of oxide ions at terraces,
+edges or corners namely O2-5C, O2-4C, and O2-3C ions
+respectively are different from one sample to another, on clean
+surfaces (free from any carbonates or hydroxyls groups).
+These samples are characterized principally by in situ
+photoluminescence and a pseudo quantitative approach is
+established to estimate the relative distribution of populations
+of O2-LC.
+Peculiar attention is given to the complete identification of
+luminescent species with systematic determination of both
+excitation and emission wavelengths. The interaction with water
+is studied on high surface area samples either by thermal
+desorbing or upon adsorption of water on a high-temperature
+pretreated sample. The effect of the presence of hydroxyls
+groups on photoluminescence signal is thus described. The
+nature of the hydroxyls groups responsible for these new
+luminescent species is discussed in relation with their thermal
+stability, the
+
+
+========== RESULTS ==========
+
+results of methanol adsorption and FTIR experi-
+† Part of the special issue “Michel Boudart Festschrift”.
+| A part of this paper was recently presented as an oral communication
+at 13ICC, Paris, July 11-16, 2004.
+* To whom correspondence should be addressed. E-mail: costenti@
+ccr.jussieu.fr.
+‡ Laboratoire de Re´activite´ de Surface, UMR 7609-CNRS, Universite´
+Pierre et Marie Curie.
+§ Institut Universitaire de France.
+2404
+J. Phys. Chem. B 2005, 109, 2404-2413
+10.1021/jp048760+ CCC: $30.25
+© 2005 American Chemical Society
+Published on Web 08/17/2004
+ments. In fact, even if the identification by FTIR of the local
+structure of OH groups on MgO is still under debate:11-14 it is
+however generally admitted that distinction should be made
+between “isolated” OH groups (narrow band at 3740 cm-1) and
+“linked” OH groups (involved in hydrogen bonding) (around
+3650 cm-1).
+Experimental Section
+Sample Preparation. MgO samples were prepared starting
+from two kinds of precursors, magnesium hydroxide or metallic
+magnesium.
+-MgO-ex-hydroxide was prepared by thermal decomposition
+of three Mg(OH)2 brucite precursors prepared as follows:
+(i) Mg(OH)2-hydration was obtained by stirring a commercial
+MgO (Aldrich, 99,99%) in water for 24 h at room temperature
+(rt). The resulting product was dried in primary vacuum at 373
+K for 3 h.
+(ii) Mg(OH)2-precipitation was obtained from Mg(NO3)2
+(Aldrich, 99,99%) solution using ammonium hydroxide (Ald-
+rich, 99%) (8 M) as precipitating agent. Thus, the latter was
+added to a magnesium nitrate solution (1 M) and the pH value
+adjusted to 10 at 303 K. After stirring for 30 min, the precipitate
+was washed several times with deionized water, then filtered
+and finally dried at 333 K in primary vacuum for 3 h.
+(iii) Mg(OH)2-sol-gel was obtained by hydrolysis of mag-
+nesium methanolate, Mg(OCH3)2. Absolute methanol (75 mL)
+was added to 4 g of Mg powder previously dried at 353 K in
+primary vacuum for 30 min. The mixture was then stirred and
+heated under reflux fo
+
+ly dried at 333 K in primary vacuum for 3 h.
+(iii) Mg(OH)2-sol-gel was obtained by hydrolysis of mag-
+nesium methanolate, Mg(OCH3)2. Absolute methanol (75 mL)
+was added to 4 g of Mg powder previously dried at 353 K in
+primary vacuum for 30 min. The mixture was then stirred and
+heated under reflux for 20 h. A few drops of water were added
+to the mixture and the resulting gel was dried at 313 K in
+primary vacuum for 3 h. Note in this case that as observed by
+XRD, some of the OH groups of this Mg(OH)2 phase are
+replaced by methoxy groups, as reported earlier.15 The latter
+were eliminated by treatment of the sample under 100 Torr of
+oxygen at 673 K for 30 min.
+All the hydroxide samples were finally treated in a vacuum
+(10-6 Torr) up to 1273 K (ramp 1 K.min-1) and maintained at
+this temperature for 2 h. This final treatment was chosen because
+it gave reproducible results. It resulted in samples hereafter
+referred to as MgO-hydration, MgO-precipitation and MgO-
+sol-gel, respectively.
+-MgO ex-metallic magnesium were prepared by direct
+oxidation of the metal:
+(i) MgO-smoke was prepared by burning Mg ribbons (Ald-
+rich, 98%) in static air above the melting temperature, 923 K,
+and collecting the resulting oxide on silica plates.16
+(ii) MgO-CVD was obtained by chemical vapor deposition
+as described earlier.17,18 Metallic magnesium vapor was oxidized
+by O2/Ar in a flow reactor system.
+Characterization Techniques.
+Structure and Morphology. X-ray powder diffractograms were
+recorded with a Siemens diffractometer. The instrument was
+equipped with a copper anode generator CuKR (λ ) 1.5418
+Å). Diffractograms were recorded in the 2θ range 10 to 60°.
+Specific surface areas were measured by adsorption of N2
+on a Micromeritics apparatus and calculated according to the
+BET method.
+For TEM characterizations, the MgO powder was suspended
+in ethanol and then rapidly supported on a copper grid. All
+observations were made with a JEOL JEM 100 CXII UHV using
+a 100 keV electron beam.
+Molecular Le
+
+ame three kinds of species, but
+in different ratios. A pseudo quantitative approach has been
+developed10 which is based on the analysis of deconvoluted
+excitation spectra registered at room temperature. The O2-3C/
+O2-4C ratio obtained from the ratio of the areas of the
+deconvoluted excitation peaks at 270 and 230 nm monitored at
+460 and 380 nm, respectively, and the values at maximum of
+emission, λem max, for the different MgO samples are summarized
+in Table 2.
+As expected, among the first series of samples (MgO-smoke,
+MgO-CVD, and MgO-hydration with cubic particles), the
+concentration of corners depends on the particle size (Table 1):
+the larger the particles, the lower the O2-3C/O2-4C ratio.
+Moreover, the shift of λem max toward higher energy (Table 2)
+depends on the amount of O2-5C: the more important the
+contribution of the O2-5C species in the emission spectra, the
+larger the shift of the broad line toward lower wavelength.
+The second series of samples (MgO-sol-gel and MgO-
+precipitation) whose morphology arises from the changes of the
+hexagonal plates upon dehydroxylation, involves particles with
+the lowest O2-5C abundance, and thus the highest λem max value.
+It is noteworthy to underline that, compared to MgO-precipita-
+tion and despite comparable particle size and lower specific
+surface area, MgO-sol-gel has a larger concentration of O2-3C
+ions. It can be proposed that the decomposition of its brucite
+precursor which exhibits few methoxy groups15 leads to a more
+defective MgO.
+These results clearly confirm that the distribution of popula-
+tions of oxide ions of low coordination depends on preparation
+Figure 3. Emission spectra monitored at 230 and 270 nm of the clean
+MgO-sol-gel (s) and MgO-smoke (0) and corresponding excitation
+spectra monitored at the maximum of emission.
+TABLE 2: Particle Morphology, λem max and O2-3C/O2-4C
+Ratio for the Different MgO Samples
+sample
+particles
+morphology
+λem max (nm)
+(λexc ) 230 nm) O2-3C/O2-4C
+MgO-smoke
+cubes
+360
+≈0
+MgO-h
+
+ at 235 nm due to remaining
+contribution of the (250-410) species. Species O2-3C still
+covered by protons at this outgassing temperature start to be
+released after outgassing at 1073 K. Comparison of the sample
+outgassed at 1273 K before and after water treatment indicates
+that the transformation observed upon interaction of the clean
+surface with water is completely reversible.
+(c) Interaction of Methanol with MgO-sol-gel. The adsorp-
+tion-desorption procedure for methanol was the same as for
+water. Assuming dissociative adsorption of the former, only
+Os-H hydroxyls (Os is a lattice surface oxide ion) are expected
+to form,35-38 whereas, for water, Mg-Ow-H hydroxyls (Ow
+coming from water molecule) also form, as represented on
+Scheme 1.
+Idriss et Barteau39 reported that adsorption of formic acid or
+methanol on ZnO led to an increase of photoluminescence, due
+to the formation of new luminescent species upon dissociative
+adsorption.
+Adsorption of methanol is carried out on MgO-sol-gel
+outgassed at 1273 K. Globally, the same phenomena already
+described upon water adsorption are observed: the interaction
+with methanol first quenches the signal relative to the bare
+surface; concomitantly photoluminescent species appear in the
+420-470 region, whose contributions grow during the activation
+procedure. The subsequent evacuation progressively leads to
+the reverse transformation: decrease of these photoluminescent
+species at the benefit of progressive recovery of O2-5C, O2-4C,
+and O2-3C ions.
+The crucial point is to compare the nature of the photolumi-
+nescent species observed here with the three species reported
+in the case of water adsorption (Table 3). Figure 7a reports the
+emission and the corresponding excitation spectra for MgO-
+sol-gel once an equilibrium pressure of methanol of 1 Torr
+has been reached and after activation at 573 K: emissions at
+410 and 470 nm are associated with excitation at 250 and 350
+nm respectively on one hand, and at 370 nm on the other hand.
+The

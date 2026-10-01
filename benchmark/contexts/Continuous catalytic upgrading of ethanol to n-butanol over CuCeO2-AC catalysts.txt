@@ -1,0 +1,284 @@
+========== ABSTRACT ==========
+
+summary, highly efficient Cu-CeO2/AC catalysts prepared 
+by a wetness impregnation method were used for continuous 
+catalytic upgrading of ethanol to n-butanol. The Cu-CeO2/AC 
+catalysts exhibited average 40% of selectivity towards n-butanol 
+and nearly 20% of n-butanol yield at lower temperature (523 K) 
+and pressure (2 MPa N2). The high dispersion of Cu metals is 
+favorable for high ethanol conversion, while the presence of 
+highly dispersive Ce species as basic sites is beneficial for the 
+aldol condensation of acetaldehyde, which drives the reaction 
+equilibrium towards n-butanol production. Additionally, the 
+stability of Cu-CeO2/AC catalysts can be improved due to the 
+interaction between Cu metals and these Ce species. The yield 
+of n-butanol is also influenced by the nature of the support, so 
+that higher ethyl acetate yield and subsequent lower n-butanol 
+yield are observed over catalysts containing SiO2 or Al2O3. 
+Therefore, the high catalytic activity, selectivity towards n-
+butanol and n-butanol yield could be ascribed to the synergy of 
+Cu, CeO2 and the activated carbon support in upgrading ethanol 
+to n-butanol. 
+This work was supported financially by the National Natural 
+Science Foundation of China (NSFC Grant No. 21303163), the 
+Natural Science Foundation of Zhejiang Province (LY13B030006, 
+LY17B060006), the Qianjiang Talent Project in Zhejiang Province 
+(QJD1302011) and the Scientific Research Fund of Zhejiang 
+Provincial Education Department (Y201328681). 
+Notes and
+
+
+========== EXPERIMENTAL ==========
+
+ion was carried out in a batch reactor with volume of 250 mL. 
+Reaction conditions: catalyst, 3.3 g (＜120 mesh); 80 g absolute ethanol; 523 K, 0.1 MPa (N2); reaction time 48 h. 
+In contrast, Cu-CeO2 supported on SiO2 or Al2O3 rather than AC 
+had a lower ethanol conversion and selectivity to n-butanol, but 
+much higher selectivity to ethyl acetate. Additionally, 39.1% of 
+ethanol conversion, 55.2% of selectivity to n-butanol and up to 
+21.6% of n-butanol yield were also achieved over the 
+3Cu1CeO2/AC catalyst after reaction of 48 h at 523 K and 0.1 
+MPa (N2) in a batch reactor. Comparing with other 
+heterogeneous catalyst systems reported in literature for 
+catalytic production of n-butanol from ethanol, such as Mg-Al 
+mixed oxide catalysts,3 HAP catalysts,4 Ni/Al2O3 catalysts5,6 and 
+Cu/CeO2 catalysts,7 the Cu-CeO2/AC catalysts exhibited much 
+higher ethanol conversions and selectivities to n-butanol even 
+under much milder reaction conditions both in batch and fixed-
+bed reactors. As shown in Fig. S1 (ESI†), these Cu-CeO2/AC 
+catalysts also possessed good stability in the 12 h evaluation on 
+stream, showing a promising prospect for industrial applications. 
+In addition, possible gaseous products (via ethanol cracking, 
+decarbonylation of acetaldehyde, etc.) such as CH4, CO and CO2 
+besides H2 were not detected in the outlet gas, confirming the 
+cleavage of C-C bonds is not favorable over metal Cu. 
+ 
+In order to shed light on the mechanism of the superior 
+catalytic performance of Cu-CeO2/AC catalysts, XRD, TEM and 
+N2 adsorption analysis was employed for reduced catalysts 
+before and after reaction (Fig. S2 and Table S1, ESI†). As shown 
+in Table S1, the average diameters of Cu nanoparticles 
+calculated according to Scherrer formula for Cu/AC and Cu-
+CeO2/AC catalysts before reaction are all ranged from 4 to 6 nm. 
+After 12h of reaction, the Cu average crystalline diameter of 
+Cu/AC catalyst dramatically increased from 4.3 nm to 22.0 nm, 
+suggesting the growth of 
+
+rs of Cu nanoparticles 
+calculated according to Scherrer formula for Cu/AC and Cu-
+CeO2/AC catalysts before reaction are all ranged from 4 to 6 nm. 
+After 12h of reaction, the Cu average crystalline diameter of 
+Cu/AC catalyst dramatically increased from 4.3 nm to 22.0 nm, 
+suggesting the growth of Cu metals during the reaction, while 
+these of Cu-CeO2/AC catalysts are still less than 10 nm. These 
+results show that the addition of Ce restrains the sintering and 
+growth of Cu nanoparticles on the surface of AC support to a 
+great extent, and thus the Cu metals still maintain high 
+dispersion over the Cu-CeO2/AC catalysts. As for the CeO2 
+crystallites over Cu-CeO2/AC catalysts, the average crystalline 
+diameters of CeO2 for fresh and spent Cu-CeO2/AC catalysts are 
+all less than 5 nm (Table S1), suggesting CeO2 species are also 
+highly dispersive over the Cu-CeO2/AC catalysts. As shown in 
+Table S1, the specific surface area of Cu/AC catalyst is higher 
+than those of Cu-CeO2/AC catalysts, but the rapid growth of Cu 
+metals was observed over Cu/AC catalyst after reaction. It thus 
+implies that the high dispersion of Cu and CeO2 over Cu-
+CeO2/AC catalysts after reaction should be the combinational 
+result of the large specific surface area of AC and the strong 
+interaction between Cu and CeO2. 
+ 
+ 
+ 
+Fig. 1. (A)CO2-TPD profiles of reduced catalysts and (B) TPR profiles of the 
+calcined catalysts: (a)Cu/AC; (b)5Cu1Ce/AC; (c)4Cu1Ce/AC; (d) 3Cu1Ce/AC; 
+(e)2Cu1Ce/AC; (f)1Cu1Ce/AC; (g)3Cu1Ce/SiO2; (h)3Cu1Ce/Al2O3 
+ 
+ 
+Fig. 1A depicts the CO2-TPD of the reduced Cu-based 
+catalysts. For the Cu/AC catalyst, a weak CO2 desorption peak at 
+373 K can be observed in Fig. 1A(a), which can be attributed to 
+the CO2 desorption from basic sites on the AC support (Fig. S3, 
+300
+400
+500
+600
+700
+800
+900
+1000
+(A)
+399
+373
+(h)
+(g)
+(f)
+(e)
+(d)
+(c)
+(b)
+Intensity (a.u.)
+T(K)
+(a)
+387
+300
+400
+500
+600
+700
+800
+900
+1000
+(B)
+465
+514
+514
+487
+488
+908
+821
+450
+ 
+T(K)
+Intensity(a.u.)
+ (a)
+(b)
+(c)
+(d)
+(e
+
+
+========== RESULTS ==========
+
+results available 
+to the community, in citable form, before we publish the edited 
+article. We will replace this Accepted Manuscript with the edited 
+and formatted Advance Article as soon as it is available.
+You can find more information about Accepted Manuscripts in the 
+Information for Authors.
+Please note that technical editing may introduce minor changes 
+to the text and/or graphics, which may alter content. The journal’s 
+standard Terms & Conditions and the Ethical guidelines still 
+apply. In no event shall the Royal Society of Chemistry be held 
+responsible for any errors or omissions in this Accepted Manuscript 
+or any consequences arising from the use of any information it 
+contains. 
+Accepted Manuscript
+ChemComm
+www.rsc.org/chemcomm
+View Article Online
+View Journal
+This article can be cited before page numbers have been issued, to do this please use: D. Jiang, X. Wu, J.
+Mao, J. Ni and X. Li, Chem. Commun., 2016, DOI: 10.1039/C6CC05860D.
+Journal Name 
+ 
+COMMUNICATION 
+This journal is © The Royal Society of Chemistry 20xx 
+J. Name., 2013, 00, 1-3 | 1 
+Please do not adjust margins 
+Please do not adjust margins 
+Received 00th January 20xx, 
+Accepted 00th January 20xx 
+DOI: 10.1039/x0xx00000x 
+www.rsc.org/ 
+Continuous catalytic upgrading of ethanol to n-butanol over Cu-
+CeO2/AC catalysts 
+Dahao Jiang, Xianyuan Wu, Jun Mao, Jun Ni*, and Xiaonian Li*a 
+Cu-CeO2/AC 
+catalysts 
+exhibited 
+extraordinary 
+catalytic 
+performance in upgrading of ethanol to n-butanol. To the best of 
+our knowledge, this is the first report that the highest n-butanol 
+yields (21.6% and nearly 20%) could be achieved over 
+heterogeneous catalysts under mild reaction conditions in batch 
+and fixed-bed reactors, respectively. The high catalytic activity, 
+selectivity and stability of these catalysts could be ascribed to the 
+synergy of Cu, CeO2 and the activated carbon support. 
+Upgrading of bio-ethanol to n-butanol via homogeneous or 
+heterogeneous catalytic reactions has currently received 
+
+-bed reactors, respectively. The high catalytic activity, 
+selectivity and stability of these catalysts could be ascribed to the 
+synergy of Cu, CeO2 and the activated carbon support. 
+Upgrading of bio-ethanol to n-butanol via homogeneous or 
+heterogeneous catalytic reactions has currently received great 
+attention both in the scientific and industrial fields, in view of 
+the advantages of n-butanol over bio-ethanol as a sustainable 
+fuel. As more preferable catalysts in industry, heterogeneous 
+catalysts have been comprehensively investigated for n-butanol 
+production from ethanol in last decade. A range of basic 
+zeolites,1 MgO,2 Mg-Al metal oxides3 and hydroxyapaties (HAP)4 
+catalyst systems were firstly employed for this reaction. 
+Although high reaction temperature (≥573 K) and pressure (≥6.0 
+MPa) were used, the yield of n-butanol was normally lower than 
+10%. Incorporating metals in catalysts could significantly 
+improve the conversion of ethanol, as a result of the enhanced 
+dehydrogenation of ethanol on metals. For example, Ni/Al2O3 
+catalyst exhibited up to 80% of selectivity to n-butanol at 25% 
+ethanol conversion after reaction of 72 h at 523 K and 7 MPa 
+(Ar) in a batch reactor.5 However, due to the strong cracking 
+capability of C-C bonds of metal Ni, considerable amount of 
+gaseous carbon products such as CO, CO2, CH4, were also 
+detected. Similar catalytic performance was reported in a fixed-
+bed reactor over basic aluminum oxide supported Cu, Ni and Co 
+catalysts for continuous catalytic upgrading of ethanol to n-
+butanol at 513 K and 7 MPa.6 More recently, Poliakoff and his 
+co-workers have exploited a high surface area CeO2 (HSACeO2) 
+supported Cu catalyst for upgrading ethanol to n-butanol in the 
+presence of supercritical CO2 in a fixed-bed reactor,7 which 
+exhibited 45% selectivity to n-butanol and up to 30% yield of n-
+butanol. Though the yield of n-butanol is the highest ever 
+reported on heterogeneous catalysts, the use of supercritical 
+sys
+
+yst for upgrading ethanol to n-butanol in the 
+presence of supercritical CO2 in a fixed-bed reactor,7 which 
+exhibited 45% selectivity to n-butanol and up to 30% yield of n-
+butanol. Though the yield of n-butanol is the highest ever 
+reported on heterogeneous catalysts, the use of supercritical 
+system with reaction pressure higher than 10 MPa requires a 
+specific reaction equipment and complicated process. 
+Therefore, the development of new heterogeneous catalysts 
+that have superior activity and selectivity for this reaction under 
+mild conditions while can be easily synthesized is highly desired 
+for future industrial n-butanol production. 
+ 
+Active carbon (AC) is widely used as catalyst itself or support 
+for precious metals such as Pd, Pt and Ru,8 due to its unique 
+properties such as extremely high specific surface area, 
+controllable porosity and surface chemistry, and high stability 
+at various pH values. On the other hand, Cu-based catalysts, 
+especially Al2O3 and SiO2 supported Cu catalysts are well known 
+as very active heterogeneous catalysts for various reactions, 
+such as steam reforming of methanol, CO oxidation, 
+hydrogenation and dehydrogenation reactions.9 However, AC 
+supported copper catalysts are less applied in catalytic reactions, 
+because of the liable sintering of Cu nanoparticles engendered 
+by the weak metal-support interaction.10 In the present work, 
+we first reported that Cu-CeO2/AC catalysts prepared by a 
+simple impregnation method demonstrated superior catalytic 
+performance for ethanol upgrading to n-butanol. 
+ 
+The catalytic performance of Cu-CeO2/AC catalysts with 
+different Cu/Ce molar ratios, Cu/AC, 3Cu1Ce/SiO2 and 
+3Cu1Ce/Al2O3 is displayed in Table 1. The Cu/AC catalyst 
+showed only 1.2% of ethanol conversion and 12.1% of 
+selectivity to n-butanol whereas 55.3% of selectivity to 1,1-
+diethoxyethane in a fixed-bed reactor. The addition of Ce 
+dramatically improved the catalytic performance of Cu-based 
+catalysts for ethanol upg
+
+splayed in Table 1. The Cu/AC catalyst 
+showed only 1.2% of ethanol conversion and 12.1% of 
+selectivity to n-butanol whereas 55.3% of selectivity to 1,1-
+diethoxyethane in a fixed-bed reactor. The addition of Ce 
+dramatically improved the catalytic performance of Cu-based 
+catalysts for ethanol upgrading to n-butanol. Cu-CeO2/AC 
+catalysts, in spite of different Cu/Ce molar ratios, all exhibited 
+higher ethanol conversions (44.0-46.2%), selectivities to n-
+butanol (36.8-42.4%) and n-butanol yields (16.3-19.3%). 
+a. State Key Laboratory Breeding Base of Green Chemistry Synthesis Technology, 
+Institute of Industrial Catalysis, Zhejiang University of Technology, Hangzhou, 
+310014, P.R. China. E-mail: junni@zjut.edu.cn; xnli@zjut.edu.cn 
+†Electronic supplementary information (ESI) available: Details of

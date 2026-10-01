@@ -1,0 +1,249 @@
+========== ABSTRACT ==========
+
+summary, Cu/CuAl-MMO catalysts with tunable dual active sites 
+of Cu0 and Cu+ were prepared via an in situ structural topotactic trans­
+formation of Cu2Al-LDHs at different reduction temperatures 
+(300 −600 ◦C). The Cu/CuAl-MMO-400 sample gives an extremely high 
+reaction rate (0.125 mol g−1 h−1) toward CTH of FAL to FOL, in com­
+parison with the non-precious metal catalysts ever reported. A joint 
+study based on XPS, XAFS, in situ FT-IR substantiates that both FAL and 
+2-POL undergo activation adsorption on Cu+ active site of the Cu/CuAl- 
+MMO-400 catalyst. Isotopic labelling MS and DFT calculations confirm 
+that the CTH reaction of FAL occurs through the metal hydride pathway 
+with the synergistic effect of Cu0 and Cu+, in which Cu0 promotes the 
+transfer of H atoms on the catalyst surface whilst Cu+ serves as dehy­
+drogenation and hydrogenation active center, accounting for the 
+excellent catalytic performance. This work provides detailed informa­
+tion on the synergistic catalysis of dual active sites and an in-depth 
+understanding of the CTH reaction mechanism, which would be help­
+ful for the development of high-added value utilization of biomass 
+resources. 
+CRediT authorship contribution statement 
+Yingyu Ren: Data curation, Formal analysis, Writing – original draft. 
+Yusen Yang: Conceptualization, Writing – review & amp; editing. 
+Lifang Chen: Investigation. Lei Wang: Methodology. Yawen Shi: 
+Investigation. Pan Yin: Investigation. Wenlong Wang: Methodology. 
+Mingfei Shao: Methodology. Xin Zhang: Investigation. Min Wei: 
+Conceptualization, Writing – review & editing. 
+Declaration of Competing Interest 
+The authors declare no competing financial interest. 
+Acknowledgments 
+This work was supported by the National Natural Science Foundation 
+of China (22172006 and 22102006), the National Key R&D Program of 
+China (2021YFC2103501), and the Fundamental Research Funds for the 
+Central Universities (XK1803–05 and PT2021–04). The authors are 
+thankful for the support
+
+
+========== EXPERIMENTAL ==========
+
+experimental studies (in situ DRIFTS and isotope labelling MS) and DFT calculations reveal that the Cu0¡Cu+
+synergistic effect plays a vital role in determining catalytic behavior: the Cu+ species acts as both dehydroge­
+nation and hydrogenation active site; while the Cu0 site promotes the transfer of H atoms between adsorbed 
+substrates. This work substantiates a Cu0 −Cu+ synergetic catalysis by establishing structure-property correlation 
+and revealing reaction pathway, which could be extended to other CTH reactions in the upgrading processes of 
+biomass. 
+1.
+
+
+========== RESULTS ==========
+
+face concentration of these catalysts is measured according to 
+classic N2O titration (Table 1), which decreases from 1.15 to 1.12, to 
+0.83, and then to 0.72 mmol g−1 with the increase of reduction tem­
+perature from 300 to 600 ◦C. Based on the above-mentioned surface 
+Cu0/Cu+ molar ratio and surface Cu0 concentration, the surface Cu+
+concentration decreases from 1.77 to 1.32, to 0.81, and then to 
+0.61 mmol g−1. With the increase of reduction temperature from 300 to 
+600 ◦C, the surface concentration of Cu0 decreases gradually, owing to 
+the increased Cu particle size with reduced dispersion degree of Cu. In 
+addition, a higher reduction temperature causes a more sufficient 
+reduction of copper species, resulting in the decrease in surface con­
+centration of Cu+ and Cu2+ species. 
+Fig. 2. SEM images of Cu/CuAl-MMO samples: (a1) Cu/CuAl-MMO-300, (b1) Cu/CuAl-MMO-400, (c1) Cu/CuAl-MMO-500 and (d1) Cu/CuAl-MMO-600. TEM 
+images of Cu/CuAl-MMO samples: (a2) Cu/CuAl-MMO-300, (b2) Cu/CuAl-MMO-400, (c2) Cu/CuAl-MMO-500 and (d2) Cu/CuAl-MMO-600, with size distribution 
+shown in the inset. The corresponding HR-TEM lattice fringe images are shown in (a3), (b3), (c3) and (d3), respectively. 
+Y. Ren et al. 
+Applied Catalysis B: Environmental 314 (2022) 121515
+5
+XAFS analysis was performed to demonstrate more specific structure 
+of Cu species, and Cu K-edge XANES spectrum (Fig. 3c−d) from Cu/ 
+CuAl-MMO-300 to Cu/CuAl-MMO-600 display that the intensity of the 
+white line gradually reduces in the comparison with Cu2O, but the edge 
+characteristics for monometallic Cu are obviously found [45]. This re­
+veals that Cu0 and Cu+ co-exist, and Cu0/Cu+ ratio gradually enhances 
+with the rise of reduction temperature. For these four Cu/CuAl-MMO 
+samples, Fig. 3e shows the detailed atomic configuration in R space by 
+Table 1 
+Composition and structural properties of various samples. 
+Sample 
+BET Area (m2 g−1) 
+Pore Volume (cm3 g−1) 
+Pore Size 
+(nm) 
+Cu Sizea (nm) 
+Cu Sizeb (nm) 
+Surface C
+
+of reduction temperature. For these four Cu/CuAl-MMO 
+samples, Fig. 3e shows the detailed atomic configuration in R space by 
+Table 1 
+Composition and structural properties of various samples. 
+Sample 
+BET Area (m2 g−1) 
+Pore Volume (cm3 g−1) 
+Pore Size 
+(nm) 
+Cu Sizea (nm) 
+Cu Sizeb (nm) 
+Surface Cu0 Concentrationc (mmol g−1) 
+Cu0/Cu+d 
+CuAl-MMO 
+53.7 
+0.33 
+24.4 
+– 
+– 
+– 
+– 
+Cu/CuAl-MMO-300 
+40.8 
+0.28 
+27.1 
+6.1 
+6.1 
+1.15 
+0.65 
+Cu/CuAl-MMO-400 
+48.7 
+0.27 
+22.6 
+6.8 
+6.7 
+1.12 
+0.85 
+Cu/CuAl-MMO-500 
+37.0 
+0.29 
+31.6 
+7.4 
+7.5 
+0.83 
+1.02 
+Cu/CuAl-MMO-600 
+31.9 
+0.18 
+22.9 
+8.5 
+8.2 
+0.72 
+1.18 
+a Cu Crystallite size was determined by XRD with the Scherrer equation. 
+b Mean Cu particle size was measured by TEM images. 
+c surface Cu0 concentration was calculated based on the results of N2O titration. 
+d Cu0/Cu+ molar ratio was determined by XAES. 
+Fig. 3. (a) XPS spectra of Cu 2p and (b) corre­
+sponding XAES spectra of Cu LMM for Cu/CuAl- 
+MMO-300, 
+Cu/CuAl-MMO-400, 
+Cu/CuAl- 
+MMO-500, and Cu/CuAl-MMO-600, respec­
+tively. (c) Normalized intensity of Cu K-edge 
+XANES spectra for Cu/CuAl-MMO-300, Cu/ 
+CuAl-MMO-400, Cu/CuAl-MMO-500 and Cu/ 
+CuAl-MMO-600, respectively. (d) Enlarged 
+view of absorption edge selected from (c). (e) 
+Corresponding Fourier transform k3-weighted 
+EXAFS spectra in R space for Cu/CuAl-MMO- 
+300, Cu/CuAl-MMO-400, Cu/CuAl-MMO-500 
+and 
+Cu/CuAl-MMO-600, 
+respectively. 
+(f) 
+Bader charge analysis of Cu/CuAl-MMO based 
+on DFT calculations. 
+Y. Ren et al. 
+Applied Catalysis B: Environmental 314 (2022) 121515
+6
+Fourier transform, and then the corresponding results of linear combi­
+nation fitting (Fig. S8 and Table S2) are obtained by using a Cu foil (Cu0) 
+and a Cu2O reference (Cu+) [46]. The peaks at 1.89 and 2.54 Å ac­
+cording with the first shell of Cu2O-like phase and the first shell of 
+monometallic Cu, respectively. As the reduction temperature of these 
+Cu/CuAl-MMO samples rises (Fig. 3e), the intensity of former peak de­
+creases significan
+
+0) 
+and a Cu2O reference (Cu+) [46]. The peaks at 1.89 and 2.54 Å ac­
+cording with the first shell of Cu2O-like phase and the first shell of 
+monometallic Cu, respectively. As the reduction temperature of these 
+Cu/CuAl-MMO samples rises (Fig. 3e), the intensity of former peak de­
+creases significantly; whilst the latter peak increases. Curve-fitting re­
+sults (Table S2) disclose that the coordination number (CN) of Cu–O 
+bond 
+reduces 
+from 
+1.6 
+(Cu/CuAl-MMO-300) 
+to 
+1.0 
+(Cu/CuAl-MMO-400), to 0.6 (Cu/CuAl-MMO-500) and then to 0.1 
+(Cu/CuAl-MMO-600); while the CN of Cu–Cu bond correspondingly 
+increases from 5.7 to 7.2, to 8.1 and then to 8.2. The decrease of Cu–O 
+coordination and increase of Cu–Cu coordination further confirm the 
+increase of the Cu0/Cu+ concentration, which is consistent with the 
+results of XAES. Notably, by changing the reduction temperature in the 
+structural topotactic transformation of LDHs precursor, the Cu0/Cu+
+ratio of Cu/CuAl-MMO catalysts can be tuned. In addition, Bader charge 
+analysis on Cu/CuAl-MMO sample (Fig. 3f) illustrates that Cu atoms at 
+the interface transfers electrons (0.21 |e|) to O atoms in the support, 
+leading to the formation of Cu+ species. 
+3.2. Reaction evaluations toward catalytic transfer hydrogenation of 
+furfural 
+For this study, FAL was employed to assess the catalytic behavior of 
+CTH reaction over CuAl-MMO and four Cu/CuAl-MMO samples. Ac­
+cording to the calculation, the carbon balance over these samples is 
+above 95.8%. The FAL conversion and furfuryl alcohol (FOL) selectivity 
+(200 ◦C, 0.1 MPa N2) are shown in Fig. 4a and Table 2. With the increase 
+of the sample reduction temperature, the FOL selectivity of all these 
+samples approaches 100% at 1 h; while the catalytic activity first in­
+creases and then decreases, and the Cu/CuAl-MMO-400 catalyst shows 
+the highest FAL conversion (98.0%). The reaction rates (Table 2) give 
+the following sequence: Cu/CuAl-MMO-400 (0.125 molFAL gcat
+−1 h−1) 
+> Cu/CuAl-M
+
+all these 
+samples approaches 100% at 1 h; while the catalytic activity first in­
+creases and then decreases, and the Cu/CuAl-MMO-400 catalyst shows 
+the highest FAL conversion (98.0%). The reaction rates (Table 2) give 
+the following sequence: Cu/CuAl-MMO-400 (0.125 molFAL gcat
+−1 h−1) 
+> Cu/CuAl-MMO-300 (0.092 molFAL gcat
+−1 h−1) > Cu/CuAl-MMO-500 
+(0.076 molFAL gcat
+1 h−1) > Cu/CuAl-MMO-600 (0.043 molFAL gcat
+−1 h−1). 
+Notably, the Cu/CuAl-MMO-400 sample exhibits the highest catalytic 
+activity (Fig. S9), which is at the highest level compared to non-noble 
+metal catalysts ever reported (Table S3). In addition, we tested the 
+catalytic performance of Al2O3 support, which was almost inert for CTH 
+reaction of FAL (Fig. S9). We further evaluated the CTH reaction of other 
+typical unsaturated aldehydes and hydrogen donors over CuAl-MMO- 
+400. Similar performance was also obtained (Table S4), demonstrating 
+the universality of CuAl-MMO-400 catalyst for CTH reaction. 
+Fig. 4b−c and Table S5−S6 show the detailed investigations on re­
+action factors (reaction temperature and N2 pressure) over Cu/CuAl- 
+MMO-400 sample. When the reaction temperature rises from 180 ◦C 
+to 200 ◦C, the FAL conversion rapidly increases from 52.9% to 98.0%, 
+while the FOL selectivity slightly decreases from 99.2% to 97.9%. Then, 
+from 200 ◦C to 240 ◦C, the conversion remains basically unchanged, but 
+the FOL selectivity decreases rapidly with the formation of the by- 
+product 2-methylfuran (2-MF). In Fig. 4c, the other products obtained 
+under the condition of 1 MPa N2 include decarbonization product 
+(furan) and coupling products. In the case of N2 pressure, the FAL con­
+version of 98.0% and the optimal FOL selectivity (97.9%) are obtained 
+at 0.1 MPa. According to the evaluation consequence and principium of 
+minimum energy consumption, N2 pressure of 0.1 MPa and reaction 
+temperature of 200 ℃ were selected as the optimum reaction condi­
+tions. In addition, the reusability of Cu/CuAl-MMO-400

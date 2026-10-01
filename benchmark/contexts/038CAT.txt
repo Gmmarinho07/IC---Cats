@@ -1,0 +1,417 @@
+========== ABSTRACT ==========
+
+Abstract
+Ethanol is converted into 1-butanol over alkali earth metal oxides and modiﬁed MgO catalysts (1–20% yield). The MgO
+catalyst exhibits the highest reaction activity and 1-butanol selectivity amongst the catalysts studied. Reaction of various
+intermediates (acetaldehde, crotonaldehyde, crotylalcohol, butanal) and butanol over MgO (1 bar, 450 ◦C) revealed that the
+dimerisation reaction does not proceed primarily through the aldol condensation reaction. The reaction is proposed to proceed
+through a mechanism (Yang and Meng) in which a C–H bond in the -position in ethanol is activated by the basic metal oxide,
+and condenses with another molecule of ethanol by dehydration to form 1-butanol.
+© 2003 Elsevier B.V. All rights reserved.
+Keywords: Magnesium oxide; Base catalysis; Butanol; Ethanol
+1.
+
+
+========== EXPERIMENTAL ==========
+
+Experimental
+2.1. Catalyst preparation
+Magnesium oxide catalysts were prepared from
+MgO ‘heavy’ (A.R.) (Hopkin and Williams Ltd.). The
+magnesium oxide was suspended in warm water with
+stirring and then solidiﬁed again by the evaporation
+of the water. It was then dried at 393 K for 16 h and
+ﬁnally calcined in air at 773 K for 6 h. This catalyst
+was found to have a BET surface area of 38 m2/g.
+CaO and BaO were prepared from the thermal de-
+composition of calcium hydroxide and barium hy-
+droxide, respectively, at elevated temperature (773 K)
+for 6 h.
+Silica (Aerosil 200) and MgO “lite” (treated in way
+similar to that of ‘heavy’ MgO) with BET surface
+areas of 67 and 54 m2/g, respectively, were used as
+supports for alkali, alkaline earth and transition metal
+oxides. -Alumina (BET surface area: 157 m2/g and
+pore volume: 0.23 cm3/g) was also used as a support.
+The metal oxide supported catalysts were prepared
+by an impregnation procedure using an appropriate
+amount of aqueous metal hydroxide/nitrate solutions
+(incipient wetness method). The catalysts were dried
+at 393 K (16 h) and calcined in air at 773 K.
+2.2. Apparatus and procedure
+The catalytic experiments were carried out in a ver-
+tical ﬁxed-bed glass reactor (15 mm i.d.). All reactions
+were carried out using 0.5 g of catalyst. The catalysts
+were used in the form of granules (350–850 m) pre-
+pared by pelletising the catalyst powder and crushing
+to the desired size. The reactor was placed inside a
+temperature-controlled heating jacket with a thermo-
+couple placed at the centre of the catalyst bed.
+The catalyst was activated in ﬂowing oxygen at
+773 K for 1 h prior to ﬂushing with nitrogen gas
+(10 ml/min). Ethanol was fed from a 10 ml syringe us-
+ing a syringe pump (Sage instruments, model 341B)
+through a heated carrier gas (nitrogen) line prior to
+the reactor. Reactions were conducted under nitrogen
+ﬂow (10 ml/min). The products were collected in a
+water-cooled receiver and analysed in a gas chromato-
+graph (ZB wax, 60
+
+m a 10 ml syringe us-
+ing a syringe pump (Sage instruments, model 341B)
+through a heated carrier gas (nitrogen) line prior to
+the reactor. Reactions were conducted under nitrogen
+ﬂow (10 ml/min). The products were collected in a
+water-cooled receiver and analysed in a gas chromato-
+graph (ZB wax, 60 m × 0.32 mm capillary column; FI
+Detector). Product identiﬁcation of the major compo-
+nents was achieved by GC–MS (Finnigan TSQ-7000)
+and 13C-NMR spectroscopy (Brucker AC 400) and
+the use of standards. In early experiments, online GC
+analysis was also performed and CO/CO2 as well as
+small amounts of C1–C4 gases were detected. These
+included ethene, ethane, butane and butenes. Minor
+amounts of C6 and C8 compounds, formed by further
+dimerisation reactions were also formed in the liq-
+uid phase; these products can also be prepared from
+C4 + C2 and C4 + C4 reactions of alcohols and the
+
+
+========== RESULTS ==========
+
+results of these studies will be reported elsewhere.
+The ethanol conversion and product yield were cal-
+culated as follows:
+% conversion=
+
+Moles of ethanol reacted
+Moles of ethanol introduced
+
+×100
+and
+% yield =
+
+Moles of product
+Moles of ethanol introduced
+
+× 100.
+Calculations of product yields were based on ethanol
+reacted and take account of all products produced.
+The temperature-programmed desorption (TPD) ap-
+paratus consists of a U-shaped quartz reactor housed
+in a temperature-controlled heating jacket. The signal
+is measured by a low-temperature dual ﬁlament TCD
+and recorded by a PC equipped with an I/O card.
+3. Results and discussion
+3.1. Catalyst screening
+Ethanol was passed over a range of catalysts at
+450 ◦C (Table 1), and a substantial amount of liquid
+products were observed. In addition, some gaseous
+A.S. Ndou et al. / Applied Catalysis A: General 251 (2003) 337–345
+339
+Table 1
+Activities of basic oxides and alkali-loaded Al2O3 in the solid-base condensation of ethanol to butanola
+Catalyst
+Conversion (mol%)
+Yield (mol%)
+Acetal
+Butanal
+Crotonal
+2-Butanol
+Butanol
+Crotanol
+MgO
+56.14
+0.65
+0.78
+0.50
+0.14
+18.39
+0.31
+CaO
+15.16
+2.83
+2.15
+0.32
+0.07
+1.16
+0.06
+BaO
+21.19
+6.56
+11.37
+–
+–
+–
+–
+-Al2O3
+82.29
+5.96
+19.42
+–
+–
+–
+–
+10% Na/Al2O3
+35.52
+0.32
+2.56
+0.06
+0.18
+0.92
+0.05
+10% K/Al2O3
+54.02
+1.09
+0.75
+0.20
+0.26
+3.42
+0.04
+10% Cs/Al2O3
+24.57
+0.31
+0.31
+–
+–
+0.05
+–
+10% Mg/SiO2
+18.64
+5.04
+0.17
+0.17
+–
+0.38
+0.05
+a Acetal: acetaldehyde; butanal: butyraldehyde; crotonal: crotonaldehyde; crotanol: crotylalcohol.
+light products were formed by thermal decomposition
+of a part of the ethanol. The selectivities and activities
+of the different catalysts were evaluated by GC studies.
+Product compositions were determined by a combina-
+tion of GC, GC–MS and 13C-NMR spectroscopy. By
+this means all of the major products were identiﬁed.
+MgO showed the highest yield of butanol among the
+catalysts studied (Table 1). CaO showed the least ac-
+tivity and produced very little butanol. Barium oxide
+
+
+ompositions were determined by a combina-
+tion of GC, GC–MS and 13C-NMR spectroscopy. By
+this means all of the major products were identiﬁed.
+MgO showed the highest yield of butanol among the
+catalysts studied (Table 1). CaO showed the least ac-
+tivity and produced very little butanol. Barium oxide
+did not show any butanol formation. Although high
+activity was observed over -alumina, no butanol was
+formed over this catalyst. Butanal and acetaldehyde,
+together with substantial amounts of gaseous prod-
+ucts, were the major components observed. This is in
+accord with the acidic nature of this catalyst. The im-
+pregnation of alkali metals on -alumina, resulted in
+the formation of a small amount of butanol. Coverage
+of the Al2O3 by the metal ions resulted in an increase
+in the amount of butanol produced relative to Al2O3
+Table 2
+Activities of alkaline earth and transition metals loaded on MgO catalysts in the solid-base condensation of ethanol to butanola
+Catalyst
+Conversion (mol%)
+Yield (mol%)
+Acetal
+Butanal
+Crotonal
+2-Butanol
+Butanol
+Crotanol
+10% Ba/MgO
+34.19
+15.35
+0.81
+0.15
+0.41
+7.33
+0.47
+10% Ca/MgO
+14.55
+18.15
+0.83
+0.21
+3.26
+7.58
+0.84
+10% Zn/MgO
+95.61
+1.11
+6.93
+1.79
+2.91
+2.95
+0.03
+10% Ce/MgO
+70.84
+0.56
+4.27
+0.09
+0.00
+0.50
+0.28
+10% Zr/MgO
+52.49
+6.48
+5.65
+0.14
+0.06
+0.29
+0.14
+10% Pb/MgO
+34.18
+6.46
+3.61
+7.51
+2.17
+1.97
+0.81
+10% Sn/MgO
+57.21
+5.62
+1.56
+0.85
+3.95
+1.27
+0.05
+10% Cu/MgO
+28.75
+18.10
+0.70
+0.12
+0.60
+1.80
+0.82
+a Acetal: acetaldehyde; butanal: butyraldehyde; crotonal: crotonaldehyde; crotanol: crotylalcohol.
+suggesting that the basic sites produced by the metal
+ions were required for butanol formation. The ethanol
+conversion of the Al2O3 catalysts also showed a gen-
+eral decrease with metal ion coverage.
+Attempts were then made to enhance the catalyst
+selectivity/activity by enhancing the MgO surface area
+and by addition of metal ions. Dispersion of MgO on a
+series of metal oxides did not improve the yield of bu-
+tanol (see an example in Table 1, Mg/SiO2). Similarly
+
+decrease with metal ion coverage.
+Attempts were then made to enhance the catalyst
+selectivity/activity by enhancing the MgO surface area
+and by addition of metal ions. Dispersion of MgO on a
+series of metal oxides did not improve the yield of bu-
+tanol (see an example in Table 1, Mg/SiO2). Similarly,
+addition of the basic metal ions Ca and Ba to MgO
+also did not enhance the catalyst selectivity (Table 2).
+Thus, even though the basic nature of the MgO was
+modiﬁed by loading calcium and barium on MgO
+no advantages in terms of catalyst productivity were
+achieved—little effect on the yield of C4 products was
+noted and the yield of butanol decreased signiﬁcantly.
+Ueda et al. [20,21] have also reported similar ﬁnd-
+ings for the reaction of ethanol and methanol to form
+1-propanol, where they found that while the addition
+340
+A.S. Ndou et al. / Applied Catalysis A: General 251 (2003) 337–345
+Fig. 1. TPD proﬁles of some of the catalysts.
+of alkali metals increased the basicity of oxygen
+anions in MgO, condensation rates were decreased.
+The addition of a range of transition metals (Zn, Ce,
+Zr, Pb, Sn) to MgO was also investigated (Table 2).
+These ions were expected to increase the basic nature
+of the MgO but here again the metal ion addition did
+not improve the yield of butanol or other C4 com-
+pounds. Ueda et al. [24] have reported that the surface
+basicity of MgO was increased by the addition of
+metal ions when the ionic radius was greater than that
+of Mg2+.
+TPD experiments were performed with CO2 as
+the probe molecule and the TPD proﬁles of MgO,
+Ba/MgO, Na/MgO and K/MgO are shown in Fig. 1.
+Table 3
+Activities of acid doped magnesium oxide catalysts for the solid-base condensation of ethanol to butanola
+Catalyst
+Conversion (mol%)
+Yield (mol%)
+Acetal
+Butanal
+Crotonal
+2-Butanol
+Butanol
+Crotanol
+10% HCl/MgO
+22.21
+1.93
+30.07
+0.22
+0.08
+0.08
+0.37
+10% H2PO4/MgO
+42.49
+12.02
+1.13
+0.34
+0.33
+8.18
+0.37
+10% Acetic/MgO
+21.95
+14.28
+0.65
+0.63
+0.36
+6.71
+0.59
+1% H2SO4/MgO
+49.17
+1.65
+0.78
+1.0
+
+lt in compensatory effects. However,
+as the sulphuric acid loading on MgO increased, the
+butanol yield decreased, presumably due to the domi-
+nant effect of the poisoning of the strong basic sites on
+the MgO surface by the large amounts of acid used.
+The above study revealed that little advantage was to
+be gained (activity and/or selectivity) by modiﬁcation
+of the MgO with acidic or basic ions. Only a low
+loading of H2SO4 to MgO gave comparable results to
+that of pure MgO. Further studies thus focussed on
+the unmodiﬁed MgO catalyst.
+3.2. Effect of temperature and contact
+time on the reaction
+The effect of reaction temperature on the activ-
+ity/selectivity of the ethanol dimerisation reaction is
+shown in Fig. 2. Very little change in the yield of ac-
+Fig. 2. Inﬂuence of temperature on the product distribution over MgO.
+etal and other C4 products, as the temperature of the
+reaction increased, is to be noted. However, there is a
+very sharp increase in butanol yield at a temperature
+of 450 ◦C. Further studies were then performed on
+the catalyst at 450 ◦C.
+Fig. 3 shows the variation of ethanol conversion
+and 1-butanol yield with contact time. The conversion
+of ethanol to products decreased with the increase in
+contact time. However, the butanol yield stayed fairly
+constant with increase of contact time, suggesting that
+it did not decompose over the catalyst via secondary
+reactions.
+A decrease in ethanol conversion was also noted
+to occur with time on stream (Fig. 4), suggesting
+that the changes were associated with catalyst de-
+composition. Again however, the selectivity to bu-
+tanol was little affected by the change in conversion.
+The deactivation is assumed to be due to carbon de-
+position; the catalyst turned black during the reac-
+tion. (The catalyst could be reactivated with oxygen at
+T = 500 ◦C.)
+3.3. Reaction mechanism
+Dimerisation of ethanol in the presence of N2 or O2
+as a carrier gas gave near identical results in terms of
+342
+A.S. Ndou et al. / Applied Catalys

@@ -1,0 +1,144 @@
+========== ABSTRACT ==========
+
+summary, alongside the main ‘‘direct’’ condensation reaction
+(R2), we would like to propose the following reaction mechanism
+as the minor ‘‘indirect’’ route to butanol (R11), based on the data
+reported in the literature over other basic oxides and the kinetic
+and
+thermodynamic
+considerations
+reported
+in
+the
+present
+work:
+Step 1 : Ethanol ! acetaldehyde þ H2
+ðR10Þ
+Step 2 : 2a : Ethanol þ acetaldehyde ! butenol þ water
+ðR4Þ
+or
+Fig. 4. Composition at the thermodynamic equilibrium of a system containing
+butanol, 2-buten-1-ol, 3-buten-1-ol and H2 as a function of temperature. Total
+pressure is 1 bar and the initial state of the system corresponds to an equivalent
+11 mol of ethanol (balanced by Ar).
+J. Scalbert et al. / Journal of Catalysis 311 (2014) 28–32
+31
+2b1 : Ethanol þ acetaldehyde ! butanediol
+ðR6Þ
+2b2 : Butanediol ! butenol þ water
+ðR7Þ
+Step 3 : butenol þ ethanol ! butanol þ acetaldehyde
+ðR9Þ
+Overall : 3 ethanol
+! butanol þ water þ H2 þ acetaldehyde
+ðR11Þ
+The reaction quotient was calculated for the reaction (R11) and
+was found to be several orders of magnitude lower than the
+corresponding equilibrium constant, showing that this global
+reaction cannot be rejected on thermodynamic grounds (see
+Supplementary Information, Table S3).
+It is obvious that more work is needed to ascertain the rele-
+vance of the ‘‘minor’’ reaction scheme R11 and especially to deter-
+mine the details of the main mechanism R2. It should be noted that
+R11 has an intrinsic selectivity limit (i.e. 2/3 of the ethanol mole-
+cules end up as butanol), with acetaldehyde and H2 being side-
+products. Since the acetaldehyde produced by R9 can be recycled
+in R4 or R6 (resulting in a propagation-like mechanism), the effec-
+tive selectivity associated with R11 will be higher than 2/3 and will
+also depend on the experimental conditions affecting acetaldehyde
+readsorption. The theoretical selectivity of the direct route R2 is
+100% and it would therefore be crucial to better understand the ac-
+tive sites as
+
+
+========== EXPERIMENTAL ==========
+
+ then also formed as a secondary reaction
+product. The sudden increase in butanol corresponded to the point
+at which acetaldehyde was leveling off, suggesting that part of the
+acetaldehyde was converted to butanol. The slope and offset of the
+lines representing butanol concentration in the limiting cases of
+low and high contact times (Fig. 2) suggest that most of the butanol
+was always formed via the direct ‘‘primary’’ reaction pathway.
+Similar butanol concentration versus contact time curves had
+been observed by Iglesia and co-workers in the case of ethanol con-
+version over MgAAl mixed oxides [14], which had also led these
+authors to propose that butanol was formed through more than
+one reaction pathway.
+The facts that (i) the slope of the two lines relating to the forma-
+tion of butenol at low and high W/F appears to be identical and (ii)
+the butanol formation shows an offset above a certain W/F are
+worth noting. A possible explanation of these observations is that
+Scheme 1. Ethanol condensation mechanism based on the self-aldolization of
+acetaldehyde.
+Fig. 1. Yields of the main C-containing reaction products during ethanol reaction
+over the hydroxyapatite as a function of temperature. Butenol refers to 2-buten-1-
+ol and 3-buten-1-ol. Feed: Ethanol = 15.2% in; WHSV = 14 h1.
+Fig. 2. Butanol and acetaldehyde partial pressure at the reactor exit at 400 C for
+various W/F values. Ethanol concentration = 7.6%.
+J. Scalbert et al. / Journal of Catalysis 311 (2014) 28–32
+29
+the reaction site at which butanol is formed from acetaldehyde
+tends to deactivate at higher contact time. This is possible since
+acetaldehyde is highly reactive and can lead to cyclic compounds
+(via self-aldolization) favoring coke formation. This explanation is
+supported by the fact that acetaldehyde production tends to level
+off over our HAP (Fig. 2) and a similar acetaldehyde leveling off
+can be noted in the case of the data reported by Di Cosimo et al.
+[14] over a MgAAlAO catalyst. This hypothetic
+
+dolization) favoring coke formation. This explanation is
+supported by the fact that acetaldehyde production tends to level
+off over our HAP (Fig. 2) and a similar acetaldehyde leveling off
+can be noted in the case of the data reported by Di Cosimo et al.
+[14] over a MgAAlAO catalyst. This hypothetical deactivation of
+the sites involving acetaldehyde would suggest that the corre-
+sponding reaction pathway would remain minor and its overall
+contribution to the formation of butanol could even decrease with
+time on stream.
+3.2. Thermodynamic analysis
+Butanol and acetaldehyde are the main carbon-containing reac-
+tion products over many ethanol condensation catalysts as the one
+investigated here. It is yet quite surprising that no study has ever
+reported any thermodynamic considerations on the relative con-
+centrations of these two compounds, to the best of our knowledge.
+Such analyses can be useful in discarding some potential reaction
+steps, for instance all those associated with a reaction quotient
+(noted ‘‘Q’’) higher than the corresponding equilibrium constant
+(noted ‘‘K’’). This is equivalent to having an approach to equilib-
+rium g (=Q/K) higher than 1. This approach has proved successful
+in unraveling the mechanism of methanol formation over Cu-based
+catalysts [16] and NO oxidation to NO2 over alumina-based cata-
+lysts [17].
+The comparison of the reaction quotient and equilibrium con-
+stant requires the determination of the concentration of all the
+species involved in the reaction step. Crucially, water and dihydro-
+gen concentrations were measured here, since these compounds
+take part in the reaction step of interest. An example of the calcu-
+lation of a reaction quotient is detailed in the supporting
+information.
+The simplest associated global reaction that can be computed
+for acetaldehyde self-aldolization (with intermediates of accu-
+rately measurable concentrations and available thermochemical
+data) is given by reaction (R1):
+2 acetaldehyde þ 2H2¡butanol þ wa
+
+
+========== RESULTS ==========
+
+results will rigorously show that a mechanism
+0021-9517/$ - see front matter 2013 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.jcat.2013.11.004
+⇑Corresponding author at: Université Lyon 1, CNRS, UMR 5256, IRCELYON,
+Institut de Recherches sur la Catalyse et l’Environnement de Lyon, 2 Avenue Albert
+Einstein, F-69626 Villeurbanne, France.
+E-mail address: fcm@ircelyon.univ-lyon1.fr (F. Meunier).
+Journal of Catalysis 311 (2014) 28–32
+Contents lists available at ScienceDirect
+Journal of Catalysis
+journal homepage: www.elsevier.com/locate/jcat
+based on acetaldehyde self-aldolization (as described in Scheme 1)
+has a negligible contribution to butanol formation, and that at least
+two other reaction pathways occurring simultaneously must be
+considered in our case.
+2.

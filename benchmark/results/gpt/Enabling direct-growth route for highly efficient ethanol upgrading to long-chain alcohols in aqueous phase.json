@@ -1,0 +1,60 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Ni@C",
+                "raw_name": "Ni@C",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni@C-DMSOz",
+                "raw_name": "Ni@C-DMSOz",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni@C-S1/30",
+                "raw_name": "Ni@C-S1/30",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni@C-S1/30-y",
+                "raw_name": "Ni@C-S1/30-y",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni@C-S0",
+                "raw_name": "Ni@C-S0",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni@C-S1/25",
+                "raw_name": "Ni@C-S1/25",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C",
+                "raw_name": "NiSn@C",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni@NC",
+                "raw_name": "Ni@NC",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "C",
+            "raw_name": "C",
+            "article_identifiers": []
+        }
+    }
+}

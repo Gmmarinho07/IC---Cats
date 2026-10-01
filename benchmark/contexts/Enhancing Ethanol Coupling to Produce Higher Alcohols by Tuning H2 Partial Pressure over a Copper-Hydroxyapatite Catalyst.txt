@@ -1,0 +1,106 @@
+========== ABSTRACT ==========
+
+ABSTRACT: Catalytic upgrading of ethanol, as a platform molecule from biomass to
+higher alcohols (C4−12), is a low-carbon route for value-added chemical production.
+However, the products are generally obtained in low selectivity due to the
+uncontrollable reactivity of intermediates that cause a complex reaction network. In
+this study, we show that unsaturated intermediates of aldehydes can be rapidly
+hydrogenated by surface hydrogen species during the ethanol upgrading process,
+thereby greatly inhibiting the cyclization reaction of aldehydes. Specifically, the product
+distributions on the Cu-hydroxyapatite (Cu-HAP) catalyst shift stepwise to higher
+alcohols from aromatic oxygenates with the partial pressure of hydrogen increasing from
+0 to 95 kPa. Kinetic measurements and in situ ethanol infrared
+
+
+========== EXPERIMENTAL ==========
+
+EXPERIMENTAL SECTION
+2.1. Synthesis. HAP was prepared via coprecipitation,
+which is based on adding calcium nitrate to diammonium
+hydrogen phosphate solution and ammonium hydroxide for
+the adjustment of pH.17 Cu-HAP was synthesized using the
+incipient wetness impregnation method. Theoretical amounts
+of aqueous copper nitrate were added. After impregnation, the
+samples were kept at room temperature for 2 h and then dried
+at 50 °C in flowing air. Finally, the samples were calcined at
+350 °C in air for 2 h and then reduced at 400 °C for 2 h in 8
+vol % H2/N2. The loading amount of the Cu metal detected by
+inductively coupled plasma optical emission spectrometry
+(ICP-OES) was about 0.7 wt % (Table S1).
+2.2. Characterization. X-ray diffraction (XRD) was
+performed on a Panalytical X’pert Pro Super X-ray
+diffractometer with Cu Kα radiation (1.5418 Å). High-angle
+annular dark-field scanning transmission electron microscopy
+(HAADF-STEM) was performed using a JEOL JEM-F200. Ex
+situ X-ray photoelectron spectroscopy (XPS) with Auger
+electron spectroscopy (AES) was performed using a Thermo
+Figure 1. Catalytic performance. Dependence of the product distribution on H2 partial pressure over 0.5Cu-HAP (a) and HAP (b) catalysts.
+Reaction conditions: catalyst mass = 100 mg, PC
+d2H
+d5OH = 5.7 kPa, balanced with H2 or N2, and the gas flow was 30 mL min−1, ethanol conversion
+and product distributions observed for the 0.5Cu-HAP and HAP catalysts at 250 °C recorded after 0.5 h on stream. (c) Time-on-stream
+performance over 0.5Cu-HAP measured at 250 °C. Reaction conditions: catalyst mass = 100 mg, PC
+d2H
+d5OH = 5.7 kPa, PH
+d2 = 94.3 kPa, total gas flow
+rate = 30 mL min−1.
+ACS Catalysis
+pubs.acs.org/acscatalysis
+Research Article
+https://doi.org/10.1021/acscatal.2c03327
+ACS Catal. 2022, 12, 12045−12054
+12046
+Scientific K-Alpha+ spectrometer system equipped with an Al
+Kα X-ray source. Hydrogen temperature-programmed reduc-
+tion (H2-TPR) was conducted using a Micromeritics
+AutoChem II 2920 autom
+
+ Davis.33 Moreover, there was no detectable
+deuterated n-butanol formed on HAP catalysts when operating
+in gaseous D2, which further reveals that hydrogen species
+originated from ethanol rather than from gaseous H2.19 Over
+HAP, the addition of H2 has a negligible effect on the ethanol
+upgrading process, which is in line with previous research.16
+The ethanol reaction rate follows the zero-order dependence
+on H2 partial pressure on HAP, while Cu-HAP has a positive
+reaction order (Figure S1).34 Although the final products are
+aliphatic alcohols, these results clearly illustrate that the
+ethanol reaction pathway is different over Cu-HAP and HAP,
+and addition of hydrogen does promote the performance of
+Cu-HAP for ethanol conversion to higher alcohols. The
+reaction atmosphere has an obvious effect on ethanol
+condensation, which will be explored and discussed in detail
+in the following parts.
+The temperature dependence of ethanol activity and
+product distributions on Cu-HAP was explored under different
+atmospheres. As shown in Figure S3a, under a H2 atmosphere,
+higher aliphatic alcohols are the major products below 300 °C.
+However, the product distributions differ dramatically in a N2
+environment (Figure S3b), and substantial amounts of
+complex aromatic oxygenates are derived. As such, the
+formation of aromatic oxygenates is dramatically suppressed
+below 300 °C when cofeeding H2. Thus, the addition of
+sufficient H2 partial pressure shifts the product distribution
+from aromatic oxygenates to C4−C12 higher alcohols via
+regulating the activation of intermediates over the bifunctional
+Cu-HAP catalyst.
+As shown in Figure 1c, ethanol conversion and product
+distribution as a function of reaction time on Cu-HAP were
+further investigated. An initial decrease in conversion from
+36.6 to 18% is observed, but insignificant declines in
+conversion and selectivity are observed for time-on-stream
+>4 h. The surface restructuring may cause the initial changes in
+activity for the Cu-HAP catal
+
+
+========== RESULTS ==========
+
+results indicated that the
+intermediates during this process are acetaldehyde and 2-butenal. Combined with physical structure and chemical state analysis of
+the catalyst, we found that Cu sites catalyze the hydrogenation of the CC bond of 2-butenal under a hydrogen atmosphere. The
+C−C coupling of ethanol to higher alcohols over Cu-HAP follows the Guerbet mechanism. In comparison, on bare HAP, n-butanol
+is formed as a primary product even though little amount of acetaldehyde was detected, indicating that ethanol proceeds mainly in a
+direct coupling process to yield higher alcohols. This study introduces an efficient ethanol valorization approach that is enabled by
+subtle control of the intermediate conversion over the Cu-HAP catalyst by the hydrogen partial pressure.
+KEYWORDS: ethanol, higher alcohols, copper-hydroxyapatite, dehydrogenation, hydrogenation
+1.

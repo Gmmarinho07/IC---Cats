@@ -1,0 +1,182 @@
+========== ABSTRACT ==========
+
+Abstract
+Mg-containing oxides are widely studied as effective catalysts for ethanol upgrading due to their capacity to promote dehy-
+drogenation and coupling reactions. In such systems, the dehydrogenation of ethanol to acetaldehyde is thought to be the 
+rate-determining step, so that the addition of dehydrogenation promoters onto the oxides could be a good way of optimizing 
+the catalysts. Herein, we propose a systematic screening of different catalysts (MgO, Ru/MgO, ­MgxAlOy, and Ru/MgxAlOy) in 
+order to understand the roles of Ru and of the oxides in the several parallel reactions that occur in the systems. We investigated 
+the catalysts by spectroscopic, textural and bench-scale techniques to correlate microscopic
+
+
+========== EXPERIMENTAL ==========
+
+ particles are larger. Overall, as expected [10, 11], 
+the insertion of ­Al3+ cations into the MgO framework 
+greatly increased the surface area, while crystallinity and 
+basic site density were reduced.
+Due to the higher atomic number of Ru when compared 
+with the matrix elements, Ru particles are easily identified 
+in the HAADF STEM images. Two STEM images of the Ru/
+MgO sample (Figs. 2a and c) and two of Ru/MgxAlOy (Figs. 
+b and d) are shown in Fig. 2. The chemical composition 
+of the particles was probed by EDS analyses over several 
+particles and their supporting matrices (Figs. 2e and f). We 
+observed an abundance of very small Ru nanoparticles, with 
+mean diameter of 1.7 nm ± 0.2 nm (calculated for 150 parti-
+cles) in the Ru/MgO system. The size distribution of those 
+particles is shown in the inset of Fig. 2a. Small particles 
+were scarce in the Ru/MgxAlOy sample, the rest being large 
+agglomerates. These results agree with the XRD findings 
+and are consistent with the metallic dispersions reported on 
+Table 1 as determined by CO chemisorption.
+Table  2 shows a quantitative analysis of elements 
+observed in the XPS survey spectra. Ruthenium peaks are 
+observed, although the nominal concentrations were at the 
+limit of detection and the elemental concentration calculates 
+Table 1   XRF, ­N2 physisorption, ­CO2 TPD, and CO chemisorption results
+Samples
+Elemental analysis
+S/m2.g−1
+Basic site density/μmol.m−2
+Metallic dispersion/ %
+Al/(Al + Mg)/molar
+Mg/wt %
+Al/wt %
+Ru/wt %
+MgO
+0
+59.4
+–
+–
+43
+1.48
+–
+Ru/MgO
+0
+59.1
+–
+0.96
+57
+0.86
+35
+MgxAlOy
+0.48
+22.6
+21.3
+–
+293
+0.38
+–
+Ru/MgxAlOy
+0.48
+22.4
+21.2
+0.93
+182
+0.31
+4
+Topics in Catalysis 
+1 3
+as below 1%. These measurements confirmed the desired 
+stoichiometry for all catalysts, with little difference when 
+compared to the XRF results. The quantitative XPS ratios 
+among O, Al and Mg were calculated removing oxygen con-
+tamination and the contribution of ­H2O. All analyzed sam-
+ples showed similar spectra and Fig. 3 shows a 
+
+c process, being common to all tested 
+materials.
+With the exception of ­MgxAlOy, the catalysts displayed a 
+sharp, intense band around 1580–1640 cm−1 that increased 
+in intensity with temperature, consistent with previous find-
+ings [16–18, 41]. The bands in such region are still under 
+Fig. 2   STEM HAADF images of Ru/MgO (a, c) and Ru/MgxAlOy (b, d), and EDS results of Ru/MgO (e) and Ru/MgxAlOy (f)
+Topics in Catalysis 
+1 3
+Table 2   XPS quantitative analysis (atomic  %) for the elements
+Sample
+O 1 s
+Al 2p
+Mg 2p
+Ru 3p
+Mg/Al/O ratio
+MgxAlOy
+30.6
+13.9
+15.2
+–
+Mg1.09AlO2.20
+Ru/MgxAlOy
+30.1
+13.6
+14.8
+< 1
+Mg1.09AlO2.21
+Ru/MgO
+26.2
+–
+25.8
+< 1
+MgO1.02
+Fig. 3   Typical high-resolution spectrum in the O 1 s region obtained 
+for different samples. All analyzed samples showed similar spec-
+tra for this photoelectron line. Peaks at 531.0 eV and 532.5 eV are 
+assigned to metallic oxides and hydration layers, respectively. Inset 
+table displays binding energies, FWHM (full width at half maximum) 
+and quantitative analysis for the O 1 s deconvolution
+475
+470
+465
+460
+455
+450
+Experimental data
+ Shirley background
+ Data fitting
+RuO2
+ Ru
+Intensity / a.u.
+Binding energy / eV
+Fig. 4   Typical high-resolution spectra in the Ru ­3p3/2 region obtained 
+for the Ru/MgAlO sample. Metallic Ru peak was added to optimize 
+the data fitting
+Fig. 5   Adsorption isotherm of ethanol on the four catalysts
+Fig. 6   Differential heat of adsorption of ethanol on the four catalysts
+Table 3   Maximum estimated chemisorption coverages and average 
+heats of adsorption
+Catalyst
+Maximum chemisorption 
+coverage/μmol.m−2
+Average heat 
+of adsorption/
+kJ.mol−1
+MgO
+2.87
+~ 155
+Ru/MgO
+3.50
+~ 155
+MgxAlOy
+3.14
+~ 175
+Ru/MgxAlOy
+4.41
+~ 180
+ 
+Topics in Catalysis
+1 3
+debate and some attempts have been made to gain fur-
+ther insight into this issue. For example, Chieregato et al. 
+ascribed this peak to crotyl alcohol, even though it would be 
+surprising to find this species strongly bound to the surface 
+up to temperatures
+
+
+========== RESULTS ==========
+
+results with macroscopic find-
+ings. The insertion of Al into the MgO framework improved activity and product distribution towards ethene. Ru increased 
+ethanol conversion in the systems, but directed the product distribution towards methane.
+Keywords  Ethanol upgrading · Magnesium oxide · Ruthenium · DRIFTS
+1

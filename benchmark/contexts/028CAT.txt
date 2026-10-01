@@ -1,0 +1,291 @@
+========== EXPERIMENTAL ==========
+
+Experimental
+2.1. Catalysts preparation
+2.1.1. Preparation of NiMgAlO and CuMgAlO LDHs
+All LDHs were prepared using a co-precipitation method. Taking
+the NiMgAlO LDHs as an example, 50 mL aqueous solution contain-
+ing 0.02 mol Ni(NO3)26H2O, 0.08 mol Mg(NO3)26H2O, and
+0.02 mol Al(NO3)39H2O was dropwise added to a ﬁercely stirred
+50 mL solution containing 0.08 mol Na2CO3 and 0.12 mol NaOH.
+The pH of the obtained mixture was adjusted to 10 by a 3 mol/L
+NaOH solution. The mixture was kept at 338 K for 18 h, and a
+hydrotalcite structure of NiMgAlO precursor was formed. The
+hydrotalcite was ﬁltered, rinsed with 500 mL deionized water,
+dried at 393 K for 12 h, and ﬁnally got the LDHs of NiMgAlO with
+a Ni:Mg:Al molar ratio of 1:4:1.
+2.1.2. Preparation of NiMgAlO and CuMgAlO catalysts
+The obtained LDHs of NiMgAlO and CuMgAlO were calcined at
+873 K in the air for 2 h, reduced at 873 K in hydrogen for 1 h,
+and obtained NiMgAlO and CuMgAlO catalysts.
+2.1.3. Preparation of Cu-NiMgAlO catalysts
+Cu-NiMgAlO catalysts were prepared by the metal ion adsorp-
+tion method [36]. In a typical run, 20 mL aqueous solution contain-
+ing a certain amount of Cu(NO3)23H2O was dropwise added to
+50 mL ﬁercely stirred solution containing 0.5 g LDHs of NiMgAlO,
+and further stirred at 338 K for 1 h. Then, the pH of obtained mix-
+ture was adjusted to 10 by 0.2 mol/L NaOH solution, and main-
+tained ﬁercely stirring for 4 h. After the ﬁltration process, the
+resulted slurry was washed with 100 mL deionized water, and
+dried at 393 K for 12 h. Finally, the obtained powder was calcinated
+at 873 K for 2 h, reduced at 873 K in hydrogen for 1 h, and yielded
+Cu-NiMgAlO catalysts. The number before Cu was the theoretical
+amount of Cu loading calculated based on the amount of
+NiMgAlO-hydrotalcites (HT), e.g., 1%Cu-NiMgAlO represents the
+theoretical Cu loading in the catalyst was 1%. Scheme 1.
+2.2. Characterizations
+X-ray diffraction (XRD) patterns of different NiMgAlO precur-
+sors and catalysts were performed on 
+
+cal
+amount of Cu loading calculated based on the amount of
+NiMgAlO-hydrotalcites (HT), e.g., 1%Cu-NiMgAlO represents the
+theoretical Cu loading in the catalyst was 1%. Scheme 1.
+2.2. Characterizations
+X-ray diffraction (XRD) patterns of different NiMgAlO precur-
+sors and catalysts were performed on a PANalytical X’Pert-Pro
+powder X-ray diffractometer using Cu Ka monochromated radia-
+tion (k = 0.15418 nm) at 40 kV and 40 mA. Before analysis, samples
+were ground to powder larger than 100 meshes, and loaded onto a
+glass slide. The patterns were recorded in 2h range 10–80 at a
+scan speed of 5 /min. PANalytical X’Pert HighScore Plus software
+was used for qualitative analysis.
+The pore structure of NiMgAlO based catalysts was measured
+using a Micromeritics ASAP 2020 system with nitrogen as the
+adsorbent at 77 K. Prior to nitrogen adsorption, about 0.1 g catalyst
+was out-gassed at 393 K for 3 h, and then at 523 K for 3 h. The
+speciﬁc surface area was determined by the BET method, pore vol-
+ume and average pore diameter were calculated by the BJH
+method.
+High-angle annular dark ﬁeld scanning transmission electron
+microscopy (HAADF-STEM) and energy dispersive spectroscopy
+(EDS) elemental mapping were conducted on a JEM-2100F micro-
+scope. Before analysis, the sample was ground and dispersed in
+ethanol under ultrasonic conditions for 10 min. The dispersed sam-
+ple was then mounted onto carbon-coated Mo grids followed by
+slow evaporation of ethanol at room temperature.
+X-ray photoelectron spectroscopy (XPS) of different catalysts
+was recorded on a ThermoFisher spectrometer using Al Ka
+(ht = 1486.6 eV) X-ray source with a pass energy of 30 eV, and a
+base pressure of 5109 mbar in analysis chamber. The spectra
+before and after 10 s Ar etching were collected. Binding energy
+(BE) values were referenced to the binding energy of the C 1s core
+level at 284.6 eV.
+Pseudo X-ray absorption spectroscopy (XAS) was performed at
+the BL 14 W1 of Shanghai Synchrotron Radiation Facility, Shangha
+
+
+========== RESULTS ==========
+
+Results and discussion
+3.1. Catalytic conversion of ethanol over different catalysts
+3.1.1. Optimize metal-doped NiMgAlO catalysts for ethanol conversion
+Different metals were introduced into the hydrotalcite of NiM-
+gAlO by the metal ion adsorption method, and used for ethanol
+conversions. As shown in Fig. 1(a), over the benchmark catalyst
+of NiMgAlO, ethanol conversion and n-butanol selectivity were
+ca. 18% and 55.4%, respectively, at 503 K for 24 h. After introducing
+metals of Fe, Co, Cu, Pt, Pd, Rh and Ir, distinct performances were
+observed for the conversion of ethanol to n-butanol. The introduc-
+tion of Fe and Rh slightly decreased the ethanol conversion due to
+their insufﬁcient activity in dehydrogenation reactions, and the
+presence of Fe, Pt, Rh and Ir reduced the n-butanol selectivity to
+39–48% because of their high activity in C–C bond cleavages
+[38,39]. In contrast, Co, Cu and Pd improved both ethanol conver-
+sion and n-butanol selectivity. Speciﬁcally, over the 1%Cu-NiMgAlO
+Scheme 1. Procedures for the synthesis of Cu-NiMgAlO catalysts.
+Z. Wang, M. Yin, J. Pang et al.
+Journal of Energy Chemistry 72 (2022) 306–317
+308
+catalyst, ethanol conversion and n-butanol selectivity reached
+23.0% and 58.4%, respectively, demonstrating the unique role of
+Cu in promoting the ethanol to n-butanol reaction [11,40]. Effects
+of Cu content on ethanol conversion were then investigated and
+shown in Fig. 1(b). Ethanol conversion and n-butanol selectivity
+ﬁrst increased and then decreased slightly, reaching the maximum
+values of 23.5% and 65.7%, respectively, over the 2%Cu-NiMgAlO
+catalyst. For the CuMgAlO catalyst with a higher Cu content, the
+ethanol conversion increased to 31.6% at the expense of n-
+butanol selectivity (43.6%). The key role of Cu species in changing
+ethanol conversion and n-butanol selectivity should be attributed
+to different structures and chemical properties between NiMgAlO
+and Cu-NiMgAlO catalysts [41–43].
+3.1.2. Effects of reaction conditions on the e
+
+alyst was also
+characterized by the EDS mapping in Fig. 5(d). Ni particles were
+clearly observed, similar to that of TEM images. Differently, Cu spe-
+cies were nearly atomically dispersed and could not be detected by
+TEM. According to the result of 4%Cu-NiMgAlO catalyst, we
+deduced that most Cu species on the 2%Cu-NiMgAlO catalyst
+strongly connected with Ni or MgO, forming dilute CuNi alloy
+and Cu modiﬁed MgO species that had a negligible effect on the
+size of Ni particles. The Cu-NiMgAlO catalyst before and after the
+reaction was characterized by HRTEM. As shown in Fig. 5(b-b’)
+and Fig. S4, the used Cu-NiMgAlO catalyst demonstrated similar
+particle size distribution and identical lattice spacings compared
+with the fresh counterpart, indicating the high stability of Cu-
+NiMgAlO catalysts in ethanol conversions. In all, the strong
+Table 1
+Metal contents and pore structure of NiMgAlO, CuMgAlO and Cu-NiMgAlO based catalystsa.
+Catalyst
+Content (%)b
+SBET (m2 g1)
+V (cc g1)
+Dp (nm)
+Cu
+Ni
+Mg
+Al
+NiMgAlO
+-
+20.1
+35.6
+10.9
+176
+0.42
+3.9
+CuMgAlO
+22.3
+-
+32.1
+8.9
+104
+0.47
+7.8
+0.5%Cu-NiMgAlO
+0.8
+22.4
+32.3
+9.8
+183
+0.75
+6.1
+1%Cu-NiMgAlO
+1.4
+21.5
+32.5
+8.9
+196
+0.70
+3.2
+2%Cu-NiMgAlO
+3.2
+20.1
+32.2
+8.7
+213
+0.63
+2.7
+3%Cu-NiMgAlO
+5.6
+20.2
+31.4
+8.7
+198
+0.55
+3.2
+4%Cu-NiMgAlO
+8.3
+20.4
+30.5
+8.5
+169
+0.59
+3.2
+8%Cu-NiMgAlO
+15.8
+18.4
+28.1
+7.6
+154
+0.48
+3.6
+2%Cu-NiMgAlO used
+3.4
+20.2
+29.7
+9.3
+162
+0.53
+5.5
+a SBET, V and Dp are abbreviations for the speciﬁc surface area calculated by the BET method, the volume determined according to the BJH method, and the average pore
+diameter, respectively.
+b The actual Ni, Cu, Mg, Al contents were measured by the ICP-AES.
+Fig. 5. HRTEM images of (a and a’) NiMgAlO, (b and b’) 2%Cu-NiMgAlO and (c and c’) 4%Cu-NiMgAlO catalysts and their particle size distributions (inset in a-c), and (d) EDS
+elemental mappings of Cu, Ni, Mg and Al for the 2%Cu-Ni4MgAlO catalyst.
+Z. Wang, M. Yin, J. Pang et al.
+Journal of Energy Chemistry 72 (2022) 306–317
+311
+interaction between CuNi
+
+ NiMgAlO and 2%Cu-NiMgAlO
+catalysts. For the NiMgAlO catalyst, two peaks at 619 K and
+981 K were observed, which were attributed to hydrogen adsorbed
+on metallic Ni centers and hydrogen transferred from metallic Ni
+sites to Mg, Al oxide supports, respectively. In contrast, a new peak
+at 376 K was detected for the 2%Cu-NiMgAlO catalyst, indicating
+the elevated metal active sites after the introduction of Cu. The
+hydrogen adsorption amount was calculated to be 71.5 lmol/g
+for the 2%Cu-NiMgAlO catalyst, much higher than the counterpart
+of NiMgAlO catalyst (51.8 lmol/g). This tendency is consistent
+with the CO adsorption result in Fig. S6, conﬁrming the elevated
+metallic sites of Cu-NiMgAlO catalysts for this reaction.
+Ethanol dehydrogenation is the ﬁrst and rate-determining step
+for the conversion of ethanol to n-butanol [56]. Compared with the
+NiMgAlO catalyst, the presence of Cu greatly increased the number
+of metal active sites and enhanced hydrogen transfer activity [57].
+As a result, the ethanol dehydrogenation reaction was accelerated,
+and the ethanol conversion was greatly improved, as shown in
+Fig. 1. On the other hand, when the Cu loading was overmuch,
+e.g. the 4%Cu-NiMgAlO catalyst, bulk CuNi alloys were formed,
+which led to a decrease of the dehydrogenation activity and low
+ethanol conversions.
+Besides the hydrogen transfer reaction, acetaldehyde condensa-
+tion is the other key elementary step in the ethanol to n-butanol
+process, which is highly dependent on the acidic and basic proper-
+ties of catalysts. Fig. 9(a) depicted NH3-TPD proﬁles of NiMgAlO
+and 2%Cu-NiMgAlO catalysts. Similar to the NiMgAlO catalyst,
+two main peaks at 376 K and 984 K were observed for the 2%Cu-
+Z. Wang, M. Yin, J. Pang et al.
+Journal of Energy Chemistry 72 (2022) 306–317
+312
+Fig. 6. XPS spectra of (a) Ni 2p3/2 and (b) O 1s for NiMgAlO, 0.5%Cu-NiMgAlO, 2%Cu-NiMgAlO catalysts, and (c) Cu 2p and (d) Cu-LMM for 0.5%Cu-NiMgAlO, 2%Cu-NiMgAlO
+and CuMgAlO catalysts.
+Z. Wang, M. Yin, J. Pan
+
+e 2%Cu-
+Z. Wang, M. Yin, J. Pang et al.
+Journal of Energy Chemistry 72 (2022) 306–317
+312
+Fig. 6. XPS spectra of (a) Ni 2p3/2 and (b) O 1s for NiMgAlO, 0.5%Cu-NiMgAlO, 2%Cu-NiMgAlO catalysts, and (c) Cu 2p and (d) Cu-LMM for 0.5%Cu-NiMgAlO, 2%Cu-NiMgAlO
+and CuMgAlO catalysts.
+Z. Wang, M. Yin, J. Pang et al.
+Journal of Energy Chemistry 72 (2022) 306–317
+313
+NiMgAlO catalyst. According to the MS proﬁle in Fig. S7, the ﬁrst
+peak at ca. 376 K should be attributed to the NH3 desorption,
+and ascribed to weak acid sites. Compared with the NiMgAlO cat-
+alyst, the presence of Cu in the 2%Cu-NiMgAlO catalyst enlarged
+the acid amount from 371 lmol/g to 609 lmol/g. According to pyr-
+idine desorption experiments in Fig. S8 and Table S2, only Lewis
+acid sites were observed and the increased acid sites should be
+mainly attributed to the medium and strong Lewis acids [58]. Dif-
+ferently, Cu species had negligible inﬂuence on total base sites of
+NiMgAlO catalysts (56.4 lmol/g for the NiMgAlO catalyst vs
+51.5 lmol/g for the 2%Cu-NiMgAlO catalyst), but slightly increased
+the basicity strength, as evidenced by the increased CO2 desorption
+temperature in Fig. 9(b). This result is in good accordance with the
+elevated lattice oxygen species in Fig. 6(b).
+To depress side reactions of ethanol dehydration or decomposi-
+tion, suitable Lewis acid or base sites were constructed for
+acetaldehyde condensation in the conversion of ethanol to n-
+butanol [59]. Besides solo acid or base sites, acid-base pairs
+Fig. 7. (a) Normalized XANES spectra and (b) k3-weighted Fourier transform spectra from XAFS at the K-edge of Cu foil, Cu2O, CuO and 2%Cu-NiMgAlO catalysts.
+Fig. 8. (a) H2-TPR and (b) H2-TPD proﬁles of NiMgAlO and 2%Cu-NiMgAlO catalysts.
+Fig. 9. (a) NH3-TPD and (b) CO2-TPD proﬁles of NiMgAlO and 2%Cu-NiMgAlO catalysts.
+Z. Wang, M. Yin, J. Pang et al.
+Journal of Energy Chemistry 72 (2022) 306–317
+314
+demonstrated elevated activity in condensation reactions [60].
+Over the NiMgAlO catalyst, weak Le

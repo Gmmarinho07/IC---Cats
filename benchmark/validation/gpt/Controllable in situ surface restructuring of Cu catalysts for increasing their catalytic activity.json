@@ -1,0 +1,95 @@
+{
+    "paper": "Controllable in situ surface restructuring of Cu catalysts for increasing their catalytic activity",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "as exemplified by Cu/SiO2 catalyst in CH3CH2OH dehydrogenation to acetaldehyde (CH3CHO)",
+                "reason": "The catalyst Cu/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/SiO2",
+                "field": "article_identifiers",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "There are no explicit article identifiers associated with the catalyst Cu/SiO2 in the provided context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The extraction of Cu as a standalone catalyst is not explicitly supported; it is part of the Cu/SiO2 catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu",
+                "field": "article_identifiers",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "There are no explicit article identifiers associated with the metal Cu in the provided context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "we report a facile method for the surface restructuring of Cu catalysts",
+                "reason": "The metal Cu is explicitly identified in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "we report a facile method for the surface restructuring of Cu catalysts",
+                "reason": "The raw name Cu is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "article_identifiers",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "There are no explicit article identifiers associated with the metal Cu in the provided context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "SiO2",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the Cu/SiO2 sample was dispersed on the window membranes",
+                "reason": "The support SiO2 is explicitly identified in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "SiO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the Cu/SiO2 sample was dispersed on the window membranes",
+                "reason": "The raw name SiO2 is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "SiO2",
+                "field": "article_identifiers",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "There are no explicit article identifiers associated with the support SiO2 in the provided context."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 5,
+            "partial": 0,
+            "correct": 5
+        }
+    }
+}

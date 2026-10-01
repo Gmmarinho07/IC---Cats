@@ -1,0 +1,315 @@
+========== EXPERIMENTAL ==========
+
+Experimental
+2.1. Catalyst preparation
+The synthesis of the porous oxides involved the use of alumi-
+num tri-sec-butoxide (AlĲO-s-But)3) and magnesium nitrate or
+calcium nitrate. The assembly of the emulsified system oc-
+curred
+by
+the
+simultaneous
+utilization
+of
+n-dodecane,
+Pluronic P123 (block copolymer, 20 EO : 70 PO : 20 EO, Mw. of
+5826 g mol−1) and ethanol as solvent, where Pluronic P123
+and n-dodecane were the organic pore structure directing
+agents (PSDA).29,35
+The dispersion of the n-dodecane in ethanol occurred at
+room temperature. The final mole composition of the sol
+was: 0.01 Pluronic: 1 (AlĲO-s-But)3): 1 MgĲNO3)2 or CaĲNO3)2:
+15 ethanol. A 29 wt% solution of ammonium hydroxide was
+added dropwise under stirring to produce the sol–gel transi-
+tion (pH 10). The reference samples were prepared in the
+same procedure, though without addition of PSDA. The as-
+synthesized samples were calcined at 700 °C for 6 h under air
+flow to produce mixed oxides. For synthesis of Cu-doped cat-
+alysts, the mixed oxides were then dispersed in Milli-Q water,
+and tetraamminecopperĲII) sulfate monohydrate [CuĲNH3)4SO4
+·H2O, Sigma-Aldrich] was added to the suspension under con-
+tinuous mixing at room temperature. The pH was adjusted to
+9 through dropwise addition of dilute 2 mol L−1 nitric acid
+(Sigma-Aldrich). The mixture was aged for 20 h while being
+stirred at room temperature, and the solid material was then
+filtered and washed with deionized water. The sample was
+dried overnight at 110 °C in air. The dried catalyst was
+pretreated in a flow-through cell at a temperature of 500 °C
+(with a heating rate of 1 °C min−1) under a helium flow
+(30 mL min−1) for 3 h, followed by air flow, switched to He
+for 20 min, reduced under hydrogen flow, and finally passi-
+vated at room temperature with 1% O2 in He. AlMgO and
+AlCaO catalysts were prepared with and without an emulsion,
+with the former denoted by “-P” to imply the added porosity.
+All catalysts were examined for catalytic activity wi
+
+tched to He
+for 20 min, reduced under hydrogen flow, and finally passi-
+vated at room temperature with 1% O2 in He. AlMgO and
+AlCaO catalysts were prepared with and without an emulsion,
+with the former denoted by “-P” to imply the added porosity.
+All catalysts were examined for catalytic activity with and
+without the addition of Cu.
+2.2. Methods for the characterization of structure of oxides
+Nitrogen adsorption–desorption isotherms were recorded at
+−195 °C and P/P0 ranging between 0.001 and 0.998, using a
+Micromeritics ASAP 2020 instrument. Samples were degassed
+prior to analysis at 200 °C for 6 h under a vacuum of 10 μPa.
+The specific surface area was calculated according to the BET
+equation39 and the pore size distribution was determined
+using the BJH equation.
+The thermal behavior of the AlMgO and AlCaO samples,
+calcined and exposed to atmospheric environment, was in-
+vestigated by thermogravimetric analysis, performed from
+room temperature up to 900 °C under air flow (50 mL min−1),
+by using a SDT600 TA Instruments at a heating rate of
+10 °C min−1.
+Scanning transmission electron microscopy (STEM) was
+performed using a FEI Titan STEM instrument with a Cs
+probe aberration corrector operated at 200 kV with a spatial
+resolution of <0.1 nm. A high-angle annular dark-field
+(HAADF) mode with a HAADF detector angle ranging from 54
+to 270 mrad, a probe convergence angle of 24.5 mrad, and a
+probe current of approximately 25 pA was used to record the
+images. Catalyst samples were suspended in ethanol and
+then dropped on a holey carbon Au TEM grid. Samples were
+plasma cleaned before being loaded into the microscope. Par-
+ticle sizes were calculated based on a minimum of 800 parti-
+cles for each sample.
+The Cu loading of catalysts were determined with induc-
+tively coupled plasma absorption emission spectroscopy (ICP-
+AES) using a PerkinElmer Plasma 400 ICP emission spectro-
+meter. Typically, 20 mg catalyst samples were digested with a
+Catalysis Science & Technology
+Paper
+Pu
+
+
+========== RESULTS ==========
+
+versus Lewis acid sites on
+Cu catalysts were determined via pyridine FTIR analyses in
+the range of 1350–1650 cm−1 (Fig. 3). The absence of a band
+near 1540 cm−1 indicative of pyridinium cations (PyH+) re-
+flects the lack of Brønsted acid sites (B), while a band cen-
+tered at 1450 cm−1 – corresponding to pyridine chemisorbed
+on Lewis acid sites (L) – was clearly observed. The ratio of
+Brønsted sites to total acid sites (T) was found to be close to
+zero for all catalysts, indicating that only Lewis acidity is
+present. A physisorbed pyridine band is observed for AlCaO
+catalysts, which is a result of the overall low acidity of these
+catalysts as supported by NH3-TPD measurements. These re-
+sults are in agreement with those of Lercher and Prescott
+et al.43,44 who observed only Lewis acidity on Al2O3–MgO
+catalysts.
+3.2. Catalytic performance in high-pressure Guerbet coupling
+of ethanol
+Ethanol conversion over mixed-metal oxides doped with tran-
+sition metals produces various species through a variety of
+Table 1
+BET area, Cu loading, Cu particle size, Cu0 site density, and distribution of strengths of surface acid and basic sites
+Sample
+BET area (m2 g−1)
+Cu loadinga (%)
+Cu particle sizeb (nm)
+Cu0 sitesc (μmol g−1)
+Total NH3
+d (μmol g−1)
+Total CO2
+e (μmol g−1)
+Cu/AlMgO
+106
+8.0
+3.7
+67
+92.9
+115
+Cu/AlMgO-P
+171
+8.0
+2.1
+91
+106
+78.6
+Cu/AlCaO
+102
+9.0
+2.6
+118
+10.1
+52.4
+Cu/AlCaO-P
+120
+9.6
+3.1
+140
+12.5
+49.7
+AlMgO
+191
+—
+—
+76.9
+192
+AlMgO-P
+315
+—
+—
+85.6
+238
+AlCaO
+133
+—
+—
+—f
+43.8
+AlCaO-P
+202
+—
+—
+4.0
+46.9
+a Cu loading determined by ICP. b Cu particle sizes obtained from STEM. c Metallic copper sites quantified by N2O chemisorption. d Acid sites
+quantified from NH3-TPD profiles. e Base sites quantified with CO2-TPD profiles. f Without significant acidity.
+Fig. 2
+Transmission electron microscopy images and particle size
+distributions.
+Fig. 3
+IR spectra of adsorbed pyridine on Cu catalysts.
+Catalysis Science & Technology
+Paper
+Published on 02 April 2019. Downloaded by Universidad Autonoma de
+
+he activity was not sufficient to achieve
+equilibrium under most conditions.
+Based on these findings, the catalysts synthesized in this
+study were compared in a H2 environment at 32 bar total
+pressure. Stable performance was observed for all catalysts
+between 10 and 30 h time-on-stream (TOS). Conversions and
+selectivities for Cu-doped catalysts are reported in Fig. 6.
+Cu/AlMgO and Cu/AlMgO-P showed similar activities with
+conversions of 19.7 and 23.3%, respectively. These catalysts
+were more active than their Ca counterparts with conversions
+of 8.7 and 8.4% for Cu/AlCaO for Cu/AlCaO-P, respectively. At
+these conditions, Cu/AlMgO and Cu/AlMgO-P were also more
+selective to desired condensation products (54.8 and 48.8%,
+respectively)
+than
+Cu/AlCaO
+and
+Cu/AlCaO-P
+(21.8
+and
+23.5%, respectively). The Ca catalysts were more selective to
+acetaldehyde at these conditions, though the acetaldehyde
+yield was similar for all catalysts. As noted earlier, acetalde-
+hyde is produced at nearly equilibrium levels on these cata-
+lysts, thus it may be more informative to compare product se-
+lectivities with the omission of acetaldehyde. In this case, Mg
+catalysts remain more selective to C4+ aldehydes and alcohols
+than the Ca catalysts with adjusted selectivities of 62.5% and
+54.0% for Cu/AlMgO and Cu/AlMgO-P, respectively, versus
+35.7% and 38.5% for Cu/AlCaO and Cu/AlCaO-P, respectively.
+These comparisons are notably made at different conver-
+sions, though it is unlikely that Ca catalysts will show im-
+proved adjusted selectivities upon increasing conversion.
+In the absence of Cu, lower activities were observed with
+AlMgO and AlMgO-P achieving only 7.1 and 11.1% conver-
+sion, respectively and AlCaO and AlCaO-P demonstrating
+essentially no activity with ∼0.2% conversion (Fig. S3†). The
+particularly low activities of the Cu-free Ca catalysts are con-
+sistent with their low numbers of acid and base sites com-
+pared to the Mg catalysts, as measured by TPD. Upon Cu
+addition, the acetaldehy
+
+nd AlCaO and AlCaO-P demonstrating
+essentially no activity with ∼0.2% conversion (Fig. S3†). The
+particularly low activities of the Cu-free Ca catalysts are con-
+sistent with their low numbers of acid and base sites com-
+pared to the Mg catalysts, as measured by TPD. Upon Cu
+addition, the acetaldehyde yield increased by 10–15 times
+for the Mg catalysts and 70–75 times for the Ca catalysts,
+consistent with the observation by Gines et al. that ethanol
+dehydrogenation rate over K–Mg5CeOx at atmospheric pres-
+sure increased by nearly two orders of magnitude upon ad-
+dition of 7 wt% Cu, allowing for equilibration to occur at
+longer contact times.18 The desired product yield also in-
+creased by 2–5 times for the Mg catalysts and 14–30 times
+for the Ca catalysts upon Cu addition. These increases may
+be due to either (1) the increase in acetaldehyde pressures
+resulting from Cu-catalyzed ethanol dehydrogenation, (2)
+the addition of sites which enable H-transfer between the
+support and the gas-phase, or (3) the addition of Cu sites
+capable of catalyzing condensation reactions independently
+from the support. The first would be true if aldolization is a
+key condensation pathway. The second has notably been
+proposed by Gines et al. to explain the improved condensa-
+tion rates with Cu addition to K–Mg5CeOx at atmospheric
+pressure with an inert co-feed gas.18 The third has been
+noted to occur over Cu, though it is typically observed
+alongside significant esterification.25 The role that Cu plays
+is dependent on the mechanism of alcohol condensation,
+which has been debated in the literature. The two general
+mechanisms proposed for alcohol condensation on hete-
+rogeneous
+catalysts
+are
+the
+Guerbet
+coupling
+reaction,
+which formally involves aldolization with aldehyde interme-
+diates, and direct alcohol condensation, wherein aldehydes
+do not serve as key intermediates. The relevance of aldoliza-
+tion has been challenged by Meunier et al. who showed
+Fig. 6
+Conversion and selectivities to
+
+ pro-
+duced via n-butanol dehydrogenation, thus the butyralde-
+hyde : n-butanol ratio must be less than or equal to the equi-
+librium ratio (estimated to be 0.034 at these conditions).
+The calculated ratio is higher than this for all catalysts (be-
+tween 0.037 and 0.071), however, thus an alternate conden-
+sation mechanism must be present to explain butyraldehyde
+formation. Additionally, the improved condensation yields
+measured upon Cu addition are more mechanistically con-
+sistent with promotion of an aldehyde-mediated route than
+a direct condensation route. The possibility that both direct
+and indirect condensation mechanisms are active cannot be
+discounted,
+however,
+especially
+for
+Cu/AlMgO
+catalysts.
+Given that AlCaO and AlCaO-P are essentially inactive before
+Cu addition, the indirect route is also most likely dominant
+for Cu/AlCaO catalysts.
+Other than acetaldehyde, the main side-products ob-
+served with Cu-doped catalysts were ethylene/ethane (EtEn/
+An, 8.5–11.0% selectivity), C4+ alkenes/alkanes (C4+ AlkEn/
+An, 0.9–12.1%), diethyl ether (DEE, 3.4–11.2%), and ethyl
+acetate (EtOAc, 2.3–5.6%). In the absence of Cu, diethyl
+ether is the dominant side-product on Mg catalysts with
+∼50% selectivity. The higher yield of diethyl ether versus
+ethylene has been commonly observed over AlMgxOy cata-
+lysts.26,53 Diethyl ether production on Mg catalysts is greatly
+inhibited upon Cu addition, thus dispersed Cu particles
+may cover sites which promote intramolecular dehydration.
+Another possibility is that new sites are formed upon Cu ad-
+dition which promote dehydration of diethyl ether to ethyl-
+ene, since the yield to ethylene and ethane increase upon
+Cu addition (with the latter forming via ethylene hydrogena-
+tion). Both possibilities are consistent with the simulta-
+neous
+decrease
+in
+basicity
+(thought
+to
+catalyst
+inter-
+molecular dehydration) and increase in acidity (thought to
+catalyze intramolecular dehydration) upon Cu addition to
+Mg catalysts, as measured by TPD.26

@@ -1,0 +1,170 @@
+========== EXPERIMENTAL ==========
+
+experimental and computational tools revealed that replacing Ag with Cu 
+shifts the reaction pathway of crotonaldehyde hydrogenation from 1,3-butadiene (i.e., coke precursor) pro­
+duction to butyraldehyde formation. Experiments conducted with 4%Cu/4%ZrO2 supported on SBA-16, deal­
+uminated zeolite Beta, and aluminum silicate revealed the performance and stability advantage of the SBA-16- 
+supported catalyst. 
+1.
+
+
+========== RESULTS ==========
+
+ported by ZrO2 and SiO2, engendering greater Lewis acidity in the 
+Cu/ZrO2/SiO2 catalyst compared with the Ag/ZrO2/SiO2 catalyst. This 
+greater Lewis acidity has a strong impact on the observed bifurcation 
+point within the ethanol upgrading mechanism. The Ag catalyst presents 
+no Zr sites that are not hydroxylated, while the Cu does. This func­
+tionality change will greatly determine which type of intermediates are 
+produced during reaction and may help explain the improved selectivity 
+Fig. 1. Simplified reaction pathway for direct conversion of ethanol to n-butene rich olefins. Side reactions are not included. 
+Fig. 2. Evolution of the selectivities to the main products and intermediates for direct ethanol conversion to n-butene rich olefins over 4%Cu/4%ZrO2/SBA-16. 
+T = 400 ◦C, P = 7 bar, WHSV = 0.7–53 hr−1, 2 moles ethanol fed per gram catalyst, and comparison with 4%Ag/4%ZrO2/SBA-16 (inset) from previous work [26]. 
+V.L. Dagle et al. 
+Applied Catalysis B: Environmental 331 (2023) 122707
+5
+toward acetaldehyde and butyraldehyde as C––C bonds are preferen­
+tially attacked by the Cu catalyst instead of C––O bonds. 
+The same models also were used to understand how both croto­
+naldehyde and ethanol prefer to bind to each catalyst. As shown in 
+Table S1 both ethanol and crotonaldehyde bind the strongest to ZrO2 for 
+both catalyst systems. However, crotonaldehyde binds much stronger 
+than ethanol (by 49 and 58 kJ/mol for the Cu and Ag catalysts, 
+respectively), which suggests that it will outcompete ethanol for these 
+sites whenever formed. With the Cu/ZrO2/SiO2 catalyst ethanol binds 
+relatively strongly to all sites. However, with the Ag/ZrO2/SiO2 catalyst 
+ethanol binds most favorably to ZrO2 and only weakly (or not at all) to 
+the Ag and Ag-ZrO2 interface sites. This suggests that the H* available to 
+reduce crotonaldehyde to either crotyl alcohol or butyraldehyde (see 
+reaction pathway in Fig. 1) is vastly different between the two catalysts. 
+With crotonaldehyde
+
+les in the 3–5 nm range 
+size, indicating that Cu particles sinter during reaction. This can explain 
+the slight decrease of conversion observed for 4%Cu/4%ZrO2/SBA-16 in 
+Fig. 6 (right). Furthermore, the average particle size reported in Table 1 
+increases by 27–30% after 100 h on stream for both catalysts indicating 
+that the sintering rate is similar for both metals. 
+Thus, the higher deactivation rate for 4%Ag/4%ZrO2/SBA-16 
+compared to 4%Cu/4%ZrO2/SBA-16 cannot be solely attributed to 
+greater sintering. Total carbon analysis results presented in Table 1 
+indicate that carbon deposition (i.e., coke) is about three times higher 
+for the spent 4%Ag/4%ZrO2/SBA-16 catalyst compared to the spent 4% 
+Cu/4%ZrO2/SBA-16. The larger coke deposition for the Ag catalysts 
+leads to a plugging of the catalyst’s pores as evidenced by the drastic 
+decrease in BET surface making the active sites inaccessible and leading 
+to faster deactivation. The high carbon deposition observed for 4%Ag/ 
+4%ZrO2/SBA-16 is attributed to the high selectivity toward 1,3-buta­
+diene, which indeed polymerizes quite easily. Hence, 4%Cu/4%ZrO2/ 
+SBA-16 presents the advantage of facilitating the butyraldehyde 
+pathway limiting deactivation due to coking as compared to 4%Ag/4% 
+ZrO2/SBA-16. 
+Given that 4%Ag/4%ZrO2/SBA-16 catalyst deactivation is in part 
+due to partial change of oxidation of the metal from Ag0 to Ag+ state 
+[45], XPS was performed for the 4%Cu/4%ZrO2/SBA-16 system. The 
+spectra recorded for the reduced catalyst and the spent catalyst (from 
+Fig. 6) are presented in Fig. 9. 
+We used the modified Auger parameter (MAP) to follow systematic 
+changes in the final state effects without interference of surface 
+charging. By considering the Cu 2p3/2 BE, the Cu L3M45M45 Auger 
+Fig. 7. STEM images for the reduced and spent 4%Ag/4%ZrO2/SBA-16 and 4%Cu/4%ZrO2/SBA-16. Spent catalysts from activity data presented in Fig. 4. 
+V.L. Dagle et al. 
+Applied Catalysis B: Environmental 331 (2023) 122707
+8
+
+
+he reaction 
+may be structure sensitive. Lower Cu loading (i.e., < 4%) could favor to 
+some extent the butene production from the crotyl alcohol/ butadiene 
+pathway shown in Fig. 1. 
+Recently, we showed for ethanol upgrading over Ag/ZrO2/SBA-16 
+catalysts, that switching from an inert to a reducing environment led to 
+the formation of n-butene as opposed to butadiene. Thus, catalysts 
+active for butadiene production could potentially be active for n-butene 
+production under reducing conditions. In a recent study relevant to 
+butadiene production catalysts supported on dealuminated zeolite Beta 
+showed promising activity [52]. Hence, we investigated the impact of 
+the support on the catalytic performance for 4%Cu/4%ZrO2 catalysts 
+supported on three SiO2-based support including SBA-16, dealuminated 
+zeolite Beta, and aluminum silicate. As reported in Table 2, the catalyst 
+supported on SBA-16 presents the highest ethanol conversion (86%), 
+Fig. 8. Particle size distribution for the reduced and spent 4%Ag/4%ZrO2/SBA-16 (left) and 4%Cu/4%ZrO2/SBA-16 (right) estimated from STEM images. The spent 
+catalysts are from activity data presented in Fig. 4. 
+Table 1 
+Carbon content, BET surface and average particle size for the fresh and spent 4% 
+Ag/4%ZrO2/SBA-16 and 4%Cu/4%ZrO2/SBA-16 (from reactivity data pre­
+sented in Fig. 6) and for %Cu/4%ZrO2/dealuminated zeolite Beta (from reac­
+tivity data presented in Fig. 11). 
+Catalyst 
+Carbon 
+content (%) 
+BET surface 
+(m2/g) 
+Average 
+particle 
+size 
+(nm), 
+TEM 
+Fresh 4%Ag/4%ZrO2/SBA-16 
+0.03 
+528 
+2.7 
+Spent 4%Ag/4%ZrO2/SBA-16 
+8.61 
+399 
+3.5 
+Fresh 4%Cu/4%ZrO2/SBA-16 
+0.02 
+526 
+2.2 
+Spent 4%Cu/4%ZrO2/SBA-16 
+2.98 
+497 
+2.8 
+Fresh 4%Cu/4%ZrO2/ 
+Dealuminated zeolite Beta 
+0.02 
+510 
+10.4 
+Spent 4%Cu/4%ZrO2/ 
+Dealuminated zeolite Beta 
+16.61 
+154 
+11.0 
+V.L. Dagle et al. 
+Applied Catalysis B: Environmental 331 (2023) 122707
+9
+and the one supported on dealuminated zeolite Beta presents the lowest 
+ethanol conversion (i.e., 60.8%). 
+
+fter 23 h on stream to 52% after 120 h on 
+stream. 
+This is attributed to accelerated coking limiting access to the active 
+sites. As shown in Table 1, for 4%Cu/4%ZrO2/dealuminated zeolite Beta 
+carbon deposit is 5.5 times higher compared to 4%Cu/4%ZrO2/SBA-16. 
+The rapid coking is attributed to butadiene polymerization because the 
+butadiene selectivity shown in Fig. 11 (c) increases with TOS over 4% 
+Cu/4%ZrO2/dealuminated zeolite Beta while no butadiene is detected 
+over 4%Cu/4%ZrO2/SBA-16. Additionally, the desired olefin selectivity 
+presented in Fig. 11(b) decreases significantly with TOS only for 4%Cu/ 
+4%ZrO2/dealuminated zeolite Beta and is equal to 52.4% for a TOS 
+= 120 h. This is mainly due to an increase in acetaldehyde and DEE 
+Fig. 9. XPS spectra recorded for the 4%Cu/4%ZrO2/SBA-16 after reduction under 10%H2/N2 and prior to reaction (left) and for the spent 4%Cu/4%ZrO2/SBA-16 
+after reaction from the results presented in Fig. 4 (right). 
+Fig. 10. Impact of the Cu loading on the conversion (left) at WHSVethanol = 1.8 hr−1 and on the selectivities to olefins, alkanes and butadiene (right) at similar 
+conversion equal to 90–96%. Temperature = 400 ◦C, P = 7 bar. 
+V.L. Dagle et al. 
+Applied Catalysis B: Environmental 331 (2023) 122707
+10
+selectivities both shown in Fig. 11(d). Hence, 4%Cu/4%ZrO2/SBA-16 
+catalyst presents both selectivity and stability advantage compared to 
+4%Cu/4%ZrO2/dealuminated zeolite Beta. 
+3.4. Impact of the environment (H2/ N2 ratio) on the conversion and 
+selectivity 
+Previously, for 4Ag/4ZrO2/SBA-16 catalyst, we demonstrated that 
+switching from a N2 environment to an H2 environment significantly 
+increases the olefin selectivity from 37.8% to 80.8% because H2 facili­
+tates hydrogenation of butadiene, which is the main reaction interme­
+diate. Given that the main reaction intermediate involved in the 
+formation of n-butene is butyraldehyde as opposed to butadiene for the 
+supported Cu catalysts, the impact of the H2/N2 can have

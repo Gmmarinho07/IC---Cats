@@ -1,0 +1,223 @@
+========== ABSTRACT ==========
+
+ABSTRACT: The present study investigates the catalytic upgrad-
+ing of bioethanol to higher-value chemicals through heterogeneous
+catalysis, with a focus on the production of 1-butanol as a versatile
+compound widely used in many applications. Copper-impregnated
+Li-Al mixed metal oxides were synthesized and characterized as
+catalysts for ethanol transformation. Comprehensive character-
+ization techniques were involved to correlate catalyst properties
+with their performance and describe catalyst stability. The catalysts
+showed promising activity in the formation of higher alcohols under
+a high weight hourly space velocity (WHSV) and pressure.
+Theoretical calculations were incorporated into the study to
+describe the feasibility of individual steps in the Guerbet reaction
+with main side reactions involved and to supplement information
+regarding the influence of the catalyst itself. The temperature effects on the reactions were illustrated. In this way, we attempted to
+explain the role of the catalyst in the reaction pathways, contributing to a more precise tuning of the catalytic system.
+1.
+
+
+========== EXPERIMENTAL ==========
+
+Tables29
+(based on highly precise experimental measurements with
+uncertainties not exceeding 0.4 kJ mol−1). The results validated
+the applicability of the chosen computational methodology
+(Table S1).
+2.4. Catalytic Tests. The catalytic tests were carried out in
+a microreactor (Multireactor catalyst testing unit, Vinci
+Technologies, France). 1.5 g of catalysts were mixed with
+inert silicon carbide to ensure a constant volume of the catalyst
+bed. Coarser silicon carbide was also used to secure the main
+catalyst bed in the reactor. The catalyst was activated in a
+stream of hydrogen (10 dm3 h−1) at 773 K and 1.5 MPa for 5
+h. The reaction was started after activation by introducing the
+catalyst to 6.75 g h−1 of ethanol in a flow of N2 (WHSV = 4.5
+h−1), at 10 MPa pressure and 573 K. Note: the WHSV is
+defined as the flow of reactant divided by the catalyst mass.
+This reaction temperature was maintained for 38 h, after which
+the reaction temperature was changed in the following
+sequence: 573, 623, and 673 K (heating rate 30 K h−1).
+Each temperature from this sequence was held for 32 h.
+Samples (liquid and gas) of the reaction mixture were taken
+every 4 h.
+The composition of the reaction mixture (liquid and gas
+phases) was studied by gas chromatography. The liquid phase
+was analyzed by the gas chromatograph with flame ionization
+(GC-FID Shimadzu GC-2010; Lion LN-624 GC 30 m × 0.25
+mm × 1.4 μm). Analysis of the gas phase was conducted also
+by the gas chromatograph (GC-Agilent 7890 A, Agilent
+Technologies, INC) equipped with three detectors: two
+Table 1. Properties of Cu/Li-Al Mixed Metal Oxide Catalysts
+(Cu:Al)surfa
+(O:Al)surfa
+SBET,
+m2 g−1
+pore volume,
+cm3 g−1
+CBS,
+μmol g−1
+CAS,
+μmol g−1
+H2 consumptionb, cm3 g−1
+nomenclature
+Cu,
+wt %
+molar ratio
+Cu:Li:Al
+F/Sc
+F/S
+F/S
+F/S
+F/S
+F/S
+F/S
+Cu_0.5
+0.52
+0.005:0.43:1
+0.04/0.01
+1.90/1.97
+119/114
+0.619/0.590
+341/153
+404/206
+1.77(1.93)/0.99(1.08)
+Cu_5.0
+5.06
+0.05:0.42:1
+0.08/0.07
+2.11/2.69
+100/97
+0.588/0.571
+283/179
+336/161
+12.64(1.42)/1
+
+mol g−1
+H2 consumptionb, cm3 g−1
+nomenclature
+Cu,
+wt %
+molar ratio
+Cu:Li:Al
+F/Sc
+F/S
+F/S
+F/S
+F/S
+F/S
+F/S
+Cu_0.5
+0.52
+0.005:0.43:1
+0.04/0.01
+1.90/1.97
+119/114
+0.619/0.590
+341/153
+404/206
+1.77(1.93)/0.99(1.08)
+Cu_5.0
+5.06
+0.05:0.42:1
+0.08/0.07
+2.11/2.69
+100/97
+0.588/0.571
+283/179
+336/161
+12.64(1.42)/14.06(1.58)
+Cu_10.0
+10.58
+0.10:0.41:1
+0.19/0.10
+2.08/2.69
+90/91
+0.431/0.430
+215/139
+277/123
+31.01(1.66)/27.65(1.48)
+aFrom EDX analysis. bThe number in the parenthesis is the average change of the copper oxidation number. cF/S denotes fresh and spent catalyst
+forms.
+Figure 1. X-ray diffraction patterns of Cu_0.5, Cu_5.0, and Cu_10.0: (A) fresh and (B) spent catalysts
+ACS Omega
+http://pubs.acs.org/journal/acsodf
+Article
+https://doi.org/10.1021/acsomega.5c05882
+ACS Omega 2025, 10, 61308−61321
+61310
+thermal conductivity detectors to detect permanent gases (for
+example, hydrogen) and one flame ionization detector for the
+detection of hydrocarbons.
+The ethanol conversion was calculated by the formula
+X
+n
+n
+n
+100 (%)
+EtOH
+EtOH,feed
+EtOH,output
+EtOH,feed
+=
+·
+The selectivity of product (i) was calculated by the formula
+S
+n
+n
+n
+100 (%)
+i
+i
+i
+,output
+EtOH,feed
+EtOH,output
+EtOH
+=
+·
+·
+In the formulas, nEtOH and ni denote the molar amounts of
+ethanol and the ith product, respectively, and vEtOH and vi
+denote the stoichiometric coefficient of ethanol and the ith
+product, respectively.
+3. RESULTS AND DISCUSSION
+3.1. Catalyst Characterization. The following chapters
+are focused on the characterization of catalysts used for the
+Guerbet reaction in their fresh (before the reaction) and spent
+(after the reaction) forms. The observed properties will be
+used for the correlation with catalytic results for a deeper
+understanding of the catalyst performance.
+3.1.1. ICP-MS. The chemical composition of Li-Al mixed
+metal oxides impregnated with copper was investigated using
+ICP-MS analyzing the weight percentage of metals (Table 1).
+The molar ratio of Li:Al detected in the range 0.43:1 to 0.41:1
+corr
+
+
+========== RESULTS ==========
+
+results.17 In such catalysts,
+transition metals act as the active phase in dehydrogenation
+steps and the oxide support acts as the active phase in aldol
+condensation and dehydration. With Mg-Al mixed oxide
+systems approaching their performance limits, attention has
+shifted to alternative compositions such as Li-Al mixed oxides,
+which exhibit structural features with additional potential for
+modification.18 In particular, Cu/Li-Al catalysts relate to the
+potentially higher density of strong basic sites, and according
+to our previous results,7,19,20 lower Cu loading is needed to
+obtain comparable ethanol conversions to Cu/Mg-Al at the
+same catalytic conditions.
+Research on the Guerbet reaction has progressed signifi-
+cantly, and a wide range of catalytic results have been reported,
+which are primarily attributed to the catalyst structure.
+However, different reaction conditions have been used, making
+a direct comparison of catalysts rather difficult. The question
+arises why side reactions occur and what is their feasibility and
+how are the individual steps of the Guerbet reaction and the
+side reactions affected by the temperature. Here, theoretical
+calculations are implemented to gather insight into the
+individual steps in the Guerbet reaction and main side
+reactions in terms of thermodynamics. The

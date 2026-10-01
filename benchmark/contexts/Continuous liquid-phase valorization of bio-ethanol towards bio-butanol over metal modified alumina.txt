@@ -1,0 +1,93 @@
+========== EXPERIMENTAL ==========
+
+as been presented by Coville et al. [22] yielding 1-
+butanol up to 20% and Davis et al. [23] with the selectivity of 34%
+towards 1-butanol.
+3.2. Catalyst characterization results
+The evaluation of the physico-chemical catalyst tested was
+carried out by several characterization techniques. XRD and TEM
+micrographs of the Ni-19 catalyst are presented in Fig. 5 which
+provides information about the structure and particle size. The
+presence of NiO was conﬁrmed whereas the remaining metallic
+nickel is the obvious reason for the formation of gaseous products.
+However, upon comparison of the XRD of the commercial HTC-500
+catalyst to our measurements performed earlier [33], some de-
+viations can be noticed. HTC-500 catalyst indicates sharper dif-
+fractions, which can be explained by a different alumina support.
+Further investigations were carried out over the cobalt (Co-16)
+catalyst (Fig. 6) to reveal its totally different product proﬁle (ethyl
+acetate formation). XRD results show that the cobalt catalyst
+Fig. 3. Long-term conversion proﬁles of bio-ethanol over commercial HTC-500, Co-16,
+Ni-19, Cu-4.5 and Cu-1.8 catalysts. Points correspond sampling and the straight lines
+are averages.
+T. Riittonen et al. / Renewable Energy 74 (2015) 369e378
+372
+Fig. 4. Selectivity to main products 1-butanol, ethyl acetate and acetaldehyde over Ni-19, HTC-500, Co-16, Cu-1.8 and Cu-4.5 catalysts.
+Fig. 5. X-ray diffraction patterns and transmission electron micrograph for Ni-19 catalyst (Ni 13.7 ± 0.2 nm; NiO 5.2 ± 0.7 nm).
+T. Riittonen et al. / Renewable Energy 74 (2015) 369e378
+373
+constitutes of a Co3O4 spinel [32] crystallite structure and, addi-
+tionally, the peak proﬁle is sharper in comparison to the Ni-19
+catalyst indicating larger crystals in the specimen. Consequently,
+there seems to be different kind of interactions between the metal
+and the support that is the underlying reason to the different
+product composition which will be presented later.
+Further evidence is provided by copper
+
+ to the Ni-19
+catalyst indicating larger crystals in the specimen. Consequently,
+there seems to be different kind of interactions between the metal
+and the support that is the underlying reason to the different
+product composition which will be presented later.
+Further evidence is provided by copper catalysts. For the low wt-
+% Cu-1.8 (Fig. 7) catalyst, only diffuse X-ray scattering was observed
+e if any e whereas the high wt-% Cu-4.5 (Fig. 8) gives rise to
+relatively sharp CuO-peaks. As illustrated in Fig. 4, higher loading of
+copper results in an increased ethyl acetate selectivity and reduced
+1-butanol formation.
+XPS measurements of different catalysts were performed to
+reveal the chemical states (or speciation) of metals and to correlate
+them with the catalytic results (Fig. 9).
+Nickel catalysts depict rather similar spectra with the only one
+exception being the double peak on the home-made Ni-19 catalyst.
+Analysis of the binding energy values (Table 3) and a comparison
+with existing literature data [28e43] results in the interesting ob-
+servations. The peak at 856.3 eV corresponds to a nickel aluminate
+structure with octahedrally coordinated Ni2þ cations, these being
+the principal reason for the XRD peak broadening. By comparing
+the XPS signal (856.3 eV) of both nickel catalysts, it can be proposed
+that the laboratory-prepared catalyst provides more octahedrally
+coordinated Ni2þ aluminate structures responsible for the higher
+ethanol conversion. The observation is based on higher intensity of
+the laboratory-prepared nickel catalyst at 856.3 eV corresponding
+octahedral nickel aluminate coordination. Additionally, based on
+the literature [28e43], nickel is known to prefer tetrahedral coor-
+dination in lower nickel content alumina catalysts. Surprisingly,
+Fig. 6. Characterization of Co-16 (Co3O4 10.0 ± 2.6 nm) using X-ray powder diffraction and Transmission electron microscopy.
+Fig. 7. Characterization of Cu-1.8 catalyst using X-ray powder diffraction (no reﬂectio
+
+
+========== RESULTS ==========
+
+Results and discussion
+3.1. Evaluation of catalytic properties of Co-, Ni- and Cu-modiﬁed
+alumina for valorization of bio-ethanol to bio-butanol
+Based on extensive screening among different metal loadings as
+well as calcination and reduction temperatures, the best metals
+with corresponding loadings are presented here. The model cata-
+lyst (HTC-500, 20.7 wt-% Ni/Al2O3, Crossﬁeld) presented before [33]
+was included for comparison with self-prepared alumina catalysts
+from prescreening results [33]. As a result of extensive screening,
+the three metals presented here were found to be the best metals
+when aiming at producing 1-butanol (Cu, Ni) or ethyl acetate (Co).
+The evaluation of the three most promising metals (Table 1) was
+carried out by varying the metal loading and calcination (Cu) or
+reduction temperature (Ni, Co). The optimized copper loadings
+used were at 1.8- and 4.5 wt-%, respectively (marked as Cu-1.8 and
+Cu-4.5), cobalt at 16 wt-% (Co-16) and nickel at 19 wt-% (Ni-19). The
+targeted and measured metal amounts are reported in Table 2.
+Based on our observations, the optimal calcination temperature
+for copper catalysts was in the range of 400 C, whereas for cobalt
+and nickel, the suitable reduction temperature was 500 C. Inter-
+estingly, a shift to 100 C higher or lower calcination temperature
+Fig. 1. Flowsheet of the

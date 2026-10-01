@@ -1,0 +1,26 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Hydroxyapatite",
+                "raw_name": "HAp",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium-deficient hydroxyapatite",
+                "raw_name": "calcium-deficient hydroxyapatite",
+                "article_identifiers": [
+                    "CDHAp"
+                ]
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "alumina",
+            "raw_name": "alumina SEM support",
+            "article_identifiers": []
+        }
+    }
+}

@@ -26,13 +26,13 @@
     "metal_support": {
         "metal": [
             {
-                "name": "Ru",
+                "name": "Ruthenium",
                 "raw_name": "Ru",
                 "article_identifiers": []
             }
         ],
         "support": {
-            "name": "MgO",
+            "name": "Magnesium oxide",
             "raw_name": "MgO",
             "article_identifiers": []
         }

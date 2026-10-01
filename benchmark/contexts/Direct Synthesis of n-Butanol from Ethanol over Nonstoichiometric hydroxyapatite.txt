@@ -1,0 +1,109 @@
+========== EXPERIMENTAL ==========
+
+temperatures are shown.
+Nonstoichiometric HAP (Ca/P ratio 1.61) exhibited the highest
+n-butanol yield at 19.8%, followed by hydrotalcite at 12.2%,
+Mg(OH)2 (particle size: 0.07 µm) at 9.0%, and CaF2 at 5.2%.
+While n-butanol was formed on catalysts with OH groups and
+ethanol conversion (%) ) (1 - C mol of unreacted ethanol/
+C mol of total outlet gases) × 100
+product yield (%) )
+(C mol of product/C mol of total outlet gases) × 100
+product selectivity (%) )
+(C mol of product/C mol of reacted ethanol) × 100
+Ind. Eng. Chem. Res., Vol. 45, No. 25, 2006
+8635
+the basic oxides, it was not formed on Mg3(PO4)2‚8H2O, Li3PO4,
+talc, kaolin, or AlPO4.
+Relation between Ca/P Ratio of HAP Catalysts and
+Reaction Products. The effect of the HAP catalyst’s Ca/P ratio
+on ethanol conversion is shown in Figure 1, under the following
+conditions: feed gas, 20 vol % ethanol/He; gas space velocity,
+10 000 L/h; catalyst volume, 0.6 mL; reaction temperature, 400
+°C. HAP catalyst with a low Ca/P ratio of 1.52 converted ethanol
+to ethylene with 80% selectivity by dehydration. This result
+agreed with that of Monma.35 However, HAP catalysts with
+low Ca/P ratios also produced a small amount of acetaldehyde,
+which is not synthesized on solid acid catalysts such as Al2O3
+or zeolite. We postulated that HAP catalysts with low Ca/P ratios
+have both a large number of acid sites and a small number of
+base sites and that HAP with predominantly acid sites functions
+as a dehydration catalyst:
+Our experiments also showed that ethanol is dimerized to
+diethyl ether on HAP catalysts with low Ca/P ratios at low
+temperatures (data not shownsrefer to Table 2), which supports
+the hypothesis that these catalysts contain a large number of
+acid sites:
+On the other hand, HAP catalysts with higher Ca/P ratios, closer
+to stoichiometry, produced n-butanol with the highest selectivity
+among the products and acetaldehyde with next highest selectiv-
+ity. In the case of acetaldehyde, selectivity was highest (24.9%)
+at a Ca/P rati
+
+ge number of
+acid sites:
+On the other hand, HAP catalysts with higher Ca/P ratios, closer
+to stoichiometry, produced n-butanol with the highest selectivity
+among the products and acetaldehyde with next highest selectiv-
+ity. In the case of acetaldehyde, selectivity was highest (24.9%)
+at a Ca/P ratio of 1.69. The results indicated that selectivity to
+acetaldehyde increases with an increase in the HAP catalyst’s
+Ca/P ratio and also agreed with those of Monma.35 We postulate
+that HAP catalysts with high Ca/P ratios have a small number
+of acid sites and a large number of base sites and that HAP
+with predominantly base sites functions as a dehydrogenation
+catalyst. This hypothesis is supported by the fact that ethanol
+is generally converted to acetaldehyde on a solid base catalyst:
+HAP catalyst with a Ca/P ratio of 1.64 showed both the highest
+conversion of ethanol (22.7%) and the highest selectivity to
+n-butanol (62.4%). These data suggest that HAP with a Ca/P
+ratio of 1.64 has a large number of both acid sites and base
+sites and that pairs of acid sites and base sites play an important
+role in the activation of ethanol to produce n-butanol. We
+concluded that HAP with a Ca/P ratio of 1.64 was the most
+suitable catalyst to use for selective n-butanol synthesis.
+Reaction of Ethanol on HAP Catalyst with a Ca/P Ratio
+of 1.64
+Analysis of Reaction Products. Table 2 shows the product
+distribution from conversion of ethanol on HAP with a Ca/P
+ratio of 1.64 at various temperatures and contact times. Only a
+trace of the C1 product methane was formed, indicating that
+ethanol was not decomposed on the catalyst at temperatures of
+300-450 °C. C2 products were mainly ethylene and acetalde-
+hyde, suggesting that ethylene was formed by dehydration of
+ethanol on the catalyst’s acid sites and acetaldehyde by
+dehydrogenation of ethanol on its base sites. Ethylene selectivity
+at a fixed contact time of 1.78 s was seen to rise with a rise in
+temperature, suggesting that the postulated funct
+
+
+========== RESULTS ==========
+
+results in an electrical imbalance that is
+corrected by both the introduction of H+ ions and the loss of
+OH- ions. Nonstoichiometric HAP is represented by the formula
+Ca10-z(HPO4)z(PO4)6-z(OH)2-z‚nH2O; 0 < z e 1, n ) 0-2.5,
+with the stipulation that OH- sites in this formula can be
+partially substituted with H2O.26 Consequently, it can be
+expected that, within the nonstoichiometric HAP crystal, new
+acid sites can be created by the formation of phosphate groups
+in areas of lattice defects and new base sites by the attachment
+at other points on the lattice of structural hydroxyl or adsorbed
+water groups.
+Many studies on the catalytic properties of HAP have been
+reported, falling roughly into three groups. The first, as in this
+report, study the catalytic properties of HAP itself.30-36 For
+example, HAP with a low Ca/P ratio showed a lower capacity
+to convert ethanol to ethylene or butanol to butene (dehydration
+processes) than zeolite or aluminum acid catalysts,30-33,35
+whereas HAP with a higher Ca/P ratio converted alcohol to
+aldehyde or ketone (dehydrogenation).34-36 A second group of
+studies examines the unique function of ion-exchanged HAP
+catalysts.37-40 For example, a HAP catalyst with Ca2+ ions
+replaced by strontium showed oxidative dehydrogenation of
+ethane in the presence of tetrachloromethane.37 Direct synthesis
+of phenol from benzene has also been reported, over a HAP
+catalyst containing both Ca2+ and Cu2+ ions in its cation
+portion.38 A third group of studies focuses on metal catalysts
+supported on HAP, which show high catalytic activity in the
+oxidation of alcohols.41

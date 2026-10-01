@@ -1,0 +1,55 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu/CuAl-MMO",
+                "raw_name": "Cu/CuAl-MMO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/CuAl-MMO-300",
+                "raw_name": "Cu/CuAl-MMO-300",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/CuAl-MMO-400",
+                "raw_name": "Cu/CuAl-MMO-400",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/CuAl-MMO-500",
+                "raw_name": "Cu/CuAl-MMO-500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/CuAl-MMO-600",
+                "raw_name": "Cu/CuAl-MMO-600",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuAl-MMO",
+                "raw_name": "CuAl-MMO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu0",
+                "raw_name": "Cu0",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cu+",
+                "raw_name": "Cu+",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "CuAl-MMO",
+            "raw_name": "CuAl-MMO",
+            "article_identifiers": []
+        }
+    }
+}

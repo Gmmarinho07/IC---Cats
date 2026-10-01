@@ -1,0 +1,209 @@
+========== ABSTRACT ==========
+
+s been no spectroscopic support for the hypothesis.
+Here, the peak at 3059 cm 1 observed in IR spectra corresponds
+to a crotyl alcohol isomer with a higher frequency feature
+corresponding to a terminal alkene υ(=CH2). Furthermore,
+because of the poor dehydrogenation ability of HAP,[10b] the
+main source of acetaldehyde may come from direct hydrogen
+transfer (Scheme 1); thus, the second hydrogenation most likely
+proceeds via the MPV direct hydrogenation pathway. Besides
+dehydrogenation
+of
+ethanol
+to
+obtain
+the
+very
+first
+acetaldehyde to proceed the reaction, the trace amount of
+dissolved O2 in ethanol may also cause oxidation of ethanol to
+acetaldehyde, since there are barely redox properties on HAP
+compared to transition metal catalysts.
+Modulation experiment with crotonaldehyde and ethanol
+To better understand the hydrogenation process, we first
+saturated the HAP surface and reached steady state in an
+ethanol feed and subsequently switched to crotonaldehyde
+feed without ethanol. Before switching to the crotonaldehyde
+flow, ethanol is the predominant surface species on HAP. After
+switching to crotonaldehyde flow, acetaldehyde and C4 inter-
+mediates such as crotyl alcohol and butanal increase immedi-
+ately as well as n-butanol, indicating that direct hydrogen
+transfer from ethanol occurs rapidly (Figure 6a). More impor-
+tantly, once the surface ethanol is fully consumed by direct
+hydrogen transfer, the reaction stops at crotyl alcohol and
+butanal. The final hydrogenation products, n-butanol and
+acetaldehyde stop producing at 30 seconds after switching to
+the crotonaldehyde feed. Crotyl alcohol formation also reaches
+its maximum around 40 seconds because of a lack of surface
+ethanol to hydrogenate crotonaldehyde. It is worth noting that
+after consuming surface ethanol species, butanal increases
+slightly until the end of the first half period, while crotyl alcohol
+slightly decreases at the same time. This finding also indicates
+that isomerization from crotyl alcohol to 
+
+
+========== EXPERIMENTAL ==========
+
+experimental observations, Ca2+/OHcan be put
+forward as the main active site for the aldol condensation. POH/
+OHacid-base pair is proposed as the active site for the
+Meerwein-Ponndorf-Verley (MPV) direct hydrogen transfer of
+the aldol condensation product, crotonaldehyde.
+
+
+========== RESULTS ==========
+
+Results and Discussion
+In this work we use modulation excitation (ME) with diffuse
+reflectance infrared Fourier Transform spectroscopy coupled
+with mass spectrometry (DRIFTS-MS). Modulation excitation
+spectroscopy works similarly to a lock-in amplifier which is used
+to enhance the signal-to-noise ratio and extract the desired
+signals from noisy condition.[16–17] The same concept can also
+apply to a spectroscopic technique by periodically perturbing
+the system with one variable such as reactant concentration,
+temperature, pressure, or radiation.[15a] When a catalytic system
+is perturbed under quasi steady-state conditions, reaction
+intermediates will oscillate with the same frequency. After
+averaging several periods, the signal from active species will be
+enhanced while the spectator species will not respond to the
+stimulation and can thus be easily distinguished. In addition,
+the signal-to-noise ratio will increase because of the averaging.
+Moreover, by operating with phase sensitive detection (PSD) to
+transform from time-domain to phase-domain, different active
+species will show distinct phase-delays compared to the
+starting reactant. These different phase shifts contain kinetic
+information.
+The transmission IR spectrum of the commercial HAP
+sample dehydrated at 600°C is shown in Figure S1. The peak at
+3572 cm 1 corresponds to the columnar hydroxyl group (OH )
+on HAP. The band at 3648 cm 1 is attributed to bulk POH
+groups; 3674 and 3706 cm 1 correspond to surface POH sites
+which coincide with previous reports. The combination bands
+and overtone of P O feature can also be observed at 2200–
+1900 cm 1. The bands between 1550 and 1250 cm 1 are
+attributed to carbonate species.[10a,18] The wavenumbers of POH
+peaks reported here are slightly higher than in the literature.
+Although the recording temperature may affect the IR peak
+position, the room temperature HAP reference IR spectrum
+(Figure S1) is similar to a previous study.[18b] In operando
+conditions, we recorded the
+
+.[10a,18] The wavenumbers of POH
+peaks reported here are slightly higher than in the literature.
+Although the recording temperature may affect the IR peak
+position, the room temperature HAP reference IR spectrum
+(Figure S1) is similar to a previous study.[18b] In operando
+conditions, we recorded the IR spectra at 330°C compared to
+350°C in previous report.[13] Given the closeness of the record-
+ing temperatures, we attribute POH peak position discrepancies
+mainly to the higher dehydration temperature (600°C) in this
+study. The X-ray diffraction pattern is presented in Figure S2
+and is identical to previous literature and shows no signs of
+impurities.[10a]
+ChemCatChem
+Full Papers
+doi.org/10.1002/cctc.202000331
+4168
+ChemCatChem 2020, 12, 4167–4175
+www.chemcatchem.org
+© 2020 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim
+ 18673899, 2020, 16, Downloaded from https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cctc.202000331 by Capes, Wiley Online Library on [02/07/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+Modulation experiments with ethanol
+We first introduce the starting reactant, ethanol, to the system
+to understand the formation of reaction intermediates. Before
+starting the modulation experiment, HAP was treated under
+pure Ar flow and heated to 330°C, followed by periodic
+switching
+between
+ethanol
+and
+pure
+Ar.
+The
+outlet
+is
+monitored by mass spectrometry. The chosen m/z values
+correspond to unique MS fragments of each intermediate and
+product and some signals are scaled for better reading
+(Figure 1a). When ethanol is introduced into the system, the
+signals from the reaction intermediates and product such as
+acetaldehyde (m/z=44), crotyl alcohol (
+
+ry. The chosen m/z values
+correspond to unique MS fragments of each intermediate and
+product and some signals are scaled for better reading
+(Figure 1a). When ethanol is introduced into the system, the
+signals from the reaction intermediates and product such as
+acetaldehyde (m/z=44), crotyl alcohol (m/z=57), and n-
+butanol (m/z=56) can be observed. During ethanol coupling,
+1,3-butadiene (m/z=54) forms as the side product via the
+dehydration of crotyl alcohol by a Lewis acid site on HAP.[12]
+Only trace amounts of butanal (m/z=72) and crotonaldehyde
+(m/z=70) are observed, implying that hydrogenation of the
+carbonyl group on both species occurs rapidly. The product
+distribution (i.e. the selectivity) is in line with a previous kinetic
+study.[10a]
+In the first half period of the experiment, the surface is
+covered by ethanol as indicated by the features at 3666, 2972,
+2933 and 2903 cm 1 for υ(O H), υ(CH3, asymmetric stretching),
+υ(CH2, asymmetric stretching), and υ(CH3, symmetric stretching),
+respectively (Figure 1b). This observation corroborates the

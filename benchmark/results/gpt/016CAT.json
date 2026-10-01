@@ -12,6 +12,16 @@
                 "article_identifiers": []
             },
             {
+                "catalyst": "Au",
+                "raw_name": "Au",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "50%MgO-SiO2",
+                "raw_name": "50%MgO-SiO2",
+                "article_identifiers": []
+            },
+            {
                 "catalyst": "Au/SiO2",
                 "raw_name": "Au/SiO2",
                 "article_identifiers": []
@@ -22,11 +32,6 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "50%MgO-SiO2",
-                "raw_name": "50%MgO-SiO2",
-                "article_identifiers": []
-            },
-            {
                 "catalyst": "10%MgO-SiO2",
                 "raw_name": "10%MgO-SiO2",
                 "article_identifiers": []
@@ -34,6 +39,11 @@
             {
                 "catalyst": "30%MgO-SiO2",
                 "raw_name": "30%MgO-SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "50%MgO-SiO2",
+                "raw_name": "50%MgO-SiO2",
                 "article_identifiers": []
             },
             {

@@ -1,0 +1,119 @@
+{
+    "paper": "Catalytic upgrading of ethanol to higher alcohols over ordered mesoporous Cu-La-Al composite metal oxide",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-La-Al composite metal oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "ordered mesoporous Cu-La-Al composite metal oxides were prepared",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ordered mesoporous Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "ordered mesoporous Al2O3, La-Al and Cu-Al composite metal oxides",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-Al composite metal oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "ordered mesoporous Al2O3, La-Al and Cu-Al composite metal oxides",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "La-Al composite metal oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "ordered mesoporous Al2O3, La-Al and Cu-Al composite metal oxides",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "stoichiometric copper aluminate spinel",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Stoichiometric copper aluminate spinel (CuAl2O4) catalyst was prepared",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "OM-Cu4Al100",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the OM-Cu4Al100 catalyst before reaction",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "OM-Cu0.8La2.6Al100",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "for the OM-Cu0.8La2.6Al100 catalyst after reaction",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "OM-Cu4La2.6Al100",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "for the OM-Cu4La2.6Al100 catalyst after reaction",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "OM-Cu6.3La2.6Al100",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "for the OM-Cu6.3La2.6Al100 catalyst after reaction",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuAl2O4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "stoichiometric copper aluminate spinel (CuAl2O4) catalyst was prepared",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "introduction of copper into OMA and OM-La2.6Al100",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "La",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "introduction of lanthanum prevented reduction of CuAl2O4 species",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Al2O3",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu/γ-Al2O3 catalyst with low loading of Cu exhibited much higher activity",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 13
+        }
+    }
+}

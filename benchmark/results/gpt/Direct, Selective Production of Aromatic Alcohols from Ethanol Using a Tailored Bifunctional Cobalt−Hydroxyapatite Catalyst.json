@@ -1,0 +1,32 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "cobalt-doped hydroxyapatite",
+                "raw_name": "Co−HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "hydroxyapatite",
+                "raw_name": "HAP",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Co",
+                "raw_name": "Co",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "hydroxyapatite",
+            "raw_name": "hydroxyapatite (HAP)",
+            "article_identifiers": [
+                "HAP"
+            ]
+        }
+    }
+}

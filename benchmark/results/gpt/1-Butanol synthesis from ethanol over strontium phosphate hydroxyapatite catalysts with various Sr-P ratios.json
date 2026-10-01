@@ -1,0 +1,44 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Strontium phosphate hydroxyapatite",
+                "raw_name": "Sr-HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Strontium phosphate hydroxyapatite",
+                "raw_name": "Sr-HAP (1.58)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Strontium phosphate hydroxyapatite",
+                "raw_name": "Sr-HAP (1.64)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Strontium phosphate hydroxyapatite",
+                "raw_name": "Sr-HAP (1.67)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Strontium phosphate hydroxyapatite",
+                "raw_name": "Sr-HAP (1.70)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Sr-HAP-NH3",
+                "raw_name": "Sr-HAP-NH3",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Sr-HAP",
+            "raw_name": "Sr-HAP",
+            "article_identifiers": []
+        }
+    }
+}

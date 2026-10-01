@@ -1,0 +1,143 @@
+{
+    "paper": "Dehydration of Ethanol to Ethylene",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "activated alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Alumina is an important catalyst or catalyst carrier.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "phosphoric acid catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the catalyst of phosphoric acids.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "γ-Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "γ-Al2O3 was used as the catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Si−Al catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Roca et al.61 have investigated the ethanol dehydration reaction on the Si−Al catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Syndol catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the main components of A12O3−MgO/SiO2, which were named the Syndol catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3−Cr2O3 catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "further research on the Al2O3−Cr2O3 catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the activity of the catalysts in descending order was HZSM-5 > NiAPSO-34 > SAPO-34 > γ-Al2O3.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NKC-03A catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "developed NKC-03A catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-ZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the ethanol on Cu-ZSM-5 zeolite was deeply oxidized.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "SAPO-34",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "studied the reaction of ethanol dehydration on SAPO-34.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiAPSO-34",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the activity of the catalysts in descending order was HZSM-5 > NiAPSO-34.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "SAPO-11/HZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the composite catalyst of SAPO-11/HZSM-5.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The context does not explicitly identify Ni as a metal associated with the catalyst."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "NiAPSO-34",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The context does not explicitly identify NiAPSO-34 as a metal."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "γ-Al2O3",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Alumina is an important catalyst or catalyst carrier.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "γ-Al2O3",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Alumina is an important catalyst or catalyst carrier.",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 2,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 14
+        }
+    }
+}

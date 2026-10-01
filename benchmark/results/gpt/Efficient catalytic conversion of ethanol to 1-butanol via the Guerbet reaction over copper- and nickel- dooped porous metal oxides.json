@@ -1,0 +1,35 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu-Ni PMOs",
+                "raw_name": "Cu-Ni PMOs",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HTC",
+                "raw_name": "HTC",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "copper",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "nickel",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "porous metal oxides",
+            "raw_name": "PMO",
+            "article_identifiers": []
+        }
+    }
+}

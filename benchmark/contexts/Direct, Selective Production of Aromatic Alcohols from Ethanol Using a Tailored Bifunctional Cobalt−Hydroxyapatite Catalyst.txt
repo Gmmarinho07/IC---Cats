@@ -1,0 +1,195 @@
+========== ABSTRACT ==========
+
+ABSTRACT: Aromatic alcohols are essential components of many solvents, coatings, plasticizers, ﬁne chemicals, and
+pharmaceuticals. Traditional manufacturing processes involving the oxidation of petroleum-derived aromatic hydrocarbons
+suﬀer from low selectivity due to facile overoxidation reactions which produce aromatic aldehydes, acids, and esters. Here we
+report a Co-containing hydroxyapatite (HAP) catalyst that converts ethanol directly to methylbenzyl alcohols (MB−OH,
+predominantly 2-MB−OH) at 325 °C. The dehydrogenation of ethanol to acetaldehyde, which is catalyzed by Co2+, has the
+highest reaction barrier. Acetaldehyde undergoes rapid, HAP-catalyzed condensation and forms the key intermediate, 2-butenal,
+which yields aromatic aldehydes through self-condensation and then MB−OH via hydrogenation. In the presence of Co2+, 2-
+butenal is selectively hydrogenated to 2-butenol. This reaction does not hinder aromatization because cross-coupling between 2-
+butenal and 2-butenol leads directly to MB−OH without passing through MBO. Using these insights a dual-bed catalyst
+conﬁguration was designed for use in a single reactor to improve the aromatic alcohol selectivity. Its successful use supports the
+proposed reaction mechanism.
+KEYWORDS: ethanol, aromatic alcohols, cobalt−hydroxyapatite, dehydrogenation, dehydrocyclization
+1.
+
+
+========== EXPERIMENTAL ==========
+
+cal Co
+content used in the ion-exchanged Co−HAP catalysts as
+reported for 2-butanol oxidative dehydrogenation.36 These
+ﬁndings reveal signiﬁcant diﬀerences in the reaction pathways
+for ethanol conversion over the two catalysts.
+To investigate how the presence of Co sites in Co−HAP
+controls the formation of aromatic oxygenates, several catalysts
+based on Co interacting with various supports (Al2O3, SiO2,
+carbon, MgAlxOy, CaO, and Ca3(PO4)2) were prepared and
+tested (Figure S3). These supports represent a range of acidic,
+neutral, basic, and acidic−basic materials. No aromatics were
+obtained over Co/Al2O3, Co/SiO2, or Co/carbon. Although
+MgAlxOy is known to be an acid−base catalyst for ethanol
+upgrading to n-butanol,11,14,15 the combination of Co and
+MgAlxOy does not produce aromatics. In contrast, small
+amounts of MBO/−OH were detected over Co/CaO and
+Co/Ca3(PO4)2. These results suggest that synergy between the
+Co sites and the acid−base sites in Co−HAP is critical for
+MBO/−OH production from ethanol.
+The stability of the Co−HAP catalyst in the upgrading of
+ethanol to methylbenzyl alcohols was investigated by operating
+at an intermediate conversion for 900 min at 325 °C. During
+this time insigniﬁcant declines were observed in both the
+Figure 2. Characterization of Co−HAP (0.8 wt % Co) and HAP: (a, b) TEM images of Co−HAP, recorded at two diﬀerent resolutions, and (c, d)
+comparison of Co 2p and O 1s XP spectra for the two materials.
+ACS Catalysis
+Research Article
+DOI: 10.1021/acscatal.9b02566
+ACS Catal. 2019, 9, 7204−7216
+7206
+ethanol conversion (from 35% to 33%) and the selectivity to 2-
+MB−OH (from 54% to 53%) (Figure S4).
+3.2. Characterization of Co Species. Since H2 is
+generated during ethanol conversion over Co−HAP (as
+described above), the catalyst was pretreated at 400 °C in 8
+vol % H2/N2 prior to its characterization by HAADF-STEM,
+XPS, FTIR, 31P MAS NMR, CO2-TPD, and HS-LEIS. The
+high-magniﬁcation images in Figures 2a, 2b, and S5 show well-
+crystallized HAP
+
+s
+generated during ethanol conversion over Co−HAP (as
+described above), the catalyst was pretreated at 400 °C in 8
+vol % H2/N2 prior to its characterization by HAADF-STEM,
+XPS, FTIR, 31P MAS NMR, CO2-TPD, and HS-LEIS. The
+high-magniﬁcation images in Figures 2a, 2b, and S5 show well-
+crystallized HAP with no evidence for Co-containing
+aggregates on the surface in any of the regions investigated,
+which is in accord with the absence of powder X-ray diﬀraction
+peaks for any Co-containing species in Co−HAP (Figure S6).
+There are two possible explanations for this ﬁnding: (1)
+subnanometer CoOx domains are present on the surface of
+HAP but are not visible due to the lack of Z contrast between
+Co and Ca or (2) Co incorporation occurs by an ion-
+exchange-like process during catalyst preparation, leading to
+atomic dispersion of Co2+ ions on the HAP surface. Although
+the presumed Co2+ single sites are not resolved, HAP materials
+are known to undergo ready ion exchange.31−33
+The chemical state of Co was explored using XPS. Figure 2c
+shows the Co 2p3/2 and 2p1/2 binding energies (BEs) at 781.0
+and 796.7 eV, respectively. The spin−orbit splitting of 15.7 eV
+(ΔE = E(Co 2p1/2) −E(Co 2p3/2)) is characteristic of Co2+
+ions.36,37 The appearance of satellite peaks at 786.6 and
+802.4 eV further conﬁrm that the metal is present as Co2+
+ions.37 Figure 2d shows the O 1s BE at 530.6 eV,
+corresponding to lattice oxygen in HAP.38 The O 1s peak
+position and full width at half-maximum (FWHM) are the
+same for Co−HAP and HAP. Furthermore, when the
+temperature of H2 pretreatment was increased to 600 °C,
+the major form of the metal remains Co2+ (Figure S7),
+demonstrating that the dispersed metal ions interact strongly
+with HAP.
+The local chemical environment of Co2+ was further probed
+using IR spectroscopy with CO as the probe. Under ambient
+CO pressure at 25 °C, no adsorbed CO was detected on either
+HAP or Co−HAP. The latter ﬁnding reconﬁrms the absence of
+metallic Co nanoparticles even after pret
+
+
+========== RESULTS ==========
+
+results in more than 60% conversion to
+byproducts (e.g., aldehydes, acids, and esters), which
+represents a waste of raw materials and creates a need for
+energy-intensive separations.4 Direct production of MB−OHs
+without the need for aromatic hydrocarbon feedstocks could
+be more energy and cost eﬃcient and in particular make use of
+more sustainable feedstocks. It may also open up alternative
+routes to phthalic acid, an essential component in plastics.5
+Ethanol is a widely available, versatile, biomass-derived
+platform molecule. Its use has been widely explored in the
+production of value-added chemicals such as acetaldehyde,
+oleﬁns, and C4−12 aliphatic alcohols via dehydrogenation,6,7
+dehydration,8,9 and C−C coupling.10−13 However, achieving
+selectivity for high molecular weight products, especially
+aromatic oxygenates, remains a challenge due to the complex
+network of competing reactions in ethanol cascade pro-
+cesses14,15 as well as a lack of versatile catalysts. Recently,
+Received:
+June 18, 2019
+Revised:
+July 2, 2019
+Published: July 2, 2019
+Research Article
+pubs.acs.org/acscatalysis
+Cite This: ACS Catal. 2019, 9, 7204−7216
+© 2019 American Chemical Society
+7204
+DOI: 10.1021/acscatal.9b02566
+ACS Catal. 2019, 9, 7204−7216
+Downloaded via UNIV FED DO RIO DE JANERIO on August 6, 2024 at 12:48:38 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+Resasco16 and Flaherty17 managed to produce methylbenzal-
+dehydes (MBO) from acetaldehyde (instead of ethanol)
+over MgO and hydroxyapatite, respectively. However, the
+selectivity was poor (<27%), mainly because of nonselective
+intermolecular hydrogen transfer between enal intermediates
+and ethanol, leading to saturated aliphatic products. Kinetic
+studies indicate that the formation rate of aromatic oxygenates
+is proportional to the acetaldehyde concentration.17 Although
+solid base materials such as MgO and hydroxyapatite are well
+known as acid−base catalysts for C−C cou
+
+ermediates
+and ethanol, leading to saturated aliphatic products. Kinetic
+studies indicate that the formation rate of aromatic oxygenates
+is proportional to the acetaldehyde concentration.17 Although
+solid base materials such as MgO and hydroxyapatite are well
+known as acid−base catalysts for C−C coupling,11,14,15 they
+are not eﬃcient for alcohol dehydrogenation.18 Li and co-
+workers19,20 improved the reactivity for ethanol upgrading by
+combining transition metal and acid−base catalysts in which
+dehydrogenation occurs at Pd or Cu sites and aldol
+condensation is catalyzed by Lewis acid and/or base sites. In
+that case saturated aliphatic alcohols were mainly obtained
+because the metal nanoparticles promote not only ethanol
+dehydrogenation but also enal hydrogenation.21−23 The key
+question is how to protect enals from nonselective hydro-
+genation while promoting ethanol dehydrogenation. Recently,
+homogeneous complexes of 3d transition metal ions, such
+Co(II)24 and Fe(II),25 have been reported to catalyze
+acceptorless alcohol dehydrogenation26 as well as selective
+hydrogenation of unsaturated CO bonds in α,β-unsaturated
+compounds.25 We reasoned that the combination of an acid−
+base catalyst with one of these transition metal species would
+make it possible to couple ethanol dehydrogenation and C−C
+coupling to achieve selective production of aromatic oxygen-
+ates, which has not been reported so far.
+The surface of hexagonal
+hydroxyapatite [HAP,
+Ca10(OH)2(PO4)6] has Lewis acid−base pairs and exhibits
+high activity for C−C coupling in ethanol upgrading.27−30
+Moreover, Ca2+ ions on the HAP surface are easily exchanged
+by other divalent metal cations (such as Co2+,31−33 Fe2+,34
+Ni2+,35 etc.) due to the ﬂexible chemical composition of the
+hexagonal unit cell, thus presenting broad opportunities for the
+design of multifunctional catalysts with atomically dispersed
+metal sites. In this work, a cobalt-doped hydroxyapatite (Co−
+HAP) was prepared and used to catalyze the conversion
+
++,35 etc.) due to the ﬂexible chemical composition of the
+hexagonal unit cell, thus presenting broad opportunities for the
+design of multifunctional catalysts with atomically dispersed
+metal sites. In this work, a cobalt-doped hydroxyapatite (Co−
+HAP) was prepared and used to catalyze the conversion of
+ethanol to methylbenzyl alcohols. While the main products on
+undoped HAP are aliphatic alcohols, with only traces of
+aromatics (less than 0.4%), the presence of Co2+ sites
+dramatically alters the major reaction pathways and shifts the
+product distribution to MB−OHs. Co2+ sites in HAP catalyze
+ethanol dehydrogenation to acetaldehyde, which is followed by
+fast condensation and dehydrocyclization to yield aromatic
+oxygenates. The process of ethanol to methylbenzyl alcohols
+represents a new and facile strategy to produce aromatic
+oxygenates eﬃciently from renewable carbon.
+2.

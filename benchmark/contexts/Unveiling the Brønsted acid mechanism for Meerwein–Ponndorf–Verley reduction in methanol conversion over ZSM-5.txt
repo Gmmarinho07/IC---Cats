@@ -1,0 +1,249 @@
+========== EXPERIMENTAL ==========
+
+. The MPV
+reduction provides an alternative reaction pathway, converting these
+carbonyl compounds into lower alkenes. This process effectively
+shortens the induction period and delays the onset of coke formation.
+The identiﬁcation of this unconventional MPV-type pathway not
+only broadens the understanding of oxygenate transformation during
+methanol conversion but also suggests potential avenues for the
+design of more efﬁcient and selective catalysts. By strategically opti-
+mizing the distribution and accessibility of BAS over the zeolite cata-
+lysts, the transformation of aldehydes and ketones in the methanol
+conversion process can be effectively regulated. For instance, by
+creating BAS pairs or enriching the internal or external surfaces with
+BAS, the catalytic pathways leading to the formation and subsequent
+conversion of these intermediate carbonyl species can be precisely
+controlled. This tailored distribution allows for precise control over
+reaction efﬁciency and product selectivity, ultimately leading to
+improved overall performance in the methanol conversion process.
+Methods
+Catalyst preparation and characterization
+Proton-type ZSM-5 zeolites (Si/Al = 11.5, Zeolyst) were utilized as cat-
+alysts for all the reactions unless otherwise indicated. A control ZSM-5
+sample enriched with Lewis acid sites was prepared by calcination in
+air at 973 K for 6 h. The sample was packed into a shallow bed con-
+ﬁguration on a quartz crucible. The temperature was increased gra-
+dually from room temperature to the target temperature at a rate of
+1 °C/min. The structure and crystalline nature of ZSM-5 zeolites were
+examined by a PANAlytical X’Pert Powder X-ray diffraction dif-
+fractometer with a Cu Kα radiation using a step of 0.02° at a respective
+voltage of 40 kV and a current of 40 mA. The scanning range was 5°
+to 40°.
+The acid concentration of catalysts was determined by IR of pyr-
+idine adsorption experiments. The measurements were performed on
+a Bruker Tensor 27 spectromete
+
+. The efﬂuent products at the moment of quenching
+were analyzed using GC-MS to establish a correlation between the
+efﬂuent products and the surface-adsorbed species on zeolites.
+The efﬂuent products were analyzed by GC-MS (Shimadzu GCMS
+QP-2010) equipped with RT-Q-BOND capillary column (30 m, 0.32 mm
+i.d., 10.0 μm ﬁlm thickness) or Petrocol DH capillary column (100 m,
+0.25 mm i.d., 0.5 μm ﬁlm thickness). The temperature programming of
+RT-Q-BOND capillary column started at 40 °C (maintained for 1 min),
+followed by a rate of 5 °C per min to a 140 °C and a rate of 10 °C per min
+to a ﬁnal temperature of 230 °C (maintained for 5 min). The tempera-
+ture programming of Petrocol DH capillary column started at 40 °C
+(maintained for 2 min), followed by a rate of 1 °C per min to a 50 °C
+(maintained for 5 min) and a rate of 15 °C per min to a ﬁnal temperature
+of 230 °C. When checking the efﬂuent products, the line from the
+reactor outlet to the GC was maintained at 100 °C to avoid any con-
+densation of heavy hydrocarbons. The retained species were also
+analyzed by GC MS (Shimadzu GCMS QP-2010) equipped with Petrocol
+DH capillary column (100 m, 0.25 mm i.d., 0.5 μm ﬁlm thickness). The
+following temperature programming was applied: an initial tempera-
+ture of 40 °C was maintained for 20 min, followed by a rate of 10 °C per
+min to 220 °C (maintained for 15 min) and a rate of 15 °C per min to
+250 °C (maintained for 5 min).
+Isotopic labeling experiments
+In
+13C/12C or H/D isotope switching experiments, the
+13C-labeled
+methanol (13C 99 %) and acetaldehyde in natural abundance were co-
+reacted on H-ZSM-5 zeolites at 523 K for 8 s. Methanol-d3 (D, 99 %) and
+acetaldehyde in natural abundance was co-reacted on ZSM-5 at 523 K
+for 8 s. The isotopic distribution was determined MS analysis.
+Solid-state NMR measurements
+The 13C, 27Al, 29Si solid-state NMR experiments were carried out at 9.4 T
+on a Bruker Avance III 400 spectrometer, equipped with a 4 mm probe,
+with resonance frequencies of 399
+
+
+========== RESULTS ==========
+
+Results
+BAS catalyzed MPV reduction over ZSM-5 zeolite
+Proton-type ZSM-5 zeolites (Si/Al = 11.5) were utilized as catalysts to
+investigate the behavior of acetaldehyde during the methanol con-
+version. Detailed structural and acidity analyses are provided in
+Table S1 and Figs. S1–S3. The 27Al MAS NMR spectra indicate the pre-
+sence of only tetra-coordinated Al species at 55 ppm in the ZSM-5
+zeolite (Fig. S2). The concentrations of BAS (590 μmol·g−1) and Lewis
+acid sites (LAS) (6 μmol·g−1) were determined using IR spectroscopy of
+adsorbed pyridine. The high concentration of BAS and negligible LAS
+suggest that the methanol reaction would be predominantly catalyzed
+by the BAS on ZSM-5 (Table S1). Methanol-only (Fig. S4) and methanol-
+acetaldehyde (vmethanol/vacetaldehyde = 4:1) co-feeding (Fig. 2) experi-
+ments were conducted over ZSM-5 at elevated temperatures of 373,
+423, 473, 523, and 573 K. To minimize secondary reactions and capture
+intermediates, the reactions were performed for a short duration of 8 s
+using a pulse-quench reactor, where the catalytic bed was rapidly
+quenched with liquid nitrogen within 0.5 s. The reactor efﬂuent pro-
+ducts were analyzed using connected gas chromatography (GC).
+Methanol alone did not yield hydrocarbons, aside from dimethyl
+ether (CH3OCH3), attemperatures below 573 K (Fig. S4), indicating that
+an active HP mechanism is absent under these conditions. However,
+introducing acetaldehyde signiﬁcantly impacts methanol conversion
+over the zeolites. As shown in Fig. 2a, substantial amounts of methyl
+Fig. 2 | MPV reduction between acetaldehyde and methanol over ZSM-5. a GC
+analysis of the efﬂuent products obtained from co-reaction of methanol and
+acetaldehyde (v/v, 4/1) over ZSM-5 at various temperatures for 8 s. E/P indicates the
+ethene to propene ratio. b Deuterium atom distribution in ethene produced from
+co-reaction of CD3OH with natural abundance acetaldehyde (v/v, 4:1) over ZSM-5 at
+523 K for 8 s. c Illustration of the hydride transf
+
+d
+acetaldehyde (v/v, 4/1) over ZSM-5 at various temperatures for 8 s. E/P indicates the
+ethene to propene ratio. b Deuterium atom distribution in ethene produced from
+co-reaction of CD3OH with natural abundance acetaldehyde (v/v, 4:1) over ZSM-5 at
+523 K for 8 s. c Illustration of the hydride transfer process for the MPV reaction.
+Article
+https://doi.org/10.1038/s41467-024-52999-8
+Nature Communications| (2024) 15:8736 
+3
+formate (HCOOCH3) form during the co-reaction even at 373 K. This
+indicates the oxidation of methanol by acetaldehyde, potentially
+through a two-step pathway involving initial conversion to for-
+maldehyde (conﬁrmed by GC analysis, Fig. S5). Subsequent oxidation
+generates formate, which then reacts with methanol to form methyl
+formate. Concurrently, acetaldehyde is reduced to ethanol or surface
+ethoxy species on the zeolites, as conﬁrmed by subsequent 13C NMR
+analysis of the trapped species on the samples. This reveals a hydride
+transfer (i.e., MPV) reaction between acetaldehyde and methanol, a
+fundamental transformation in organic chemistry. While MPV reac-
+tions have frequently been reported over Lewis acid zeolites51,52, this
+result demonstrates that BAS can also catalyze the MPV reaction in
+methanol conversion.
+As the temperature rises to 423 K, methyl formate yield increases,
+reﬂecting enhanced methanol oxidation. Ethanol production also
+becomes evident. Further dehydration of ethanol with methanol leads
+to ethyl methyl ether (CH3CH2OCH3) and ethene. Notably, ethene
+dominates the hydrocarbon products with an ethylene to propylene
+(E/P) ratio of 5.02 at 473 K, suggesting the MPV pathway as the primary
+route for hydrocarbon production. This ethene selectivity persists at
+higher temperatures, indicating continued dominance of the MPV
+mechanism. However, propene and heavier hydrocarbons also
+increase with temperature, leading to a declining E/P ratio (from 5.02
+to 1.22). This suggests the concurrent participation of the HP
+mechanism at higher temper
+
+tivity persists at
+higher temperatures, indicating continued dominance of the MPV
+mechanism. However, propene and heavier hydrocarbons also
+increase with temperature, leading to a declining E/P ratio (from 5.02
+to 1.22). This suggests the concurrent participation of the HP
+mechanism at higher temperatures, responsible for C₃₊ hydrocarbon
+production and the decrease in ethene selectivity30,53. To further
+investigate the relative activity of BAS and LAS in the MPV reaction, we
+conducted a comparative study. The parent ZSM-5 zeolite was sub-
+jected to calcination at 973 K. This high-temperature calcination pro-
+cess caused the decomposition of the BAS, leading to the formation of
+LAS on the ZSM-5 (Table S1). To assess the activity of these different
+acid sites, we performed co-reactions between methanol and acet-
+aldehyde using these ZSM-5 catalysts. The results demonstrate that the
+high-temperature calcined sample enriched with LAS, produce much
+less ethene compared to the parent zeolite (Fig. S6). This observation
+strongly suggests that the BAS is more active than LAS in the MPV
+reaction.
+The observed MPV reduction suggests that acetaldehyde formed
+during methanol conversion reacts with unreacted methanol to produce
+ethene as the primary product. We hypothesize that during the initial
+stages of methanol conversion, when methanol is abundant, acet-
+aldehyde preferentially interacts with surrounding methanol molecules,
+favoring the MPV reaction. To verify this, we conducted co-feeding
+experiments with a low acetaldehyde concentration (v/v, 1:100). As
+shown in FigureS7, ethene isvirtuallythe solealkene product,conﬁrming
+the dominance of the MPV reaction under high methanol environments,
+resembling the early stages of methanol conversion.
+To validate the hydride transfer mechanism between acet-
+aldehyde and methanol, we employed isotopic labeling experiments.
+First, a ¹²C/¹³C switching experiment conﬁrms acetaldehyde as the
+primary carbon source for the produced ethene. 
+
+g-
+nifying methanol involvement in secondary reactions that lead to the
+production of heavier hydrocarbon products.
+Relationship between surface species and efﬂuent products
+during the MPV reduction
+The time-dependent transformation of acetaldehyde during methanol
+conversion over ZSM-5 at 523 K was investigated using ¹³C NMR
+experiments to analyze surface species and GC to analyze efﬂuent
+products (Fig. 4). As shown in Fig. 4a and Fig. S11, the ¹³C NMR spec-
+trum reveals the presence of SES even after a very short reaction time
+of 8 s. This indicates the immediate operation of the MPV reaction
+during the initial stages (Fig. 4c). Consequently, ethene dominates the
+efﬂuent products at this point, with an E/P ratio of 2.82 (Fig. 4b). This
+dominance can be attributed to the decomposition of SES formed
+through the MPV reaction. Although some aromatics are also detected
+by ¹³C NMR at this early stage, their contribution to the product
+stream seems limited, as evidenced by the minimal formation of C3+
+hydrocarbons in the GC analysis. However, as the reaction progresses
+beyond 16 s, the ¹³C NMR signal for SES rapidly diminishes, suggesting
+a weakening of the MPV reaction (Fig. 4a and Fig. S11). Conversely, the
+HP route appears to take precedence, although its overall reactivity
+remains limited at 523 K (Fig. 4c). This shift in reaction pathways is
+reﬂected in the product distribution (Fig. 4b). The selectivity of C3+
+products, particularly propene, increases, leading to a decrease in the
+E/P ratio below 1. This observed trend aligns with typical methanol
+reaction over zeolites, where ethene initially dominates due to a more
+direct route, followed by a decrease as the HP pathway becomes more
+250
+200
+150 100
+50
+0
+ppm
+250
+200
+150
+100
+50
+ppm
+293K
+373K
+423K
+473K
+523K
+573K
+13C-13C
+13C-1H
+13C chemical shift (ppm)
+200
+150
+100
+50
+0
+13C chemical shift (ppm)
+1H chemical shift (ppm)
+200
+170
+100
+10
+5
+0
+13CH3CHO+CH3OH
+CH3CHO+ 13CH3OH
+a
+b
+c
+103
+(a)
+DMOE
+(b)
+SES
+72
+(h)
+Methanediol
+90
+(c)

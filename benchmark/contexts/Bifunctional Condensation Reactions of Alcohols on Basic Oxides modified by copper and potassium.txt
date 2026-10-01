@@ -1,0 +1,106 @@
+========== EXPERIMENTAL ==========
+
+s pronounced than for reactions of ethanol. These re-
+sults show that Cu sites also increase rates of C–H bond
+activation in acetaldehyde.
+Acetone is a condensation product, while ethanol
+is a hydrogenation product. The molar ratio between
+ethanol/acetone is a measurement of the catalyst ability
+to remove H-atoms from the surface by recombinative
+desorption compared to its ability to catalyze condensation
+reactions. On Mg5CeOx catalysts, ethanol is produced
+selectively over acetone. The catalyst surface is saturated
+with H-atoms from the abstraction of α-hydrogens from
+acetaldehyde on basic sites. Without Cu, it is more probable
+FIG. 4.
+C2 to C3 and C4 to C3 molar ratios on acetaldehyde reac-
+tions and initial acetaldehyde condensation rates as a function of Cu sur-
+face area on K–CuyMg5CeOx catalysts (573 K, 101.3 kPa total pressure,
+6.6 kPa acetaldehyde, balance He).
+164
+GINES AND IGLESIA
+FIG. 5.
+13C-content in reactants and reaction products (13C2H4O–
+C2H5OH–H2reactionmixtureson0.8wt%K–Mg5CeOx)(523K,101.3kPa
+total pressure, 2.9 kPa acetaldehyde pressure, 1.1 kPa ethanol pressure,
+2.9 kPa hydrogen pressure, balance He).
+that the H-atoms are used to hydrogenate acetaldehyde
+to ethanol. When Cu sites are present, ethanol selectivity
+decreases markedly because these H-atoms recombine to
+form H2. On the other hand, acetone is formed selectivity
+on Cu-containing catalysts instead of n-butyraldehyde or
+crotonaldehyde. This shows that reverse aldol reaction
+steps from C4 intermediates (Scheme 4) become less likely
+as Cu is introduced into the catalysts.
+FIG. 6.
+13C-content in reactants and reaction products (13C2H4O–
+C2H5OH–H2 reaction mixtures on 1.0 wt% K–Cu0.5Mg5CeOx) (523 K,
+101.3 kPa total pressure, 2.9 kPa acetaldehyde pressure, 1.1 kPa ethanol
+pressure, 2.9 kPa hydrogen pressure, balance He).
+FIG. 7.
+13C-content in reactants and reaction products (13C2H4O–
+C2H5OH–H2 reaction mixtures on 1.2 wt% K–Cu7.5Mg5CeOx) (523 K,
+101.3 kPa total pressure, 2.9 kPa acetaldehyde
+
+K,
+101.3 kPa total pressure, 2.9 kPa acetaldehyde pressure, 1.1 kPa ethanol
+pressure, 2.9 kPa hydrogen pressure, balance He).
+FIG. 7.
+13C-content in reactants and reaction products (13C2H4O–
+C2H5OH–H2 reaction mixtures on 1.2 wt% K–Cu7.5Mg5CeOx) (523 K,
+101.3 kPa total pressure, 2.9 kPa acetaldehyde pressure, 1.1 kPa ethanol
+pressure, 2.9 kPa hydrogen pressure, balance He).
+3.4. Reactions of C2H5OH/13C2H4O Mixtures
+As discussed in Section 3.2, it appears that ethanol
+undergoes condensation reactions directly, without re-
+quiring its intermediate conversion to gas phase acetal-
+dehyde. Also, condensation rates increase with increas-
+ing acetaldehyde concentration. Chung et al. (49), using
+CH313CH2OH/C2O4H
+mixtures
+on
+Cu/ZnO
+catalysts,
+showed that acetone can be produced by C–C bond cleav-
+age in C4 species formed from two aldehydic species and
+n-butyraldehyde by C–O bond cleavage in C4 species
+formed from ethanol and acetaldehyde. In order to ex-
+amine the role of ethanol and to detect available di-
+rect pathways for ethanol condensation, competitive reac-
+tions between 12C2H5OH and 13C2H4O were carried out
+on 0.8 wt% K–Mg5CeOx, 1.0 wt% K–Cu0.5Mg5CeOx, and
+1.2 wt% K–Cu7.5Mg5CeOx catalysts. The carbon-13 con-
+tents in reactants and products as a function of contact time
+are shown in Figs. 5, 6, and 7.
+On all catalysts, the 13C-content in both ethanol and ac-
+etaldehyde changes with contact time, as the products reach
+chemical and isotopic equilibrium. The rate of ethanol-
+acetaldehyde equilibration is much higher on 1.2 wt%
+K–Cu7.5Mg5CeOx than on the other two catalysts. When
+copper is present, hydrogenation–dehydrogenation reac-
+tions occur more rapidly, in agreement with the results
+shown in Section 3.2. On Cu-free catalysts (Fig. 5), the
+13C-content in both ethanol (30%) and acetaldehyde (80%)
+reach values that differ markedly from those predicted at
+isotopic equilibrium (70%). This is consistent with the rapid
+deactivation observed during ethanol reactions on Cu-f
+
+
+========== RESULTS ==========
+
+results show that di-
+rect condensation reactions of ethanol occurs without the
+intermediate formation of gas phase acetaldehyde, that Cu
+sites increase the rate of aldol condensation by introduc-
+ing recombinative desorption sites that disposal hydrogen
+SCHEME 2. Pathways to higher oxygenates (34).
+BIFUNCTIONAL CONDENSATION REACTIONS
+157
+SCHEME 3. Normal and reversal aldol condensation according to
+Nunan et al. (7).
+atoms formed in C–H activation steps, and that chain
+growth to C2+ alcohols occurs via addition of a C1 species
+to adsorbed oxygenates. Based on these ﬁndings, we pro-
+pose that chain growth occurs by condensation reactions
+involving a metal-base bifunctional mechanism.
+2.

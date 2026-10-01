@@ -1,0 +1,65 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Mg–Al mixed oxides",
+                "raw_name": "Mg–Al mixed oxides",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg–Al hydrotalcite",
+                "raw_name": "Mg–Al hydrotalcite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Magnesium oxide",
+                "raw_name": "Magnesium oxide (MgO)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Alumina",
+                "raw_name": "alumina (Al2O3)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgAl 1:1",
+                "raw_name": "MgAl 1:1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgAl 3:1",
+                "raw_name": "MgAl 3:1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgAl2O4",
+                "raw_name": "MgAl2O4",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "-Al2O3",
+                "raw_name": "-Al2O3",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Mg",
+                "raw_name": "Mg",
+                "article_identifiers": []
+            },
+            {
+                "name": "Al",
+                "raw_name": "Al",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Mg–Al mixed oxides",
+            "raw_name": "Mg–Al mixed oxides",
+            "article_identifiers": []
+        }
+    }
+}

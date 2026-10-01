@@ -1,0 +1,294 @@
+========== ABSTRACT ==========
+
+ABSTRACT: The direct conversion of ethanol to aromatic
+alcohols has attracted much attention as increasingly available
+biomass ethanol fermented from renewable sources. Herein, we
+present a highly efficient zinc hydroxyapatite for direct synthesis of
+aromatic alcohols from ethanol with a specific rate of 1.95 × 10−7
+molaromatics gcatal
+−1 s−1, which is up to now the best in the literature.
+The γ-C of 2-butenal after deprotonation undergoes the
+nucleophilic attack to the carbonyl-C of another 2-butenal to
+form 2,4,6-octatrienal, which is subsequently cyclized to give
+ortho-aromatics, as the main pathway for the aromatization.
+Dynamic and theoretical studies reveal that the Zn site plays a role
+in hydrogen transfer for dehydrogenation and hydrogenation. The substitution of the Zn atom for the Ca atom was identified at the
+strong basic [Ca−O−P] site, and the Zn site lowers the energy barrier to ethanol dehydrogenation. The rate-determining step of this
+reaction is the coupling of two acetaldehyde molecules to form 2-butenal. This work provides a strategy to catalyze the efficient
+conversion of ethanol to high value-added aromatic alcohols and contributes to the development of protocols for sustainable
+synthesis of aromatic alcohols from biomass through heterogeneous catalysts.
+KEYWORDS: ethanol upgrading, aromatic alcohol, hydroxyapatite, zinc, DFT
+1.
+
+
+========== EXPERIMENTAL ==========
+
+EXPERIMENTAL SECTION
+2.1. Catalyst Synthesis. Hydroxyapatite (HAP) obtained from
+Acros Organics with a Ca/P ratio of 1.67 was used as the precursor
+for the synthesis of zinc-loaded hydroxyapatite (Zn-HAP) through an
+impregnation method. In this method, HAP was impregnated with
+Zn(NO3)2 (Sinopharm) and deionized water at room temperature for
+0.5 h. Subsequently, the impregnated samples were dried in air at 50
+°C for 12 h and then calcined in air at 400 °C for 2 h at a rate of 5 °C
+min−1 to obtain the as-prepared Zn-HAP catalyst.
+2.2. Characterization. Powder X-ray diffraction (XRD) was
+conducted on a Panalytical X’pert Pro Super X-ray diffractometer
+using Cu Kα radiation (40 kV, 40 mA, λ = 0.15406 nm) over an
+angular range of 5−80° (2 theta). Inductively coupled plasma optical
+emission spectrometry (ICP-OES) was used to characterize the zinc
+content by an Optima2000DV. Scanning transmission electron
+microscopy (STEM) images were obtained using a Hitachi HF5000
+instrument at 200 kV. The strength and number of acid and base sites
+on the surfaces were studied by temperature-programmed desorption
+with mass spectrometry (TPD-MS) using a Micromeritics AutoChem
+II 2920 instrument. Typically, 100 mg of sample was loaded into a U-
+shaped quartz tube and treated in a He flow at 400 °C for 2 h to clean
+the surface. When the sample temperature dropped to 100 °C, the
+surface was sequentially swept by a He flow for 0.5 h, a CO2 or NH3
+flow for 0.5 h, and then a He flow for 1 h to remove any weakly
+adsorbed CO2. Finally, the sample was heated from 50 to 400 °C in a
+He flow with a rate of 10 °C·min−1.
+2.3. Catalytic Activity Measurements. The catalytic perform-
+ance was tested under atmospheric pressure in a quartz-tube fixed bed
+microreactor with an inner diameter of 8 mm. The catalyst was
+pretreated in the N2 flow at 400 °C for 2 h before the test, and the
+same bed height was maintained. During the test, the flow rate of the
+carrier gas nitrogen is 30 mL·min−1 to ensure that the c
+
+pheric pressure in a quartz-tube fixed bed
+microreactor with an inner diameter of 8 mm. The catalyst was
+pretreated in the N2 flow at 400 °C for 2 h before the test, and the
+same bed height was maintained. During the test, the flow rate of the
+carrier gas nitrogen is 30 mL·min−1 to ensure that the catalytic
+reaction is in the kinetic zone. Ethanol, dried prior to use by mixing
+with calcium oxide to remove water, was fed into the reactor through
+a bubbler with a N2 carrier. The gas product was analyzed using a gas
+chromatograph (GC) with a flame ionization detector (FID) and a
+thermal conductivity detector (TCD). The Zn-HAP catalyst exhibited
+good stability in a 40 h test, showing an average carbon deposition
+rate of 0.0035 mg/min. As the feed rate of ethanol is 3.7 mg/min, the
+deposited carbon only accounts for 0.1%, indicating that the carbon
+balance is close to 100%.
+The ethanol conversion and product selectivity were calculated on
+the basis of moles of carbon in the products, respectively:
+Ethanol conversion:
+i
+k
+jjjjjjj
+y
+{
+zzzzzzz
+N
+A
+f
+N
+A
+f
+NA f
+con. (%)
+1
+100
+i
+i
+i i
+out,ethanol
+out,ethanol out,ethanol
+out,ethanol
+out,ethanol out,ethanol
+2
+=
++
+×
+Product selectivity:
+NA f
+NA f
+Sel. (%)
+100
+i
+i i
+i
+i
+i i
+2
+=
+×
+where Ni, Ai, and f i represent the carbon number, the FID peak area,
+and the response factor of each product, respectively.
+Turnover frequency (TOF):
+F
+M
+D
+TOF
+Con. (s )
+Ethanol
+Zn
+Zn
+1
+=
+where FEthanol, MZn, and DZn represent the flow rate of ethanol, the
+molar mass of zinc, and the dispersion of zinc, respectively. The
+dispersion of zinc is estimated by the XRD patterns.
+2.4. Computational Method. All calculations were performed by
+the density functional theory (DFT) method implemented in the
+Vienna Ab initio Simulation Package (VASP 5.4.4).21,22 The Perdew−
+Burke−Ernzerhof (PBE) method was adopted for the exchange
+correlation
+energy. 2 3 , 2 4
+Hexagonal
+hydroxyapatite
+((Ca10(PO4)6(OH)2, space group P63/m) was used to prepare a
+HAP 2 × 2 × 1 supercell
+
+
+========== RESULTS ==========
+
+RESULTS AND DISCUSSION
+3.1. Catalyst Characterization. The X-ray diffraction of
+HAP and Zn-HAP was investigated to analyze the effect of Zn
+doping on their structural properties. Figure 1 shows the
+diffraction peaks of the (002), (211), and (300) crystal planes
+on both samples. The angles of these peaks match well with
+those of the stoichiometric hydroxyapatite used as a reference,
+identifying that the HAP catalyst presents a hexagonal
+structure in the P63/m space group. The XRD pattern of Zn-
+HAP retains the features of pure HAP, indicating that the Zn
+doping did not cause phase transition. No characteristic crystal
+planes of ZnO, Zn3P2, or Zn3(PO4)2 were detected at a 1.4 wt
+% loading of Zn. As the loading of Zn increased, the ZnO peak
+appeared, and its intensity gradually grew monotonously
+(Figure S1). This suggests that Zn is highly dispersed at low
+loadings and anchored at its doping site, which was confirmed
+ACS Sustainable Chemistry & Engineering
+pubs.acs.org/journal/ascecg
+Research Article
+https://doi.org/10.1021/acssuschemeng.3c05085
+ACS Sustainable Chem. Eng. 2023, 11, 16300−16309
+16301
+by the in situ XRD results in the temperature range of 50−600
+°C (Figure S2).
+The STEM images (Figure 2 and Figure S3) collected from
+various regions of the catalyst indicated that there were no
+observable Zn-rich domains, which can be attributed to the
+high lattice match between Zn and Ca in HAP,31,32 as proved
+by energy-dispersive X-ray spectroscopy (EDS) (Figure 2b).
+The lack of Zn-containing aggregates on the surface of the Zn-
+HAP catalyst in the TEM images and the absent peaks of Zn-
+containing species in the X-ray diffraction pattern indicate the
+successful preparation of the highly dispersed Zn-HAP catalyst.
+The surface basicity of HAP and Zn-HAP, which determines
+the product distribution,33 was evaluated by CO2-TPD
+experiments. As shown in Figure 3a, three CO2 desorption
+peaks at 122, 195, and 253 °C were observed for both catalysts,
+corresponding to the weak basic
+
+een the reactions over the HAP and Zn-
+HAP catalysts was the selectivity of the products with the
+aliphatic products favored in the former while the aromatic
+alcohols favored in the latter (Figure 4). On HAP, ethanol
+mainly underwent coupling reactions to produce straight chain
+alcohol with over 90% selectivity. At 250 °C, n-butanol was the
+main product. Elevation of temperature resulted in growing
+hydrocarbon chains, and the major products remained
+saturated aliphatic alcohols with negligible unsaturated
+alcohols and aldehydes (Figure 4a).
+Compared with HAP, Zn-HAP showed a much higher
+activity in view of the significantly increased ethanol
+conversion (29.8% vs 63.1% at 325 °C). In the meantime,
+the major products were methylbenzyl alcohols, suggesting
+that the channels to produce aliphatic products were
+suppressed (Figure 4b) and implicating that the ethanol
+conversion on HAP and Zn-HAP proceeded along different
+pathways. Elevation of temperature accelerated the conversion
+rate significantly but did not change the aromatics distribution,
+and the selectivity of the ortho- and para-products remained 35
+and 2% (±1%). When twice as much ethanol was fed, the
+selectivity of ortho-aromatics was measured as 32% at 250 °C
+and 35% at 325 °C, respectively. The marginal difference
+suggests that the formation of aromatic products reached
+equilibrium on the Zn-HAP catalyst (Figure S4). At elevated
+temperatures, the total selectivity of aliphatic alcohols C4−12−
+OH decreased (20.8%), while that of acetaldehyde increased
+(23.0% at 325 °C).
+We also noted that during the ethanol conversion on Zn-
+HAP, there was excess amount of acetaldehyde intermediate of
+up to 23% detected while negligible 2-butenal intermediate,
+Figure 1. XRD patterns of HAP and Zn-HAP (1.4 wt %).
+Figure 2. (a) STEM image and (b) EDS mapping of original, calcium, oxygen, and zinc of Zn-HAP (1.4 wt %).
+ACS Sustainable Chemistry & Engineering
+pubs.acs.org/journal/ascecg
+Research Article
+https://doi.org/10.1021/acs
+
+s.
+3.2.2. Influence of Zn Loading. Table 1 shows the effect of
+Zn loading on the selectivity of the major oxygen-containing
+products. In general, the doping of Zn not only raised the
+conversion rate of ethanol but also significantly changed the
+product distribution. With the increase in Zn loading in the
+range of 0 to 1.4 wt %, the selectivity of aromatics increased
+sharply from 0.4 to 36.5%, and the selectivity of acetaldehyde
+gradually increased from 1.6 to 23.0%. Meanwhile, the
+selectivity of long-chain aliphatic alcohols, such as n-butanol,
+dramatically decreased from 53.6 to 11.0%. The results
+indicate that Zn dopants effectively promote ethanol
+dehydrogenation, thereby modulating the reaction path and
+the product distribution. The TOF value of Zn site could reach
+2.51 × 10−2 s−1, which is much higher than that of the best
+previously reported transition metal-doped HAP catalyst (1.63
+× 10−2 s−1 on Co-HAP).19 When the Zn loading is above 1.4
+wt %, the ethanol conversion decreases due to the growth of
+metal clusters (Figure S1) with poorer dehydrogenation
+activity (Figure S5).
+3.2.3. Mechanism. The selectivity of aromatics on the Zn-
+HAP catalyst is ∼100 times that on the HAP, implicating the
+different reaction pathways on the two catalysts. To under-
+stand the reasons for the significant difference between the two
+catalysts in catalyzing the ethanol conversion, experiments with
+various WHSV values were conducted to manipulate the
+contact time of ethanol on the Zn-HAP catalysts. Figure 6
+shows the positive correlation between contact time,
+represented by 1/WHSV, and the yield of acetaldehyde on
+Zn-HAP, and the sharp increase at a short contact time
+suggests that acetaldehyde is the primary product formed by
+the ethanol dehydrogenation. As the contact time increases to
+above 0.2 h, the yield of acetaldehyde tends to be stable and
+the yield of 2-butenal remains low, indicating that 2-butenal
+can hardly accumulate under the experimental conditions and
+is rapidly con
+
+l upgrading to
+aromatics on Zn-HAP is summarized in Scheme 2.
+3.2.4. Stability of the Catalyst. Stability is one of the key
+characteristic parameters in the evaluation of solid catalysts.
+Figure 8 shows the time evolution of the Zn-HAP catalyst
+performance in the conversion of ethanol to aromatic alcohol
+at 325 °C. During the initial stage of the reaction, the
+conversion rate declined first and then remained stable, and
+the 2-MB selectivity showed the same trend. The initial
+decrease in activity was attributed to the rapid polymerization
+of acetaldehyde into polycyclic substances covering part of the
+surface sites (Figure S7). This is confirmed by the recovery of
+the catalyst at 400 °C for 2 h in an air atmosphere.
+The recovered catalyst was subjected to an ethanol
+conversion reaction under the same test conditions, and a
+similar catalytic performance to the previous catalytic test was
+obtained. This showed that the recovery of the catalyst can
+restore both its initial and operational activity as the fresh
+catalyst, and the conversion rate of ethanol and the selectivity
+of aromatics were retained. These results show that the catalyst
+not only has good stability but also can be conveniently
+recovered with good recyclability. These properties enable it to
+be one of the potential industrial catalysts.
+3.3. DFT Calculation. In the XRD characterization of Zn-
+HAP, the pattern of hexagonal hydroxyapatite was observed,
+which is also generally considered to be more active than
+monoclinic hydroxyapatite.40 Thus, when the Zn-HAP models
+were prepared, the hexagonal conformation was adopted, as
+shown in Figure 9a. In the models, the calcium ions
+coordinated with nine oxygen atoms of phosphate groups are
+denoted as CaI sites, and those coordinated with six oxygen
+atoms of phosphate groups and one from the hydroxyl group
+are denoted as CaII sites.40 Considering that no noticeable
+metal particles were observed at a low loading of Zn, when
+preparing the Zn-HAP model, only one Zn2+

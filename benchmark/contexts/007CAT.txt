@@ -1,0 +1,338 @@
+========== ABSTRACT ==========
+
+summary, a likely reaction path on alumina catalyst is sum-
+marized in Scheme 1. Taking into account that water is a product of
+reactions 1 and 2 and that reaction temperature is low, it can be
+supposed that the surface is largely hydroxylated. Thus the active
+site can be supposed to be constituted by active hydroxyl groups
+as discussed previously [35]. Thus the ﬁrst step, denoted as step
+A in Scheme 1, corresponds to reaction (6), producing ethoxy
+groups with desorption of water. Later, step B in the scheme gives
+rise to ethylene through a substantially irreversible elimination
+mechanism (reaction (9)). As a parallel way, in step C reaction with
+gas phase ethanol gives rise to diethyl ether in a reversible way. In
+fact, diethyl ether adsorption can crack with the sequence step –C,
+step –B producing ethylene too. As said, step B is faster than step C
+at high temperature and conversion while the reverse is true at
+lower temperature and conversion. In the case of zeolite catalyst,
+the scheme of ethanol decomposition is essentially the same.
+5. Conclusions
+The main conclusions from these data are the following:
+1. Acidic catalysts like zeolites, alumina and silica–alumina are
+active in the temperature range 453–573 K for both ethanol
+dehydration to DEE and to ethylene and for DEE cracking and
+hydrolysis, producing back ethanol and ethylene.
+2. Protonic zeolites are more active than alumina which is slightly
+more active than silica–alumina for these reactions. It is con-
+ﬁrmed that the active sites of silica–alumina are different and
+less active than those of protonic zeolites.
+3. Ethanol dehydration to DEE occurs selectively at lower tem-
+perature with a ‘‘bimolecular’’ mechanism involving reaction
+of ethoxy groups with undissociated ethanol.
+4. Ethanol dehydration to ethylene occurs selectively at relatively
+high
+temperature
+with
+an
+elimination
+mechanism
+via
+decomposition of ethoxy groups over these catalysts.
+5. Ethanol dehydration to ethylene occurs also at lower te
+
+
+========== EXPERIMENTAL ==========
+
+n contact time, as shown in Fig. 4, i.e. the lower the space
+velocity (SV), the greater the conversion, as expected indeed. The
+data are reported as Table 2 in supplementary material. On the
+other hand, the DEE selectivity clearly has a reverse trend. At lower
+space velocities the DEE selectivity drops in favor of ethylene selec-
+tivity. To look deeper at this we considered the selectivities at the
+same conversion, at different SV and temperature. As for example,
+at conversions in the range 81–83%, the selectivity to DEE drops
+from 43.6% to 8.1% when temperature is increased from 523 K to
+573 K in spite of the simultaneous strong increase in space velocity
+from 0.72 to 7.0 h1. This shows that reaction temperature has
+deﬁnitely a stronger effect, at high conversion levels, to favor ethy-
+lene selectivity, than conversion itself, i.e. ethanol partial pressure.
+Table 1
+The properties of investigated catalysts.
+Notation
+Phase
+Composition
+Commercial name
+Manufacturer
+Preparation
+SBET
+a
+MgA
+Calcined hydrotalcite
+MgO/Al2O3 wt%70:30
+Pural MG70
+Sasol
+Calcined at 773 K for 4 h
+195 ± 10b
+A
+Alumina
+Al2O3
+Puralox SBa 200
+Sasol
+As received
+190 ± 10
+SA
+Silica–alumina
+SiO2–Al2O313% wt Al2O3
+Cracking catalyst
+Strem chemical
+As received
+330 ± 10
+FER
+H-ferrierite
+SiO2/Al2O3 mol 20
+CP 914C
+Zeolyst
+Calcined at 773 K, 4 h
+400
+MFI
+H-ZSM-5
+SiO2/Al2O3 mol 280
+CBV 28014
+Zeolyst
+Calcined at 773 K, 4 h
+400
+USY
+H-faujasite
+SiO2/Al2O3 mol 30
+CBV 720
+Zeolyst
+As received
+780
+a From manufacturer.
+b BET measurement.
+Temperature (K)
+200
+300
+400
+500
+600
+700
+mol
+0
+20
+40
+60
+80
+100
+C2H4(g)
+H2O(g)
+(C2H5)2O(g)
+C2H5OH(g)
+Fig. 1. Equilibrium compositions curve of ethanol, diethyl ether, ethylene and
+water in gas phase as a function of temperature.
+Absorbance 
+ 1450 
+ 1500 
+ 1550 
+ 1600 
+ 1650 
+ 1700 
+Wavenumbers (cm-1)
+0.2 
+MgA
+MFI 
+USY
+A
+SA
+1634 
+1622 
+1545 
+1455 
+1489 
+1602 
+Fig. 2. FT-IR subtraction spectra of surface species arising from pyridine adsorbed
+on investigated catalysts after evacuated at 373 
+
+n the reaction steps. It can be concluded that, in
+the step up to 473 K, the only phenomenon is the essentially irre-
+versible adsorption and saturation of the surface with ethanol. In
+the range 473–523 K the only fast reaction is the synthesis of
+DEE implying reaction of ethoxide species together with gas phase
+or weakly adsorbed ethanol. In spite of the very prolonged contact
+FER
+0
+20
+40
+60
+80
+100
+XC2H5OH
+S(C2H5)2O
+SC2H4
+SOthers
+Temperature (K)
+350
+400
+450
+500
+550
+600
+650
+Total Ethanol conversion (%)
+0
+20
+40
+60
+80
+100
+MgA
+A
+SA
+FER
+MFI
+USY
+Conversion & selectivity (%)
+MFI
+Temperature (K)
+350
+400
+450
+500
+550
+600
+650
+0
+20
+40
+60
+80
+100
+MgA
+0
+20
+40
+60
+80
+100
+A
+0
+20
+40
+60
+80
+100
+SA
+0
+20
+40
+60
+80
+100
+USY
+Temperature (K)
+350
+400
+450
+500
+550
+600
+650
+0
+20
+40
+60
+80
+100
+Fig. 3. Conversion and selectivities to C-containing products of ethanol over investigated catalysts at atmospheric pressure in a ﬁxed-bed tubular quartz reactor using 0.5 g of
+catalysts with 1.43 h1 WHSV in nitrogen, as a function of reaction temperature.
+T.K. Phung, G. Busca / Chemical Engineering Journal 272 (2015) 92–101
+95
+time, ethylene is essentially not formed. In the range 523–573 K
+both DEE cracking and ethoxy-group cracking become apparently
+fast, producing gas phase ethylene.
+Similar experiments were performed with zeolite catalysts. The
+data obtained with FER are reported in Fig. 6. The IR spectra of the
+adsorbed
+species
+closely
+correspond
+to
+those
+reported
+for
+WHSV (h-1)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+XC2H5OH , S(C2H5)2O and SC2H4(%) 
+0
+20
+40
+60
+80
+100
+XC2H5OH
+S(C2H5)2O
+SC2H4
+1.43 h-1 WHSV
+Temperature (K)
+350
+400
+450
+500
+550
+600
+650
+0
+20
+40
+60
+80
+100
+Ethanol conversion and Selectivity (%)
+0.72 h-1 WHSV
+0
+20
+40
+60
+80
+100
+7 h-1 WHSV
+Temperature (K)
+350
+400
+450
+500
+550
+600
+650
+0
+20
+40
+60
+80
+100
+XC2H5OH
+S(C2H5)2O
+SC2H4
+SC3=
+SC4
+SC5
+SOthers
+Fig. 4. Conversion and selectivities to C-containing products of ethanol over MFI at different space velocities; conversion, diethyl ether selectivity and ethylene selectivity 
+
+
+========== RESULTS ==========
+
+results of a screen-
+ing study on the catalytic cracking of DEE, a correlation of the
+acido-basic properties of the catalysts with the catalytic behavior
+and some consideration on the reaction path concerning ethanol
+dehydration on acid catalysts.
+2.

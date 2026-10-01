@@ -1,0 +1,127 @@
+{
+    "paper": "007CAT",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Alumina Al2O3 Puralox SBa 200 Sasol As received",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "A",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Alumina Al2O3 Puralox SBa 200 Sasol As received",
+                "reason": "The article explicitly associates A with Alumina."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Silica–alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Silica–alumina SiO2–Al2O313% wt Al2O3 Cracking catalyst Strem chemical As received",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "SA",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Silica–alumina SiO2–Al2O313% wt Al2O3 Cracking catalyst Strem chemical As received",
+                "reason": "The article explicitly associates SA with Silica–alumina."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-ferrierite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "H-ferrierite SiO2/Al2O3 mol 20 CP 914C Zeolyst Calcined at 773 K, 4 h",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "FER",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "H-ferrierite SiO2/Al2O3 mol 20 CP 914C Zeolyst Calcined at 773 K, 4 h",
+                "reason": "The article explicitly associates FER with H-ferrierite."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-ZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "H-ZSM-5 SiO2/Al2O3 mol 280 CBV 28014 Zeolyst Calcined at 773 K, 4 h",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "MFI",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "H-ZSM-5 SiO2/Al2O3 mol 280 CBV 28014 Zeolyst Calcined at 773 K, 4 h",
+                "reason": "The article explicitly associates MFI with H-ZSM-5."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-faujasite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "H-faujasite SiO2/Al2O3 mol 30 CBV 720 Zeolyst As received",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "USY",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "H-faujasite SiO2/Al2O3 mol 30 CBV 720 Zeolyst As received",
+                "reason": "The article explicitly associates USY with H-faujasite."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcined hydrotalcite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcined hydrotalcite MgO/Al2O3 wt%70:30 Pural MG70 Sasol Calcined at 773 K for 4 h",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "MgA",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Calcined hydrotalcite MgO/Al2O3 wt%70:30 Pural MG70 Sasol Calcined at 773 K for 4 h",
+                "reason": "The article explicitly associates MgA with Calcined hydrotalcite."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Alumina",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Alumina Al2O3 Puralox SBa 200 Sasol As received",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Al2O3",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Alumina Al2O3 Puralox SBa 200 Sasol As received",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 14
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "paper": "High Catalytic Activity in Upgrading of Ethanol to Aromatic Alcohols over Zinc Hydroxyapatite",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "zinc hydroxyapatite",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The term 'zinc hydroxyapatite' is not explicitly mentioned in the article; only 'zinc-loaded hydroxyapatite' and 'hydroxyapatite' are used."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "zinc-loaded hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The Zn-HAP catalyst exhibited good stability in a 40 h test.",
+                "reason": "The catalyst is explicitly identified as 'zinc-loaded hydroxyapatite (Zn-HAP)' in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP was impregnated with Zn(NO3)2.",
+                "reason": "The catalyst is explicitly identified as 'hydroxyapatite (HAP)' in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Zn",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The Zn site plays a role in hydrogen transfer for dehydrogenation and hydrogenation.",
+                "reason": "The metal is explicitly identified as 'Zn' in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "zinc",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The Zn site plays a role in hydrogen transfer for dehydrogenation and hydrogenation.",
+                "reason": "The metal is explicitly referred to as 'zinc' in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "HAP was impregnated with Zn(NO3)2.",
+                "reason": "The support is explicitly identified as 'hydroxyapatite' in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "HAP was impregnated with Zn(NO3)2.",
+                "reason": "The support is explicitly referred to as 'hydroxyapatite' in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "HAP was impregnated with Zn(NO3)2.",
+                "reason": "The support is explicitly associated with the identifier 'HAP' in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Zn-HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The Zn-HAP catalyst exhibited good stability in a 40 h test.",
+                "reason": "The support is explicitly associated with the identifier 'Zn-HAP' in the context."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 1,
+            "partial": 0,
+            "correct": 8
+        }
+    }
+}

@@ -1,0 +1,230 @@
+========== ABSTRACT ==========
+
+rms of n-butanol selectivity (30%), 
+corresponding to a total n-butanol yield of 18%, have been found to be as 
+follows: 400ºC, W/F of 0.2 gETOH/(gCAT•h). 
+In addition, from the point of view of the overall Guerbet alcohols 
+production, Fig. 10 presents the variation of the selectivity to the main 
+reaction products with the ethanol conversion for the 7Cs/Sep@ 500 
+catalyst. For comparison, Fig. S7 presents the variation of ethanol con­
+version with contact time, W/F (in gCAT/(mL⋅s)). As it can be observed in 
+Fig. 10, the total alcohols selectivity followed the same trends man­
+ifested by 1-butanol, reaching a maximum of the cumulative selectivity 
+of Guerbet alcohols as high as 40% with an ethanol conversion of 60%, 
+while working in the optimized reaction conditions, i.e., 400 ºC, and 
+WHSV of 0.2 gETOH/(gCAT•h). 
+4. Conclusions 
+In this paper, the continuous upgrading of EtOH to n-butanol and 
+higher alcohols over calcined sepiolite promoted by alkali metals has 
+been demonstrated with good results both in terms of ethanol conver­
+sion and n-butanol yield compared to the results recently reported in 
+Fig. 9. Conversion of the ethanol (A) and the selectivity of the main reaction 
+products (B) over the alkali-metal doped catalyst with ~0.6 mmolMe/gsep of 
+molar metal loading (nMe/wsep). Guerbet alcohols: 2-ethyl-butanol, 1-hexanol, 
+2-ethyl-hexanol, 1-octanol. Reaction conditions: EtOH 5% v/v in N2, P = 1 atm, 
+Temperature= 450 ◦C; WHSV= 1 gEtOH/(gCAT•h). Catalysts: 2Na/Sep@ 500; 
+2 K/Sep@ 500; 7Cs/Sep@ 500. 
+Fig. 10. Variation of the selectivity to the main reaction products (Si, %) with 
+ethanol conversion over the 7Cs/Sep@ 500 catalyst. Guerbet alcohols: n- 
+butanol, 2-ethyl-butanol, 1-hexanol, 2-ethyl-hexanol, 1-octanol; Others: others 
+NID (Other unidentified products) and ID (acetone, 2-pentanone, CO2, ethyl 
+acetate, ethane). Reaction conditions: EtOH 5% v/v in N2, Temper­
+ature= 400 ◦C; P = 1 atm; WHSV= 2, 1, 0.3, 0.2 and 0.1 gEtOH/(gCAT•h). 
+G. Balestra e
+
+
+========== EXPERIMENTAL ==========
+
+Experimental 
+2.1. Materials 
+Natural sepiolite (Sepiolite 11AS-13) was provided by Tolsa, S.A. 
+Reagents and standards were analytical grade, in particular: absolute 
+ethanol (Scharlab), Mg(CH3COO)2⋅4 H2O (%), HO2CCO2H⋅2 H2O 
+(99%), Na2CO3 (99.8%), K2CO3 (99%), Cs2CO3 (99%) all obtained from 
+Sigma Aldrich and used as received. 
+2.2. Preparation of the catalysts 
+Magnesium oxide was synthesized by precipitation method [45]. The 
+precipitation has been conducted at pH 5 with a NH4OH 1.3 M aqueous 
+solution, of a magnesium acetate Mg(CH3COO)2•4 H2O solution with an 
+oxalic acid C2O4H2⋅2 H2O solution, in which the magnesium oxalate 
+β-MgC2O4 precipitate immediately. The solid obtained was filtered, 
+washed, and dried at 80ºC overnight. The obtained solid has been 
+calcined at 700 ºC for 3 h, with a 2 ºC min-1 ramp, obtaining the mag­
+nesium oxide MgO. 
+Sepiolite catalysts were prepared starting from a sample of natural 
+sepiolite, previously calcined at 500ºC or 700 ◦C. Sepiolite supports have 
+been impregnated with alkali metals (i.e., Na, K and Cs) by incipient 
+wetness impregnation (IWI). To do so, an appropriate amount of 
+aqueous metal carbonate solutions has been added drop-wise to the 
+calcined sepiolite after a previous measure of the mud point of the 
+support. A slurry has been obtained and the powdery solid was manually 
+mixed in order to accomplish the maximum homogeneity. Then, the 
+solids were dried at 100 ºC (16 h) and calcined in air at 500 ºC for 3 h 
+with a heating ramp of 2 ºC min-1. The general symbols for the catalysts 
+used were xM/Sep@Y, where “x” was the number related to the metal 
+amount (2, 4, 5, 7 or 14) expressed as weight percent (wt%), “M” the 
+alkali metal concerned (Na, K or Cs) and “Y” the calcination temperature 
+employed for the sepiolite support (i.e. 500 or 700 ºC). 
+In particular, the following catalysts have been synthesized: 
+– xNa/Sep@ 500 series (with 2 or 5 wt% of Na+) and xNa/Sep@ 700 
+series (with 2 or 5 wt% of Na+); 
+– xK/
+
+he NH3 desorption was monitored 
+with a thermal conductivity detector (TCD) and a mass-spectrometer 
+following the characteristic mass of ammonia at 15 a.m.u. 
+Carbon dioxide temperature programmed desorption (TPD-CO2) 
+experiments were performed in an Autochem II (Micrometrics) instru­
+ment with catalyst in pellets (calcined) for the analysis of the base 
+properties of catalyst. The sample was placed in a quartz tubular reactor 
+and pre-treated under 30 mL min−1 He flow to the calcination tem­
+perature (500 ◦C) for 60 min, in order to remove adsorbed H2O and CO2 
+from the catalyst surface prior to adsorption. Then the catalyst was 
+cooled down to 40 ◦C and the catalyst surface was saturated with the 
+probe molecule for 1 h (flow rate of 30 mL min-1 of 10 v/v % of CO2 in 
+He). Physisorbed CO2 was removed by flowing He (30 mL min-1) for 
+60 min. Then, the sample was heated at 10 ◦C min-1 up to 500 ◦C and the 
+desorbed probe molecules were monitored and recorded using TCD 
+detector. 
+Morphological and structural characterization of the samples was 
+performed by scanning electron microscopy (SEM) and energy- 
+dispersive spectrometry (EDS). Scanning electron microscopy (SEM) 
+micrographs were collected in a JEOL 6300 microscope operating at 
+20 kV. The quantitative EDX analysis was performed using an Oxford 
+LINK ISIS System with the SEMQUANT program. In this work, Energy 
+Dispersive Spectroscopy was used to perform a semi-quantitative anal­
+ysis of the elements, in particular to quantify the alkali-metals amount. 
+TGA analyses of catalysts were performed on NETZSCH STA 449 F3 
+Jupiter® that permits the simultaneous measurement of weight changes 
+and thermal effects. The sample (typically 10 mg) was heated up to 
+800 ◦C with a heating rate of 10 ◦C min−
+1 in air flow (100 mL min−1). 
+2.4. Catalytic tests 
+The catalytic experiments were performed using a conventional 
+system with a fixed bed quartz-reactor at atmospheric pressure. The feed 
+composition was EtOH/N2 = 5/95
+
+
+========== RESULTS ==========
+
+red to the one obtained with the reference catalysts, 
+MgO, previously synthetized in the lab. The tests have been carried out 
+at 450 ◦C, with a percentage of EtOH in the feed stream equal to 5 mol% 
+in N2 while keeping a weight hourly space velocity (WHSV) of 1 gETOH/ 
+(gCAT h). The results, expressed in terms of conversion of EtOH, as well 
+as the selectivity to the main reaction products (Si), are shown in Fig. 4. 
+It can be noted that the sepiolite supports, i.e. Sep@ 500 and 
+Sep@ 700, are more active compared to MgO (Fig. 4), leading to a 
+higher ethanol conversion values, equal to 80%, 55% and 35%, 
+respectively. Moreover, the thermally treated sepiolite samples mainly 
+performed as acid catalysts leading to the formation of the dehydration 
+products of ethanol, namely diethyl ether and ethene. In addition, the 
+sepiolite sample calcined at 700 ºC was less active than the one treated at 
+500 ºC; the lower activity mainly related to the lower value of surface 
+area of Sep@ 700 sample (see Table 1). 
+One possible way to decrease the dehydration rate of ethanol over 
+sepiolite is to selectively remove, block or deactivate the acid sites 
+responsible for dehydration by adding small amounts of alkali metal. 
+Figs. 5 and 6 summarizes the catalytic results obtained over the Na- 
+doped samples. 
+As it can be seen in Fig. 5, the sodium addition over sepiolite resulted 
+in a generalized reduction in activity, leading to lower values of ethanol 
+conversion, in both xNa/Sep@ 500 and xNa/Sep@ 700 series. 
+At the same time, the selectivity of ethanol dehydration products 
+Fig. 4. Ethanol conversion (left) and selectivity to the main reaction products (right), during the ethanol transformation over MgO, Sep@ 500 and Sep@ 700 
+catalysts. Reaction conditions: EtOH 5% v/v in N2, T = 450 ◦C, P = 1 atm, WHSV= 1 gETOH/(gCAT•h). 
+Fig. 5. Ethanol conversion (X,%) for the ethanol gas-phase transformation over 
+Na-doped sepiolite catalysts: xNa/Sep@ 500 and xNa/Sep@ 700 series, with
+
+ transformation over MgO, Sep@ 500 and Sep@ 700 
+catalysts. Reaction conditions: EtOH 5% v/v in N2, T = 450 ◦C, P = 1 atm, WHSV= 1 gETOH/(gCAT•h). 
+Fig. 5. Ethanol conversion (X,%) for the ethanol gas-phase transformation over 
+Na-doped sepiolite catalysts: xNa/Sep@ 500 and xNa/Sep@ 700 series, with 
+Na-loading (x) of 0, 2 or 5 wt%. Reaction conditions: EtOH 5% v/v in N2, 
+T = 450 ◦C, P = 1 atm, WHSV= 1 gETOH/(gCAT•h). Catalysts: Sep@ 500, 2Na/ 
+Sep@ 500, 5Na/Sep@ 500, Sep@ 700, 2Na/Sep@ 700 and 5Na/Sep@ 700. 
+Fig. 6. Influence of Na-content on the selectivity of the main reaction products (Si, %), during the ethanol gas-phase transformation over Na-doped sepiolite cat­
+alysts: A) xNa/Sep@ 500; and B) xNa/Sep@ 700 series, with Na-loading (x) of 0, 2 or 5 wt%. Others ID: acetone, 2-pentanone, CO2, ethane; Others NID: other 
+unidentified products. Reaction conditions as in Fig. 5. 
+G. Balestra et al. 
+Catalysis Today 423 (2023) 114013
+7
+(ethene and diethyl ether) decreased while selectivity of the reaction 
+product of ethanol dehydrogenation (acetaldehyde) increased with Na 
+metal loading (Fig. 6). This can be related to the change of acid-base 
+properties of the catalysts, as determined by TPD analysis (Table 2, 
+Figs. S3 and S4), where it has been observed a decrease of the acidity 
+with increasing alkali-metal loading. Interestingly, over the Sep@ 700 
+supported samples in addition of being less active, the extent of the 
+decreasing of acid reaction products (Fig. 6B) was lower than the one 
+obtained over the Sep@ 500 supported samples (Fig. 6A). The overall 
+selectivity of diethyl ether and ethene decreased from ~95% for the 
+support alone to ~ 50% with 5 wt% of sodium for the sepiolite calcined 
+at 700ºC, while it decreased from ~95% to ~20% for the one supported 
+over Sep@ 500. 
+Noteworthy the Na-modified Sep@ 500 supported catalysts led to 
+the formation of the Guerbet reaction product of ethanol: n-butanol. 
+Indeed, the 2Na/Sep@ 500 catalyst allowed to obtain 
+
+for the sepiolite calcined 
+at 700ºC, while it decreased from ~95% to ~20% for the one supported 
+over Sep@ 500. 
+Noteworthy the Na-modified Sep@ 500 supported catalysts led to 
+the formation of the Guerbet reaction product of ethanol: n-butanol. 
+Indeed, the 2Na/Sep@ 500 catalyst allowed to obtain n-butanol with a 
+selectivity of 14%. An increase of the alkali metal loading did not lead to 
+any beneficial effects, showing lower conversion with steady n-butanol 
+selectivity. 
+The presence of an alkali metal showed to be crucial in favouring the 
+n-butanol formation pathway. Its presence led to an overall decrease of 
+the sepiolite acidity probably generating the right acidity/basicity ratio 
+required to induce n-butanol formation [46,47]. Accordingly, in order to 
+evaluate the effect of bigger and more electropositive alkali metals, 
+other sepiolite-supported catalysts have been prepared with different 
+alkaline metals. In particular, potassium and cesium have been added 
+through incipient wetness impregnation with different metal loading (i. 
+e., 2, 4, 5, or 14 wt%) over previously calcined sepiolite at 500ºC. All the 
+samples have been tested into the reaction system by feeding EtOH 5% 
+v/v in N2 at 450 ◦C, P = 1 atm and WHSV= 1 gETOH/(gCAT•h). Fig. 7 
+summarizes the catalytic results obtained enlightening the dependence 
+of ethanol conversion (X,%) and main products selectivity (S, %) on the 
+molar alkali metal loading, expressed as moles of the metals (mmol) 
+divided by the weight of the sepiolite (g), nMetal/wsepiolite. Here, the 
+catalytic results are reported in relation to the measured alkali metals 
+amount by SEM-EDX analysis (See Table 2). 
+According to these results, it is possible to propose a trend for both 
+ethanol conversion (Fig. 7) and the distribution of the main reaction 
+products (Fig. 8) with the molar amount of the alkali metals over sepi­
+olite support (highlighted by the dotted line). Ethanol conversion and 
+the selectivity to the dehydration
+
+sults, it is possible to propose a trend for both 
+ethanol conversion (Fig. 7) and the distribution of the main reaction 
+products (Fig. 8) with the molar amount of the alkali metals over sepi­
+olite support (highlighted by the dotted line). Ethanol conversion and 
+the selectivity to the dehydration products (i.e. ethene and diethyl ether) 
+decreased with increasing alkali-metal amount, showing a linear cor­
+relation between activity and acidity. 
+In an opposite trend, acetaldehyde selectivity increased when the 
+Fig. 7. Influence of alkali metal loading nMe/wsep (mmolMe/gsep, measured by 
+SEM-EDX) on the conversion of the ethanol. Reaction conditions: EtOH 5% v/v 
+in N2, Temperature= 450 ◦C; P = 1 atm; WHSV= 1 gEtOH/(gCAT•h). Catalysts: 
+2Na and 5Na/Sep@ 500; 2 K and 5 K/Sep@ 500; 2Cs, 4Cs, 7Cs and 
+14Cs/Sep@ 500. 
+Fig. 8. Influence of alkali metal loading nMe/wsep (mmolMe/gsep, measured by SEM-EDX) on the selectivity to the main reaction products. Guerbet alcohols: 2-ethyl- 
+butanol, 1-hexanol, 2-ethyl-hexanol, 1-octanol. Reaction conditions: EtOH 5% v/v in N2, Temperature= 450 ◦C; P = 1 atm; WHSV= 1 gEtOH/(gCAT•h). Catalysts: 2Na 
+and 5Na/Sep@ 500; 2 K and 5 K/Sep@ 500; 2Cs, 4Cs, 7Cs and 14Cs/Sep@ 500. 
+G. Balestra et al. 
+Catalysis Today 423 (2023) 114013
+8
+alkali-metal loading increased (Fig. 8). However, the trends of n-butanol 
+selectivity as well as the selectivity to butyraldehyde and higher alco­
+hols, is affected by both the nature and the amount of the alkali metal. 
+Indeed, both the trends of n-butanol and the consecutive Guerbet higher 
+alcohols selectivity presented a maximum in relation with the alkali 
+metal loading. The maximum value of n-butanol selectivity was ob­
+tained around 22% over the 2 K/Sep@ 500 and 7Cs/Sep@ 500 cata­
+lysts, which contained the same molar amount of alkali metal (namely 
+~0.6 mmolMe /gsep). It is worth noting that the acidity/basicity ratio (A/ 
+B ratio) measured by TPD analysis for both catalysts was quite similar (i. 
+e.

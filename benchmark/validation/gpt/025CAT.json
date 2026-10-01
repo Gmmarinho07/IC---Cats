@@ -1,0 +1,135 @@
+{
+    "paper": "025CAT",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "7Cs/Sep@ 500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In particular, potassium and cesium have been added through incipient wetness impregnation with different metal loading (i. e., 2, 4, 5, or 14 wt%) over previously calcined sepiolite at 500ºC.",
+                "reason": "The catalyst 7Cs/Sep@ 500 is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2Na/Sep@ 500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Noteworthy the Na-modified Sep@ 500 supported catalysts led to the formation of the Guerbet reaction product of ethanol: n-butanol.",
+                "reason": "The catalyst 2Na/Sep@ 500 is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2 K/Sep@ 500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The maximum value of n-butanol selectivity was obtained around 22% over the 2 K/Sep@ 500 and 7Cs/Sep@ 500 catalysts.",
+                "reason": "The catalyst 2 K/Sep@ 500 is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "5Na/Sep@ 500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Catalysts: Sep@ 500, 2Na/Sep@ 500, 5Na/Sep@ 500, Sep@ 700, 2Na/Sep@ 700 and 5Na/Sep@ 700.",
+                "reason": "The catalyst 5Na/Sep@ 500 is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sep@ 500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Catalysts: Sep@ 500, 2Na/Sep@ 500, 5Na/Sep@ 500, Sep@ 700, 2Na/Sep@ 700 and 5Na/Sep@ 700.",
+                "reason": "The catalyst Sep@ 500 is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sep@ 700",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Catalysts: Sep@ 500, 2Na/Sep@ 500, 5Na/Sep@ 500, Sep@ 700, 2Na/Sep@ 700 and 5Na/Sep@ 700.",
+                "reason": "The catalyst Sep@ 700 is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2Cs/Sep@ 500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Catalysts: 2Na and 5Na/Sep@ 500; 2 K and 5 K/Sep@ 500; 2Cs, 4Cs, 7Cs and 14Cs/Sep@ 500.",
+                "reason": "The catalyst 2Cs/Sep@ 500 is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "4Cs/Sep@ 500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Catalysts: 2Na and 5Na/Sep@ 500; 2 K and 5 K/Sep@ 500; 2Cs, 4Cs, 7Cs and 14Cs/Sep@ 500.",
+                "reason": "The catalyst 4Cs/Sep@ 500 is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "5 K/Sep@ 500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Catalysts: 2Na and 5Na/Sep@ 500; 2 K and 5 K/Sep@ 500; 2Cs, 4Cs, 7Cs and 14Cs/Sep@ 500.",
+                "reason": "The catalyst 5 K/Sep@ 500 is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "14Cs/Sep@ 500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Catalysts: 2Na and 5Na/Sep@ 500; 2 K and 5 K/Sep@ 500; 2Cs, 4Cs, 7Cs and 14Cs/Sep@ 500.",
+                "reason": "The catalyst 14Cs/Sep@ 500 is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Na",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "One possible way to decrease the dehydration rate of ethanol over sepiolite is to selectively remove, block or deactivate the acid sites responsible for dehydration by adding small amounts of alkali metal.",
+                "reason": "The metal Na is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "K",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "In particular, potassium and cesium have been added through incipient wetness impregnation with different metal loading.",
+                "reason": "The metal K is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cs",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "In particular, potassium and cesium have been added through incipient wetness impregnation with different metal loading.",
+                "reason": "The metal Cs is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Sepiolite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Natural sepiolite (Sepiolite 11AS-13) was provided by Tolsa, S.A.",
+                "reason": "The support Sepiolite is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Sepiolite 11AS-13",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Natural sepiolite (Sepiolite 11AS-13) was provided by Tolsa, S.A.",
+                "reason": "The support Sepiolite 11AS-13 is explicitly mentioned in the context."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 15
+        }
+    }
+}

@@ -1,0 +1,15 @@
+========== EXPERIMENTAL ==========
+
+Experimental
+
+
+========== RESULTS ==========
+
+results and density functional 
+theory (DFT) calculations suggest that nitrogen-doped lignin, in appropriate quantities, along with the metal 
+active component, forms a Ni-N-C structure that controls charge redistribution between the support and the Ni 
+catalyst. This structure hinders the interaction of reaction intermediates and inhibits the production of by- 
+products in the decomposition reaction, resulting in a higher yield of C4+ alcohols. This study presents a more 
+cost-effective and efficient approach for developing ethanol-coupling catalysts and holds promise for expanding 
+the utility of lignin-derived catalysts. 
+1.

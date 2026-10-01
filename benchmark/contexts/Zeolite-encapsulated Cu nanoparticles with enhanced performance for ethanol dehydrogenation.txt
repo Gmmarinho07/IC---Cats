@@ -1,0 +1,212 @@
+========== EXPERIMENTAL ==========
+
+Experimental
+2.1. Preparation of materials
+Synthesis of Cu@S-1: Tetraethyl orthosilicate (TEOS, 20.00 g,
+99.7 %, Tianjin Kemiou) and tetrapropylammonium hydroxide
+(TPAOH, 11.40 g, 25 %, Tianjin Guangfu) were ﬁrst added into
+deionized H2O (27 mL) and stirred to form a clear solution. The
+obtained solution was then heated in a water bath and kept at
+333 K for 1.5 h under stirring to form the starting gel of S-1. Then,
+Cu(NO3)23H2O (0.43 g, 99 %, Tianjin Damao) was dissolved into
+deionized H2O (10 mL) and mixed with tetraethylenepentamine
+(TEPA, 0.37 g, 95 %, TCI Shanghai), with the appearance of a dark
+blue solution. The obtained Cu-TEPA solution was added into the
+starting gel of S-1 and subjected at 443 K for 48 h under hydrother-
+mal conditions in a Teﬂon-lined stainless-steel autoclave. The solid
+powder was obtained after separation by centrifugation, washing
+with deionized H2O and drying at 373 K overnight. The obtained
+solid catalyst was calcined at 823 K for 6 h in air and subsequently
+cooled rapidly to room temperature. Cu@S-1 was then obtained
+and used after reduction at 673 K for 2 h under a ﬂow of 5 vol%
+H2/N2.
+Synthesis of Cu/S-1: TEOS (20.00 g) and TPAOH (11.40 g, 25 %)
+were ﬁrst added into deionized H2O (27 mL) and stirred to form a
+clear solution. The obtained solution was then heated in a water
+bath and kept at 333 K for 1.5 h under stirring to form the starting
+gel of S-1 and then subjected at 443 K for 48 h under hydrothermal
+conditions in a Teﬂon-lined stainless-steel autoclave. The solid
+powder was obtained after separation by centrifugation, washing
+with deionized H2O and drying at 373 K overnight. The obtained
+solid catalyst was calcined at 823 K for 6 h in air to obtain S-1.
+For loading Cu species, Cu(NO3)23H2O (0.076 g) was dissolved in
+deionized H2O (1.45 mL), and then the aqueous solution was added
+into the S-1 (1.00 g) dropwise with stirring. After drying at room
+temperature for 12 h, the mixture was transferred to an oven at
+353 K overnight
+
+ h in air to obtain S-1.
+For loading Cu species, Cu(NO3)23H2O (0.076 g) was dissolved in
+deionized H2O (1.45 mL), and then the aqueous solution was added
+into the S-1 (1.00 g) dropwise with stirring. After drying at room
+temperature for 12 h, the mixture was transferred to an oven at
+353 K overnight, followed by calcination at 673 K for 4 h. Cu/S-1
+was then obtained and used after reduction at 673 K for 2 h under
+a ﬂow of 5 vol% H2/N2.
+Synthesis of Cu/SiO2: Cu(NO3)23H2O (0.076 g) was dissolved in
+deionized H2O (3.17 mL), and then the aqueous solution was added
+into the SiO2 (1.00 g) dropwise with stirring. After drying at room
+temperature for 12 h, the mixture was transferred to an oven at
+353 K overnight, followed by calcination at 673 K for 4 h. Cu/
+SiO2 was then obtained and used after reduction at 673 K for 2 h
+under a ﬂow of 5 vol% H2/N2.
+2.2. Characterizations
+X-ray diffraction (XRD) was carried out using the PW3040/60
+X’Pert Pro powder X-ray diffractometer from PANAnalytical, the
+Netherlands. The diffraction source was Cu Ka ray (k = 1.5432 Å),
+Ni ﬁltered, LynxExe array detector, tube voltage and tube current
+were 40 KV and 40 mA, respectively. The scanning step is 0.02.
+The crystalline phase was identiﬁed with reference to the ICDD
+PDF-2 database. The actual Cu loading of catalysts was determined
+by inductively coupled plasma optical emission spectroscopy (ICP-
+OES) on an IRIS Intrepid II XSP instrument (Thermo Electron Corpo-
+ration) with a sensitivity line of 349.8 nm and a detection range of
+1–10 ppm. N2 physisorption isotherms were obtained at 77 K using
+a Micromeritics ASAP 2460 instrument, all samples were outgassed
+at 473 K for 12 h prior to the physisorption measurements. Scan-
+ning transmission electron microscopy (STEM) images were
+obtained with a JEOL JEM-2100F microscope operated at 200 kV.
+Energy dispersive X-ray spectra (EDX-mapping) were collected
+with a JEOL Oxford X-MaxN 80 T silicon drift detector, by rastering
+the beam over the target zone
+
+
+========== RESULTS ==========
+
+Results and discussion
+3.1. Physicochemical properties of different catalysts
+Scheme 1 illustrates the in-situ synthesis strategy of Cu@S-1. In
+detail, Cu2+ cations ﬁrst coordinate with polyethylenepolyamine
+(TEPA) to avoid precipitation under alkaline hydrothermal condi-
+tions during the zeolite S-1 synthesis. The as-obtained Cu-TEPA
+complexes could be captured during the zeolite assembly process
+and thus encapsulated within the cavities of the zeolite via the
+interaction between the metal complex and the zeolite [33,36].
+After a subsequent calcination at 550 C for 6 h in air and a follow-
+ing reduction at 400 C for 2 h under 5 % H2/N2 atmosphere, well-
+dispersed Cu nanoparticles within the cavities of S-1 could be
+obtained, denoted as Cu@S-1. Cu/S-1 and Cu/SiO2 as benchmark
+catalysts were also synthesized via a wet impregnation method.
+X-ray diffraction (XRD) patterns of Cu/S-1 and Cu@S-1 show the
+characteristic diffraction peaks of an MFI topological structure
+(Fig. S1a), indicating that the addition of Cu species has limited
+impact on the formation of the S-1 zeolite. Cu/SiO2 also retain
+the patterns of the supports after Cu loading (Fig. S1b). The absence
+of characteristic peaks of Cu species in all of the three Cu-
+containing catalysts is possibly due to the low Cu loading of
+2.00 wt%, as determined by inductively coupled plasma atomic
+emission spectroscopy (ICP-OES). Table 1 lists the physicochemical
+properties of different samples. Compared with the parent S-1,
+Cu@S-1 shows a more apparent decrease in microporosity in terms
+of micropore surface area and micropore volume than Cu/S-1 after
+Scheme 1. Schematic illustration of the in-situ encapsulation approach for the synthesis of Cu@S-1.
+L. Lin, P. Cao, J. Pang et al.
+Journal of Catalysis 413 (2022) 565–574
+567
+Cu addition (Fig. S2 and Table 1), indicating the successful encap-
+sulation of Cu species inside the micropores of the S-1 zeolite. In
+contrast, Cu/S-1 shows a major decrease in the external surface
+ar
+
+average Cu particle size from 49.3
+to 71.8 nm is detected for the Cu/SiO2 after a TOS of 16 h, as evi-
+denced by STEM (Fig. S6) and N2O chemisorption (Table 1), indicat-
+ing a severe sintering of Cu particles upon catalysis. These results
+suggest that the quick deactivation of Cu/SiO2 is attributed to the
+combined effects of coke deposition and the severe Cu sintering.
+By comparing the fresh and spent catalysts, limited change in
+porosity is observed for both Cu/S-1 and Cu@S-1 catalysts,
+Fig. 2. (a) Typical reaction networks for ethanol dehydrogenation; (b-c) The time proﬁles of the catalytic dehydrogenation of ethanol to acetaldehyde over Cu/SiO2, Cu/S-1
+and Cu@S-1. Reaction conditions: T = 523 K, ethanol gas/N2 40 mL/min, WHSV = 0.53 h1.
+L. Lin, P. Cao, J. Pang et al.
+Journal of Catalysis 413 (2022) 565–574
+569
+suggesting that the issue of coke deposition can be alleviated for
+employing the zeolite S-1 as support. However, similar phe-
+nomenon of Cu sintering is still observed for Cu/S-1, with an
+increase in the average Cu particle size from 2.8 to 3.7 nm after a
+TOS of 18 h (Table 1). Some large Cu aggregates with the size in
+the range of 20–50 nm are also visualized on the external surface
+of the spent Cu/S-1, as shown in the STEM images (Fig. S7). In con-
+trast, limited changes in the average Cu particle size from 1.9 to
+2.0 nm, as determined by N2O chemisorption (Table 1), are
+observed for the Cu@S-1 after a TOS of 110 h. Additionally, no large
+particles are observed for the spent Cu@S-1 by HAADF-STEM
+(Fig. 3a-b) and small Cu nanoparticles are still highly dispersed
+inside the zeolite S-1, conﬁrmed by HAADF-STEM and EDX-
+mapping analysis (Fig. 3c-d). Accordingly, the encapsulation of
+Cu species within the zeolite S-1 could efﬁciently inhibit the sinter-
+ing of Cu particles, which is the major reason accounted for the
+deactivation of Cu-based catalysts (Cu/SiO2 and Cu/S-1), thus lead-
+ing to the sustained high-performance during the continuous
+dehydrogenation o
+
+4.2 and 954.0 eV, Cu2+
+species at 936.2 and
+956.2 eV and
+satellite at 943.7 and
+963.7 eV), in consistency with the results of FT-IR-CO that Cu+CO
+species locate at higher wavenumber. This further indicates the
+more positively charged environment of Cu species in Cu/SiO2 as
+compared to that in Cu/S-1 and Cu@S-1.
+For further discrimination and quantiﬁcation of Cu+ species
+from Cu0 species, Cu LMM X-ray-induced Auger electron spec-
+troscopy (XAES) measurements were further conducted on the
+three Cu-based catalysts (Fig. 5b). The signals at 916.5 and
+919.5 eV are separately referred to Cu+ and Cu0 species [48,49].
+Fig. 5. (a) Cu 2p XPS spectra, (b) Cu LMM XAES spectra, (c) contents of different Cu species determined by Cu 2p XPS and Cu LMM XAES spectra, and (d) H2-TPR proﬁles of Cu/
+SiO2, Cu/S-1 and Cu@S-1.
+L. Lin, P. Cao, J. Pang et al.
+Journal of Catalysis 413 (2022) 565–574
+571
+Combined with the Cu 2p XPS results, the individual contents of
+Cu0, Cu+ and Cu2+ species in Cu/SiO2, Cu/S-1 and Cu@S-1 catalysts
+can be estimated through normalizing the area of the correspond-
+ing featured peaks (Fig. 5c). The content of Cu2+ species in Cu/SiO2
+(48 %) is higher than Cu/S-1 (21 %) and Cu@S-1 (15 %). This might
+account for the more positively charged environment of Cu species
+in Cu/SiO2 than that in Cu/S-1 and Cu@S-1, as indicated by
+FT-IR-CO and XPS. Notably, Cu@S-1 possesses a signiﬁcant higher
+proportion of Cu+ species (68 %) compared with nonencapsulated
+counterparts (i.e. Cu/SiO2 and Cu/S-1) obtained by wet impregna-
+tion. Such an enrichment of Cu+ species in Cu@S-1 was also
+observed for the encapsulated Cu nanoparticles in the zeolite TS-
+1 [33]. The prevailing Cu+ species might be stabilized by the silanol
+groups in the hydroxyl nests of the zeolite S-1, and such sites have
+been reported to be able to anchor Cu cations strongly in the zeo-
+lite conﬁned environment [34].
+Temperature-programmed reduction of hydrogen (H2-TPR)
+measurements were also carried out on Cu/SiO2, 
+
+ht be stabilized by the silanol
+groups in the hydroxyl nests of the zeolite S-1, and such sites have
+been reported to be able to anchor Cu cations strongly in the zeo-
+lite conﬁned environment [34].
+Temperature-programmed reduction of hydrogen (H2-TPR)
+measurements were also carried out on Cu/SiO2, Cu/S-1 and
+Cu@S-1 catalysts. As shown in Fig. 5d, the reduction temperature
+of Cu species in Cu@S-1 (536 K) are higher than that of Cu/SiO2
+(461 K) and Cu/S-1 (502 K). Li and co-workers also reported that
+the reduction peaks of encapsulated Pd nanoparticles in Pd@S-1
+were observed in the higher temperature range (443–523 K) than
+those of nonencapsulated Pd species in Pd/S-1 (423–503 K) [50].
+Therefore, Cu species in Cu@S-1 are more difﬁcult to be reduced
+than the counterparts in Cu/SiO2 and Cu/S-1 during H2 treatment.
+This further conﬁrms the existence of an enhance interaction
+between the encapsulated Cu species and the silanol groups from
+S-1, which might stabilize Cu+ species and thus result into the pre-
+dominant amount of Cu+ species in Cu@S-1.
+The related contents of different Cu species in the spent Cu/SiO2,
+Cu/S-1 and Cu@S-1 catalysts have also been characterized and
+Fig. 6. (a) Cu 2p XPS spectra, (b) Cu LMM XAES spectra, (c) contents of different Cu species determined by Cu 2p XPS and Cu LMM XAES spectra of the spent Cu/SiO2, Cu/S-1
+and Cu@S-1 after a TOS of 16 h, 18 h, 110 h, respectively; (d) Schematic illustration of the structure of zeolite-encapsulated Cu nanoparticles in the Cu@S-1 in the
+dehydrogenation of ethanol to acetaldehyde.
+L. Lin, P. Cao, J. Pang et al.
+Journal of Catalysis 413 (2022) 565–574
+572
+quantiﬁed by the combination of Cu 2p XPS and Cu LMM XAES
+(Fig. 6a-c). Upon catalysis, Cu/SiO2 shows a signiﬁcant decrease
+in Cu+ species from 34 % to 14 % and an obvious increase in Cu2+
+species from 48 % to 72 %, together with a slight decrease in metal-
+lic Cu0 species from 18 % to 14 %, after a TOS of 16 h. According to
+previous reports, Cu+ species ha

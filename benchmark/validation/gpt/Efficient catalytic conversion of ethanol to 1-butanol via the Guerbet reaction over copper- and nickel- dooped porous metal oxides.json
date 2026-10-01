@@ -1,0 +1,79 @@
+{
+    "paper": "Efficient catalytic conversion of ethanol to 1-butanol via the Guerbet reaction over copper- and nickel- dooped porous metal oxides",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-Ni PMOs",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "catalysts containing both copper and nickel.",
+                "reason": "The catalyst composition Cu-Ni PMOs is explicitly supported in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HTC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The HTC alone was also active, but the yield of 1-butanol was much lower.",
+                "reason": "The catalyst HTC is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "copper",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "catalysts containing both copper and nickel.",
+                "reason": "Copper is explicitly identified as a metal in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "catalysts containing both copper and nickel.",
+                "reason": "The raw name Cu for copper is explicitly supported in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "nickel",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "catalysts containing both copper and nickel.",
+                "reason": "Nickel is explicitly identified as a metal in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "catalysts containing both copper and nickel.",
+                "reason": "The raw name Ni for nickel is explicitly supported in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "porous metal oxides",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "novel compositions of porous metal oxides (PMO) as highly active and selective catalysts.",
+                "reason": "Porous metal oxides are explicitly identified as a support in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "PMO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "novel compositions of porous metal oxides (PMO) as highly active and selective catalysts.",
+                "reason": "The raw name PMO for porous metal oxides is explicitly supported in the context."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 8
+        }
+    }
+}

@@ -1,0 +1,196 @@
+========== EXPERIMENTAL ==========
+
+Experimental section 
+2.1. Catalyst preparation 
+2.1.1. Preparation of NiSn@C-MgO 
+NiSn@C-MgO catalysts were prepared by a facile sol–gel method 
+followed by pyrolysis and carbonization strategy. 10 mmol Ni 
+(NO3)2⋅6H2O, 20 mmol Mg(NO3)2⋅6H2O, 20 mmol C6H8O7⋅H2O and 0.5 
+mmol SnCl4⋅5H2O were successively dissolved in 60 mL deionized water 
+under continuous stirring to obtain a homogeneous solution. Subse­
+quently, the obtained mixture was gradually gelled by evaporation at 
+100 ◦C and then dried at 80 ◦C for 48 h in an oven. Finally, the resultant 
+precursor was calcined in a N2 flow of 20 mL/min at 550 ◦C for 3 h, with 
+the yielded catalyst labeled as NiSn@C-MgO-550 (abbreviated as 
+NiSn@C-MgO). The catalysts with carbonization temperature of 400 ◦C, 
+500 ◦C, 600 ◦C and 700 ◦C were denoted as NiSn@C-MgO-400, NiSn@C- 
+MgO-500, NiSn@C-MgO-600 and NiSn@C-MgO-700, respectively. 
+2.1.2. Preparation of NiSn/MgO 
+NiSn/MgO was synthesized through the pyrolysis method followed 
+by hydrogen reduction. Firstly, 10 mmol Ni(NO3)2⋅6H2O, 20 mmol Mg 
+(NO3)2⋅6H2O and 0.5 mmol SnCl4⋅5H2O were successively dissolved in 
+deionized water (60 mL) under continuous stirring to obtain a homo­
+geneous solution at room temperature. After vigorously stirring for 2 h, 
+the mixture was dried at 80 ◦C for 24 h in an oven. Finally, the resultant 
+precursor was reduced at 550 ◦C under 20 mL/min H2 flow for 3 h. 
+2.1.3. Preparation of NiSn@C 
+NiSn@C was synthesized by sol–gel method and one-step pyrolysis/ 
+carbonization strategy. Firstly, 10 mmol Ni(NO3)2⋅6H2O, 20 mmol 
+C6H8O7⋅H2O and 0.5 mmol SnCl4⋅5H2O were successively dissolved in 
+60 mL deionized water under continuous stirring to obtain a homoge­
+neous solution. Subsequently, the obtained mixture was gradually gelled 
+by evaporation at 100 ◦C and then dried at 80 ◦C for 48 h in an oven. 
+Finally, the resultant precursor was calcined at 550 ◦C under 20 mL/min 
+N2 flow for 3 h. 
+2.2. Catalyst characterization 
+The crystalline structure of cata
+
+on, the reactor was cooled down to room 
+temperature. The product detection and collection mainly consist of gas 
+product and liquid product. Gas sample was collected with the air bags, 
+and the liquid sample obtained by centrifugation was weighed and used 
+for subsequent analysis. 
+The gas product was analyzed by gas chromatography (GC-9800, 
+Kechuang, China) equipped with two thermal conductivity detector 
+(TCDs) and a flame ionization detector (FID). Before analysis, the solid 
+impurities and catalyst in the liquid product were removed by centri­
+fugation and filtration, and separated into aqueous phase and organic 
+phase. The liquid product was analyzed quantitatively and qualitatively 
+by GC–MS (Agilent, HP-INNOWax, Thermo Fisher Scientific TRACE 
+1300ISQ) using an internal standard method. 
+The ethanol conversion, yield, selectivity and distribution of the 
+products were calculated according to previous report [31], and the 
+following equations were used to calculated. 
+Ethanol conversion (C) = Moles of converted ethanol
+Moles of the inlet ethanol × 100%
+(1) 
+Selectivity (S) = Moles of carbon in the target product
+Moles of carbon in all products
+× 100%
+(2) 
+Yield (Y) =
+Moles of carbon in the product
+Moles of carbon in ethanol fed to the reactor × 100%
+(3) 
+3.
+
+
+========== RESULTS ==========
+
+Results and discussion 
+3.1. Catalyst characterization 
+NiSn@C-MgO, synthesized via a facile sol–gel method followed by 
+pyrolysis and carbonization strategy, displays amphipathy due to the co- 
+existence of carbon shell (lipophilic) and MgO (hydrophilic) (Fig. 1). 
+Specifically, citric acid was used as reductant, surface ligand, as well as 
+the carbon shell precursor, while MgO was used as the hydrophilic 
+support. Conventionally, the structure, thickness and morphology of 
+carbon shell are greatly affected by carbonization temperature, which 
+has a significant impact on catalyst performance, especially for amphi­
+philic catalysts [32–34]. X-ray diffraction (XRD) measurement was 
+performed to study the composition of the material and the structure or 
+morphology of the atoms or molecules. Fig. 2a shows the X-ray 
+diffraction (XRD) of the NiSn@C-MgO catalysts prepared at different 
+carbonization temperatures. The peaks at 42.8◦, 62.2◦and 78.5◦in the 
+XRD patterns are ascribed to the (200), (220) and (222) facets of MgO 
+(JCPDS No. 74-1225). Moreover, the peaks at 44.5◦, 51.8◦and 76.4◦are 
+corresponded to Ni (111), (200) and (220) facets, respectively (JCPDS 
+No. 70–1849). The XRD diffraction peaks of Ni and MgO with lower 
+peak intensities are observed at the carbonization temperature of 
+400 ◦C. With the increase of carbonization temperature, the diffraction 
+X. Cai et al. 
+Fuel 335 (2023) 126971
+3
+Fig. 1. Schematic illustration of the synthesis process for the NiSn@C-MgO. 
+Fig. 2. A) XRD patterns of NiSn@C-MgO catalysts prepared at different carbonization temperatures. TEM images of b) NiSn@C-MgO-400, c) NiSn@C-MgO-500, d) 
+NiSn@C-MgO-550, e) NiSn@C-MgO-600, and f) NiSn@C-MgO-700. HRTEM images of g) NiSn@C-MgO-400, h) NiSn@C-MgO-550, and i) NiSn@C-MgO-700. j) 
+Schematic illustration for the evolution of NiSn@C-MgO catalysts with increasing carbonization temperature. 
+X. Cai et al. 
+Fuel 335 (2023) 126971
+4
+peaks of Ni become sharper and the peak width become narro
+
+@C-MgO-700. HRTEM images of g) NiSn@C-MgO-400, h) NiSn@C-MgO-550, and i) NiSn@C-MgO-700. j) 
+Schematic illustration for the evolution of NiSn@C-MgO catalysts with increasing carbonization temperature. 
+X. Cai et al. 
+Fuel 335 (2023) 126971
+4
+peaks of Ni become sharper and the peak width become narrower, 
+indicating the increase in crystallite size [35,36]. In view of this, the 
+crystallite size of the particles for NiSn@C-MgO-400, NiSn@C-MgO- 
+500, NiSn@C-MgO-550, NiSn@C-MgO-600 and NiSn@C-MgO-700 are 
+calculated by Scherrer equation to be 2.3, 6.0, 9.3, 18.1 and 33.2 nm, 
+respectively. Note that there are indistinctive diffraction peaks of Sn and 
+C in the XRD pattern, which are attributed to the low loading of Sn and 
+the amorphous state of carbon shell, respectively. 
+Subsequently, the morphology, size and structure of the catalysts 
+were characterized by transmission electron microscopy (TEM). As 
+shown in Fig. 2b–f, NiSn nanoparticles (NPs) coated with carbon shell 
+(green circle) are loaded on MgO support for all NiSn@C-MgO samples. 
+Obviously, the dispersion and size of NPs are significantly impacted by 
+carbonization temperature. In detail, the average size of particles 
+increased from 3.4 ± 0.8 to 9.1 ± 2.1 nm slowly with carbonization 
+temperature from 400 to 550 ◦C and then increased sharply to 54.7 ±
+15.4 nm when the carbonization temperature reached 700 ◦C (Fig. 3). 
+Furthermore, NiSn@C-MgO samples were characterized by HRTEM and 
+the images displayed that NiSn NPs coated with carbon shell (about 1–2 
+nm) were loaded on MgO support (Fig. 2g–i). The lattice distance of 
+0.202, 0.179 and 0.211 nm are indexed as the (111), (200) facet of Ni 
+and the (200) facet of MgO, respectively (Fig. 2g, h). For NiSn@C-MgO- 
+400, there is no distinct carbon shell around the NiSn NPs, namely the 
+amorphous carbon and NiSn NPs are relatively separated, which means 
+that the NiSn nanoparticles are not successfully wrapped by the carbon 
+shell (Fig. 2g). As the carbonizati
+
+erformance in the upgrading of aqueous 
+ethanol was investigated. As shown in Fig. 5a, with the increase of 
+carbonization temperature from 400 to 700 ◦C, the ethanol conversion 
+displays a volcano shape, which first increase from 62.5 % to 73.3 % and 
+Fig. 3. Size distribution images of NiSn@C-MgO catalysts prepared at different carbonization temperatures: a) NiSn@C-MgO-400, b) NiSn@C-MgO-500, c) NiSn@C- 
+MgO-550, d) NiSn@C-MgO-600, e) NiSn@C-MgO-700 and f) variation trend of particle sizes with carbonization temperature. 
+X. Cai et al. 
+Fuel 335 (2023) 126971
+5
+then decrease to 60.6 %. Interestingly, NiSn@C-MgO-550 catalyst 
+exhibited the highest ethanol conversion of 73.3 %, as well as the liquid 
+product yield of 59.0 %. The TEM results reveal that the structure of the 
+NiSn@C-MgO-550 catalyst is that Ni-Sn NPs coated with carbon shell 
+supported on MgO surface; thus we consider that this special structure 
+has excellent catalytic activity and stability for the C–C coupling of 
+ethanol, which is due to the protection of the carbon shell that makes the 
+Ni-Sn NPs difficult to agglomerate and sinter. 
+Fig. 5b shows the effect of carbonization temperature on liquid 
+products distribution. Surprisingly, when the carbonization temperature 
+is lower than 500 ◦C or higher than 600 ◦C, the butanol content increases 
+significantly, while the C6+ alcohols obviously decreased. For example, 
+the selectivity of butanol in liquid products reaches 51.5 %, but the 
+selectivity of C6+ alcohols is only 43.2 % at carbonization temperature of 
+400 ◦C. The selectivities of C6+ alcohols and C8+ alcohols reach the 
+maximum value of 60.9 % and 32.5 % at carbonization temperature of 
+550 ◦C, respectively. Fig. 5c and Fig. 5d show the carbon number dis­
+tribution and yield of liquid products, respectively. Clearly, when the 
+carbonization temperature is 550 ◦C, the yield of C6-14 alcohols are 
+significantly higher than that of other temperatures. These results 
+indicate that NiSn@C-MgO-5
+
+catalyst in the catalyst recycling operations. 
+As shown in Table 1, the NiSn@C-MgO catalyst exhibited excellent 
+stability during five consecutive cycles. Ethanol conversion and C6+
+alcohols selectivity slightly decreased from 73.3 % to 71.3 % and 60.9 % 
+to 57.9 % after 4th cycle, respectivity. The excellent stability of NiSn@C- 
+MgO catalyst is attributed to the carbon shell as lipophilic support to 
+protect NiSn nanoparticles from agglomeration [41]. 
+3.3. Effect of hydrophilicity and lipophilicity on the reaction 
+As we mentioned above, the aqueous ethanol upgradation is a pro­
+cess of changing from aqueous phase to oil–water two-phase, amphi­
+philic NiSn@C-MgO catalyst can facilitate mass transfer of reaction 
+substrates. In view of this, the effect of hydrophilicity/lipophilicity on 
+aqueous ethanol upgradation were investigated over NiSn/MgO (hy­
+drophilic), NiSn@C (lipophilic), NiSn@C-MgO (amphiphilic) and the 
+simple physical mixing of NiSn/MgO and NiSn@C catalysts (for com­
+parison). For the hydrophilic NiSn/MgO catalyst, the ethanol conversion 
+and organic liquid products yield are only 50.8 % and 38.2 %, respec­
+tively (Fig. 7a). What’s more, the selectivity of C6+ alcohols is just 42.4 
+% (Fig. 7b), which reveals that ethanol is difficult to produce higher 
+Fig. 4. A) full xps profiles, b) c 1s, c) Ni 2p, and d) Sn 3d XPS spectra of NiSn@C-MgO catalysts prepared at different carbonization temperatures. 
+X. Cai et al. 
+Fuel 335 (2023) 126971
+6
+alcohols over the hydrophilic NiSn/MgO. The ethanol conversion and 
+liquid product selectivity for lipophilic NiSn@C catalyst are to some 
+extent similar to that for hydrophilic NiSn/MgO (Fig. 7a–d). Strikingly, 
+the amphiphilic NiSn@C-MgO exhibits excellent performance with 
+ethanol conversion of 73.3 %, C6+ alcohols and C8+ alcohols reach the 
+maximum value of 60.9 % and 32.5 %, respectively. The product dis­
+tribution between water and oil phase also reveals that NiSn@C-MgO 
+catalyst has higher selectivity for

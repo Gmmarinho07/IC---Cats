@@ -1,0 +1,112 @@
+========== ABSTRACT ==========
+
+ABSTRACT: Upgrading bioethanol to higher alcohols (C6+−
+OH) is an environmentally friendly process for the production of
+high-value-added chemicals. However, a low selectivity for C6+−
+OH is generally obtained due to the step-growth of the carbon
+chain, which leads to a preponderance of butanol in the product. In
+this work, we report base-Ni synergistic catalysis, with Niδ+ on
+hydroxyapatite (HAP). The
+
+
+========== EXPERIMENTAL ==========
+
+Experimental Mechanistic Insights
+into the Ethanol-to-Butanol Upgrading Reaction over Mgo. ACS
+Catal. 2020, 10 (24), 15162−15177.
+(22) Carvalho, D. L.; de Avillez, R. R.; Rodrigues, M. T.; Borges, L.
+E. P.; Appel, L. G. Mg and Al Mixed Oxides and the Synthesis of N-
+Butanol from Ethanol. Appl. Catal., A 2012, 415−416, 96−100.
+(23) Earley, J. H.; Bourne, R. A.; Watson, M. J.; Poliakoff, M.
+Continuous Catalytic Upgrading of Ethanol to N-Butanol and > C4
+Products over Cu/CeO2 Catalysts in Supercritical CO2. Green Chem.
+2015, 17 (5), 3018−3025.
+(24) Jiang, D.; Wu, X.; Mao, J.; Ni, J.; Li, X. Continuous Catalytic
+Upgrading of Ethanol to N-Butanol over Cu-CeO2/AC Catalysts.
+Chem. Commun. 2016, 52 (95), 13749−13752.
+(25) Jordison, T. L.; Lira, C. T.; Miller, D. J. Condensed-Phase
+Ethanol Conversion to Higher Alcohols. Ind. Eng. Chem. Res. 2015, 54
+(44), 10991−11000.
+(26) Lopez-Olmos, C.; Morales, M. V.; Guerrero-Ruiz, A.; Ramirez-
+Barria, C.; Asedegbega-Nieto, E.; Rodriguez-Ramos, I. Continuous
+Gas-Phase Condensation of Bioethanol to 1-Butanol over Bifunctional
+Pd/Mg and Pd/Mg-Carbon Catalysts. ChemSusChem 2018, 11 (19),
+3502−3511.
+(27) Nikolaev, S. A.; Tsodikov, M. V.; Chistyakov, A. V.;
+Chistyakova, P. A.; Ezzhelenko, D. I.; Shilina, M. I. Pdcu Nanoalloy
+Supported on Alumina: A Stable and Selective Catalyst for the
+Conversion of Bioethanol to Linear Α-Alcohols. Catal. Today 2021,
+379, 50−61.
+(28) Pang, J.; Zheng, M.; He, L.; Li, L.; Pan, X.; Wang, A.; Wang, X.;
+Zhang, T. Upgrading Ethanol to N-Butanol over Highly Dispersed Ni-
+Mgalo Catalysts. J. Catal. 2016, 344, 184−193.
+(29) Wang, H.; Miao, G.; Kong, L.; Luo, H.; Zhang, Y.; Zhao, X.; Li,
+S.; Sun, Y. Efficient One-Pot Valorization of Ethanol to 1-Butanol
+ACS Catalysis
+pubs.acs.org/acscatalysis
+Research Article
+https://doi.org/10.1021/acscatal.4c03891
+ACS Catal. 2024, 14, 12654−12663
+12662
+over an Earth-Abundant Ni−Mgo Catalyst under Mild Conditions.
+Sustainable Energy Fuels 2020, 4 (4), 1612−1615.
+(30) Wang, Z.; Pang, 
+
+zation of Ethanol to 1-Butanol
+ACS Catalysis
+pubs.acs.org/acscatalysis
+Research Article
+https://doi.org/10.1021/acscatal.4c03891
+ACS Catal. 2024, 14, 12654−12663
+12662
+over an Earth-Abundant Ni−Mgo Catalyst under Mild Conditions.
+Sustainable Energy Fuels 2020, 4 (4), 1612−1615.
+(30) Wang, Z.; Pang, J.; Song, L.; Li, X.; Yuan, Q.; Li, X.; Liu, S.;
+Zheng, M. Conversion of Ethanol to N-Butanol over Niceo2 Based
+Catalysts: Effects of Metal Dispersion and Nice Interactions. Ind. Eng.
+Chem. Res. 2020, 59 (51), 22057−22067.
+(31) Wu, X.; Cai, X.; Zhang, Q.; Bi, P.; Meng, Q.; Pi, Y.; Wang, T.
+Upgrading of Aqueous Bioethanol to Higher Alcohols over Nisn/
+Mgalo Catalyst. ACS Sustainable Chem. Eng. 2021, 9 (33), 11269−
+11279.
+(32) Zhang, J.; Shi, K.; An, Z.; Zhu, Y.; Shu, X.; Song, H.; Xiang, X.;
+He, J. Acid-Base Promoted Dehydrogenation Coupling of Ethanol on
+Supported Ag Particles. Ind. Eng. Chem. Res. 2020, 59 (8), 3342−
+3350.
+(33) Zhou, B. C.; Li, W. C.; Lv, W. L.; Xiang, S. Y.; Gao, X. Q.; Lu,
+A. H. Enhancing Ethanol Coupling to Produce Higher Alcohols by
+Tuning H2 Partial Pressure over a Copper-Hydroxyapatite Catalyst.
+ACS Catal. 2022, 12 (19), 12045−12054.
+(34) Jiang, D.; Fang, G.; Tong, Y.; Wu, X.; Wang, Y.; Hong, D.;
+Leng, W.; Liang, Z.; Tu, P.; Liu, L.; Xu, K.; Ni, J.; Li, X.
+Multifunctional Pd@UiO-66 Catalysts for Continuous Catalytic
+Upgrading of Ethanol to n-Butanol. ACS Catal. 2018, 8 (12),
+11973−11978.
+(35) Wu, X.; Fang, G.; Tong, Y.; Jiang, D.; Liang, Z.; Leng, W.; Liu,
+L.; Tu, P.; Wang, H.; Ni, J.; Li, X. Catalytic Upgrading of Ethanol to
+N-Butanol: Progress in Catalyst Development. ChemSusChem 2018,
+11 (1), 71−85.
+(36) Jordison, T. L.; Peereboom, L.; Miller, D. J. Impact of Water on
+Condensed Phase Ethanol Guerbet Reactions. Ind. Eng. Chem. Res.
+2016, 55 (23), 6579−6585.
+(37) Zhang, Q.; Liu, W.; Chen, B.; Qiu, S.; Wang, T. Upgrading of
+Aqueous Ethanol to Fuel Grade Higher Alcohols over Dandelion-Like
+Ni-Sn Catalyst. Energy Convers. Manage. 2020, 216, No. 11291
+
+
+========== RESULTS ==========
+
+results showed that ethanol could be
+quickly dehydrogenated, continuously condensed, and finally
+hydrogenated to C6+ alcohols under the synergistic action of
+Niδ+ and Ca−[O2−]−Ca active site pairs. The loading of Ni on the
+OH−-rich HAP4 surface promotes the formation of more Niδ+ and
+Ca−[O2−]−Ca, which has been shown to be beneficial for ethanol
+upgrading. Especially, the ethanol reaction rate and the yield of
+C6+−OH are directly proportional to the amount of Niδ+ and the concentration of Ca−[O2−]−Ca, respectively. The situ ethanol
+infrared results demonstrated the catalytic ability of different basic catalysts for intermediate aldehydes, which led to differences in
+the selectivity of C6+−OH. A selectivity of 62.4% to C6+−OH with an ethanol conversion of 63.6% has been achieved on HAP4−
+0.5Ni with abundant Niδ+ and Ca−[O2−]−Ca sites under optimized conditions. Combined with the physical and chemical
+properties of the catalyst and reaction results, the mechanism of upgrading ethanol to C6+−OH on Ni/HAP was also proposed.
+KEYWORDS: bioethanol, higher alcohols, basic sites, Ni/hydroxyapatite, intermediate aldehydes
+■

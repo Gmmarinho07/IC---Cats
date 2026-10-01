@@ -1,0 +1,55 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu@S-1",
+                "raw_name": "Cu@S-1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/SiO2",
+                "raw_name": "Cu/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "8 wt%Cu/SiO2-HT",
+                "raw_name": "8 wt%Cu/SiO2-HT",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "4 wt%Cu@S-1",
+                "raw_name": "4 wt%Cu@S-1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "10 wt%Cu@S-1",
+                "raw_name": "10 wt%Cu@S-1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "8 wt%Cu@S-1",
+                "raw_name": "8 wt%Cu@S-1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "8 wt%Cu/SiO2",
+                "raw_name": "8 wt%Cu/SiO2",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "SiO2",
+            "raw_name": "SiO2",
+            "article_identifiers": []
+        }
+    }
+}

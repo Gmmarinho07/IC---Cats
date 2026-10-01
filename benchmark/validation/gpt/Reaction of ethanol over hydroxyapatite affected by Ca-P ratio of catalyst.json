@@ -1,0 +1,71 @@
+{
+    "paper": "Reaction of ethanol over hydroxyapatite affected by Ca-P ratio of catalyst",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP is a unique catalyst that synthesizes mainly Guerbet alcohols at high Ca/P ratios.",
+                "reason": "The catalyst HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP-1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP-1, which had a low Ca/P ratio of 1.59, and was synthesized to only a small degree on HAP-3 and HAP-4.",
+                "reason": "The catalyst HAP-1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP-2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Maximum selectivity for 1,3-butadiene was in fact observed over HAP-2, which had a Ca/P ratio of 1.62.",
+                "reason": "The catalyst HAP-2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP-3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1,3-Butadiene was not synthesized at all on HAP-1, which had a low Ca/P ratio of 1.59, and was synthesized to only a small degree on HAP-3.",
+                "reason": "The catalyst HAP-3 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP-4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1,3-Butadiene was not synthesized at all on HAP-1, which had a low Ca/P ratio of 1.59, and was synthesized to only a small degree on HAP-3 and HAP-4.",
+                "reason": "The catalyst HAP-4 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CaO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In contrast, we found that CaO, a well-known base catalyst, synthesizes mainly ketones and ethylene at 50% ethanol conversion.",
+                "reason": "The catalyst CaO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The right column of Table 1 gives the density of acid sites and basic sites on the catalysts.",
+                "reason": "The support HAP is explicitly identified in the context of the catalysts."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 7
+        }
+    }
+}

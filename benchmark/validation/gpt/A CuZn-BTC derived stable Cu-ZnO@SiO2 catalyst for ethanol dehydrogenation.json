@@ -1,0 +1,119 @@
+{
+    "paper": "A CuZn-BTC derived stable Cu-ZnO@SiO2 catalyst for ethanol dehydrogenation",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuZn-BTC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CuZn-BTC was prepared in a rapid method at room temperature",
+                "reason": "The catalyst CuZn-BTC is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuZnBTC@SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "SiO2 encapsulated CuZn-BTC was synthesized via a steam-assisted hydrolysis process.",
+                "reason": "The catalyst CuZnBTC@SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuZnO@SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CuZnO@SiO2 was prepared via the controlled calcination of above prepared CuZnBTC@SiO2 in air flow.",
+                "reason": "The catalyst CuZnO@SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/ZnO@SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The reduced catalyst was denoted as Cu/ZnO@SiO2.",
+                "reason": "The catalyst Cu/ZnO@SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/ZnO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/ZnO catalyst without SiO2 hollow was prepared via the direct calcination and reduction of CuZn-BTC.",
+                "reason": "The catalyst Cu/ZnO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu@SiO2",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information for Cu@SiO2."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZnO@SiO2",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information for ZnO@SiO2."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The existence of Cu0 in reduced Cu/ZnO@SiO2 was also confirmed via Cu LMM auger spectra.",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The existence of Cu0 in reduced Cu/ZnO@SiO2 was also confirmed via Cu LMM auger spectra.",
+                "reason": "The raw name Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Zn",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The interaction between Cu and ZnO became stronger after the introduction of SiO2.",
+                "reason": "The metal Zn is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Zn",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The interaction between Cu and ZnO became stronger after the introduction of SiO2.",
+                "reason": "The raw name Zn is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "SiO2",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "SiO2 encapsulated CuZn-BTC was synthesized via a steam-assisted hydrolysis process.",
+                "reason": "The support SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "SiO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "SiO2 encapsulated CuZn-BTC was synthesized via a steam-assisted hydrolysis process.",
+                "reason": "The raw name SiO2 is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 2,
+            "partial": 0,
+            "correct": 11
+        }
+    }
+}

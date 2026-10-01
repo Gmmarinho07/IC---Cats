@@ -1,0 +1,100 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "NiMgAlO",
+                "raw_name": "NiMgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuMgAlO",
+                "raw_name": "CuMgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-NiMgAlO",
+                "raw_name": "Cu-NiMgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "1%Cu-NiMgAlO",
+                "raw_name": "1%Cu-NiMgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "2%Cu-NiMgAlO",
+                "raw_name": "2%Cu-NiMgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "3%Cu-NiMgAlO",
+                "raw_name": "3%Cu-NiMgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "4%Cu-NiMgAlO",
+                "raw_name": "4%Cu-NiMgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "8%Cu-NiMgAlO",
+                "raw_name": "8%Cu-NiMgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.5%Cu-NiMgAlO",
+                "raw_name": "0.5%Cu-NiMgAlO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Fe",
+                "raw_name": "Fe",
+                "article_identifiers": []
+            },
+            {
+                "name": "Co",
+                "raw_name": "Co",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pt",
+                "raw_name": "Pt",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pd",
+                "raw_name": "Pd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Rh",
+                "raw_name": "Rh",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ir",
+                "raw_name": "Ir",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgAlO",
+            "raw_name": "NiMgAlO",
+            "article_identifiers": []
+        }
+    }
+}

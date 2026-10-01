@@ -1,0 +1,208 @@
+========== EXPERIMENTAL ==========
+
+s, the solid was collected by filtration, washed with deionized water, 
+dried overnight at 353 K and finally calcined in air at 823 K for 4 h to 
+remove organic species. The products were labeled as yCu@S-1, where y 
+means the weight percent of Cu (y = 4 wt%, 8 wt% and 10 wt%, 
+respectively).
+2.1.3. Synthesis of Cu/SiO2
+Cu-supported silica (Cu/SiO2) catalysts were prepared for compari­
+son via wetness impregnation method. Typically, certain amounts of Cu 
+(NO3)2⋅3H2O was dissolved in a minimum amount of water (10.0 g) to 
+obtain the target Cu weight loadings. 2.8 g of the solution was then 
+added dropwise into the silica support (1.0 g) to get a uniform gel. After 
+impregnation, the gel was subsequently dried at room temperature for 
+more than 24 h and 323 K for 0.5 h to remove excess water. This step was 
+followed by further heating the dry material to 673 K at rate of 2 K/min 
+and holding it at this temperature for 4 h under static air, after which it 
+was cooled to room temperature. The black products obtained were 
+denoted as zCu/SiO2, where z means the weight percent of Cu (z = 4 wt 
+% and 8 wt%, respectively). To explore the influence of calcination 
+conditions, Cu/SiO2 with Cu loading amount of 8 wt% was also prepared 
+following similar calcination process as that utilized for Cu@S-1, which 
+Y. Zhang et al. 
+Applied Catalysis B: Environment and Energy 367 (2025) 125099 
+2 
+is denoted as 8 wt%Cu/SiO2-HT.
+2.2. Catalyst characterization
+The Cu contents in the Cu@S-1 and Cu/SiO2 catalysts were deter­
+mined using inductively coupled plasma optical emission spectroscopy 
+(ICP-OES). Powder X-ray diffraction (XRD) patterns were acquired on 
+X′pert Pro diffractometer equipped with a Cu-Kα source (60 kV, 55 mA). 
+To obtain the textural properties of catalysts, N2 physisorption- 
+desorption isotherms were acquired at liquid nitrogen temperature 
+(77 K) using a gas adsorption analyzer (Micrometrics 3Flex). Tempera­
+ture programmed reduction of H2 (H2-TPR) was performed t
+
+ of Cu species during reaction, 
+calcined and reductive pretreated catalysts were characterized by 
+pseudo in situ X-ray photoelectron spectroscopy (XPS) on a Bruker 
+Vextex 70 spectrometer equipped with a mercury-cadmium-telluride 
+(MCT) detector. Specifically, Cu 2p and LMM XPS spectra of calcined 
+Cu@S-1 and Cu/SiO2 were firstly collected and then, catalysts were 
+transferred to a pretreatment cabinet under vacuum. Subsequently, the 
+catalysts were heated at 2 K min−1 from room temperature to 573 K and 
+held at that temperature for 2 h under flowing 10 %H2/90 %N2, and 
+then cooled naturally. The reductive treatment conditions mimic that for 
+catalytic performance evaluation. After that, Cu 2p and LMM XPS 
+spectra of reduced Cu@S-1 and Cu/SiO2 catalysts were collected. 
+Binding energy (BE) values were referenced to the C 1 s core level at 
+284.6 eV.
+To investigate the evolution of intermediates, comparative analysis 
+of EtOH conversion over Cu@S-1 and Cu/SiO2 was performed through in 
+situ Fourier transform infrared (FTIR) spectroscopy measurements using 
+a Brukers Optics XF808–04 spectrometer. For these experiments, around 
+10 mg of catalyst was pressed into a thin self-supporting wafer, trans­
+ferred into the transmission IR cell, and pretreated at 573 K for 2 h in 
+30 mL min−1 of 10 %H2/90 %N2. Subsequently, the sample was purged 
+with 30 mL min−1 N2 and cooled naturally down to reaction temperature 
+to collect the background spectrum. After that, EtOH was fed onto the 
+catalyst through a saturated bubbler at 283 K and 80 mL min−1 of 
+flowing N2. The spectra for EtOH conversion were recorded at constant 
+time intervals to monitor the generation of intermediates and products.
+2.3. Catalyst evaluation
+EtOH conversion was performed using a fixed bed instrument 
+equipped with a tubular quartz plug flow reactor at atmospheric pres­
+sure. Catalyst samples (~20 mg) were placed at the center of the quartz 
+reactor and supported by a quartz wool plug. Catalyst charges l
+
+
+========== RESULTS ==========
+
+ concentration of metal nanoparticles inside the 
+zeolite crystals. According to the previous works [54,55], the 
+steam-assisted 
+crystallization 
+may 
+follow 
+an 
+in 
+situ 
+dissolution-recrystallization mechanism. The SiO2 of AE-Cu-SiO2 pre­
+cursor are activated, rearranged and in situ transformed to the 
+Scheme 1. Schematic illustration for the synthesis of Cu@S-1 catalysts.
+Fig. 1. (A) XRD patterns of calcined Cu@S-1 and Cu/SiO2 catalysts with different Cu loadings as well as the spent 8 wt%Cu@S-1 and 8 wt%Cu/SiO2 catalysts 
+collected after reaction. (B) N2 adsorption-desorption isotherms of Cu@S-1 and Cu/SiO2 catalysts with different Cu loadings. (C) SEM image of calcined 8 wt%Cu@S- 
+1 catalyst.
+Y. Zhang et al. 
+Applied Catalysis B: Environment and Energy 367 (2025) 125099 
+4 
+framework of Silicalite-1 zeolite. The close interactions between 
+ultra-small CuOx particles and SiO2 matrix (the formation of Si-O-Cu 
+linkages) should help the successful encapsulation of metal nano­
+particles during the transformation, avoiding the occurrence of phase 
+separation.
+TEM images of reduced 4 wt%Cu@S-1 and 10 wt%Cu@S-1 are 
+shown in Fig. 2D–E. Well-dispersed Cu nanoparticles encapsulated in 
+crystals are observed for 4 wt%Cu@S-1, the corresponding size distri­
+bution histogram of which shows a dominant diameter of around 
+2.4 nm. For 10 wt%@S-1, relatively larger Cu nanoparticles (dominant 
+diameter: ~5.2 nm) are formed. Although most of the Cu nanoparticles 
+are embedded in the crystals, small amounts of nanoparticles are 
+presented on the surface of crystals likely because of the high concen­
+tration of Cu species. Accordingly, Cu@S-1 with high Cu loadings up to 
+10 wt% and nano-scale Cu diameter of about 2.4–5.2 nm are success­
+fully fabricated through steam-assisted crystallization method.
+H2-TPR measurement was performed to gauge the reducibility of Cu 
+species incorporated in Silicalite-1 zeolite and that supported on SiO2 
+(Fig. 3A). No obvious reduction peak is obse
+
+e of coke formation over Cu@S-1 pretreated under N2 is 
+around 4.51 mg/(g⋅h), which is higher than that over the counterpart 
+pretreated in reductive atmosphere (3.89 mg/(g⋅h)).
+The dependence of the rates of EtOH dehydrogenation on the metal 
+loadings of the catalysts is illustrated in Fig. 4. The conversion of EtOH 
+drops as the decrease of the Cu loading, while the selectivity of AcH 
+increases. The EtOH conversion over 4 wt%Cu@S-1 is around 29 %, 
+which is close to that over 8 wt%Cu/SiO2 (33 %) with twice amounts of 
+Cu supported. While the initial conversion of EtOH over 4 wt%Cu/SiO2 
+decreases to 15 %, further evidencing the superior catalytic activity of 
+Cu species encapsulated in zeolite to that supported over SiO2 material. 
+The rates of EtOH dehydrogenation over Cu@S-1 and Cu/SiO2 with 
+different metal loadings are also normalized by the molar amount of Cu 
+species (Fig. 4C). As shown, the dehydrogenation rates over Cu/SiO2 
+normalized by this way are independent with the loading amount 
+(2.1 mol/mol Cu/min), which may suggest that the dispersion as well as 
+existence status of Cu species supported over SiO2 are almost invariant 
+with the metal loadings. While, due to the much smaller size of Cu 
+species over 4 wt%Cu@S-1, the rate of EtOH dehydrogenation over 
+Cu@S-1 is about 4 mol/mol Cu/min, which is around two times of Cu/ 
+SiO2. Combined with the characterization results presented above, we 
+attribute the excellent catalytic activity and stability of Cu@S-1 to the 
+better dispersion of Cu species encapsulated in zeolite and enrichment in 
+the concentration of Cu+ active species.
+Fig. 5A shows the conversion of EtOH and selectivity toward AcH 
+measured at 4 kPa EtOH/N2 over 8 wt%Cu@S-1 and 8 wt%Cu/SiO2 
+catalysts, as a function of reaction temperature. The EtOH conversion 
+increased nearly monotonically while the AcH selectivity only shows a 
+slight decrease from 100 % to 95 % as the reaction temperature in­
+creases from 453 K to 553 K. Accordingly, hi
+
+ 
+Cu@S-1. Actually, apparent pre-exponential factors are the combination 
+of entropies of EtOH adsorption and activation, hence, it can be deduced 
+that a small difference of 11 J/mol/K in the entropies could readily 
+account for this small difference.
+The reaction kinetics of EtOH dehydrogenation over 8 wt%Cu@S-1 
+and 8 wt%Cu/SiO2 were investigated with constant EtOH partial pres­
+sure of 4 kPa. EtOH conversion was kept below 15 % (Fig. S6) to exclude 
+the influence of surficial adsorbed products and any intermediates. From 
+the Arrhenius plot of the rate of EtOH dehydrogenation (Fig. 5D), 8 wt% 
+Cu@S-1 catalyst exhibited slightly lower experimental apparent acti­
+vation energy of 62.2 kJ/mol than that of 8 wt%Cu/SiO2 (68.2 kJ/mol). 
+Taking an assumption that Cu+ sites predominantly catalyze the rate- 
+limiting C-H cleavage, the rates of EtOH dehydrogenation can also be 
+Fig. 5. (A) Effect of reaction temperature and (B) space velocity on the conversion of EtOH and selectivity toward AcH for 8 wt%Cu@S-1 and 8 wt%Cu/SiO2. 
+Reaction conditions of panel A: EtOH flow rate = 0.3 mL/h, N2 flow rate = 50 mL/min, mcat = 0.05 g; Reaction conditions of panel B: 523 K, EtOH flow rate = 0.3 – 
+1.2 mL/h, N2 flow rate = 50 – 200 mL/min, mcat = 0.1 g. (C) Effect of EtOH partial pressure on the EtOH dehydrogenation rate over 8 wt%Cu@S-1 and 8 wt%Cu/ 
+SiO2. Reaction conditions: T = 523 K, total gas flow rate = 208 mL/min. (D) Arrhenius plots of EtOH dehydrogenation over 8 wt%Cu@S-1 and 8 wt%Cu/SiO2. 
+Reaction conditions: T = 473–523 K, PEtOH = 4 kPa and total gas flow rate = 208 mL/min.
+Table 2 
+Rate parameters for EtOH dehydrogenation over Cu@S-1 and Cu/SiO2 measured 
+at 523 K.
+Cu@S-1
+Cu/SiO2
+rate coefficient k (mol/(mol Cu•min))
+6.292
+2.570
+pre-exponential factor A (mol/(mol Cu•min))
+8.7 × 105
+3.3 × 106
+EtOH adsorption constant K (kPa−1)
+0.085
+0.203
+Y. Zhang et al. 
+Applied Catalysis B: Environment and Energy 367 (2025) 125099 
+8 
+normalized per Cu+ via dividing the rates per Cu 
+
+the catalysts are 
+immediately consumed once fed in EtOH with an intense negative band 
+at 3728 cm−1 for Cu@S-1 and 3740 cm−1 for Cu/SiO2, because of the 
+adsorption of EtOH over Si-OH groups. At the same time, obvious C-H 
+stretching signals in the range of 2800–3000 cm−1 and C-H bending 
+signals in the range of 1300–1500 cm−1 are observed, which are typical 
+for the ethyl groups of adsorbed EtOH [64–67]. The maxima of negative 
+IR bands are centered at 3728 cm−1 for Cu@S-1 and 3740 cm−1 for 
+Cu/SiO2, which are attributable to internal silanol groups in zeolitic 
+micropores and isolated silanol groups over SiO2, respectively [61–63]. 
+It is also noted that the interaction between EtOH and the surface Si-OH 
+group is weak, since the signal of Si-OH group can be easily recovered 
+and the signals representing C-H vibration from ethyl groups of EtOH 
+become negative once purging with N2 for a short time of 1 min 
+(Figs. 6B, 6D, S8B and S8D). During the EtOH reaction at 453 K, an IR 
+band at 1723 cm−1 appears over Cu@S-1 (Fig. 6C), which is typical of 
+the C––O stretching vibration in AcH [65,68]. However, no band 
+attributable to AcH, is observed for Cu/SiO2 even after 30 min of reac­
+tion at this temperature (453 K, Fig. S8A). As shown in Fig. S8C, further 
+heating to 523 K reveals the appearance of weak IR band representing 
+AcH generation at 1723 cm−1 for Cu/SiO2. In sharp contrast, IR signals 
+at 1723 cm–1 could be observed over 8 wt%Cu@S-1 even under much 
+lower temperature of 423 K. These observations suggest the superior 
+catalytic activity of Cu nanoparticles encapsulated into zeolite than Cu 
+particles supported on SiO2, which agrees well with the kinetics inves­
+tigation that 8 wt%Cu@S-1 catalyst has much lower activation barrier 
+for EtOH dehydrogenation reaction.
+The long-term catalytic performance of EtOH dehydrogenation over 
+Cu@S-1 and Cu/SiO2, including activity, selectivity and durability, were 
+comparatively investigated at 523 K (Fig. 7). Cu@S-1 show

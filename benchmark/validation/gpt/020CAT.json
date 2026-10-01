@@ -1,0 +1,95 @@
+{
+    "paper": "020CAT",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al1-LDO-P-A",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1.04 wt% Ru/Mg3Al1-LDO-P-A",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al1-LDO-D-A",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1.02 wt% Ru/Mg3Al1-LDO-D-A",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al1-LDO-E-A",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "0.95 wt% Ru/Mg3Al1-LDO-E-A",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al1-LDO-I-A",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "0.97 wt% Ru/Mg3Al1-LDO-I-A",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al1-LDO-P-N",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1.08 wt% Ru/Mg3Al1-LDO-P-N",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al0.9Ga0.1-LDO-P-A",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1.11 wt% Ru/Mg3Al0.9Ga0.1-LDO-P-A",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al0.9Zr0.1-LDO-P-A",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1.07 wt% Ru/Mg3Al0.9Zr0.1-LDO-P-A",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "RuOx/Mg3Al1-LDO-P-A",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "RuOx/Mg3Al1-LDO-P-A",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ru",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Ru",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg3Al1-LDO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Mg3Al1-LDO",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 10
+        }
+    }
+}

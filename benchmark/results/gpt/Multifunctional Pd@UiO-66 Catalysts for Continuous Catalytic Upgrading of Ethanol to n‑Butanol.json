@@ -1,0 +1,60 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Pd@UiO-66",
+                "raw_name": "Pd@UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd/UiO-66",
+                "raw_name": "Pd/UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "M-CeO2/AC",
+                "raw_name": "M-CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd-CeO2/AC",
+                "raw_name": "Pd-CeO2/AC",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Fe",
+                "raw_name": "Fe",
+                "article_identifiers": []
+            },
+            {
+                "name": "Co",
+                "raw_name": "Co",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pd",
+                "raw_name": "Pd",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "UiO-66",
+            "raw_name": "UiO-66",
+            "article_identifiers": []
+        }
+    }
+}

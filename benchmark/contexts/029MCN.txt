@@ -1,0 +1,330 @@
+========== ABSTRACT ==========
+
+ABSTRACT: The mechanism of ethanol upgrading to higher
+products is still under debate, especially regarding intermediate
+species and hydrogenation and dehydrogenation steps. In this
+work, we conducted a combined theoretical and experimental
+approach to contribute to this discussion. For such, detailed
+electronic structure density functional theory calculations (aiming
+at probing density of states, infrared spectra, geometric parameters,
+charge densities, and reaction energetics) and diﬀuse reﬂectance
+infrared Fourier transform spectroscopy experiments were carried
+out revealing the relevance of an appropriate combination of
+reactive surface sites to support the formation of several
+intermediates that are formed in the C−C coupling over MgO.
+The roles of Mg and O sites were also studied under an electronic perspective and diﬀerent geometrical arrangements. We found
+that a kink conﬁguration was the most adequate for ethanol to 1-butanol upgrading. Our calculations also gave us arguments to
+propose distinct reaction routes, whose mutual predominance would depend upon reaction temperature. At temperatures up to 573
+K, the so-called β-route, which goes through scission of a Cβ−H bond and formation of an oxametallacycle-like intermediate, would
+dominate the coupling, whereas at higher temperatures, up to 673 K, a more usual Guerbet mechanism, via an aldol coupling step
+and then consecutive hydrogenations, would be expected. The theoretical conclusions were followed by a careful experimental
+strategy using sequential experimental planning techniques in order to estimate accurate parameters with the lowest possible
+experimental load. Information from these diﬀerent sources was coupled to develop a mathematical model for the rate of the ethanol
+upgrading reaction, using a Langmuir−Hinshelwood−Hougen−Watson approach. The developed and statistically validated model
+adequately described the experimental data at 673 K and 1.1 bar total pressure for ethanol partial pressures in t
+
+
+========== EXPERIMENTAL ==========
+
+Experimental Mechanistic Insights into the
+Ethanol-to-Butanol Upgrading Reaction over MgO
+Eugenio F. de Souza, Henrique P. Pacheco, Naomi Miyake, Robert J. Davis, and Fabio S. Toniolo*
+Cite This: ACS Catal. 2020, 10, 15162−15177
+Read Online
+ACCESS
+Metrics & More
+Article Recommendations
+*
+sı
+Supporting Information
+
+
+========== RESULTS ==========
+
+ given by eqs 6−8
+i
+k
+jjjj
+i
+k
+jjjj
+y
+{
+zzzz
+y
+{
+zzzz
+∑
+ν
+=
+−
+−
+−
+ν
+ν
+−
+S
+R
+h
+k T
+/
+e
+1
+ln(1
+e
+)
+i
+i
+h
+k T
+h
+k T
+vib
+B
+/
+/
+i
+i
+B
+B
+(6)
+Figure 1. Frame of the supercell used in DFT calculations showing
+the ﬁrst two atom-layers. The regions sharing the Mg3c cation, namely
+kink-corner (purple line) and step-side (orange line) are also
+highlighted. Henceforth, we use the term active center to denote
+this ensemble consisting of lower-coordinated Mg cations and O
+anions. The coordination numbers of Mg (green) and O (salmon)
+sites are shown.
+ACS Catalysis
+pubs.acs.org/acscatalysis
+Research Article
+https://dx.doi.org/10.1021/acscatal.0c04616
+ACS Catal. 2020, 10, 15162−15177
+15164
+i
+k
+jjj
+y
+{
+zzz
+i
+k
+jjjj
+y
+{
+zzzz
+π
+=
++
+=
+S
+R
+q
+mk T
+h
+k T
+P
+ln
+5
+2 ,
+where
+2
+trans
+trans
+B
+2
+3/2
+B
+(7)
+i
+k
+jjj
+y
+{
+zzz
+i
+k
+jjjjj
+y
+{
+zzzzz
+π
+σ
+π
+=
++
+‐
+=
+×
+×
+×
+S
+R
+q
+q
+k T
+h
+I
+I
+I
+ln
+3
+2
+(non linear),
+where
+8
+x
+y
+z
+rot
+rot
+rot
+2
+B
+2
+(8)
+In eqs 2−9, νi, kB, h, R, m, σ, and I correspond to vibrational
+frequencies, Boltzmann constant, Planck’s constant, universal
+gas constant, molecular weight, rotational symmetry number,
+and moments of inertia, respectively. The ideal gas
+approximation was used to obtain vibrational, translational,
+and rotational entropic and enthalpic contributions. On the
+other hand, translational and rotational contributions have
+been converted into vibrational modes for adsorbed molecules,
+intermediates, and TSs; the pV work term was neglected
+because it was considered very small for adsorbed species when
+compared to the energy-related terms, yielding
+=
++
++
+−
+G T p
+E
+E
+E
+TS
+( , )
+e
+zpe
+vib
+vib
+(9)
+2.4. Experimental Section. 2.4.1. Catalyst Synthesis and
+Characterization. In short, our MgO catalyst was prepared via
+precipitation of Mg(OH)2 by the addition of a solution of
+KOH and K2CO3 to Mg(NO3)2. Mg(OH)2 was then thermally
+treated to yield the used MgO. The material was characterized
+by X-ray ﬂuorescence (XRF), X-ray diﬀraction (XRD), N2
+physisorption, and CO2 temperature-progra
+
+MgO catalyst was prepared via
+precipitation of Mg(OH)2 by the addition of a solution of
+KOH and K2CO3 to Mg(NO3)2. Mg(OH)2 was then thermally
+treated to yield the used MgO. The material was characterized
+by X-ray ﬂuorescence (XRF), X-ray diﬀraction (XRD), N2
+physisorption, and CO2 temperature-programmed desorption
+(TPD). For full synthesis and characterization descriptions, the
+reader is kindly referred to our previous work.56
+2.4.2. Diﬀuse Reﬂectance Infrared Fourier Transform
+Spectroscopy. The tests were conducted in a Bruker VERTEX
+70, with a liquid nitrogen-cooled MCT detector, ZnSe
+windows, and a diﬀuse reﬂectance chamber for high-temper-
+ature treatments (Harrick). The samples were pretreated at
+573 K in 30 mL/min of pure Ar for 1 h and then cooled back
+to 323 K. Afterward, the catalyst was submitted to a 30 mL/
+min 1% EtOH in Ar ﬂow at 323 K prior to recording spectra
+every 5 min for 30 min. Then, the ﬂow was switched back to
+pure Ar to assess the behavior of EtOH desorption. The
+spectra were also obtained every 5 min for 30 min after pure Ar
+started ﬂowing. This procedure was repeated up to 673 K with
+temperature increments of 50 K.
+2.4.3. Bench-Scale Kinetic Experiments. An Agilent 7890A
+gas chromatograph with an FID detector was used to conduct
+the experiments. All species were detected using an Agilent
+CP-PoraPLOT QH column (25 m, 0.32 mm i.d.). Nitrogen
+(Praxair, ultra-high purity) was used as carrier gas and methane
+(Praxair, ultra-high purity) was used as internal standard at a
+3% concentration. Anhydrous EtOH (Sigma-Aldrich, >99.5%)
+was fed into the system using a Teledyne ISCO 500D syringe
+pump. An evaporator kept at 413 K was used to vaporize the
+incoming EtOH prior to the mix with the carrier gas. A 1/2″
+tubular Ti reactor was used for all reactions. Internal pressure
+build-up was monitored using a pressure gauge and the
+reaction temperature was monitored using a thermocouple
+inserted into the tube at the catalyst bed height. The lines were
+kept at
+
+ed mechanism, the small
+BuOH yield observed after the passage of pure AcH (with
+CRO as the main product) could be a consequence of surface-
+mediated CA hydrogenation. On the other hand, the same
+authors observed that a reactant mixture of EtOH and AcH
+decreased (∼66%) the relative quantity of CRO by increasing
+the resulting BuOH yield.16 Therefore, in the presence of
+EtOH (pure or mixtures), diﬀerent mechanisms might coexist.
+3.3.1.5. BuOH Formation: H2 as a Source of H. Here, we
+assume for a surface-mediated hydrogenation that one H2
+molecule dissociates heterolytically at a kink-corner and that
+the resulting hydride species (H−) can diﬀuse (Table S6step
+8). Accordingly, we found that it is energetically costly to move
+H−from their stable position with a barrier of 1.23 eV (Δr =
++0.96 eV) (Table S6step 9), while the diﬀusion barrier of
+protons along the MgO terrace is substantially lower (see
+Table S10), suggesting they could migrate to locations that are
+not necessarily the site where H2 initially dissoci-
+ated.67,75,76,91,92 Regarding the present mechanism, after
+departing from its initial position the H−fragment reaches a
+subsurface O5c site nearby the CA (Table S6step 9). From
+this point, we tested some alternatives and the energetically
+most favorable pathway proceeds as follows: (i) the hydrogen
+initially bound to O4c connects with the CA C(2) carbon after
+overcoming a barrier of 0.61 eV with modest exergonicity (Δr
+= −0.10 eV) (Table S6step 10); (ii) the subsurface O5c-
+bound H migrates to the O4c site with a small barrier (0.07 eV)
+(Δr = −0.17 eV) (Table S6step 11); this step is immediately
+followed by an intramolecular 1,3 (C(1) →C(3)) H-migration
+after surpassing a relatively high energy barrier of 1.06 eV (Δr
+= −0.05 eV) (Table S6step 12); (iv) ﬁnally, C(1) carbon is
+hydrogenated to form adsorbed butoxy after a small barrier of
+0.20 eV, resulting in a thermodynamically highly stable system
+(Δr = −0.69 eV) (Table S6step 13); (v) H2O is formed
+throu
+
+C coupling initiates through the activation
+of a Cβ−H bond (EtOH methyl group) generating a key-
+intermediate, which in turn reacts with a vicinal ethoxide
+yielding BuOH as a primary product. For that, we assumed
+that the adjacent O4c site is capable of activating a Hβ (ETH-2)
+generating a surface hydroxyl (O4c−H). Within our approach,
+a Hβ could only be abstracted from ETH-2, so that DFT
+structure-optimization attempts regarding ETH-1 always bring
+Hβ back to their initial (ethoxy) position. Thus, we considered
+as the starting point of the β-route an adsorbed system
+containing ethoxy (ETH-1) and its vicinal undissociated ETH-
+2 moiety.
+The intermediate has a cyclic Cβ-activated geometry in
+which the deprotonated Cβ carbon is stabilized by the
+interaction with the surface Mg3c site (see Figure S9).
+Interestingly, the geometry is similar to a bidentate
+oxametallacyclic (OMC) species identiﬁed in various EtOH-
+adsorbing systems and, therefore, we named it oxametallacycle-
+like (OMC-like) intermediate. Idriss et al. proposed the
+existence of a similar ﬁve-membered (−CβH2CαH2O*) ring
+formed from β-cleavage on Ru/CeO2
+95 and Ru/CeO2−ZrO2
+96
+catalysts, while on Rh(111) surfaces it was suggested that
+OMC intermediates may form ethane and even facilitate the
+scission of Cα−Cβ bonds.97 Chieregato et al.22 also advocated
+on the existence of a carbanion species generated from Hβ
+abstraction. The activation energy to cleave the ETH-2 Cβ−H
+bond was found to be 0.93 eV and considerably endergonic
+(Δr = +0.65 eV) (Table S11step 1).
+3.3.2.1. C−C Coupling Reaction. BuOH was generated
+through direct coupling of OMC-like and the vicinal ETH-1
+(Table S11step 2). The calculated barrier was 1.43 eV and
+the ﬁnal system is energetically stable (Δr = −0.06 eV). We
+further investigated whether sequential intramolecular dehy-
+drogenations might generate kinetically consecutive products,
+that is, BuH and CRO, both detected in experiments at 673
+K.56 For that, the BuOH hydroxyl group ﬁrst lose

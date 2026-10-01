@@ -1,0 +1,97 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Iridium",
+                "raw_name": "Iridium",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ruthenium complexes",
+                "raw_name": "Ruthenium complexes",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "hydroxyapatite",
+                "raw_name": "hydroxyapatite (HAP)",
+                "article_identifiers": [
+                    "HAP"
+                ]
+            },
+            {
+                "catalyst": "Mg1Al1O",
+                "raw_name": "Mg1Al1O",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg3Al1O",
+                "raw_name": "Mg3Al1O",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Al2O3",
+                "raw_name": "Al2O3",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Iridium",
+                "raw_name": "Iridium",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ruthenium",
+                "raw_name": "Ruthenium",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pd",
+                "raw_name": "Pd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ag",
+                "raw_name": "Ag",
+                "article_identifiers": []
+            },
+            {
+                "name": "Mn",
+                "raw_name": "Mn",
+                "article_identifiers": []
+            },
+            {
+                "name": "Fe",
+                "raw_name": "Fe",
+                "article_identifiers": []
+            },
+            {
+                "name": "Sm",
+                "raw_name": "Sm",
+                "article_identifiers": []
+            },
+            {
+                "name": "Yb",
+                "raw_name": "Yb",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "NiZn@NC",
+                "raw_name": "NiZn@NC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni20Zn1@NC",
+                "raw_name": "Ni20Zn1@NC",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Zn",
+                "raw_name": "Zn",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "lignin-derived carbon",
+            "raw_name": "lignin-derived carbon",
+            "article_identifiers": []
+        }
+    }
+}

@@ -1,0 +1,198 @@
+========== ABSTRACT ==========
+
+summary of
+these experiments). Under analogous conditions to those of
+the catalytic reactions but in the absence of ruthenium,
+acetaldehyde was oligomerized with 100% conversion in 4 h
+by NaOMe with little or no control, and the expected
+dimerization product crotylaldehyde accounted for only
+14.6% of the total product mixture; the rest of the products
+were higher oligomers. By contrast, when the analogous
+reaction was performed in the presence of [RuCl(h6-p-
+cymene)(3)]Cl (0.1 mol%), 56.9% of the product was croty-
+laldehyde, with 100% conversion. The same experiment with
+butylaldehyde was also revealing: in the absence of ruthe-
+nium, 85% selectivity for a mixture of higher oligomers (C8+)
+was observed in 4 h, whereas in the presence of [RuCl(h6-p-
+cymene)(3)]Cl
+(0.1 mol%),
+only
+24%
+selectivity
+was
+observed for oligomers in the same reaction time, and C4
+species made up 76% of the product, including n-butanol
+(19%). These results suggest that the ruthenium catalyst
+biases the aldol condensation to give the desired C4 products
+by increasing the rate of acetaldehyde coupling but reducing
+the rate of aldol reaction with C4 or higher alcohols.
+Aldehyde-hydrogenation experiments also revealed why
+such high selectivity is observed. Under catalysis-like con-
+ditions with [RuCl(h6-p-cymene)(3)]Cl and H2 (2.5 bar), no
+conversion of acetaldehyde into ethanol was observed within
+4 h; indeed, only coupling products were observed (C4, C6,
+and C8), including n-butanol (31.8%). By contrast, butylalde-
+hyde was hydrogenated to n-butanol with 48.9% conversion
+in 4 h, and higher oligomers (C8+) made up only 19.4% of the
+product. These results suggest a regime during catalysis in
+which the aldol condensation of ethanol is favored over that
+of C4 or higher aldehydes, but the hydrogenation of C4 or
+higher aldehydes is favored over that of acetaldehyde. The
+low, steady concentration of acetaldehyde that results allows
+the reaction to proceed in a selective manner. It is tempting to
+also
+
+
+========== EXPERIMENTAL ==========
+
+on). The
+yield of n-butanol is given in parenthesis. [b] Total selectivity for n-butanol in the liquid fraction, as
+determined by GC. [c] Turnover number (TON) based on the amount of substrate (in mmol) converted
+into products per mmol of Ru. [d] Turnover frequency (TOF) based on the amount of substrate (in
+mmol) converted into products per mmol of Ru per hour. [e] Reaction time: 20 h. [f] Reaction time: 24 h.
+[g] The reaction was carried out with 0.01 mol% of [Ru]. [h] The reaction was carried out with 0.05 mol%
+of [Ru].
+Angewandte
+Chemie
+3
+Angew. Chem. Int. Ed. 2013, 52, 1 – 5
+ 2013 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.angewandte.org
+These are not the final page numbers!
+
+heating an ethanolic solution of [RuCl(h6-p-cymene)(3)]Cl in
+the autoclave at 1508C resulted in the formation of trans-
+[RuCl2(3)]. The
+31P{1H} NMR spectrum (unlocked) of the
+product solution of a typical catalytic run (Table 1, entry 11)
+exhibited a set of mutually coupled triplets at 15.4 and
+1.9 ppm (2JPP = 29.2 Hz) and a singlet at 10.3 ppm, which we
+attribute to cis and trans isomers of [RuH2(3)]. We synthe-
+sized this dihydride complex according to a previously
+reported method[16] and found it to be catalytically active
+(Table 1, entry 17).
+31P{1H} NMR spectroscopic analysis of
+catalytic solutions after longer reaction times (e.g. Table 1,
+entry 12) also showed several unknown species at 40.9 (s),
+33.4 (s), and 21.1 ppm (s); their presence suggests some
+catalyst decomposition. The importance of the small bite
+angle of the diphosphine is apparent by comparison of the
+results obtained with trans-[RuCl2(L)] complexes of 1 and 2
+(Table 1, entries 18 and 19).
+Preliminary mechanistic studies, as well as the observed
+higher-alcohol side products, support a Guerbet-type mech-
+anism. Treatment of [RuCl(h6-p-cymene)(3)]Cl with NaOEt
+under catalysis-like conditions led rapidly to the formation of
+a species with a triplet signal in the 1H NMR spectrum at
+9.47 ppm (triplet, 2JPH = 33 Hz), cons
+
+ as well as the observed
+higher-alcohol side products, support a Guerbet-type mech-
+anism. Treatment of [RuCl(h6-p-cymene)(3)]Cl with NaOEt
+under catalysis-like conditions led rapidly to the formation of
+a species with a triplet signal in the 1H NMR spectrum at
+9.47 ppm (triplet, 2JPH = 33 Hz), consistent with a ruthenium
+hydride. Addition of the ethanol substrate to this preactivated
+catalyst led to butanol formation. This result suggests that
+after initial formation of a ruthenium ethoxide, b elimination
+leads to the formation of the active hydride and the aldehyde.
+The addition of ethanol results in metathesis with the hydride,
+loss of hydrogen, and the formation once again of the
+ruthenium ethoxide to close the dehydrogenation cycle.
+To investigate whether the hydrogen remains bound to the
+metal center during the catalytic cycle prior to delivery for
+later hydrogenation, we performed a catalytic reaction in the
+presence of D2 (2.5 bar; Scheme 3a). Significant D incorpo-
+ration (25% across all sites) in the butanol product was
+observed, which suggests the presence of free hydrogen, or at
+least rapid exchange between free and bound hydrogen/
+hydrides. Similar results were obtained when EtOD was used
+as the substrate (Scheme 3b). Indeed, deuterium incorpora-
+tion into CH/D bonds of “unreacted” ethanol was also
+observed in this experiment; moreover, the labeling pattern
+was very distinctive, with a 2:1 preference for monodeutera-
+tion at the ethanol 2-position over the 1-position. A simple
+ethoxide b-elimination/reinsertion mechanism would seem to
+favor incorporation at the 1-position (Scheme 3c), and this
+result suggests the intermediacy of an enolate p-bound to the
+ruthenium center through the C=C bond.
+The remarkable feature of these catalysts is their
+extremely high selectivity as compared to that of all previous
+systems. Assuming a Guerbet-type mechanism, a key facet of
+this selectivity must be the exertion by the catalysts of
+extremely high levels of control o
+
+
+========== RESULTS ==========
+
+results in terms of productivity (Table 1, entries 4 and
+5). However, a positive effect was observed when the
+preformed complex of ligand 3 was
+used (Table 1, entry 6): a higher
+yield
+and
+even
+higher
+(93.6%)
+selectivity were observed for the
+formation of n-butanol. Running
+the reaction for extended periods
+did not produce an increase in
+conversion (Table 1, entry 7). In
+the absence of the diphosphine
+ligand (Table 1, entry 8), low base-
+line catalytic activity (6.9% conver-
+sion in 4 h) was observed, albeit
+with slightly lower selectivity.
+In many of these reactions, the
+catalyst solution appeared to be
+unstable, with the formation of
+a black precipitate reminiscent of
+nanoparticulate
+metal
+over
+the
+course of the reaction; this precip-
+itate was catalytically inactive. By
+contrast, when an extra equivalent
+of the ligand was added to the
+preformed
+complex
+[RuCl(h6-p-
+cymene)(3)]Cl, the reaction mix-
+ture
+remained
+homogenous
+throughout (Table 1, entries 9 and
+10). A decrease in productivity over
+4 h can be overcome by carrying out
+the
+reactions
+for
+an
+extended
+period (20 h), but at the cost of
+selectivity: an artifact of these batch
+experiments and the increased con-
+centration of n-butanol relative to
+that of ethanol at higher conversion.
+The ruthenium complexes [RuCl2(L)2] may be preformed
+before executing the catalysis.[15] Under our standard catalytic
+conditions, trans-[RuCl2(3)2] exhibited lower conversion than
+[RuCl(h6-p-cymene)(3)]Cl alone (compare entries 6 and 11 in
+Table 1) but gave very similar results to [RuCl(h6-p-cyme-
+ne)(3)]Cl in the presence of an excess of the ligand (Table 1,
+entry 9) and similarly remained homogeneous throughout the
+catalysis. Again, longer reaction times resulted in higher
+conversion, up to 45.8% (Table 1, entries 12 and 13). Such
+complexes can be obtained in either the cis or trans geometry
+depending on the reaction conditions used during their
+formation.[15] Both geometries of precursor [RuCl2(3)2] gave
+identical catalytic resul
+
+ger reaction times resulted in higher
+conversion, up to 45.8% (Table 1, entries 12 and 13). Such
+complexes can be obtained in either the cis or trans geometry
+depending on the reaction conditions used during their
+formation.[15] Both geometries of precursor [RuCl2(3)2] gave
+identical catalytic results within

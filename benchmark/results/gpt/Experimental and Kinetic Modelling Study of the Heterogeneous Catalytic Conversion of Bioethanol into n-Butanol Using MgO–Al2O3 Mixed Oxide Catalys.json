@@ -1,0 +1,19 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgO–Al2O3 mixed oxide",
+                "raw_name": "MgO–Al2O3 mixed oxide",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "MgO–Al2O3 mixed oxide",
+            "raw_name": "MgO–Al2O3 mixed oxide",
+            "article_identifiers": []
+        }
+    }
+}

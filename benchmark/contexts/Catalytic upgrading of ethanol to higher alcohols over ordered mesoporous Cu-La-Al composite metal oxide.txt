@@ -1,0 +1,201 @@
+========== EXPERIMENTAL ==========
+
+Experimental 
+2.1. Catalyst preparation 
+All chemicals used in this procedure were AR grade. A series of 
+ordered mesoporous Cu-La-Al composite metal oxides were prepared by 
+EISA method as follows: 2 g of P123 (EO20PO70EO20) was firstly dis­
+solved in 20 mL anhydrous ethanol. Then, 0.286 g salicylic acid, 0.2 g 
+citric acid and calculated amounts of La(Ac)3⋅xH2O and Cu(Ac)2 were 
+added into above solution. With complete dissolution of all solutes, a 
+clear solution denoted solution A was achieved. Solution B was achieved 
+by adding 3.2 mL 35 wt% HCl and subsequently 4.08 g (20 mmol) 
+aluminum isopropoxide into another 20 mL anhydrous ethanol. After 
+the solution A and B were mixed and stirred vigorously for 5 h at room 
+temperature, the ethanol solvent was evaporated at 333 K for 72 h. The 
+resulting solid samples were heated at a rate of 1 K/min to 673 K for 4 h, 
+and then calcined at 973 K for 1 h with a heating rate of 10 K/min. The 
+ordered mesoporous Cu-La-Al composite metal oxides obtained finally 
+were denoted as OM-CuxLayAl100, where the subscripts indicate the 
+relative molar number (RMN) of Cu, La and Al, respectively. As refer­
+ence, ordered mesoporous Al2O3, La-Al and Cu-Al composite metal ox­
+ides (denoted as OMA, OM-CuxAl100, and OM-LayAl100, respectively) 
+were prepared in the same process without the addition of lanthanum 
+acetate and/or copper acetate. 
+Stoichiometric copper aluminate spinel (CuAl2O4) catalyst was pre­
+pared by grinding Al(NO3)3⋅9H2O and Cu(NO3)2⋅3H2O with Al/Cu 
+molar ratio of 2:1 to uniform powder mixture in quartz inkstone. The 
+powder mixture was then calcined at 1073 K for 6 h with a heat ramp of 
+10 K/min and then the CuAl2O4 sample was obtained. 
+2.2. Catalyst characterization 
+Brunauer-Emmett-Teller (BET) surface areas of the catalysts were 
+determined by N2 adsorption using a Quantachrome ASIQC0 FV100•2 
+apparatus with liquid-N2 at the temperature of 77 K. The samples were 
+outgassed at 473 K for 4 h prior to analysis. X-r
+
+ ±0.2 eV. UV–vis spectra were 
+collected with a Shimadzu UV-3600 instrument equipped with an inte­
+grating sphere. The samples were mounted in quartz cell recorded in the 
+range 200–2000 nm at room temperature and BaSO4 was used as 
+reference. 27Al magic angle spinning (MAS) NMR spectra were recorded 
+on an Agilent 600 DD2 spectrometer operating at a Larmor frequency of 
+156.25 MHz for 27Al. 
+H2 temperature-programmed reduction (H2-TPR) were performed on 
+a Micromeritics Autochem II 2920 chemisorber equipped with a thermal 
+conductivity detector (TCD) and a OmniStar GSD320 mass spectrometer 
+(MS). Typically, the sample (100 mg) was pretreated in a quartz U-tube 
+reactor with a He gas stream (30 ml/min) at 473 K for 1 h. After cooling 
+to room temperature, a 10% H2/Ar flow (50 ml/min) was introduced 
+and the sample was heated to 1273 K (10 K/min) while desorbed species 
+were monitored by the thermal conductivity detector (TCD) and mass 
+spectrometry (MS) in real time. 
+CO2 temperature-programmed desorption (CO2-TPD) and NH3 tem­
+perature -programmed desorption (NH3-TPD) were also performed on 
+the Micromeritics Autochem II 2920 chemisorber. For CO2-TPD exper­
+iments, the sample (100 mg) was pretreated in a quartz U-tube reactor 
+with a He gas stream (30 mL/min) at 473 K for 1 h. When the temper­
+ature decreased to 323 K, CO2 saturation uptake of the pretreated cat­
+alysts was achieved by passing pure CO2 for 0.5 h at 30 mL/min. After 
+the CO2 adsorption, the catalyst was purged by Ar flow (40 mL/min) for 
+1 h at 323 K. Then the temperature was linearly increased from 323 K to 
+1073 K (10 K/min) in Ar flow while desorbed species were monitored by 
+the thermal conductivity detector (TCD) and mass spectrometry (MS) in 
+real time.⋅NH3-TPD experiments were carried out by similar procedure 
+as that of CO2-TPD experiments except for using 10% NH3/Ar gas 
+mixture as the adsorbate. 
+2.3. Catalyst evaluation 
+The catalytic tests were performed in a fixed-bed reactor as shown i
+
+
+========== RESULTS ==========
+
+c surface area, large pore volume and ordered mesoporous 
+pore of the CuxLayAl100 composite oxides provide a premise for them to 
+be used as excellent catalysts. 
+3.2. XRD and TEM analysis 
+Small-angle XRD patterns of this series of catalysts before and after 
+12 h reaction were showed in the Fig. 2. Except for OM-Cu6.3La2.6Al100 
+catalyst, all catalysts displayed a strong diffraction peak at around 1◦and 
+a weak shoulder peak at around 1.5◦, which are respectively charac­
+teristic of (100) and (110)/(200) planes of ordered mesoporous 
+structure with a 2D hexagonal p6mm symmetry [43]. A weak diffraction 
+peak at around 1◦was observed for the OM-Cu6.3La2.6Al100 catalyst 
+before reaction, indicting its low structure order, which is consistent 
+with the results of N2 adsorption. Each catalyst after the reaction dis­
+played almost the same diffraction spectrum as that of the corresponding 
+catalyst before reaction. This result suggests the ordered mesoporous 
+structure of catalysts was well preserved during ethanol upgrading to 
+higher alcohols. 
+Wide-angle XRD patterns of this series of catalysts before and after 
+12 h reaction were showed in the Fig. 3. Newly synthesized OMA 
+exhibited two weak diffraction peaks characteristic of γ-Al2O3 [44], 
+suggesting it is essentially γ-Al2O3 with lower degree of crystallization. 
+For the OM-Cu4Al100 catalyst before reaction, very weak diffraction 
+peaks characteristic of CuAl2O4 crystal phase were found [45], while 
+intensities of diffraction peaks characteristic of γ-Al2O3 increased, 
+implying introduction of copper improved crystallization degree of the 
+ordered mesoporous framework. However, intensities of the diffraction 
+peaks characteristic of γ-Al2O3 decreased or disappeared with the 
+incorporation of lanthanum; moreover, there were no diffraction peaks 
+of Cu and La species observed for the catalysts containing lanthanum, 
+indicating Cu and La species were highly dispersed or existed in amor­
+phous forms in these catalys
+
+aracteristic of γ-Al2O3 decreased or disappeared with the 
+incorporation of lanthanum; moreover, there were no diffraction peaks 
+of Cu and La species observed for the catalysts containing lanthanum, 
+indicating Cu and La species were highly dispersed or existed in amor­
+phous forms in these catalysts. 
+As shown in Fig. 3 (B), all the catalysts after reaction showed clear 
+diffraction peaks characteristic of γ-Al2O3, indicating the ordered mes­
+oporous frameworks had undergone a gradual crystallization process 
+during ethanol upgrading to higher alcohols. Sharp diffraction peaks at 
+2θ = 43.3◦, 50.4◦and 74.1◦characteristic of Cu nanoparticles were 
+found while the diffraction peaks characteristic of CuAl2O4 found before 
+reaction were weakened for the OM-Cu4Al100 catalyst after reaction. 
+These results may be interpreted as reduction of a little active CuAl2O4 
+into metal Cu nanoparticles. However, there were no diffraction peaks 
+characteristic of Cu nanoparticles but very diffuse diffraction peaks 
+characteristic of CuAl2O4 observed for the OM-Cu0.8La2.6Al100 and OM- 
+Cu4La2.6Al100 catalysts, suggesting the introduction of lanthanum pre­
+vented reduction of CuAl2O4 species in these catalysts or the CuAl2O4 in 
+these catalysts probably existed in different physical and chemical 
+Fig. 2. Small-angle XRD spectra of (a) OMA, (b) OM-Cu4Al100, (c) OM-La2.6Al100, (d) OM-Cu0.8La2.6Al100, (e) OM-Cu4La2.6Al100, and (f) OM-Cu6.3La2.6Al100 catalysts 
+before reaction (A) and after 12 h reaction (B). 
+Fig. 3. Wide-angle XRD spectra of (a) OMA, (b) OM-Cu4Al100, (c) OM-La2.6Al100, (d) OM-Cu0.8La2.6Al100, (e) OM-Cu4La2.6Al100, and (f) OM-Cu6.3La2.6Al100 catalysts 
+before reaction (A) and after 12 h reaction (B). 
+H. Zhao et al. 
+Applied Surface Science 599 (2022) 153851
+5
+environments. For the OM-Cu6.3La2.6Al100 catalyst after reaction, 
+diffraction peaks characteristic of both metal Cu and CuAl2O4 were 
+observed, due to diversification of Cu species with excessive introduc­
+tion 
+
+d after 12 h reaction (B). 
+H. Zhao et al. 
+Applied Surface Science 599 (2022) 153851
+5
+environments. For the OM-Cu6.3La2.6Al100 catalyst after reaction, 
+diffraction peaks characteristic of both metal Cu and CuAl2O4 were 
+observed, due to diversification of Cu species with excessive introduc­
+tion of copper. It is remarkable that the diffraction peaks characteristic 
+of CuAl2O4 for the OM-CuxLa2.6Al100 catalysts (x = 0.8, 2.6 and 4) after 
+reaction were very weak and diffuse, indicating the high dispersion of 
+the CuAl2O4 species over the OM-CuxLa2.6Al100 catalysts. Additionally, 
+due to the large size of La3+ compared to Al3+ (0.054 nm for Al3+ and 
+0.103 nm for La3+), it is difficult to form LaAlO3 phase at present 
+calcination temperature [46]. Thus, the lanthanum species were ex­
+pected to exist in the form of highly dispersed La2O3 in these catalysts. 
+As seen in Fig. 4(A)-(D), hexagonally packed honeycomb-like mes­
+opores and parallel cylindrical mesochannels along the (110) and (100) 
+orientations could be clearly observed for OM-Cu4Al100, OM- 
+Cu0.8La2.6Al100 and OM-Cu4La2.6Al100 catalysts though the ordered 
+mesoporous framework locally collapsed for the OM-Cu6.3La2.6Al100 
+catalyst [47]. These observations are consistent with the former results 
+of N2 adsorption-desorption and Small-angle XRD. HAADF-TEM and 
+EDX mapping images of the OM-Cu4La2.6Al100 catalyst (Fig. 4(E)) 
+showed that Al-K and O-K signals could only be detected in the ordered 
+skeleton, further confirming that the ordered mesoporous framework 
+was based on the alumina matrix; moreover, Cu-K and La-L signals were 
+evenly spread over the selected area, implying the high dispersion of 
+copper and lanthanum species, which is consistent with the former re­
+sults of Wide-angle XRD. 
+3.3. H2-TPR and XPS analysis 
+H2-TPR profiles of this series of catalysts were shown in Fig. 5. There 
+were three H2 consumption peaks centered at 555 K, 601 K and 760 K, 
+respectively, in the TPR curve of OM-Cu4Al10
+
+er 500 h reaction, while the EDX mapping 
+images also showed the copper and lanthanum species were in high 
+dispersion, which can further accountable for the excellent stability of 
+the catalyst. The high thermal stability of the CuAl2O4 and ordered 
+mesoporous structures were also responsible for the excellent stability of 
+the catalyst. Simultaneously, the embedding effect of CuAl2O4 and 
+La2O3 into ordered mesoporous framework further improved the sta­
+bility of the OM-Cu4-La2.6-Al100 catalyst. The construction of Cu- 
+supported catalysts based on the CuAl2O4 and Cu2+
+Octa will provide a 
+new way for the preparation of highly efficient and anti-sintering Cu- 
+based catalysts. 
+3.7. Catalytic mechanism 
+The product distribution over OM-CuxLayAl100 catalysts indicated 
+that higher alcohols were produced from ethanol via a sequence of steps 
+known as the Guerbet reaction. In this cascade process, ethanol first 
+experienced dehydrogenation to form acetaldehyde, followed by aldol 
+condensation of acetaldehyde and subsequently hydrogenation of cro­
+tonaldehyde to produce n-butanol, which might undergo further 
+coupling with ethanol or n-butanol to give higher carbon number al­
+cohols. Since introduction of copper into OMA and OM-La2.6Al100 
+dramatically improved the ethanol conversion and yield to higher al­
+cohols, the highly dispersed CuAl2O4 on the OM-CuxLa2.6Al100 catalysts 
+was main active phase for the ethanol dehydrogenation. Mendes et al. 
+[70] found that Rh-Cu/Al2O3 catalyst with Cu2+
+Octa species showed high 
+activity in n-hexanol dehydrogenation. The Cu0.5Zn0.5Fe2O4 catalyst 
+prepared by microwave combustion showed isopropanol conversion of 
+59.8% in isopropanol dehydrogenation at 523 K due to existence of a 
+large number of octahedrally coordinated Cu2+ and Fe3+ active sites 
+[71]. Riittonen et al. [29] found that Cu/γ-Al2O3 catalyst with low 
+loading of Cu exhibited much higher activity for ethanol dehydrogena­
+tion than the γ-Al2O3 support and then inferr

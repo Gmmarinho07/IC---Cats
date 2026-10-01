@@ -1,0 +1,299 @@
+========== ABSTRACT ==========
+
+Abstract
+The catalytic conversion of ethanol to butanol and butadiene at 633 K and atmospheric pressure (7 vol% ethanol) was 
+studied over calcium phosphate materials pretreated over a wide temperature range. For calcium phosphate pretreated at 
+or below 923 K, the resulting solid had an apatite structure identified by X-ray diffraction and strong acid sites probed by 
+triethylamine (TEA) adsorption microcalorimetry. The low temperature pretreated materials were not effective at ethanol 
+coupling reactions but instead were highly selective to acid-catalyzed products ethene and diethyl ether. Pretreatment of 
+calcium phosphate at 973 K transformed the apatite structure to β-tricalcium phosphate, which exposed both acid and base 
+sites evaluated by TEA and ­CO2 adsorption microcalorimetry. High temperature pretreated calcium phosphate catalysts 
+formed the coupling products butanol and butadiene during ethanol reaction. The butadiene selectivity was improved by 
+supporting calcium phosphate on zirconia.
+Graphic abstract
+The influence of catalyst structure on the activity and selectivity of calcium phosphates was elucidated for the conversion 
+of ethanol.
+Keywords  Guerbet reaction · Lebedev reaction · Ethanol coupling · Adsorption microcalorimetry · Apatite
+ * Robert J. Davis 
+ 
+rjd4f@virginia.edu
+Extended author information available on the last page of the article
+649
+Calcium Phosphate Catalysts for Ethanol Coupling to Butanol and Butadiene﻿ 
+1 3
+1
+
+
+========== EXPERIMENTAL ==========
+
+experimental patterns. Alpha-calcium phosphate 
+is shown to indicate that the phases present in the tested catalysts are 
+limited to apatite and beta only
+651
+Calcium Phosphate Catalysts for Ethanol Coupling to Butanol and Butadiene﻿ 
+1 3
+nominal Ca/P ratio in CaHAP was 1.67, which is similar to 
+that measured by elemental analysis (1.69) as reported in 
+Table 2. The synthesis of CaP involved a nominal Ca/P ratio 
+of 1.5 to eventually produce ­Ca3(PO4)2, which is identical to 
+the measured ratio listed in Table 2. Evidently, the chemical 
+compositions of the phosphate samples were consistent with 
+the desired compositions present in the synthesis procedure.
+The influences of composition and thermal treatment on 
+the catalytic performance of the calcium phosphate samples 
+are presented in Tables 3 and 4. Calcium hydroxyapatite 
+(CaHAP) is well-recognized as an excellent catalyst for 
+Guerbet coupling of ethanol to produce butanol and other 
+C4 oxygenates [23, 24, 35, 36]. As expected, the reaction of 
+ethanol over CaHAP under the experimental conditions used 
+in this work (633 K, atmospheric pressure) was 77% selec-
+tive to C4 oxygenates at 13% ethanol conversion, as shown 
+in Table 3. The light hydrocarbons and diethyl ether, which 
+are associated with acid sites on the catalyst, were produced 
+in very low amounts (2% selectivity) over CaHAP, which 
+Table 2   Measured compositions 
+of CaP materials by ICP-OES 
+analysis
+Catalyst
+Sample (mg)
+Calcium (wt%)
+Phosphorus 
+(wt%)
+Zirconium 
+(wt%)
+Ca/P
+Ca/Zr
+CaHAP
+52
+39.8
+18.2
+–
+1.69
+–
+CaP untreated
+52
+38.2
+19.7
+–
+1.50
+–
+CaP/ZrO2
+20
+17.3
+9.6
+39.7
+1.39
+0.99
+Table 3   Catalytic reaction of ethanol over CaHAP compared to reference materials
+a Flowrates selected to obtain low conversion values, calculated based on products
+b Ethene, ethane, and diethyl ether
+c Four-carbon oxygenates: butanol, crotyl alcohol, butanal, crotonaldehyde
+d Others: hexanol and/or unknowns (analyzed with an estimated molecular weight, carbon number, and 
+
+C4 oxygenates. Clearly, the thermal 
+treatment can be used to adjust the acid–base nature of the 
+calcium phosphate catalysts.
+To further explore the balance of surface and acid base 
+sites necessary for producing butadiene from ethanol, CaP 
+was mixed with ­SiO2 (a weakly acidic oxide) and with ­ZrO2 
+(an amphoteric oxide). Table 3 presents the catalytic perfor-
+mance of the individual ­SiO2 and ­ZrO2 catalysts in ethanol 
+conversion, illustrating the very poor activity of silica (very 
+low areal rate, near background conversion) and the high 
+activity of zirconia for acid-catalyzed dehydration reactions. 
+Given the amphoteric nature of ­ZrO2, it is not surprising 
+that small amounts of C4 oxygenates and C4 olefins are 
+produced from the ethanol reaction, but the selectivities to 
+major products are 58% to light hydrocarbons and diethyl 
+ether, and 33% to acetaldehyde, at an ethanol conversion of 
+14%. Table 5 summarizes the catalytic performance of CaP/
+SiO2 and CaP/ZrO2 in the conversion of ethanol at 633 K. 
+Addition of ­SiO2 to CaP had little influence on the selectiv-
+ity to products as the composite material produced mostly 
+C4 oxygenates. In contrast, addition of ­ZrO2 to CaP cre-
+ated a composite catalyst with suitable acid and base sites 
+to produce butadiene with 19% selectivity at 10% ethanol 
+conversion. Doubling the conversion to 22% also produced 
+butadiene with 20% selectivity. The C4 oxygenate selectiv-
+ity was low (< 5%) at both levels of conversion suggest-
+ing that C4 coupling intermediates such as crotonaldehyde 
+(see Scheme 1) that were formed on the composite cata-
+lyst eventually transformed to butadiene. The acidity of the 
+amphoteric ­ZrO2 component of the mixed catalyst was likely 
+responsible for the high selectivity (57–63%) to light hydro-
+carbons and diethyl ether. These results suggest that it may 
+be possible to optimize the ratio of ­ZrO2 and CaP in the 
+composite material to improve butadiene selectivity.
+The performance of the com
+
+
+========== RESULTS ==========
+
+Results and Discussion
+Table 1 summarizes the nominal composition and meas-
+ured surface area of the catalysts prepared and evaluated in 
+this study. The surface area of the calcium phosphate (CaP) 
+catalysts decreased monotonically with increasing treatment 
+temperature (see Table 1), from 71 m2g−1 for an untreated 
+sample to 5.4 m2g−1 after thermal treatment at 1173 K. For 
+these calcium phosphate samples, thermal treatment induced 
+a phase change from an apatite structure, present at room 
+temperature through 923 K, to mostly β-Ca3(PO4)2 with rem-
+nants of apatite at 973 K and higher temperatures. Figure 1 
+presents the X-ray diffraction patterns of CaP before and 
+after the various thermal treatments and clearly shows phase 
+transition between 923 and 973 K.
+The X-ray diffraction patterns in Fig. 1 indicate both CaP 
+and CaHAP (treated at 873 K) have an apatite crystal struc-
+ture even though their compositions should be different. The 
+elemental compositions of the two samples were measured 
+to verify the nominal compositions targeted in Table 1. The 
+Table 1   Summary of catalysts
+a Compositions assumed using nominal ratios from synthesis and phase identification by XRD
+b 10 K min−1 ramp to temperature, held for 6 h under 100 cm3 min−1 flowing air
+c Formed by wet-kneading, Mg(OH)2 added to ­SiO2 in water, stirred for 4 h
+d Silica formed by the hydrolysis of tetraethylorthosilicate (TEOS) at 308 K
+e Purchased from Aldrich, < 100 nm, monoclinic
+Catalyst
+Compositiona
+Support
+Thermal 
+­treatmentb (K)
+Surface 
+area 
+­(m2 g−1)
+Reference materials
+ MgO/SiO2
+c
+1:1 Mg/Si
+Syn-SiO2
+d
+1073
+17
+ CaHAP
+Ca10(PO4)6(OH)2
+–
+873
+43
+ MgO
+MgO
+–
+973
+100
+ Syn-SiO2
+d
+SiO2
+–
+973
+6
+ ZrO2
+e
+ZrO2
+–
+973
+13
+Calcium phosphate thermal treatments
+ CaP untreated
+Ca9(HPO4)(PO4)5(OH)
+–
+none
+71
+ CaP 873 K
+Ca9(HPO4)(PO4)5(OH)
+–
+873
+54
+ CaP 923 K
+Ca9(HPO4)(PO4)5(OH)
+–
+923
+43
+ CaP 973 K
+Ca3(PO4)2
+–
+973
+20
+ CaP 1073 K
+Ca3(PO4)2
+–
+1073
+8.7
+ CaP 1173 K
+Ca3(PO4)2
+–
+1173
+5.4
+Supported materials
+ CaP/SiO2
+
+
+O2
+–
+973
+13
+Calcium phosphate thermal treatments
+ CaP untreated
+Ca9(HPO4)(PO4)5(OH)
+–
+none
+71
+ CaP 873 K
+Ca9(HPO4)(PO4)5(OH)
+–
+873
+54
+ CaP 923 K
+Ca9(HPO4)(PO4)5(OH)
+–
+923
+43
+ CaP 973 K
+Ca3(PO4)2
+–
+973
+20
+ CaP 1073 K
+Ca3(PO4)2
+–
+1073
+8.7
+ CaP 1173 K
+Ca3(PO4)2
+–
+1173
+5.4
+Supported materials
+ CaP/SiO2
+Ca3(PO4)2, 1:1 Ca/Si
+Syn-SiO2
+d
+973
+12
+ CaP/ZrO2
+Ca3(PO4)2, 1:1 Ca/Zr
+ZrO2
+e
+973
+17
+10
+20
+30
+40
+50
+60
+PDF 00-064-0738 Ca10(PO4)6(OH)2
+CaHAP
+PDF 00-046-0905 Ca9HPO4(PO4)5OH
+CaP untreated
+CaP 873K
+CaP 923K
+CaP 973K
+Intensity [a.u.]
+2θ [degrees]
+PDF 00-009-0348 αTCP
+PDF 00-055-0898 βTCP
+CaP 1173K
+CaP 1073K
+Fig. 1   X-ray diffraction patterns of calcium phosphate/apatite cata-
+lysts. Reference patterns (PDF) show peak location/intensity reported 
+from their respective

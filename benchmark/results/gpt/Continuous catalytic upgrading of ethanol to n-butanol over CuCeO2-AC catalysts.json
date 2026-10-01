@@ -1,0 +1,75 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu-CeO2/AC",
+                "raw_name": "Cu-CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "3Cu1CeO2/AC",
+                "raw_name": "3Cu1CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/AC",
+                "raw_name": "Cu/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "3Cu1Ce/SiO2",
+                "raw_name": "3Cu1Ce/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "3Cu1Ce/Al2O3",
+                "raw_name": "3Cu1Ce/Al2O3",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ce",
+                "raw_name": "CeO2",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Co",
+                "raw_name": "Co",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pd",
+                "raw_name": "Pd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pt",
+                "raw_name": "Pt",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ru",
+                "raw_name": "Ru",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "activated carbon",
+            "raw_name": "AC",
+            "article_identifiers": []
+        }
+    }
+}

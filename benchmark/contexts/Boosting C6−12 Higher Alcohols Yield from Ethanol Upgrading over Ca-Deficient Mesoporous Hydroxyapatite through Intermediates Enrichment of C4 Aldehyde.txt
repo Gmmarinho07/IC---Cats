@@ -1,0 +1,112 @@
+========== ABSTRACT ==========
+
+ABSTRACT: Ethanol upgrading to C6−12 alcohols offers a green
+pathway to high-valued chemicals. Achieving high yields of C6−12
+alcohols remains challenging due to the complexity of the ethanol
+reaction network. Here, we report an efficient conversion of ethanol
+to C6−12 alcohols using Ca-deficient mesoporous hydroxyapatite as
+the catalyst, which was prepared from the reaction of NH3 and
+PO4
+3−. The yield of C6−12 alcohols reached 34.5% with a selectivity
+of 59.3% at 325 °C and 0.1 MPa, exhibiting a high ethanol
+upgrading performance. Ethanol adsorption kinetics and ethanol-
+TPD-DRIFT
+
+
+========== EXPERIMENTAL ==========
+
+yapatite synthesis.36
+The other is the formation of P-rich surfaces via phosphates
+that leads to Ca deficiency that promotes the improvement of
+catalyst basicity. On Ca-deficient catalysts, in order to maintain
+electroneutrality, H+ was introduced and OH−was partially
+replaced by H2O. Hydrogen bonds were formed between the
+oxygens of adjoining phosphate groups, thereby enhancing the
+Figure 3. (a) Ethanol conversion and products distribution over the catalysts prepared with different molar amounts of (NH4)2HPO4 (reaction
+conditions: 325 °C, WHSV of 1.96 gC2H5OH gcat
+−1 h−1), others include acetaldehyde, ethylene, ether, etc. Ethanol conversion performance over the
+(NH4)2HPO4−HAP catalyst at (b) different temperatures and (c) different WHSV. (d) Ethanol conversion performance over the catalysts
+(reaction conditions: 325 °C, WHSV of 1.96 gC2H5OH gcat
+−1 h−1). The relationship between the C−C coupling rate and the amount of (e) acid sites
+and (f) basic sites.
+ACS Catalysis
+pubs.acs.org/acscatalysis
+Research Article
+https://doi.org/10.1021/acscatal.5c01449
+ACS Catal. 2025, 15, 8599−8610
+8603
+basicity.18,37 The presence of a Ca-deficient catalyst boosts the
+formation of CaV−O−Ca and CaV−O−P sites, thereby
+enhancing their ability to adsorb ethanol and product
+molecules. Additionally, the NH3 desorption temperatures
+for all four samples fell within the 100−200 °C range,
+indicating the presence of weak acid sites on the hydrox-
+yapatite surface (Figure 2b). It is also observed that the acid
+concentration was clearly reduced after the modification of
+hydroxyapatite (Table 1).
+Adsorption and diffusion of reactants on the catalyst are the
+initial steps in catalytic reactions. We measured the time-
+resolved gas adsorption of ethanol on hydroxyapatites to
+investigate the diffusion behavior of ethanol (Figure 2c, Table
+1). Surprisingly, the diffusional time constant (D′ = D/r2, s−1)
+of NH3-modified catalysts, such as NH3−HAP and
+(NH4)2HPO4−HAP, were 5.86 × 10−4 and 6.30 × 10−4,
+re
+
+hate (Table S3). By
+optimization, we chose the catalyst synthesized using a
+(NH4)2HPO4 molar ratio of 0.1 mol as a representative
+sample for further analyses. Initially, a sharp increase in the
+ethanol conversion was observed with an increase in reaction
+temperature, accompanied by an enhancement in the
+selectivity of C6−12 alcohols from 24.3% at 250 °C to 54.4%
+at 350 °C (Figure 3b). It was noted that the byproducts
+selectivity became higher at 350 °C. Therefore, 325 °C was
+selected as the optimum reaction temperature for the
+subsequent analyses. Additionally, by reducing the weight
+hour space velocity (WHSV) to 0.98 gC2H5OH gcat
+−1 h−1, the
+same catalyst achieved a remarkable ethanol conversion of
+58.1% and an impressive selectivity of 59.3% toward C6−12
+alcohols (Figure 3c). A high yield of C6−12 alcohols (34.5%)
+was obtained on (NH4)2HPO4−HAP in the absence of
+transition metal copper, which is comparable to the perform-
+ance of the reported Cu-HAP catalyst (39.3% yield of C6−12
+alcohols), as shown in Table S4. Compared to other reported
+solid acid−base catalysts, our catalysts exhibit significant
+advantages in both high selectivity and high yield for the
+Figure 4. Ethanol-TPD-MS profiles over the (a) HAP and (b) (NH4)2HPO4−HAP catalysts. Temperature dependence in situ DRIFT spectra for
+ethanol adsorption on (c) HAP and (d) (NH4)2HPO4−HAP catalysts.
+ACS Catalysis
+pubs.acs.org/acscatalysis
+Research Article
+https://doi.org/10.1021/acscatal.5c01449
+ACS Catal. 2025, 15, 8599−8610
+8604
+upgrading of ethanol to C6−12 alcohols. The (NH4)2HPO4−
+HAP catalyst exhibited good regeneration stability in ethanol
+conversion (Figure S6).
+As shown in Figure 3d, the ethanol conversion on NH3−
+HAP increased from 22.8 to 29.4% compared to HAP,
+indicating that the scouring effect of NH3 led to the formation
+of enlarged mesopores, which promoted the diffusion of
+ethanol molecules and thus facilitated the ethanol conversion.
+For the H3PO4−HAP catalyst, the selectivity of C6−12 alcohols
+w
+
+
+========== RESULTS ==========
+
+results revealed that the ethanol diffusional time
+constant of the enlarged pore of the hydroxyapatite increased by
+2.01 folds of the original hydroxyapatite, thereby facilitating the
+access of ethanol molecules to active sites, which was beneficial for
+ethanol dehydrogenation. The online-generated acetaldehyde was subsequently undergoing aldol condensation to accelerate the
+formation of C4 aldehydes, which, as the intermediates, were stabilized over Ca deficiency sites on the hydroxyapatite surface. The
+enriched C4 aldehyde intermediates are further coupled with C2, C4, or C6 aldehydes at the basic sites to produce longer-chain
+aldehydes (C ≥6), which are subsequently hydrogenated to form C6−12 alcohols. Noticeably, compared to the original
+hydroxyapatite, the Ca-deficient hydroxyapatite showed enhanced density of basic sites, about two times higher. Hence, this catalyst
+remarkably boosted the yield of C6−12 alcohols from ethanol upgrading. This work provides a strategy for the selective conversion of
+ethanol to C6−12 alcohols.
+KEYWORDS: ethanol, C6−12 alcohols, hydroxyapatite, C4 aldehyde, basicity
+■

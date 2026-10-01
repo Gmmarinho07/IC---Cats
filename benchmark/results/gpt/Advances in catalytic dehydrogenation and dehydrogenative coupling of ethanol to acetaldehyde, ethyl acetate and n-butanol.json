@@ -1,0 +1,120 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu/MC",
+                "raw_name": "Cu catalyst supported on mesoporous carbon (Cu/MC)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/SBA-15",
+                "raw_name": "silica-based counterpart (Cu/SBA-15)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni–Cu",
+                "raw_name": "Ni–Cu",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd–CeO2/AC",
+                "raw_name": "Pd–CeO2/AC catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu–CeO2/AC",
+                "raw_name": "Cu–CeO2/AC catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd@UiO-66",
+                "raw_name": "Pd@UiO-66 catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/MgAl-LDO",
+                "raw_name": "Ag particles supported on MgAl-layered double oxides (Ag/MgAl-LDO)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pt-Y/Beta",
+                "raw_name": "Pt-Y/Beta catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu@UiO-66",
+                "raw_name": "Cu@UiO-66 catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-Cr",
+                "raw_name": "Cu-Cr catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuCeZr",
+                "raw_name": "CuCeZr catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni0.1Zn0.7Al0.3InOx",
+                "raw_name": "Ni0.1Zn0.7Al0.3InOx catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni-MgAlO",
+                "raw_name": "Ni-MgAlO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ag",
+                "raw_name": "Ag",
+                "article_identifiers": []
+            },
+            {
+                "name": "Co",
+                "raw_name": "Co",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cd",
+                "raw_name": "Cd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pt",
+                "raw_name": "Pt",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pd",
+                "raw_name": "Pd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Fe",
+                "raw_name": "Fe",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "mesoporous carbon",
+            "raw_name": "mesoporous carbon",
+            "article_identifiers": []
+        }
+    }
+}

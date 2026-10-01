@@ -1,0 +1,299 @@
+========== ABSTRACT ==========
+
+ABSTRACT | Heterogeneous catalysis will play a major role to enable the production of green fuels and chemicals reducing the carbon footprint.
+Frontiers in Chemistry | www.frontiersin.org
+July 2022 | Volume 10 | Article 945596
+2
+Portillo Crespo et al.
+Insights on Guerbet Reaction
+condensation reactions, in both batch systems and ﬁxed bed
+continuous
+reactors
+(Arjona
+Antolín,
+2014).
+All
+these
+publications are focused on improving the performance of the
+catalysts, but there is a scarcity of works on practical aspects for
+their industrial application, including, for instance, optimization of
+operating conditions, catalyst stability, or product recycling.
+Therefore, a detailed study of operating conditions is deemed
+necessary to ﬁll this literature gap and shed some light on the
+optimization of the Guerbet reaction toward biobutanol synthesis.
+In addition, long-term tests are necessary to validate industrial
+operations. In the literature, Xi et al. (2020) carried out a catalytic
+test which lasted 160 h, but most of the published articles performed
+short-term trials. For instance, Cimino et al. (2018) tested a Ru/
+MgO catalyst for only 6 h. Under this scenario, the aim of this work
+is to study the effect of operating conditions in the performance of a
+Mg–Al spinel catalyst prepared from hydrotalcite precursors, for the
+direct synthesis of butanol from ethanol. The catalyst was
+thoroughly characterized pre- and post-reaction using nitrogen
+adsorption–desorption isotherm, X-ray diffraction (XRD), NH3/
+CO2 temperature-programmed desorption (NH3/CO2-TPD), and
+thermogravimetric analysis (TGA). The effect of key reaction
+parameters such as temperature, pressure, liquid hourly space
+velocity (LHSV), and catalyst stability were analyzed. Hydrogen
+availability to promote the aldol product hydrogenation targeting
+ﬁnal alcohol is of paramount importance, and our work genuinely
+described the impact of hydrogen co-feeding in the overall process.
+MATERIALS AND METHODS
+
+
+========== EXPERIMENTAL ==========
+
+Experimental Facility Setup and Catalytic
+Tests
+Supplementary Section S1 of Supporting Information shows the
+catalytic reactor experimental setup. The calcined mixed oxide
+spinel catalyst (MgAl2O4) was not pretreated. It was stabilized by
+feeding ethanol at 300°C, atmospheric pressure (0.39 bar of ethanol
+partial pressure), and LHSV = 0.235 h−1. The total ﬂow of ethanol
+fed was 0.0106 ml/min to obtain an LHSV = 0.235 h−1, since the
+catalyst volume is 2.7 ml. In tests at different LHSV values, the total
+ﬂow of ethanol fed can be easily calculated, taking into account that
+the catalyst volume is the one mentioned above.
+Once the catalyst was stabilized, all the tests were carried out
+without changing the catalyst sample. Experimental data were
+obtained operating continuously by averaging the product
+reaction values of each experiment with a minimum of
+10 chromatographic analyses (each one every 38 min).
+The ethanol conversion, the product distribution, and the
+butanol productivity were respectively calculated as follows:
+Conversion, XEtOH(%) 
+C mol of ethanol fed −C mol of ethanol at reactor outlet
+C mol of ethanol fed
+· 100
+Carbon product selectivity(%) 
+C mol of product i
+C mol of total products · 100
+Butanol productivity, PButOH
+g
+kgcat·h 
+Butanoloutg
+h
+catalyst weightkg
+Catalyst Preparation and Characterization
+The magnesium–aluminum hydrotalcite precursor was used to
+obtain a mixed oxide MgAl2O4 catalyst by thermal decomposition.
+The appropriate ratio of magnesium/aluminum was used in the
+precursor synthesis to obtain a stoichiometric spinel (MgAl2O4)
+based on the phase diagram (72 wt% Al2O3 and 28 wt% MgO)
+(Braulio et al., 2011). The hydrotalcite was prepared by co-
+precipitation method using an aqueous solution of 2 M NaOH
+and 0.5 M Na2CO3, as a precipitation agent. The synthesis took
+place in an automatically controlled titration system. The solution
+was added in a constant drip into an aqueous solution of metal
+nitrate salts, Mg(NO3)2·6H2O and Al (NO3)3·9H2O 
+
+recipitation method using an aqueous solution of 2 M NaOH
+and 0.5 M Na2CO3, as a precipitation agent. The synthesis took
+place in an automatically controlled titration system. The solution
+was added in a constant drip into an aqueous solution of metal
+nitrate salts, Mg(NO3)2·6H2O and Al (NO3)3·9H2O (molar ratio
+Mg2+/Al3+ = 0.5), and the mixture was maintained under
+continuous stirring at 70°C until reaching pH 10. The ﬁnal
+solution was aged 18 h at the same temperature in stirring.
+After that, the precipitate solution was ﬁltrated and washed
+with deionized water. Nitrates and carbonates were removed
+during the calcination process at high temperatures. The ﬁlter
+cake obtained was dried at 100°C overnight and ﬁnally calcined at
+900°C (10°C/min) for 24 h, thus obtaining the calcined MgAl2O4
+mixed oxide catalyst. The Mg/Al ratio is selected to achieve an
+adequate balance acid-basic sites as showcased in the acidity studies
+vide infra in the
+
+
+========== RESULTS ==========
+
+Results section. The use of Mg–Al spinel catalyst
+brings some novelty since the spinel structure is scarcely studied in
+this reaction compared to standard mixed oxide systems.
+Nitrogen adsorption–desorption isotherm was used to analyze
+the textural properties of the calcined catalyst. The isotherm was
+realized at liquid nitrogen temperature in a Micromeritic Tristan
+II apparatus. First, the sample was degassed at 250°C for 4 h in a
+vacuum.
+The
+surface
+area
+was
+determined
+using
+the
+Brunauer–Emmett–Teller (BET) method, and the pore size
+was calculated using the Barret–Joyner–Halenda (BJH) method.
+FIGURE 1 | XRD pattern of hydrotalcite precursor (fresh), calcined, and
+spent mixed oxide catalysts. Note: a.u. is equivalent to arbitrary units.
+Frontiers in Chemistry | www.frontiersin.org
+July 2022 | Volume 10 | Article 945596
+3
+Portillo Crespo et al.
+Insights on Guerbet Reaction
+XRD was conducted to identify the crystalline structure and
+phases present in the fresh (hydrotalcite precursor), calcined, and
+spent catalysts. The measurement was carried out on a Siemens
+D-500 diffractometer using a Ni-ﬁltered Cu kα radiation (40 mA
+and 45 kV), from 10o to 90° 2θ (0.05° step size and 300 s per step).
+NH3-TPD and CO2-TPD were performed in homemade
+equipment using a U-shape quartz tube with 100 mg of
+sample. In both cases, the samples were pretreated in an inert
+gas (50 ml/min He) until 200°C for 1 h to remove the water
+physisorbed and then were cooled down to 50°C. Afterward,
+30 ml/min of CO2 or NH3/He (5 vol%) was passed through the
+sample until saturation (30 min). Then the samples were purged
+with He (30 ml/min) for 1 h. In addition, the temperature was
+increased from 50 to 900°C in He (30 ml/min) with 10°C/min
+heating ramp. The efﬂuent gases from the CO2 or NH3 desorption
+were monitored by mass spectrometry (MS PFEIFFER Vacuum
+Prisma Plus controlled by QUadera® software). The mass/charge
+ratios followed in NH3-TPD were m/z = 16, 17, and 18. Owing the
+presence of water signal
+
+cant changes in the X-ray pattern of
+the sample whose dominant phases remain as MgAl2O4 and MgO
+in fair agreement with its calcined unreacted counterpart. A slight
+shift, though, to lower 2θ angles was appreciated in comparison to
+the calcined sample. This could indicate a possible inversion in
+the spinel, where the Mg2+ and Al3+ exchange positions from the
+tetrahedral and octahedral sites. It is important to highlight that
+we did not observe diffractions ascribed to carbon phases after the
+reaction. Hence, no crystalline carbon is formed, indicating that
+catalyst deactivation by carbon poisoning might not be an issue in
+this material under the studied reaction conditions.
+The surface acid–base properties of the mixed oxide catalyst
+(MgAl2O4) were evaluated by NH3-TPD and CO2-TPD. Both
+proﬁles are shown in Figure 2. NH3-TPD was carried out to
+evaluate the strength of acid sites in the catalyst surface. We
+differentiate two zones associated with the acid strength,
+depending on the NH3 temperatures desorption: moderate
+(200–400°C) and strong (400–800°C) (Madduluri et al., 2020).
+The peak at a lower temperature, 256°C, is associated with
+FIGURE 2 | NH3-TPD and CO2-TPD patterns of the MgAl2O4 catalyst.
+Note: a.u. is equivalent to arbitrary units.
+Frontiers in Chemistry | www.frontiersin.org
+July 2022 | Volume 10 | Article 945596
+4
+Portillo Crespo et al.
+Insights on Guerbet Reaction
+reversible adsorption H-bonded ascribed to hydroxyl groups
+presence over the surface, considered as BrØnsted acid sites
+(Song
+et
+al.,
+2021).
+Alternatively,
+the
+peaks
+at
+high
+temperatures (450–510°C) are related to Lewis acid sites,
+showcasing the interaction with accessible Al+3 cations in
+Al3+–O2−–Mg2+, because of possible defects present over the
+spinel surface (He et al., 2015). Furthermore, Coleman et al.
+(2009) associated the Lewis acid sites with the presence of
+amorphous AlOy species that provoke an electron-deﬁcient Al3+.
+CO2-TPD was performed to study the surface basicity in the
+mixe
+
+atalytic
+tests where the operating conditions were changed. Such a long-
+term test with over 1,000 h of continuous operation has not yet
+been reported in literature for this reaction. Indeed, it is
+important to perform long-term tests since the distribution of
+products changes over time, but unfortunately, this kind of
+realistic stability tests are scarce within the academic studies.
+The catalyst activity along the long-term test did not change
+signiﬁcantly, but the product distribution changed from the
+beginning of the test until 770 h, when it was stabilized
+(Figure
+4).
+Several
+different
+product
+distributions
+were
+observed along time on stream. At the start of the run, low
+butanol selectivity (~31%) and high selectivity to diethyl ether
+(DEE) (~28%) were observed. DEE is an undesired product, and
+it is produced from dehydration and coupling of ethanol in acid
+sites. In this system, Lewis and BrØnsted acid sites are ascribed to
+alumina. Hence, ﬁne-tunning the presence of this acidic sites by
+adjusting Mg in the spinel can to guide the selectivity toward the
+desired products.
+DEE selectivity decreased to ~10% at 770 h of operation, in
+favor of the n-butanol selectivity (~52%). This may be because of
+the catalyst’s structure dynamics during the reaction resulting in a
+modiﬁcation of the active centers
+for dehydration, thus
+hampering this route as time elapses.
+Effect of Temperature
+Temperature has a signiﬁcant effect on catalyst performance.
+As expected, ethanol conversion rises with temperature
+(Figure 5). These tests were carried out before the 770 h
+operating
+point,
+so
+still
+high
+selectivity
+to
+DEE
+was
+observed. As the temperature increases, the selectivity to
+FIGURE 3 | TGA proﬁles of calcined and spent catalysts (MgAl2O4).
+Frontiers in Chemistry | www.frontiersin.org
+July 2022 | Volume 10 | Article 945596
+5
+Portillo Crespo et al.
+Insights on Guerbet Reaction
+DEE decreases, and the selectivity to butanol increases up to a
+point where it decreases, exhibiting a ma
+
+| TGA proﬁles of calcined and spent catalysts (MgAl2O4).
+Frontiers in Chemistry | www.frontiersin.org
+July 2022 | Volume 10 | Article 945596
+5
+Portillo Crespo et al.
+Insights on Guerbet Reaction
+DEE decreases, and the selectivity to butanol increases up to a
+point where it decreases, exhibiting a maximum between
+340 and 360°C, since the formation of hydrocarbons (mainly
+ethene and butenes from the dehydration of the ethanol and
+butanol, respectively) is more favored at high temperature.
+Increase of ethanol conversion with temperature prevails over
+selectivity to butanol, and maximum productivity of butanol is
+achieved at the highest temperature (360°C). Likewise, the
+FIGURE 4 | Catalyst stability on time. ButOH = butanol; HexOH = hexanol; HC = hydrocarbons; DEE = diethyl ether.
+FIGURE 5 | Effect of temperature on ethanol conversion, butanol productivity, and selectivity to products. ButOH = butanol; HexOH = hexanol; HC =
+hydrocarbons; DEE = diethyl ether.
+Frontiers in Chemistry | www.frontiersin.org
+July 2022 | Volume 10 | Article 945596
+6
+Portillo Crespo et al.
+Insights on Guerbet Reaction
+acetaldehyde
+concentration
+drops
+with
+temperature,
+evidencing the high reactivity of the aldehydes, which are
+easily decomposed in the high temperature range. It should
+be noted that heavy compounds are not formed, with ethene
+and
+butenes
+being
+the
+main
+hydrocarbons
+observed.
+Furthermore, for the operation conditions studied, there is a
+very low CO2 production, showcasing the low-carbon footprint
+in this process when this spinel catalyst is implemented.
+Effect of Pressure
+Pressure effect runs were carried out before the 770 h operating
+point where DEE was still a major side product (Figure 6). Very
+FIGURE 6 | Effect of pressure on ethanol conversion, butanol productivity, and selectivity to products. ButOH = butanol; HexOH = hexanol; HC = hydrocarbons;
+DEE = diethyl ether.
+FIGURE 7 | Effect of LHSV on ethanol conversion, butanol productivity, and selectivity to products. ButOH =

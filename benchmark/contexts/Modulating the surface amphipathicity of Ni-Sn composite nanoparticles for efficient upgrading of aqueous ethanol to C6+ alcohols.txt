@@ -1,0 +1,118 @@
+========== ABSTRACT ==========
+
+summary, we have demonstrated that the regulation of the hy­
+drophilic and lipophilic properties of catalysts can significantly boost 
+the performance towards ethanol upgrading to C6+ alcohols. Detailed 
+characterization and experimental observations confirm that the modi­
+fication of NiSn NPs with carbon shell and TiO2 precisely regulates the 
+amphipathicity, which acts as interface catalyst to promote the trans­
+formation from self-coupling of aqueous ethanol to crossing-coupling of 
+ethanol and higher alcohols at the oil/water interface. The optimal 
+NiSn@C/TiO2-1 catalyst exhibits excellent performance with ethanol 
+conversion of 70.6 % and C6+ alcohols selectivity of 57.5 %, accouting 
+for C6+ alcohols yield of 40.6 %, which is 2–3 folds higher than that of 
+the reported works (Table S5). This work may not only provide a novel 
+approach for the C6+ alcohols production by direct upgrading of 
+aqueous ethanol from biomass fermentation, but also promote the 
+fundamental researches on the design of phase transfer catalysts for the 
+catalytic effect of emulsion. 
+CRediT authorship contribution statement 
+Xiaoping Wu: Conceptualization, Data curation, Funding acquisi­
+tion, Methodology, Writing – original draft, Writing – review & editing. 
+Fig. 11. XANES spectra at (a) C K-edge and (b) Ni K-edge. (c) EXAFS spectra of NiSn@C/TiO2-1 and Ni foil at Ni K-edge. (d) Wavelet transform contour plot of 
+NiSn@C/TiO2-1 at Ni K-edge. 
+X. Wu et al. 
+Chemical Engineering Science 292 (2024) 120013
+11
+Guohao Zou: Data curation, Formal analysis, Methodology, Writing – 
+original draft. Jiaxing Hou: Data curation, Methodology. Xinrui Liu: 
+Data curation, Formal analysis. Mingge Li: Data curation, Formal 
+analysis. Xueying Cai: Data curation, Methodology. Qian Zhang: 
+Methodology. Yunhong Pi: Writing – review & editing. Qingwei Meng: 
+Formal analysis, Methodology, Writing – review & editing. Tiejun 
+Wang: Conceptualization, Formal analysis, Funding acquisition, Meth­
+odology, Writing –
+
+
+========== EXPERIMENTAL ==========
+
+d 
+area. (g, h) TEM images and (i) HRTEM image of NiSn@C/TiO2 catalyst. Inset of (h) is the HRTEM image collected at the selected area. (j) Scheme of NiSn@C/TiO2. 
+(k,l) XRD patterns of various catalysts. 
+X. Wu et al. 
+Chemical Engineering Science 292 (2024) 120013
+4
+Fig. 2. XPS spectra of NiSn/TiO2, NiSn@C and NiSn@C/TiO2-1: (a) C 1 s spectra, (b) Ni 2p spectra, (c) Sn 3d spectra, and (d) Ti 2p spectra. 
+Fig. 3. The water-droplet contact angle tests for (a) NiSn/TiO2, (c) NiSn@C/TiO2-0.5, (e) NiSn@C/TiO2-1, (g) NiSn@C/TiO2-2, (i) NiSn@C/TiO2-3, and (k) NiSn@C. 
+Distributions of various catalysts in water/octanol mixture: (b) NiSn/TiO2, (d) NiSn@C/TiO2-0.5, (f) NiSn@C/TiO2-1, (h) NiSn@C/TiO2-2, (j) NiSn@C/TiO2-3, and 
+(l) NiSn@C. 
+X. Wu et al. 
+Chemical Engineering Science 292 (2024) 120013
+5
+used for subsequent analysis. Note that the Ni-based catalyst provides 
+metallic sites and NaOH provides basic sites. 
+The detailed product analysis method can be found in the Supporting 
+Information. The conversion, yield, selectivity and distribution of the 
+products were calculated by the following equations: 
+Conversion (C) = Moles of converted ethanol
+Moles of the inlet ethanol × 100%
+(1) 
+Selectivity (S) = Moles of carbon in the target product
+Moles of carbon in all products
+× 100%
+(2) 
+Yield (Y) =
+Moles of carbon in the product
+Moles of carbon in ethanol fed to the reactor × 100%
+(3) 
+3. Results and discussion 
+3.1. Structure of the catalysts 
+NiSn@C/TiO2 was prepared via a chemical approach by in situ 
+assembling active Ni-Sn nanoparticles into a hybrid support constituting 
+lipophilic carbon shell and hydrophilic TiO2 (see detailed information in 
+experimental section). In particular, citric acid was used as reductant, 
+surface ligand, as well as the percussor for the carbonation of Ni-Sn 
+nanoparticles, while TiO2 was used directly to modify the hydrophilia 
+of the catalyst. NiSn@C/TiO2 was supposed to be amphiphilic due to the 
+hybrid support (Scheme 1). Here, NiSn@
+
+ed with 
+carbon shell. For NiSn@C/TiO2-0.5 with a C/TiO2 ratio of 0.5, the 
+contact angle increases to 27.1◦(Fig. 3c), leading to the re-distribution 
+of sample both in the water phase and at the water–oil interface 
+(Fig. 3d). The contact angle further increases to 41.1◦when the molar 
+ratio of C/TiO2 was increased to 1 (NiSn@C/TiO2-1), resulting in the 
+uniform distribution of the sample in water–oil interface (Fig. 3e,f). As 
+increasing the C/TiO2 molar ratio from 1 to 3, the contact angle further 
+increases from 41.1◦to 65.1◦, leading to the distribution of the sample in 
+oil phase (Fig. 3e–j). Typically, for NiSn@C catalyst without TiO2, the 
+contact angle is 70.1◦and the sample almost completely distributes in 
+the oil phase (Fig. 3k,l). The above results clearly demonstrate that the 
+lipophilic and hydrophilic properties of catalysts can be precisely 
+modulated by altering the molar ratio of C/TiO2. 
+3.3. Aqueous ethanol upgrading 
+As mentioned above, the aqueous ethanol upgrading involves phase 
+transfer catalysis once the C6+ alcohols were formed. The amphiphilic 
+NiSn@C/TiO2 with different C/TiO2 ratios were tested for aqueous 
+Fig. 5. The pictures of reaction solutions after aqueous ethanol upgradation with and without catalyst: (a) NiSn/TiO2, (b) NiSn@C/TiO2-0.5, (c) NiSn@C/TiO2-1, (d) 
+NiSn@C/TiO2-2, (e) NiSn@C/TiO2-3, and (f) NiSn@C. (Left: with catalyst, right: without catalyst). 
+X. Wu et al. 
+Chemical Engineering Science 292 (2024) 120013
+7
+ethanol upgrading to explore their byphase catalytic performances. As 
+shown in Fig. 4a, the ethanol conversions are 41.1 % and 47.9 % for 
+NiSn/TiO2 and NiSn@C, respectively. A volcano shape of ethanol con­
+version was observed when the C/TiO2 ratio was increased from 0.5 to 3 
+(Fig. 4a). Moreover, the selectivity of C6 + alcohol displays a similar 
+tendency to the yield with the increase of C/TiO2 ratio (Fig. 4b). The 
+optimal NiSn@C/TiO2-1 exhibits the best performance with ethanol 
+conversion of 70.6 % and C6
+
+
+========== RESULTS ==========
+
+results for ethanol 
+upgrading to C6+ alcohols. This work provides an efficient strategy for 
+the C6+ alcohols production by direct upgrading of aqueous ethanol 
+from biomass fermentation. 
+2.

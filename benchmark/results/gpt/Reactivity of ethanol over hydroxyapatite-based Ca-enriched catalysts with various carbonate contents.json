@@ -1,0 +1,44 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "HapD",
+                "raw_name": "HapD",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Hap",
+                "raw_name": "Hap",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Hap-CO3",
+                "raw_name": "Hap-CO3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HapNa-CO3",
+                "raw_name": "HapNa-CO3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HapE-CO3",
+                "raw_name": "HapE-CO3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HapE-Na-CO3",
+                "raw_name": "HapE-Na-CO3",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "apatite",
+            "raw_name": "apatite",
+            "article_identifiers": []
+        }
+    }
+}

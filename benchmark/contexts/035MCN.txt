@@ -1,0 +1,66 @@
+========== ABSTRACT ==========
+
+summary, the above results reveal that ethanol is prefer-
+ably adsorbed on the defective sites of MgO. However, the
+adsorption of ethanol on MgO or SiO2 is competitive adsorp-
+tion, it will produce the by-product of ethylene when ethanol is
+adsorbed on the SiO2.24
+3.4.3
+Analysis of density of states. In order to deeply
+comprehend the interaction between ethanol and SiO2 or MgO,
+we also studied density-of-states (DOS) of some relative atoms.
+For contrast, just the O, H in ethanol and Mg, and O in MgO
+were selected to calculate DOS. Fig. 9 displays calculated DOS
+plots for the systems. For ethanol, the O 2p levels are located at
+3 to 7 eV and states that it contains a mixture of Mg, while for O
+in MgO surface and H of OH in ethanol the s character appear
+between 5 and 9 eV. Furthermore, the overlay area gradually
+increases and the peak of a strong hybrid appears. This illus-
+trates the interaction between H of OH in ethanol and O on the
+surface of the catalyst gradually increases from SiO2, terrace,
+step to kink.
+3.5
+Surface reaction
+3.5.1
+The dehydrogenation of ethanol on at MgO surface.
+The adsorption of ethanol on at MgO has been introduced as
+part of the adsorption of ethanol on MgO. The initial, transi-
+tion, and nal states of the dehydrogenation of ethanol on the
+at MgO surface are shown in Fig. 10. The reaction starts by the
+H atom moving towards the catalyst surface and the H atom
+adsorbs at the fcc site (at the TS). The O–H bond distance is
+elongated to 3.024 ˚A (at the TS) from the initial 0.982 ˚A. The
+reaction barrier is 1.63 eV and the reaction energy is 3.44 eV,
+indicating a strong exothermic reaction.
+Fig. 7
+Stable geometric conﬁgurations of CH3CH2OH molecule
+adsorbed on the b-cristobalite (111) surface.
+Fig. 8
+Stable geometric conﬁgurations of the CH3CH2OH molecule adsorbed on diﬀerent MgO surfaces.
+This journal is © The Royal Society of Chemistry 2015
+RSC Adv., 2015, 5, 25959–25966 | 25963
+Paper
+RSC Advances
+Published on 17 February 2015. Download
+
+
+========== EXPERIMENTAL ==========
+
+experimental
+characterization and the simulation method. The adsorption properties of ethanol on diﬀerent MgO/SiO2
+surfaces were researched by the density functional theory method and the result is that ethanol mainly
+adsorbed on MgO surface. The role of SiO2 in increasing the MgO crystal defects in the MgO/SiO2 has
+been obtained and the electronic properties of ethanol molecule before and after adsorption on the
+catalyst surfaces were compared. The initial step of ethanol dehydrogenation and the dehydration to 1,3-
+butadiene process, which is the dehydrogenation of ethanol to acetaldehyde reaction, on the ﬂat sites,
+stepped sites and kinked sites was examined through the molecular simulation method. We investigated
+the preferable surface for the reaction of ethanol dissociation to an ethoxy group and the more active
+surface for the reaction of dehydrogenation of ethanol to acetaldehyde. The research
+
+
+========== RESULTS ==========
+
+results suggested
+that the stepped MgO surface is more active for the reaction of dehydrogenation of ethanol to
+acetaldehyde.
+1

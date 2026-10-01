@@ -1,0 +1,55 @@
+{
+    "paper": "Zeolite-encapsulated Cu nanoparticles with enhanced performance for ethanol dehydrogenation",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu@S-1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu@S-1 could be obtained, denoted as Cu@S-1.",
+                "reason": "The catalyst Cu@S-1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/S-1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/S-1 as benchmark catalysts were also synthesized.",
+                "reason": "The catalyst Cu/S-1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/SiO2 as benchmark catalysts were also synthesized.",
+                "reason": "The catalyst Cu/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu species in Cu@S-1 are more difficult to be reduced.",
+                "reason": "The metal Cu is explicitly identified in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "S-1",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the zeolite S-1 could efﬁciently inhibit the sintering of Cu particles.",
+                "reason": "The support S-1 is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 5
+        }
+    }
+}

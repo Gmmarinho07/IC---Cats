@@ -1,0 +1,467 @@
+========== ABSTRACT ==========
+
+n of crotyl alcohol (3),
+which undergoes isomerization to butanal (4). The
+second reduction of the carbonyl group leads to the
+formation of butanol (5) [10]. It is reported that the
+Guebret–Markovnikov process is implemented using
+bifunctional catalysts containing both noble metals
+(e.g., gold [11]) and an acid component (alumina),
+which is required for the occurrence of ethanal con-
+densation. There are reports on catalysts Au/Al2O3
+and 
+Ni/Al2O3 
+[10] 
+and 
+bimetallic 
+catalysts
+AuCu/Al2O3 [11]. Tests of a large number of metals
+dispersed on a support suggest that the activity of
+М/Al2O3 catalysts decreases in the following order:
+Ni > Pt > Au ~ Rh > Ru @ Ag. The best parameters
+(ethanol conversion of 25%, butanol selectivity of
+80%) in the liquid-phase process are achieved at
+250°С under a high pressure in the presence of a
+20%Ni/Al2O3 catalyst. The authors of [9], in studying
+basic oxides, showed that palladium-doped MgAlOx
+mixed oxides provide a high selectivity of ≥70% at
+200°C in a closed system. The cited authors stated that
+Pd nanoparticles are the most optimum hydrogena-
+tion–dehydrogenation component of a bifunctional
+catalyst. It was found that, in the case of copper sup-
+ported on mixed basic oxides in the Cu/MgAlOx sys-
+tem, the strong base sites are active in butanol synthe-
+sis, while the acid sites mostly catalyze ethanol dehy-
+dration to ethylene and diethyl ether. However, Ho et
+al. [8] showed that calcium phosphate is an active cat-
+alyst for butanol synthesis. The authors of [12] showed
+that the selective conversion of ethanol to butanol
+requires the presence of optimum-strength acid sites
+in Ca3(PO4)2. Thus, some acid catalysts can be active
+in the Guerbet process.
+Lewis acid zeolites, in particular, zeolites of the
+BEA framework type, are commonly used as catalysts
+for a broad range of organic synthesis reactions [13–
+15]. Acid sites in the zeolite structure are formed via
+the isomorphous substitution of a silicon atom in the
+tetrahedral frame
+
+
+========== EXPERIMENTAL ==========
+
+EXPERIMENTAL
+Catalyst Synthesis Procedure
+The zirconium-containing BEA zeolite was syn-
+thesized by hydrothermal synthesis in a fluoride-ion
+medium as described in [15]. The following gel com-
+position 
+was 
+maintained 
+constant: 
+1SiO2 :
+0.54TEAOH : 0.54HF : 0.005ZrO2 : 5.6H2O, (Si/Zr
+200), where TEAOH is tetraethylammonium hydrox-
+ide. Tetraethoxysilane and zirconium oxychloride
+ZrOCl2 ⋅ 8H2O were used as a source of silicon and zir-
+conium, respectively. Bifunctional catalysts were syn-
+thesized by incipient wetness impregnation. The orig-
+inal Zr–BEA zeolite powder was impregnated with a
+solution with a given concentration of Pd(NO3)2 in
+ethanol. After impregnation, the samples were dried in
+air for 2 h and then at 100°C for 10 h; after that, they
+were calcined in an air stream at 300°C for 5 h to
+decompose the nitrate.
+Instrumental Investigation Procedures
+X-ray diffraction (XRD) analysis data were
+obtained on a Bruker D2 Phaser instrument. Crystal
+size and morphology were studied by scanning elec-
+tron microscopy (SEM) on a Hitachi TM3030 micro-
+scope at an accelerating voltage of 5 kV. Palladium par-
+ticle size distribution was studied by transmission elec-
+tron microscopy (TEM) on an FEI Osiris instrument
+(source with a field emission of 200 keV); images of
+about 100 particles were used for analysis. The pore
+structure of the catalysts was characterized by low-
+temperature nitrogen sorption. Isotherms were
+recorded at –196°C on a Micromeritics ASAP 2000
+instrument after pre-evacuation at 350°C in a vacuum.
+Surface compounds were studied by IR spectroscopy.
+Infrared spectra were recorded in the transmission
+mode on a Thermo Scientific Nicolet iS-10 Fourier
+transform IR spectrometer equipped with an MCT
+detector cooled with liquid nitrogen. The spectra were
+recorded at a resolution of 4 cm–1 in a range of 4000–
+650 cm–1. Before recording, the sample was com-
+pressed into a disk without a binder and placed in a
+special quartz cell with KBr windows, which was co
+
+m IR spectrometer equipped with an MCT
+detector cooled with liquid nitrogen. The spectra were
+recorded at a resolution of 4 cm–1 in a range of 4000–
+650 cm–1. Before recording, the sample was com-
+pressed into a disk without a binder and placed in a
+special quartz cell with KBr windows, which was con-
+nected to a vacuum line. The sample was heated in a
+separate portion of the cell at 400°C for 1 h to a vac-
+uum of 10–5 torr; after that, the spectrum of the pure
+sample was recorded. After ethanol adsorption, the
+spectra were subtracted from the spectrum of the pure
+sample. The sample was heated to a required tempera-
+ture (50–250°C), held for 15 min, and then cooled to
+25°C to record a spectrum.
+Temperature-programmed desorption (TPD) of
+ethanol was studied in a quartz microreactor (internal
+diameter of 3 mm). A 0.6%Pd/Zr–BEA sample in the
+form of a fraction of 0.25–0.5 mm was placed between
+quartz wool layers and heated in a helium stream at
+300°C for 1 h. After that, the sample was cooled to
+60°C and saturated with ethanol fed through a syringe
+PETROLEUM CHEMISTRY 
+ Vol. 59 
+ No. 8 
+ 2019
+ETHANOL TO BUTANOL CONVERSION
+927
+dispenser. Next, weakly sorbed ethanol was blown off
+for 2 h; the sample was heated to 500°C at a rate of
+10 deg/min. Desorbed compounds were recorded on-
+line at the exit of the reactor using a mass-selective
+detector.
+Catalytic Testing Procedure
+Ethanol conversion was studied in a flow reactor at
+atmospheric pressure and an ethanol feed space veloc-
+ity of 0.15–6.5 gethanol/(gcat h). The catalyst in the form
+of a fraction of 0.5–1 mm was placed in a quartz reac-
+tor and preconditioned in a nitrogen stream at 300°C
+for 1 h; next, it was cooled to 200°C, and hydrogen was
+fed for 1 h to reduce palladium particles; after that, the
+temperature was set at a required level. The tests were
+conducted at a constant stream of nitrogen or hydro-
+gen mixed with nitrogen.
+
+
+========== RESULTS ==========
+
+ butane at a low conversion can indi-
+cate that crotonal can undergo direct hydrogenation
+over Pd particles to hydrolyze the C–O bond. The
+curve of the ethane yield corresponds to the secondary
+product; this fact suggests that ethane is formed via the
+intermediate monomolecular dehydration of ethanol
+to ethylene, rather than from ethanol. The overall
+reaction scheme is shown in Fig. 4.
+It should be noted that, under the process condi-
+tions, the hydrogenation reaction equilibrium is sig-
+nificantly shifted toward saturated hydrocarbons. A
+key requirement for acid sites of a bifunctional catalyst
+in this order of conversions is that they should exhibit
+high activity in acetaldehyde condensation and low
+activity in the dehydration of ethanol and butanol.
+Surface Compounds According to IR Data
+The structure and concentration of surface com-
+pounds formed in the reaction of ethanol and a
+Pd/Zr–BEA catalyst were studied by IR spectroscopy.
+The sample was saturated with ethanol vapors at 25°C
+and then heated to 250°C with a stepwise increase in
+temperature; IR spectra of the surface compounds
+were recorded after cooling to 25°C (Fig. 5).
+During ethanol adsorption, a “negative” band at
+3732 cm–1 appears in the spectra owing to the forma-
+tion of a hydrogen bond between the OH group of eth-
+anol and the Si-OH…O(H)-C2H5 silanol group. The
+broad band at ~3400 cm–1 corresponds to the same
+complex. In the region of the C–H stretching vibra-
+tions, the spectrum exhibits bands at 2980 (νas(CH3)),
+2937 (νas(CH2)), 2904 (νs(CH3)), and 2880 cm–1
+(νs(CH2)), which are attributed to the ethyl group of
+ethanol molecules [17]. In the region of bending vibra-
+tions, bands characteristic of ethanol are located at
+1483 (δas(CH2)), 1451 (δas(CH3)), and 1395 cm–1
+(δs(CH). Upon heating to 50°C, the spectra exhibit a
+band of the carbonyl group vibrations ν(C=O) at
+1724 cm–1 and less intense broad bands at 1686 and
+1641 cm–1. This finding indicates the occurrence of
+dehydrogenation reactions to 
+
+composition to car-
+bonates. It is significant that, under real catalysis con-
+ditions, metal sites can be blocked by substantially
+sorbed acetates and carbonates. Therefore, ethanol
+can mostly react on acid sites to form diethyl ether.
+On the other hand, the IR spectroscopy data show
+that ethanol dehydrogenation occurs even at 50–
+100°C without the formation of acetates and carbon-
+ates. This finding is in agreement with the data
+Fig. 2. (a) Representative TEM image (Pd particles are
+marked with arrows) and (b) Pd particle size distribution
+for the 0.6%Pd/Zr–BEA sample according to TEM.
+20 nm
+20 nm
+20 nm
+(a)
+(a)
+(a)
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+1
+2
+3
+10
+30
+50
+70
+90
+110 130 150 170 190
+4
+5
+6
+7
+8
+(b)
+Frequency, arb. units
+Palladium particle diameter, nm
+Palladium particle diameter, nm
+PETROLEUM CHEMISTRY 
+ Vol. 59 
+ No. 8 
+ 2019
+ETHANOL TO BUTANOL CONVERSION
+929
+Fig. 3. Dependence of the yield of the main ethanol conversion products on conversion in the presence of the 1%Pd/Zr–BEA
+catalyst. Conditions: temperature, 235°C; feed space velocity, 4.3–0.7 h–1; N2/H2/ethanol molar ratio, 2.9/1.6/1.0; and form of
+fed ethanol, a 50% aqueous solution.
+(a)
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+20
+15
+10
+5
+Yield, mol %
+Ethanol conversion, %
+Ethane
+Butanol
+O
+(b)
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+20
+15
+10
+5
+Diethyl ether yield, mol %
+Butane
+1
+0
+2
+6
+5
+4
+3
+7
+O
+Butane yield, mol %
+Ethanol conversion, %
+Fig. 4. Schematic formation of the main ethanol conversion products in the presence of a Pd/Zr–BEA catalyst.
+М
+М
+К
+К
+К
+К
+K denotes an acid site (Zr)
+M denotes a metal 
+site (Pd)
+C2H4
+C2H6
+OH
+OH
+O
+М
+М
+O
+O
+930
+PETROLEUM CHEMISTRY 
+ Vol. 59 
+ No. 8 
+ 2019
+KOTS et al.
+obtained in the flow mode, where the acetaldehyde
+selectivity was 15–17%. Apparently, acetaldehyde
+undergoes condensation quite slowly; it is this factor
+that limits the formation of butanol over the catalyst,
+whereas the formation of acetaldehyde occurs quite
+rapidly.
+Effect of Hydrogen on Ethanol Conversion
+In terms of the Guerbet reaction stoichiome
+
+ctivity was 15–17%. Apparently, acetaldehyde
+undergoes condensation quite slowly; it is this factor
+that limits the formation of butanol over the catalyst,
+whereas the formation of acetaldehyde occurs quite
+rapidly.
+Effect of Hydrogen on Ethanol Conversion
+In terms of the Guerbet reaction stoichiometry, the
+addition of hydrogen is not necessary, because hydro-
+gen is evolved during in situ ethanol dehydrogenation.
+In this case, hydrogen from the gas phase can reduce
+the surface acetates and carbonates, which are readily
+formed from ethanol; this reduction can contribute to
+the purification of the Pd surface. On the other hand,
+hydrogen additionally fed to the system can undergo
+butanol hydrogenation to butane via the intermediate
+formation of butenes. To verify these assumptions,
+comparative tests with and without hydrogen feeding
+were conducted (Table 1).
+In the case of reaction without the addition of
+hydrogen, the main products formed over the catalyst
+are acetaldehyde, diethyl ether, and butenes. Appar-
+ently, ethanol dehydrogenation occurs quite rapidly;
+afterwards, the resulting acetaldehyde slowly under-
+Fig. 5. Infrared spectra recorded after ethanol adsorption at 25°C and heating to 50–250°C in the presence of the 1%Pd/Zr–BEA
+sample.
+Wave number, cm–1
+1500
+1600
+1700
+1800
+250°C
+200°C
+150°C
+100°C
+3732
+2980
+2904
+1723
+1619 1561
+1483
+1451
+1396
+50°C
+2600
+3000
+2800
+3200
+1400
+3400
+3600
+3800
+Fig. 6. Schematic formation of surface compounds according to IR spectroscopy of adsorbed ethanol.
+O–
+O
+O–
+OH
+OH
+OH
+O
+O
+O
+–CH4
+CH3
+CH3
+CH3
+–H2
+PETROLEUM CHEMISTRY 
+ Vol. 59 
+ No. 8 
+ 2019
+ETHANOL TO BUTANOL CONVERSION
+931
+goes condensation to crotonal, which, in turn, without
+intermediate desorption into the gas phase, is con-
+verted to butanol on the metal sites of the catalyst. The
+resulting butanol undergoes rigorous dehydration to
+form butenes.
+Upon the addition of hydrogen to the stream, the
+diethyl ether formation rate increases twofold. In
+addition, the rate of formation 
+
+estimate made using the first-order
+reaction equation shows a decrease by 8–9 kJ/mol.
+The presence of hydrogen leads to the displacement of
+ethanol from the palladium sites; therefore, the
+adsorption capacity of the entire catalyst decreases. It
+can be assumed that, for the same reason, the
+chemisorbed ethanol displaced from the Pd surface
+moves to the acid sites, where it rapidly undergoes
+dehydration to diethyl ether.
+Table 1. Effect of hydrogen on the rate of formation of the
+main ethanol conversion reaction products
+Conditions: catalyst, 0.6%Pd/Zr–BEA; temperature, 235°C; feed
+space velocity, 0.54 h–1; partial pressure of ethanol, 0.18 atm; and
+form of fed ethanol, a 50% aqueous solution.
+Formation rate,
+μmol/(gcat h)
+Hydrogen feeding (partial 
+pressure of 0.29 atm)
+Without 
+hydrogen
+Diethyl ether
+335
+169
+Acetaldehyde
+146
+444
+Butanol
+100
+3
+Butenes
+21
+83
+Butane
+150
+1
+Total amount of 
+С4 hydrocarbons
+171
+84
+Fig. 7. Desorption of diethyl ether (m/z = 74) from the 0.6%Pd/Zr–BEA sample (a) in a H2/He stream (partial pressure of hydro-
+gen of 0.134 atm) and (b) in a pure He stream.
+(a)
+(b)
+300
+400
+200
+100
+500
+Temperature, °C
+5 × 10–11
+2 × 10–10
+190
+303
+932
+PETROLEUM CHEMISTRY 
+ Vol. 59 
+ No. 8 
+ 2019
+KOTS et al.
+Small amounts of butanol were recorded during
+ethanol-TPD at m/z = 56 (Fig. 8). According to a sep-
+arate experiment with gas chromatographic analysis,
+an increase in temperature to ≥400°С led to the forma-
+tion of butenes, while butanol desorption did not
+occur any longer in this temperature range.
+It is evident from Fig. 8 that butanol desorption
+occurs at a temperature of ≥180°С with a maximum at
+275°C. Experiments in a dilute hydrogen stream
+showed that the amount of desorbed butanol decreases
+by about 2 orders of magnitude; however, the process
+occurs in approximately the same temperature range.
+Most probably, under TPD conditions, butanol is
+quite rapidly converted to butane, which in turn was
+detected at m/z = 43. By analogy with ethanol conver-
+sion to

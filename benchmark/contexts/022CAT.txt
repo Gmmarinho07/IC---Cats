@@ -1,0 +1,111 @@
+========== EXPERIMENTAL ==========
+
+of the solution. After all solutions were 
+added, the mixed solution was aged differently depending on the cata­
+lyst. For 0.1CuMMO, the aging was done for 20 h in a 1 L bottle at 60 ◦C 
+with stirring, for 0.3CuMMO(vl) and 0.3CuMMO(l) catalyst, aging was 
+done at 60 ◦C for 12 h, for all other catalysts aging was done at room 
+temperature for 24 h. After the aging process, the mixed solution was 
+washed and filtered to remove residual nitrates and sodium. The filter 
+cake was dissolved in 300 mL of 1 M Na2CO3 solution and then washed 
+with 500 mL of DI water and filtered. The filter cake was dissolved in 
+500 mL of DI water and washed and filtered 2 more times for 0.1CuMMO 
+and for 0.3CuMMO(vl) (due to having more residual Na content to be 
+removed than other materials). For all other materials, washing was 
+done with water and acetone, and for 0.3CuMMO(h) the resultant gel 
+was redispersed in 1 L of acetone at 60 ◦C for 2 h after washing. The filter 
+cakes were dried overnight in a 110 ◦C oven or in a vacuum oven at room 
+temperature (0.3CuMMO(h)). The dry catalysts were then crushed and 
+calcined at 600 ◦C for 2 h on a 4 ◦C/min temperature ramp. The catalyst 
+P.A. Cuello-Penaloza et al. 
+Applied Catalysis B: Environmental 304 (2022) 120984
+3
+is then sieved to 30 – 80 mesh and packed into the reactor where it is 
+reduced in situ at 325 ◦C for 12 h with a 4 ◦C/min temperature ramp 
+under 50 mL/min H2 flow before the start of any run. 
+For the 0.3CuMMO(i) catalyst, Cu addition was done using incipient 
+wetness impregnation by dropwise addition of Cu(NO3)2.3(H2O) 
+(Sigma-Aldrich 61194) aqueous solution to MgAl hydrotalcite (Sigma- 
+Aldrich 652288), then drying, calcining and reducing the catalyst as 
+described in the previous paragraph. A physical mixture of 0CuMMO 
+catalyst (no Cu content) with 1.2CuMMO catalyst was prepared by 
+mixing 
+0.9213 ± 0.0001 g 
+of 
+the 
+undoped 
+material 
+with 
+0.0832 g ± 0.0001 g of 1.2CuMMO. This mixture was labeled 
+0.1CuMMO(pm). 
+2.2. E
+
+d in Eq. (6) against the number of turnovers for the catalyst. A 
+linear relationship between the two quantities was obtained as shown in 
+Fig. 9. 
+x(t)
+x0,WHSVi
+= a
+(6) 
+Finally, we also performed a regeneration procedure to one of the 
+catalysts by calcining it at 450 ◦C for 4 h with a 1 ◦C/min ramp, then 
+reducing it again at typical reaction conditions. 
+2.3. Catalyst characterization 
+CuMMO catalysts textural properties were determined via N2 phys­
+isorption using a Micromeritics ASAP 2020 instrument. Properties ob­
+tained were BET surface area, BJH pore size distribution and pore 
+volume. The catalysts acid and base sites were determined via NH3-TPD 
+and CO2-TPD respectively using modified methods reported in literature 
+[25,26]. For this, a Micromeritics 2720 II equipment was used. Samples 
+were pre-reduced at 350 ◦C before being treated with 25 mL of NH3 or 
+CO2. The temperature range of the analyses were 150 – 600 ◦C for 
+NH3-TPD and 50 – 600 ◦C for CO2-TPD. Actual compositions of Mg, Al 
+and Cu of the catalysts were obtained by ICP-OES (Varian Vista-MPX) 
+after digesting 10–15 mg of the solid samples in 10 mL of 10 wt% 
+HNO3 (trace metal grade, Sigma-Aldrich no. 438073) aqueous solution 
+and diluting the digestate to 1 wt% HNO3. Calibration curves of the 
+metals were prepared from 1000 ppm standard solutions of Cu (Fluka – 
+68921), Mg (Ricca – RV010077) and Al (Fluka – 61935). 
+Powder X-ray diffraction of the catalyst samples was carried out in 
+Rigaku Rapid II diffractometer. A Mo Kα source (λ = 0.71 Å) was used 
+for the measurements and the scanned zone was 2θ = 5–60◦. All mea­
+surements were recalculated to Cu Kα source (λ = 1.54 Å) for ease of 
+P.A. Cuello-Penaloza et al. 
+Applied Catalysis B: Environmental 304 (2022) 120984
+4
+analysis and comparison with literature. Structures were matched with 
+the use of JADE, PDF 4 + software, as well as from reports in literature. 
+Thermogravimetric analysis was carried out using a TGA TA Q500. For 
+analysis, 10 –
+
+
+========== RESULTS ==========
+
+Results and discussion 
+3.1. Catalyst characterization and properties 
+The measured properties of the prepared catalysts are in Table 1. The 
+BET surface area of the low surface area catalysts (vl and l) increased 
+after calcination, while the BET surface area of the other materials 
+decreased after calcination. For the low surface area materials, the in­
+crease in surface area may be explained by calcination-induced turbos­
+tractic disorder formation of the former LDH, in which the layers of the 
+material (now-MMO) undergo small distortions after the anions and the 
+water is removed from the layers of the material, exposing more sur­
+faces. The reduction in area for the higher surface area materials could 
+be explained by thermal sintering of the material, by which the layers 
+stack up on top of each other upon calcination, reducing available sur­
+face area. The pore volume of the catalysts is proportional to the BET 
+surface area. As shown in Figs. S1 and S2 the catalysts are almost 
+exclusively mesoporous. As shown in Fig. 1, the concentration of base 
+sites is proportional to the pore volume for the Cu containing catalysts, 
+suggesting that most base sites may be located inside the pores of the 
+catalyst due to incorporation of Cu in the materials. This positive cor­
+relation still holds if the density of base sites (μmol/m2) is considered as 
+shown in Fig. S4. Catalysts have varying acid site concentrations, with 
+0.3CuMMO(vl) having more than twice the acidity of the catalyst with 
+next lowest acid site count (0.3CuMMO(m)), potentially because of 
+requiring a more extensive wash to remove its higher residual Na 
+Fig. 2. Alcohol selectivity vs BET surface area in 0.3 wt%Cu (nominal) CuMMO 
+catalysts. Conditions as described in Table 2. Red line is linear fit of alcohol 
+selectivity vs BET surface area. Pearson’s r = - 0.9744, Adjusted R2 = 0.9325. 
+(For interpretation of the

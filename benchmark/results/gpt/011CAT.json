@@ -24,7 +24,13 @@
         ]
     },
     "metal_support": {
-        "metal": [],
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            }
+        ],
         "support": {
             "name": "MgO",
             "raw_name": "MgO",

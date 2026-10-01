@@ -52,5 +52,66 @@
             "raw_name": null,
             "article_identifiers": []
         }
+    },
+    "validation": {
+        "judge_model": "gpt",
+        "result": {
+            "validation": [
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "Calcined hydrotalcite",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "MgA Calcined hydrotalcite",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "Alumina",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "A Alumina",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "Silica-alumina",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "SA Silica–alumina",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "H-ferrierite",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "FER H-ferrierite",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "H-ZSM-5",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "MFI H-ZSM-5",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "H-faujasite",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "USY H-faujasite",
+                    "reason": ""
+                }
+            ],
+            "summary": {
+                "correct": 6,
+                "partial": 0,
+                "incorrect": 0,
+                "not_supported": 0
+            }
+        }
     }
 }

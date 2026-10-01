@@ -1,0 +1,79 @@
+{
+    "paper": "Structural Requirements and Reaction Pathways in Condensation Reactions of alcohols on MgyAlOx Catalysts",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgyAlOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "C2H5OH and CH3OH/C3H7OH mixtures undergo dehydrogenation, dehydration, and condensation reactions on MgyAlOx samples.",
+                "reason": "The catalyst MgyAlOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Pure MgO is active for dehydrogenation and coupling reactions but shows negligible dehydration activity.",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Al-rich MgyAlOx samples and Al2O3 mainly dehydrate alcohols to ethers and to a lesser extent to olefins.",
+                "reason": "The catalyst Al2O3 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg9AlOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg9AlOx and Mg1AlOx (Fig. 10a).",
+                "reason": "The catalyst Mg9AlOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg5AlOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg5AlOx (Fig. 10a).",
+                "reason": "The catalyst Mg5AlOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg1AlOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg1AlOx (Fig. 1) shows that CO2 desorbs in three overlapping peaks.",
+                "reason": "The catalyst Mg1AlOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg0.5AlOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg0.5AlOx (Fig. 1) shows that CO2 desorbs in three overlapping peaks.",
+                "reason": "The catalyst Mg0.5AlOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Pure MgO contains the highest absolute (1.25 µmol CO2/m2) and relative (76.7%) amounts of strongly basic O2−sites.",
+                "reason": "The support MgO is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 8
+        }
+    }
+}

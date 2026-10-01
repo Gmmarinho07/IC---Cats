@@ -1,0 +1,79 @@
+{
+    "paper": "Influence of surface acid and base sites on the Guerbet coupling of ethanol to butanol over metal phosphate catalysts",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The HAP catalyst exhibited the highest catalytic activity for butanol production",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Beta-tricalcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The b-TCP and FAP catalysts were 3 times less active on an area basis",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Strontium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The MgO and Sr3(PO4)2 surfaces exhibited an intermediate base site density",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Magnesium oxide",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The MgO catalyst was the least active among all of the catalysts tested",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Fluorapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The b-TCP and FAP catalysts were 3 times less active on an area basis",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Magnesium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The inﬂuence of cations in the metal phosphate catalysts was also explored",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The HAP catalyst exhibited the highest catalytic activity for butanol production",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The HAP catalyst exhibited the highest catalytic activity for butanol production",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 8
+        }
+    }
+}

@@ -1,0 +1,525 @@
+========== EXPERIMENTAL ==========
+
+Experimental
+2.1. Catalyst preparation
+All starting materials were reagent grade chemicals (Wako
+Pure Chem., Ind., Co.), such as NaOH (>97.0%), P2O5 (>98.0%) and
+Sr(NO3)2 (>98.0%). Strontium phosphate hydroxyapatite (Sr-HAP)
+with various Sr/P molar ratios was prepared using hydrothermal
+methods described previously [10,15]. First, a solution containing
+strontium nitrate (3–4 mmol) in 8 ml of distilled water was added
+into a solution containing P2O5 (1 mmol) in 7 ml of distilled water
+with NaOH (7 mmol), such that for each preparation the Sr/P molar
+ratio in the mixed solution was between 1.5 and 2.0. Sr-HAP-NH3
+catalysts were prepared by the same method as Sr-HAP catalysts
+except for using NH3 instead of NaOH as the alkaline source. The
+resultant suspensions were treated under hydrothermal conditions
+at 110 C for 14 h with agitation in an autoclave lined with Teﬂon.
+After hydrothermal treatment, the resultant precipitates were each
+washed by centrifugal separation with distilled water and then
+dried at 60 C for 5 h.
+2.2. Characterization
+Unless otherwise noted, the as-prepared powders were charac-
+terized by the following techniques. The crystalline phase was
+identiﬁed by powder X-ray diffraction (XRD; Rigaku, Ultima IV)
+with Cu Ka radiation (40 kV and 20 mA). The bulk elemental com-
+position of each sample was determined by inductively coupled
+plasma (ICP; Shimadzu, ICPE-9000). Approximately 4 mg of sample
+was dissolved in 20 ml of 1 M HNO3 solution and then diluted to
+100 ml with distilled water. Surface analysis was carried out with
+X-ray photoelectron spectroscopy (XPS; JEOL, JPS-9010MC) using
+Al Ka radiation. For XPS analysis, samples were pretreated at
+550 C for 3 h in Ar ﬂow and then cooled at room temperature
+and pelletized to 2 mm u. Because the surface was electrically
+charged, the binding energies were corrected using 531.1 eV for
+O1s as an internal standard [23–25]. Infrared (IR) spectra were
+performed with a JASCO FT/IR 4100 spectrometer in the range
+40
+
+a glass U-tube reactor equipped with a quadrupole mass
+spectrometer (ANELVA, M-201QA-TDM). Samples (0.1 g) were pre-
+heated in ﬂowing He at 550 C and evacuated and then exposed to
+50 kPa of 10% CO2/He gas at room temperature until saturation
+coverage was reached. After the sample was ﬂushed with He at
+room temperature for 30 min, the temperature was then increased
+at a linear rate of 5 C/min from 20 to 800 C under vacuum. The
+TPD spectra were normalized based on the speciﬁc surface area.
+The TPD of NH3 was carried out by almost the same method as
+the TPD of CO2, except for using 10% NH3/He gas.
+2.3. Catalytic reactions
+Catalytic conversion of ethanol was carried out at 300 C using
+2.0 g of catalyst in a ﬁxed-bed continuous-ﬂow glass reactor (8 mm
+i.d.) under atmospheric pressure. The catalyst powders were pel-
+letized and crushed to the desired size (250–500 lm). Before the
+catalytic reaction, the as-prepared catalysts were pretreated at
+550 C for 3 h in Ar ﬂow. Ethanol was introduced into the reactor
+using a micro-syringe pump. The initial concentration of ethanol
+in Ar was 10.3–53.5 mol%. W/Fethanol was adjusted between 32
+and 389 h gcatalyst mol1
+ethanol by controlling the ethanol ﬂow rate.
+The typical W/Fethanol, catalyst weight, ethanol ﬂow, and Ar ﬂow
+were 130 h gcatalyst mol1
+ethanol, 2.0 g, 15.4 mmol h1, and 1.8 L h1.
+The reaction products were condensed in an ice-water trap and
+collected for analysis on a GC-FID (Shimadzu GC14B) with a
+DB-WAX capillary column (60 m, 0.25 mm i.d.). The ethanol con-
+version, product yield, product selectivities, W/Fethanol, and speciﬁc
+reaction rate were calculated based on the following equations,
+which were also used in previous reports [12–15]:
+Ethanol conversion ðC-%Þ
+¼ ð1 C mol of unreacted ethanol=C mol of the liquid and
+gas products and unreacted ethanolÞ 100
+-H2O 
+-2H 2
+aldol 
+condensation 
+H2
+ethanol 
+acetaldehyde 
+crotonaldehyde 
+1-butanol 
+H2
+butyraldehyde 
+2-buten-1-ol 
++ 
+Scheme 1. The reaction mechanism of 1-but
+
+
+========== RESULTS ==========
+
+AP (1.67)
+Sr-HAP (1.70)
+Fig. 1. XRD patterns of Sr-HAP with various Sr/P molar ratios.
+26
+S. Ogo et al. / Journal of Catalysis 296 (2012) 24–30
+as well as over the reported catalysts [26], the initial reaction rates
+were completely recovered by calcination treatments at 550 C for
+3 h in Ar ﬂow (data not shown).
+As shown in Fig. 3, 1-butanol selectivity depended not only on
+the catalyst’s Sr/P molar ratio but also on the ethanol conversion.
+All Sr-HAP catalysts exhibited the highest 1-butanol selectivity in
+the region of ethanol conversion between 7% and 9%. In the case
+of low ethanol conversion, below 7%, main by-products were inter-
+mediates such as 2-buten-1-ol and aldehydes, whereas in the case
+of high ethanol conversion, over 9%, main by-products were suc-
+cessive products, such as C6 and C8 alcohols, similarly to previous
+reports [12,15]. On the other hand, 1-butanol selectivity increased
+with the increase in the catalysts’ Sr/P molar ratio, whose order
+was independent of the ethanol conversion rate.
+Comparing the product selectivities in the region of ethanol
+conversion between 7% and 9% (Table S1), Sr-HAP (1.58) and
+Sr-HAP
+(1.64)
+catalysts
+exhibited
+higher
+selectivity
+for
+2-
+buten-1-ol and lower selectivity for 1-butanol than Sr-HAP (1.67)
+catalyst. On the other hand, Sr-HAP (1.70) catalyst exhibited lower
+selectivity for C6 and C8 alcohols than Sr-HAP (1.67) catalyst. These
+results suggest that Sr-HAP catalysts with a high Sr/P molar ratio
+may accelerate the hydrogenation of intermediates, such as 2-
+buten-1-ol, into 1-butanol but also inhibit the successive reaction
+of C4 products into C6 and C8 alcohols.
+We postulated that the changes in product selectivity as the
+catalysts’ Sr/P molar ratio changed might be due to a difference
+in the hydrogenation activities of the Sr-HAP catalysts. C6 and C8
+alcohols may be formed via the aldol condensation of butyralde-
+hyde produced by the hydrogenation of crotonaldehyde or the
+dehydrogenation of 1-butanol. The Sr-HAP 
+
+he
+catalysts’ Sr/P molar ratio changed might be due to a difference
+in the hydrogenation activities of the Sr-HAP catalysts. C6 and C8
+alcohols may be formed via the aldol condensation of butyralde-
+hyde produced by the hydrogenation of crotonaldehyde or the
+dehydrogenation of 1-butanol. The Sr-HAP (1.70) catalyst with
+high 1-butanol selectivity might preferentially accelerate the
+hydrogenation of butyraldehyde species for aldol condensation.
+3.3. Rate-determining step of 1-butanol formation from ethanol
+The reaction mechanism of 1-butanol formation from ethanol,
+as described in Scheme 1 [14–20], has previously been discussed.
+In this paper, we examined the rate-determining step in the reac-
+tion mechanism over a Sr-HAP catalyst with a Sr/P molar ratio of
+1.67. When the initial ethanol concentration was varied between
+10.3 and 53.5 mol%, 1-butanol selectivity was almost constant at
+around 81 C-% and the speciﬁc reaction rates decreased signiﬁ-
+cantly from 24 to 17 lmol h1 m2 (Table S2). The reaction order
+was 0.13 in the ethanol concentration, which indicated that the
+adsorption of ethanol was not the rate-determining step in the for-
+mation of 1-butanol.
+Table 1
+Characteristics of Sr-HAP with various Sr/P molar ratios.
+Sample
+Sr/P molar ratio in raw solution
+Relative atomic ratios
+Sr/P molar ratio in solid product
+Speciﬁc surface area (m2 g1)
+Sr
+P
+Na
+Sr-HAP (1.58)
+1.50
+9.5
+6.0
+0.50
+1.58
+30.8
+Sr-HAP (1.64)
+1.60
+9.8
+6.0
+0.28
+1.64
+29.6
+Sr-HAP (1.67)
+1.67
+10.0
+6.0
+0.04
+1.67
+29.4
+Sr-HAP (1.70)
+2.00
+10.2
+6.0
+n.d.
+1.70
+37.6
+2500
+3000
+3500
+4000
+wavenumber / cm-1
+Transmittance
+Sr-HAP (1.58)
+Sr-HAP (1.64)
+Sr-HAP (1.67)
+Sr-HAP (1.70)
+: νs (OH) 
+Fig. 2. FT-IR spectra of Sr-HAP with various Sr/P molar ratios.
+Table 2
+Results of XPS analysis of Sr-HAP with various Sr/P molar ratios.
+Sample
+Binding energy (eV)
+Molar ratios
+Sr3p3/2
+P2s
+Na1s
+Sr/P
+Na/P
+Sr-HAP (1.58)
+269.3
+190.6
+1072.4
+1.84
+0.35
+Sr-HAP (1.64)
+269.4
+190.8
+1072.8
+1.90
+0.11
+Sr-HAP (1.67)
+269.4
+190.6
+1072.3
+1.96
+0.06
+Sr-
+
+ a.u.
+Temeperature / ºC
+Sr-HAP(1.70)
+Sr-HAP(1.67)
+Sr-HAP(1.64)
+Sr-HAP(1.58)
+Fig. 4. TPD proﬁles of CO2 adsorbed onto Sr-HAP catalysts with various Sr/P molar
+ratios.
+50 
+60 
+70 
+80 
+90 
+100 
+0
+10
+20
+30
+40
+50
+60
+1-butanol selectivity (C-%)
+Conversion (C-%)
+Sr-HAP (1.70)
+Sr-HAP (1.67)
+Sr-HAP (1.64)
+Sr-HAP (1.58)
+Fig. 3. Changes in 1-butanol selectivity with increasing ethanol conversion over Sr-
+HAP catalysts with various Sr/P molar ratios.
+28
+S. Ogo et al. / Journal of Catalysis 296 (2012) 24–30
+the Sr-HAP catalysts are strontium cations and the relatively strong
+basic sites are oxygen anions adjacent to strontium ions. We pro-
+pose the reaction mechanism for 1-butanol formation from ethanol
+over Sr-HAP catalyst shown in Scheme 2. In this scheme, ethanol is
+hydrogen-dissociatively adsorbed as aldehyde or enol species (a).
+The ethanol-derived adsorbates and hydride-like hydrogen are lo-
+cated on Lewis acidic sites comprising strontium atoms, and pro-
+ton-like hydrogen is located on basic sites comprising oxygen
+atoms. Next, the aldehyde species react with the neighboring enol
+species to form unsaturated C4 aldehyde species (aldol condensa-
+tion) (b). Finally, 1-butanol is formed via hydrogenation of the
+unsaturated C4 aldehyde species using the hydride-like and pro-
+ton-like hydrogen (c).
+3.6. Effect of composition on the catalytic properties
+Based on the proposed structure of catalytic active sites de-
+scribed in Scheme 2, we postulate that the effects of the Sr/P molar
+ratio of the Sr-HAP catalysts on catalytic activity and selectivity are
+as follows. Sr-HAP catalysts with lower Sr/P ratios (<1.67) have a
+smaller number of relatively strong basic sites, such as O–Sr–O
+sites, to catalyze dehydrogenation and aldol condensation, because
+Sr2+ ions have been replaced by Na+ ions in the catalysts. On the
+0
+100
+200
+300
+400
+500
+Intensity / a.u.
+Temperature / ºC
+Sr-HAP(1.70)
+Sr-HAP(1.67)
+Sr-HAP(1.64)
+Sr-HAP(1.58)
+150
+200
+250
+300
+350
+Intensity / a.u.
+Temperature / ºC
+Sr-HAP(1
+
+es, to catalyze dehydrogenation and aldol condensation, because
+Sr2+ ions have been replaced by Na+ ions in the catalysts. On the
+0
+100
+200
+300
+400
+500
+Intensity / a.u.
+Temperature / ºC
+Sr-HAP(1.70)
+Sr-HAP(1.67)
+Sr-HAP(1.64)
+Sr-HAP(1.58)
+150
+200
+250
+300
+350
+Intensity / a.u.
+Temperature / ºC
+Sr-HAP(1.70)
+Sr-HAP(1.67)
+Sr-HAP(1.64)
+Sr-HAP(1.58)
+(a)
+(b)
+Fig. 5. (a) TPD proﬁles of NH3 adsorbed onto Sr-HAP catalysts with various Sr/P molar ratios and (b) the same expanded.
+Table 4
+Acidic and basic site density of Sr-HAP catalysts with various Sr/P molar ratios.
+Sample
+Acidic site density
+(lmol m2)a
+Basic site density
+(lmol m2)b
+Sr-HAP (1.58)
+<0.01
+0.37
+Sr-HAP (1.64)
+0.13
+0.58
+Sr-HAP (1.67)
+0.11
+0.79
+Sr-HAP (1.70)
+0.22
+1.00
+a Estimated from the amount of NH3 adsorption at 250 C.
+b Estimated from the amount of CO2 adsorption at 250 C.
+(a)
+(c)
+(b)
+O
+Sr
+O
+C
+O
+H
+H
+C
+H
+H
+H
+H
+O
+Sr
+O
+C
+O
+H
+H
+C
+H
+H
+H
+H
+O
+Sr
+O
+C
+O H
+H
+C
+H
+H
+H
+H
+P
+O
+Sr
+O
+C
+O
+H
+H
+C
+H
+H
+H
+H
+O
+Sr
+O
+C
+O H
+H
+C
+H
+H
+H
+H
+P
+O
+Sr
+O
+C
+O
+H
+H
+C
+H
+H
+H
+H
+O
+Sr
+O
+C
+O H
+H
+C
+H
+H
+H
+H
+P
+O
+Sr
+O
+C
+O H
+H
+C
+H
+H
+H
+H
+O
+Sr
+O
+C
+O H
+H
+C
+H
+H
+H
+H
+P
+O
+Sr
+O
+C
+O
+H
+H
+C
+H
+H
+H
+H
+O H
+H
+O
+Sr
+O
+C
+H
+C
+H
+H
+H
+H
+P
+O
+Sr
+O
+C
+O
+H
+H
+C
+H
+H
+H
+O
+Sr
+O
+C
+O
+H
+H
+C
+H
+H
+H
+H
+Scheme 2. The reaction mechanism of 1-butanol formation from ethanol over Sr-HAP catalysts: (a) dehydrogenation and keto–enol tautomerism; (b) aldol condensation;
+(c) hydrogenations.
+S. Ogo et al. / Journal of Catalysis 296 (2012) 24–30
+29
+other hand, Sr-HAP catalysts with higher Sr/P ratios (>1.67) have a
+larger number of relatively strong basic sites. Although the XRD
+pattern of Sr-HAP (1.70) showed a single apatite phase, the highly
+dispersed SrO species might be formed on the surface [3] and
+might act as relatively strong basic active sites, together with the
+catalysts’ active sites. However, a SrO/SiO2 catalyst showed low
+catalytic activity and 1-butanol selectivity (Table S6). These results
+suggested that SrO species alone have too little activity, but
+dispersed SrO species on Sr-HAP might play a

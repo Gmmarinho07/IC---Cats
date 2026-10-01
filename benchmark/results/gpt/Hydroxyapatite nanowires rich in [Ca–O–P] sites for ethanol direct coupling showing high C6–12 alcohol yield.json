@@ -1,0 +1,29 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP",
+                "article_identifiers": [
+                    "HAP-W"
+                ]
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Co",
+                "raw_name": "cobalt",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "HAP",
+            "raw_name": "HAP",
+            "article_identifiers": [
+                "HAP-W"
+            ]
+        }
+    }
+}

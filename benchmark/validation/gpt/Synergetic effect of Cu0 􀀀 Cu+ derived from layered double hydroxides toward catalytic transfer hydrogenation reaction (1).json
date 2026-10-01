@@ -1,0 +1,111 @@
+{
+    "paper": "Synergetic effect of Cu0 􀀀 Cu+ derived from layered double hydroxides toward catalytic transfer hydrogenation reaction (1)",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CuAl-MMO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/CuAl-MMO catalysts with tunable dual active sites",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CuAl-MMO-300",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/CuAl-MMO-300",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CuAl-MMO-400",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/CuAl-MMO-400 catalyst shows the highest FAL conversion",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CuAl-MMO-500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/CuAl-MMO-500",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CuAl-MMO-600",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/CuAl-MMO-600",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuAl-MMO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the catalytic performance of Al2O3 support, which was almost inert for CTH reaction of FAL",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu0",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu0 promotes the transfer of H atoms on the catalyst surface",
+                "reason": "The active metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu0",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu0 promotes the transfer of H atoms on the catalyst surface",
+                "reason": "The active metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu+",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu+ active site of the Cu/CuAl-MMO-400 catalyst",
+                "reason": "The active metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu+",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu+ active site of the Cu/CuAl-MMO-400 catalyst",
+                "reason": "The active metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "CuAl-MMO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "CuAl-MMO and four Cu/CuAl-MMO samples",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "CuAl-MMO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "CuAl-MMO and four Cu/CuAl-MMO samples",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 12
+        }
+    }
+}

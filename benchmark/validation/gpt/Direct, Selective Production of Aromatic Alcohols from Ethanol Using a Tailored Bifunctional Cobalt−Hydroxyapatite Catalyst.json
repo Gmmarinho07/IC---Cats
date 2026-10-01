@@ -1,0 +1,87 @@
+{
+    "paper": "Direct, Selective Production of Aromatic Alcohols from Ethanol Using a Tailored Bifunctional Cobalt−Hydroxyapatite Catalyst",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "cobalt-doped hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In this work, a cobalt-doped hydroxyapatite (Co−HAP) was prepared and used to catalyze the conversion of ethanol to methylbenzyl alcohols.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Co−HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "In this work, a cobalt-doped hydroxyapatite (Co−HAP) was prepared and used to catalyze the conversion of ethanol to methylbenzyl alcohols.",
+                "reason": "The raw name is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The surface of hexagonal hydroxyapatite [HAP, Ca10(OH)2(PO4)6] has Lewis acid−base pairs and exhibits high activity for C−C coupling in ethanol upgrading.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The surface of hexagonal hydroxyapatite [HAP, Ca10(OH)2(PO4)6] has Lewis acid−base pairs and exhibits high activity for C−C coupling in ethanol upgrading.",
+                "reason": "The raw name is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Co",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Co2+ sites in HAP catalyze ethanol dehydrogenation to acetaldehyde.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Co",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Co2+ sites in HAP catalyze ethanol dehydrogenation to acetaldehyde.",
+                "reason": "The raw name is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The surface of hexagonal hydroxyapatite [HAP, Ca10(OH)2(PO4)6] has Lewis acid−base pairs and exhibits high activity for C−C coupling in ethanol upgrading.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite (HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The surface of hexagonal hydroxyapatite [HAP, Ca10(OH)2(PO4)6] has Lewis acid−base pairs and exhibits high activity for C−C coupling in ethanol upgrading.",
+                "reason": "The raw name is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The surface of hexagonal hydroxyapatite [HAP, Ca10(OH)2(PO4)6] has Lewis acid−base pairs and exhibits high activity for C−C coupling in ethanol upgrading.",
+                "reason": "The article identifier is explicitly associated with the support."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 9
+        }
+    }
+}

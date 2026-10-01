@@ -1,0 +1,345 @@
+========== EXPERIMENTAL ==========
+
+experimental conditions and of the balance between the acido-
+basic and redox properties of the catalysts on the selectivities in
+diethylacetal and/or 1-butanol was also investigated.
+2. Experimental
+2.1. Catalysts preparation
+LDH precursors were prepared by coprecipitation at constant pH
+(10) of suitable amounts of Mg(NO3)26H2O and Al(NO3)39H2O
+(1 Mg/Al 5) with a solution of NaOH (2 M) into a well-stirred
+Catalysis Today 147 (2009) 231–238
+A R T I C L E
+I N F O
+Article history:
+Received 14 April 2008
+Received in revised form 9 April 2009
+Accepted 10 April 2009
+Available online 9 May 2009
+Keywords:
+Mixed oxide catalysts
+Layered double hydroxides
+Bioethanol
+Butanol
+Diethoxyethane
+A B S T R A C T
+The conversion of ethanol into 1-butanol and 1,1-diethoxyethane was studied over Cu-Mg-Al mixed
+oxide catalysts obtained from LDH precursors. The optimum yields are obtained for Cu loadings
+comprised between 5 and 10 at.%. A reaction scheme accounting for the main and secondary reaction
+products is proposed. The inﬂuences of the reaction temperature and of the reaction time on the catalytic
+performances have also been investigated. The negative effect of water, a by-product of the reaction, on
+this transformation was evidenced.
+ 2009 Elsevier B.V. All rights reserved.
+* Corresponding author.
+E-mail address: nathalie.tanchoux@enscm.fr (N. Tanchoux).
+1 Present address: Department of Technological Chemistry and Catalysis,
+University of Bucharest, 4-12, Blv. Regina Elisabeta, 030018 Bucharest, Romania.
+Contents lists available at ScienceDirect
+Catalysis Today
+journal homepage: www.elsevier.com/locate/cattod
+0920-5861/$ – see front matter 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.cattod.2009.04.004
+beaker containing 200 mL of suitable amount of Cu(NO3)2xH2O
+(0.01 Cu/(Cu + Mg + Al) 0.2). The addition of the alkaline solu-
+tion and the pH were controlled by pH-STAT Titrino (Metrohm). The
+precipitates formed were aged in their mother liquor overnight at
+353 K under stirri
+
+016/j.cattod.2009.04.004
+beaker containing 200 mL of suitable amount of Cu(NO3)2xH2O
+(0.01 Cu/(Cu + Mg + Al) 0.2). The addition of the alkaline solu-
+tion and the pH were controlled by pH-STAT Titrino (Metrohm). The
+precipitates formed were aged in their mother liquor overnight at
+353 K under stirring, separated by centrifugation, washed with
+deionized water until a pH of 7 was reached and dried at 353 K
+overnight. The samples were noted CuxMgAl(y)OH, where x is the
+copper content as atomic percent with respect to cations and y
+corresponds to the Mg/Al atomic ratio.
+The previous dried samples were calcined in ﬂowing nitrogen in
+the temperature range from 623 to 923 K (2 K min1) in order to
+obtain the corresponding mixed metal oxides catalysts (see
+Table 1). They were noted CuxMgAl(y)O. The same method than
+that previously described, was used for preparing pure copper
+oxide.
+2.2. Catalysts characterization
+Powder X-ray diffraction (XRD) patterns were recorded using a
+Siemens D5000 Diffractometer and the monochromatic Cu-Ka1
+radiation. They were recorded with 0.028 (2u) steps over the 3–708
+2u angular range with 1 s counting time per step.
+The chemical composition of the samples was determined by
+EDX microprobe on a Cambridge Stereoscan 260 apparatus.
+The textural characterization was achieved using conventional
+nitrogen adsorption/desorption method, with a Micromeritics
+ASAP 2010 automatic analyzer. Speciﬁc surface areas were
+calculated using the BET method. Prior to nitrogen adsorption,
+the samples were outgassed for 8 h at 523 K.
+Temperature-programmed desorption (TPD) of CO2 and NH3
+were carried out using a Micromeritics Autochem model 2910
+instrument equipped with a programmable temperature furnace
+and a TCD detector. Fresh calcined samples (100 mg) were
+pretreated under air at 823 K before adsorption of the probe
+molecules at 373 K. During desorption, the sample was heated
+under a helium ﬂow (30 mL/min) at a ramp of 10 K/min. The
+amount of probe molecules desorb
+
+
+========== RESULTS ==========
+
+1MgAl(3)O, they can
+be deconvoluted in three peaks with maxima at 454–462 K, 494–
+535 K and 569–631 K corresponding to acid sites exhibiting weak
+(W), moderate (M) and high strength (H), respectively. In the case
+of Cu1MgAl(3)O, the NH3-TPD proﬁle was deconvoluted only in two
+desorption peaks corresponding to sites with moderate and high
+acid strength. As already reported for CO2, the number of sites was
+deduced from the area of each peak. The amount of each type of
+acid site is reported in Table 3. In contrast to the basic ones, there is
+no clear correlation between the number of acid sites of the
+samples and their copper content.
+3.2. Catalytic study
+Firstly, a blank experiment has been performed at 473 K during
+5 h. As reported in Table 4, the conversion of ethanol was lower
+than 0.3% and the major product was 1,1-diethoxyethane. Trace
+amounts of acetaldehyde and diethyl ether were also observed.
+With MgAl(3)O (Cu-free) catalyst, the conversion and selectivity are
+similar to those obtained for the blank test. When 5% of Cu is
+introduced in the catalyst Cu5MgAl(3)O, the conversion increased
+up to 4% with selectivities of 40.3 and 35.9% into butanol and 1,1-
+diethoxyethane, respectively. 1,1-diethoxybutane, acetaldehyde,
+butyraldehyde, ethyl acetate and traces of crotonaldehyde were
+also observed among the reaction products.
+A reaction scheme can be proposed for the reaction of ethanol
+on CuMgAlO catalysts in agreement with the nature of sites
+involved and the nature of the products obtained (Fig. 6). After the
+ﬁrst step of ethanol dehydrogenation into acetaldehyde, two main
+pathways lead to: (i) 1-butanol by hydrogenation of butyraldehyde
+formed
+by
+self-condensation
+of
+acetaldehyde
+and
+(ii)
+1,1-
+diethoxyethane by cross-condensation of ethanol and acetalde-
+hyde.
+Fig. 7 shows the effect of the Mg/Al ratio in the Cu5MgAl(y)O
+samples on the catalytic performances. The ethanol conversion
+remained practically unchanged at 4% when the Mg/Al ratio was
+increased from 1 to
+
+acetaldehyde
+and
+(ii)
+1,1-
+diethoxyethane by cross-condensation of ethanol and acetalde-
+hyde.
+Fig. 7 shows the effect of the Mg/Al ratio in the Cu5MgAl(y)O
+samples on the catalytic performances. The ethanol conversion
+remained practically unchanged at 4% when the Mg/Al ratio was
+increased from 1 to 5. At the same time, the selectivity in butanol
+slightly decreased from 42 to 39.5%, while the selectivity in 1,1-
+diethoxyethane increased from 32 to 39%. The selectivities in
+minor products varied erratically but within a narrow range. These
+results show that the Mg/Al ratio does not inﬂuence the catalytic
+Fig. 4. CO2-TPD proﬁles of: (a) Cu1MgAl(3)O; (b) Cu5MgAl(3)O; (c) Cu10MgAl(3)O; (d)
+Cu20MgAl(3).
+Fig. 5. NH3-TPD proﬁles of: (a) Cu1MgAl(3)O; (b) Cu5MgAl(3)O; (c) Cu10MgAl(3)O; (d)
+Cu20MgAl(3)O.
+Table 2
+Number of basic sites of different strength for CuMgAlO mixed oxides, derived from
+TPD of CO2.
+Catalyst
+Number (mmol g1)
+Total number (mmol g1)
+W
+M
+H
+Cu1MgAl(3)O
+0.30
+0.69
+0.86
+1.85
+Cu5MgAl(3)O
+0.37
+0.42
+0.79
+1.58
+Cu10MgAl(3)O
+0.35
+0.41
+0.44
+1.20
+Cu20MgAl(3)O
+0.23
+0.33
+0.33
+0.89
+Table 3
+Number of acid sites of different strength for CuMgAlO mixed oxides, derived from
+TPD of NH3.
+Catalyst
+Number (mmol g1)
+Total number (mmol g1)
+W
+M
+H
+Cu1MgAl(3)O
+–
+1.30
+0.64
+1.94
+Cu5MgAl(3)O
+0.62
+0.99
+0.69
+2.30
+Cu10MgAl(3)O
+0.23
+0.89
+0.34
+1.46
+Cu20MgAl(3)O
+0.39
+1.03
+0.85
+2.27
+I.-C. Marcu et al. / Catalysis Today 147 (2009) 231–238
+234
+activity, and only slightly the selectivity. However, the different
+structural properties previously reported for this series of samples,
+particularly for Cu5MgAl(1)OH and Cu5MgAl(5)OH (Fig. 1), can
+hinder the inﬂuence of the Mg/Al ratio.
+Fig. 8 shows the effect of the Cu content on the catalytic
+performances in the CuxMgAl(3)O samples. For the sake of
+comparison, the catalytic properties of CuO are also reported on
+Fig. 8. An optimum of conversion of 4.5% was observed for the
+catalyst with a 7% Cu content. This volcano shape can account for a
+decrease of 
+
+. Traces of crotonaldehyde were observed only for
+the systems with Cu contents lower than 5%. XRD patterns of the
+catalysts after 5 h of reaction are similar to those before reaction
+(Fig. 9), therefore showing no structural evolution.
+As previously underlined the acidity of the catalysts is not
+correlated to the copper content. Moreover, the catalytic proper-
+ties are not correlated to their acidity. By contrast, a direct
+Table 4
+Ethanol conversion and product selectivities in a blank test and over MgAl(3)O and Cu5MgAl(3)O catalysts calcined at 823 K (5 h, 473 K).
+Catalyst
+Conversion (%)
+Selectivitiesa (%)
+Acetal C6
+Acetal C8
+Ethanal
+Butanal
+Crotonal
+Butanol
+EA
+DET
+Blank test
+<0.300
+86.1
+–
+7.3
+–
+–
+–
+–
+6.5
+MgAl(3)O
+0.3
+87.5
+–
+6.1
+–
+–
+–
+–
+6.3
+Cu5MgAl(3)O
+4.1
+35.9
+5.1
+9.9
+1.7
+0.2
+40.3
+6.9
+–
+a Acetal C6: 1,1-diethoxyethane; Acetal C8: 1,1-diethoxybutane; Ethanal: acetaldehyde; Butanal: butyraldehyde; Crotonal: crotonaldehyde; EA: ethyl acetate; DET:
+diethyl ether.
+Fig. 6. Reaction scheme for ethanol transformation on CuMgAlO catalysts. The targeted products are presented in a frame.
+I.-C. Marcu et al. / Catalysis Today 147 (2009) 231–238
+235
+relationship was evidenced between the basicity of these catalysts
+and the selectivity for n-butanol: the selectivity for n-butanol
+increased when the number of strong basic sites increased, as
+shown in Fig. 10. No relationship was found between basicity and
+1,1-diethoxyethane selectivity. This suggests that acetaldehyde
+self-condensation would be the rate determining step of the
+reaction leading to n-butanol. Moreover, this reaction probably
+involves
+stronger
+basic
+sites
+than
+those
+required
+for
+the
+condensation between acetaldehyde and ethanol leading to 1,1-
+diethoxyethane.
+The effect of the calcination temperature of the LDH precursors
+on the catalytic properties was studied using Cu7MgAl(3)O. The
+results are presented in Fig. 11. Up to 623 K the conversion
+remained lower than 1%. It must be noted that, as already shown,
+the cat
+
+ethanol leading to 1,1-
+diethoxyethane.
+The effect of the calcination temperature of the LDH precursors
+on the catalytic properties was studied using Cu7MgAl(3)O. The
+results are presented in Fig. 11. Up to 623 K the conversion
+remained lower than 1%. It must be noted that, as already shown,
+the catalyst is in the lamellar form in this case. The conversion then
+increased with the calcination temperature. The maximum was
+reached at 823 K, the catalyst being in the mixed oxide form. The
+selectivities for butanol and 1,1-diethoxyethane showed opposite
+behaviors, the former increasing regularly with the calcinations
+temperature. The highest butanol yields were obtained for
+calcination temperatures above 723 K. We note that with the
+catalyst calcined at 923 K, methyl ethyl ketone was observed
+among the reaction products.
+We checked the stability of the catalyst by carrying out the
+reaction
+with
+Cu7MgAl(3)O
+calcined
+at
+823 K,
+three
+times
+successively. Between each reaction the catalyst was recovered
+by ﬁltration and dried overnight at 523 K. The results obtained are
+shown in Fig. 12. The conversion remained almost similar in each
+run and only minor changes of selectivities were observed. It can
+be considered that the catalytic properties are maintained after
+three successive reactions.
+Fig. 7. Inﬂuence of the Mg/Al ratio on the catalytic activity of the Cu5MgAl(y)O
+samples (y = 1, 3 and 5) (5 h, 473 K).
+Fig. 8. Inﬂuence of the Cu content on the catalytic activity of the CuxMgAl(3)O
+samples (5 h, 473 K).
+Fig. 9. XRD patterns of the catalysts before and after the catalytic test (5 h, 473 K) (a)
+fresh
+Cu7MgAl(3)O; (b) Cu7MgAl(3)O after
+test;
+(c) fresh
+Cu3MgAl(3)O;
+(d)
+Cu3MgAl(3)O after test; (e) fresh Cu5MgAl(1)O; (f) Cu5MgAl(1)O after test.
+Fig. 10. Selectivity for n-butanol versus the number of strong basic sites.
+I.-C. Marcu et al. / Catalysis Today 147 (2009) 231–238
+236
+Fig. 13 shows the variations of conversion and selectivities
+with the reaction temperature in the ran

@@ -1,0 +1,50 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Ni4MgAlO",
+                "raw_name": "Ni4MgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni3AlO",
+                "raw_name": "Ni3AlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiAlO",
+                "raw_name": "NiAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni4MgO",
+                "raw_name": "Ni4MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni6MgO",
+                "raw_name": "Ni6MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "5%Ni/Al2O3",
+                "raw_name": "5%Ni/Al2O3",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgAlO",
+            "raw_name": "MgAlO",
+            "article_identifiers": []
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Ni/hydroxyapatite",
+                "raw_name": "Ni/hydroxyapatite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP4−0.5Ni",
+                "raw_name": "HAP4−0.5Ni",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Niδ+",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "hydroxyapatite",
+            "raw_name": "HAP",
+            "article_identifiers": []
+        }
+    }
+}

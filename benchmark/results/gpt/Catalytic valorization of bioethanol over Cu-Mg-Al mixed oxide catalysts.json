@@ -1,0 +1,70 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu-Mg-Al mixed oxide",
+                "raw_name": "Cu-Mg-Al mixed oxide",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuxMgAl(y)OH",
+                "raw_name": "CuxMgAl(y)OH",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuxMgAl(y)O",
+                "raw_name": "CuxMgAl(y)O",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu1MgAl(3)O",
+                "raw_name": "Cu1MgAl(3)O",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu5MgAl(3)O",
+                "raw_name": "Cu5MgAl(3)O",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu10MgAl(3)O",
+                "raw_name": "Cu10MgAl(3)O",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu20MgAl(3)O",
+                "raw_name": "Cu20MgAl(3)O",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu7MgAl(3)O",
+                "raw_name": "Cu7MgAl(3)O",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuO",
+                "raw_name": "CuO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgAl(3)O",
+                "raw_name": "MgAl(3)O",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgAl(3)O",
+            "raw_name": "MgAl(3)O",
+            "article_identifiers": []
+        }
+    }
+}

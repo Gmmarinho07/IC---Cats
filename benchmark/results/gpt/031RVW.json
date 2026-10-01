@@ -52,28 +52,13 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "β-Ca3(PO4)2",
-                "raw_name": "β-Ca3 (PO4)2",
+                "catalyst": "HAP-W",
+                "raw_name": "HAP-W",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Ca10(PO4)6F2",
-                "raw_name": "Ca10(PO4)6F2",
-                "article_identifiers": []
-            },
-            {
-                "catalyst": "Mg3(PO4)2",
-                "raw_name": "Mg3(PO4)2",
-                "article_identifiers": []
-            },
-            {
-                "catalyst": "Sr3(PO4)2",
-                "raw_name": "Sr3(PO4)2",
-                "article_identifiers": []
-            },
-            {
-                "catalyst": "HAP−W",
-                "raw_name": "HAP−W",
+                "catalyst": "Cu-HAP",
+                "raw_name": "Cu-HAP",
                 "article_identifiers": []
             },
             {
@@ -104,6 +89,26 @@
             {
                 "catalyst": "2%Cu−NiMg4AlO",
                 "raw_name": "2%Cu−NiMg4AlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "β-Ca3(PO4)2",
+                "raw_name": "β-Ca3 (PO4)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca10(PO4)6F2",
+                "raw_name": "Ca10(PO4)6F2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg3(PO4)2",
+                "raw_name": "Mg3(PO4)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Sr3(PO4)2",
+                "raw_name": "Sr3(PO4)2",
                 "article_identifiers": []
             }
         ]
@@ -137,8 +142,8 @@
             }
         ],
         "support": {
-            "name": "ConMg3−nAlOx",
-            "raw_name": "ConMg3−nAlOx",
+            "name": "AC",
+            "raw_name": "AC",
             "article_identifiers": []
         }
     }

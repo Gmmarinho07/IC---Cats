@@ -1,0 +1,75 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "NiO–Cu–La2O3/Al2O3",
+                "raw_name": "NiO–Cu–La2O3/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.65%NiO–Cu–La2O3/Al2O3",
+                "raw_name": "0.65%NiO–Cu–La2O3/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu–La2O3/Al2O3",
+                "raw_name": "Cu–La2O3/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiO/Al2O3",
+                "raw_name": "NiO/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiO–La2O3/Al2O3",
+                "raw_name": "NiO–La2O3/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "2.55%NiO–Cu–La2O3/Al2O3",
+                "raw_name": "2.55%NiO–Cu–La2O3/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "1.27%NiO–Cu–La2O3/Al2O3",
+                "raw_name": "1.27%NiO–Cu–La2O3/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.32%NiO–Cu–La2O3/Al2O3",
+                "raw_name": "0.32%NiO–Cu–La2O3/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuO/Al2O3",
+                "raw_name": "CuO/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuO–NiO/Al2O3",
+                "raw_name": "CuO–NiO/Al2O3",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "NiO",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Alumina",
+            "raw_name": "Al2O3",
+            "article_identifiers": []
+        }
+    }
+}

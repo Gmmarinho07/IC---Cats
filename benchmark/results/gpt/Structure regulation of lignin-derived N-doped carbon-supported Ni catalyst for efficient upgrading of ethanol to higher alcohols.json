@@ -1,0 +1,25 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Ni catalyst",
+                "raw_name": "Ni catalyst",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "nitrogen-doped lignin",
+            "raw_name": "nitrogen-doped lignin",
+            "article_identifiers": []
+        }
+    }
+}

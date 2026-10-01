@@ -1,0 +1,391 @@
+========== ABSTRACT ==========
+
+c­
+tively inhibit secondary reactions and improve acetaldehyde selectivity. 
+For example, Wang et al. [49] demonstrated the superior performance of 
+a Cu catalyst supported on mesoporous carbon (Cu/MC) over its silica- 
+based counterpart (Cu/SBA-15). Under identical conditions (280 ◦C, 
+GHSV = 8600 h−1), Cu/MC achieved a high acetaldehyde selectivity of 
+94.0 % and a space–time yield (STY) of 225 h−1, doubling that of Cu/ 
+SBA-15 (STY = 112 h−1). This exceptional performance was attributed 
+to the unique advantages of the mesoporous carbon support, specifically 
+its strong enrichment capability for ethanol molecules which enhances 
+the reaction rate, and its chemically inert surface which lacks acidic/ 
+basic sites, thereby effectively suppressing acetaldehyde side reactions.
+In addition, doping various metal promoters into Cu-based catalysts 
+to form bimetallic catalysts can effectively regulate product selectivity, 
+alter reaction pathways, and significantly enhance catalyst stability. 
+Samira Amokrane et al. [26] added transition metals (Ag, Co, Ni, Cd and 
+Pt) to copper to investigate the ethanol dehydrogenation process on a 
+copper bimetallic systems. Monometallic copper has been shown to 
+agglomerate and deactivate, which can be prevented by adding Ag, Co, 
+Cd, or Ni. Among them, Ni–Cu improves conversion but reduces acet­
+aldehyde selectivity by producing the byproduct CH4. Ag reacts weakly 
+with ethanol, resulting in decreased conversion. Pt changes the chemical 
+route, causing the process to yield diethyl ether. It is worth noting that 
+Cd–Cu greatly increases the sintering resistance of the catalysts, 
+increasing their stability.
+2.3. Single-atom alloy catalysts
+Single-atom alloy catalysts exhibit outstanding activity and selec­
+tivity in the dehydrogenation of ethanol to acetaldehyde. Studies indi­
+cate that single-atom alloys such as NiCu, NiAu, and Pt–Cu achieve 
+efficient activation of the C–H and O–H bonds in ethanol molecules 
+through synergistic int
+
+
+========== EXPERIMENTAL ==========
+
+ support properties like the isolation effect and tunable 
+acidity/basicity.
+Wu et al. [91] prepared M-CeO2/ activated carbon (AC) (M = Cu, Fe, 
+Co, Ni, Pd) catalysts via the wetness impregnation method and evalu­
+ated their performance in the catalytic upgrading of ethanol to n-butanol 
+under mild conditions (250 ◦C, 2 MPa, N2/ethanol (v/v) = 500:1). The 
+results showed that the Pd–CeO2/AC catalyst exhibited the highest n- 
+butanol selectivity (67.6 %), while the Cu–CeO2/AC catalyst achieved 
+the highest ethanol conversion (46.2 %) with moderate n-butanol 
+selectivity (41.3 %). This was attributed to the strong hydrogen acti­
+vation and spillover ability of Pd metal, which significantly promoted 
+the CeO2 reduction and the formation of surface basic sites to enhance 
+the crotonaldehyde hydrogenation efficiency. In contrast, Cu metal 
+dominated ethanol conversion due to its superior dehydrogenation 
+capability.
+Furthermore, the Pd@UiO-66 catalyst [89] (2 wt% Pd) discussed in 
+the previous section exhibits excellent performance in the conversion of 
+ethanol to n-butanol. Under conditions of 250 ◦C and 2 MPa, it achieves 
+an ethanol conversion rate of 49.8 % and an n-butanol selectivity of 
+48.6 %, while maintaining stability over a long reaction time of 200 h. 
+This is attributed to the high activity of the palladium active sites in the 
+steps of ethanol dehydrogenation and crotonaldehyde hydrogenation, as 
+well as the Lewis acidic Zr6 nodes, which promote the aldol condensa­
+tion of acetaldehyde.
+Zhang et al. [90,93] investigated the properties of Ag particles 
+supported on MgAl-layered double oxides (Ag/MgAl-LDO) in the 
+dehydrogenation coupling of ethanol to n-butanol. It was shown that 
+synergistic catalysis between the acid-base bifunctional sites on the LDO 
+surface and the Ag particles: the basic sites promote the adsorption and 
+subsequent dehydrogenation of ethanol on Ag particles to form acetal­
+dehyde, while the acid-base cooperation further promotes the a
+
+It was shown that 
+synergistic catalysis between the acid-base bifunctional sites on the LDO 
+surface and the Ag particles: the basic sites promote the adsorption and 
+subsequent dehydrogenation of ethanol on Ag particles to form acetal­
+dehyde, while the acid-base cooperation further promotes the aldol 
+condensation of acetaldehyde to form C–C bonds. The Ag/MgAl-LDO 
+catalyst (Mg/Al = 2) achieved 23.2 % ethanol conversion and 76.6 % 
+n-butanol selectivity at 350 ◦C and 0.1 MPa. At 250 ◦C and 2 MPa, the 
+ethanol conversion reached 45.2 % while maintaining a n-butanol 
+selectivity of 60.3 %.
+Recently, Liu et al. [34] developed a bifunctional Pt-Y/Beta catalyst 
+by embedding yttrium (Y) and platinum (Pt) species into the zeolite 
+framework and surface by solid-state ion exchange and impregnation 
+using H-Beta zeolite as the support. The catalyst achieved 33 % ethanol 
+conversion and 68 % n-butanol selectivity under reaction conditions at 
+200 ◦C. The active sites and reaction mechanism for the conversion of 
+ethanol to n-butanol on Pt-Y/Beta catalysts are discussed in Section 4.1.
+4.3. Non-noble metal catalysts
+Traditional noble metal catalysts exhibit excellent activity in the 
+ethanol dehydrogenative coupling to n-butanol, but their high cost and 
+resource scarcity limit industrial applications. In contrast, non-noble 
+metal catalysts have attracted attention due to their low cost, abun­
+dant resources, and structural tunability.
+Zhou et al. [94] precisely engineered Cu@UiO-66 catalysts, suc­
+cessfully revealing the critical role of spatial proximity between active 
+sites in the tandem catalytic upgrading of ethanol to n-butanol. The 
+study identified that Cu nanoparticles confined within the pores of UiO- 
+66 and the Lewis acid-oxygen vacancy pairs (Zr3–□) on Zr nodes serve 
+as the genuine active centers. The close contact between them efficiently 
+synergizes to catalyze three key steps: ethanol dehydrogenation, acet­
+aldehyde condensation, and crotonaldehyde hydro
+
+
+========== RESULTS ==========
+
+ also supports the mechanism pro­
+posed by Colley et al.
+The study by Zhang et al. [30] revealed a well-defined site-specific 
+mechanism on the reduced Cu–Cr catalyst surface, which consists of Cu0, 
+Cr2O3, and CuCr2O4: the ethanol dehydrogenation step occurs on 
+metallic sites (Cu0), while the CuCr2O4 phase acts as a structural pro­
+moter to stabilize these metallic sites. Through programmed tempera­
+ture desorption (EA-TPD) experiments, they demonstrated that the ethyl 
+acetate product hardly adsorbs on pure Cu0 sites or the Brønsted acid 
+sites of the catalyst, but instead adsorbs on the Lewis acid sites provided 
+by the Cr2O3 phase. These Lewis acid sites promote the desorption of 
+ethyl acetate, thereby shifting the reaction equilibrium forward and 
+effectively suppressing side reactions such as the condensation of acet­
+aldehyde intermediates to form butanone. Wang et al. [31] found that in 
+Cu/ZrO2 catalysts (Cu/Zr = 1:1) prepared by co-precipitation, the syn­
+ergistic effect between Cu+ and Cu0 species significantly enhanced the 
+catalytic performance for ethanol dehydrogenation to ethyl acetate. The 
+presence of Cu+ provides additional Lewis acid sites for acetaldehyde 
+activation, while its interaction with Cu⁰ collectively promotes the 
+efficient conversion of ethanol. Preedavijitkul et al. [32] further inves­
+tigated the effects of different Cu/Cr molar ratios on the ethanol dehy­
+drogenation reaction. They found that at a molar ratio of 0.98 and under 
+Table 3 
+Catalysts for dehydrogenation of ethanol to ethyl acetate.a
+Catalyst
+Reaction 
+conditions
+Conv.
+Sel.
+Feature
+Ref.
+50 Cu-Cr 
+(50 wt% CuO)
+N2, WHSV 
+= 3h−1, 300 
+◦C, 1 bar, 
+reduce 2 h
+92.8 
+%
+5 %
+Cu0 is responsible 
+for ethanol 
+dehydrogenation, 
+Cu+ and CuCr2O4 
+provide Lewis acid 
+sites
+[32]
+CuCeZr 
+(10 wt% Cu, 
+10 wt% Ce)
+N2, WHSV 
+= 1h−1, 220 
+◦C, 
+1 MPa
+55.9 
+%
+87.5 
+%
+Ce doping enhances 
+Cu+ species and 
+suppresses strong 
+acid-base sites, 
+maintaining 
+stability over 1000 
+h of continuous 
+
+
+st showed 
+almost no carbon deposition, while the surface of the non-Mn-added 
+catalyst showed obvious carbon deposition.
+Furthermore, Li et al. [80] investigated the effect of regulating the 
+ZrO2 crystal phase in CuCeZrO catalysts on their performance in the 
+dehydrogenative condensation of ethanol to ethyl acetate. It was found 
+that controlling the calcination temperature (500–800 ◦C) induced a 
+phase transformation of ZrO2: As shown in Fig. 11, at temperatures ＞ 
+600 ◦C, the tetragonal phase (t-ZrO2) gradually transformed into the 
+monoclinic phase (m-ZrO2), with the proportion of m-ZrO2 increasing 
+from 0 % at 500 ◦C to 95 % at 800◦C. As the m-ZrO2 content increased, 
+the density of strong basic sites in the catalyst decreased progressively, 
+significantly suppressing the condensation of acetaldehyde. Conse­
+quently, the selectivity for ethyl acetate improved from 68 % (CCZ-500) 
+to 78 % (CCZ-700).
+Fig. 9. FTIR spectra of CO adsorption in the LF region of 1800–1200 cm−1 on reduced Cu/ZrO2 samples: 5Cu/ZrO2 (A), 10Cu/ZrO2 (B), 20Cu/ZrO2 (C) and 30Cu/ 
+ZrO2 (D). Source: Adapted from ref [76] with permission. Copyright 2014, published Elsevier.
+Q. Meng et al. 
+Journal of Catalysis 453 (2026) 116571 
+11 
+3.2. Pd-based catalysts
+Studies have shown that supported Pd catalysts achieve high activity 
+and selectivity through unique electronic structure modulation and in­
+termediate stabilization mechanisms [81–84].
+On monometallic Pd catalysts, Pd0 not only acts as the active site for 
+ethanol dehydrogenation but also facilitates the further decomposition 
+of acetaldehyde into C1 products (such as CH4 and CO), thereby 
+reducing the selectivity for the target product. Therefore, inhibiting 
+ethanol decomposition is crucial for the selective conversion of ethanol 
+to ethyl acetate. Iwasa et al. [81] demonstrated that palladium-based 
+catalysts, by forming alloys with metals such as zinc, gallium, and in­
+dium (Pd–Zn, Pd–Ga, and Pd–In), can inhibit the ethanol decompositi
+
+1 
+12 
+the PdZn alloy component increases selectivity by diluting Pd0 sites, 
+suppressing undesired C–C bond cleavage. This system exhibited 
+excellent stability over 5 h at 250 ◦C and 1 MPa.
+3.3. Other types of catalysts
+Despite the excellent catalytic activity and stability of CuCr-based 
+catalysts, the toxicity of Cr and the low stability of Cu particles limit 
+their practical applications. Moreover, Cu-based catalysts frequently 
+undergo side reactions, such as C–C bond cleavage and condensation 
+that lead to product complexity and catalyst deactivation.
+For this purpose, Yin et al. [85] chemically tailored Nickel-based 
+catalyst (Ni-based) catalysts by introducing In, and successfully devel­
+oped the Ni0.1Zn0.7Al0.3InOx catalyst for the dehydrogenative coupling 
+of ethanol into ethyl acetate. Under conditions of 275 ◦C and a weight 
+hourly space velocity (WHSV) of 1.9 h−1, the catalyst achieved 46.2 % 
+ethanol conversion and 90.1 % ethyl acetate selectivity, while main­
+taining stable performance during a 370-hour time on stream. It was 
+shown that the introduction of In led to the formation of Ni4In alloy 
+active sites, which effectively inhibited the C–C bond cleavage and 
+condensation side reactions during ethanol conversion by modulating 
+the electronic properties of Ni. DFT calculations further confirmed that 
+the energy barrier for acetaldehyde dehydrogenation to acetyl species 
+on the Ni4In(110) crystal surface was 0.41 eV, significantly lower than 
+that of the 1.89 eV on the pure Ni(111) surface, elucidating the efficient 
+selective regulation mechanism of alloy sites in dehydrogenation 
+reactions.
+In addition, Mück et al. [86] prepared transition metal (Co, Ni, Cu, 
+Mn, Cr) promoted Mg-Fe mixed oxide catalysts by the coprecipitation 
+method for the gas-phase conversion of ethanol to ethyl acetate and 
+other products. The introduction of Cu and Ni significantly enhanced the 
+dehydrogenation activity and promoted ethanol conversion to ethyl 
+acetate via 
+
+rate- 
+determining step of the overall reaction. In addition, weak Lewis acid 
+Table 4 
+Catalysts for dehydrogenative coupling of ethanol to n-butanol.a
+Catalyst
+Reaction 
+conditions
+Conv.
+Sel.
+Feature
+Ref.
+Cu −CeO2 
+Pd 
+−CeO2
+N2, 250 ◦C, 2 
+MPa, LHSV =
+4 mL/(h⋅gcat), 
+N2/ethanol =
+500:1,
+Cu: 
+46.2 
+%, 
+Pd: 
+11.9 
+%
+Cu: 
+41.2 
+%, 
+Pd: 
+67.6 
+%
+Metal-support 
+synergism, Cu 
+promotes ethanol 
+dehydrogenation, Pd 
+enhances catalytic 
+activity and selectivity
+[91]
+Pt-Y/Beta
+N2, WHS =
+2.0 h−1, 200 
+◦C, 0.1 MPa
+34 %
+68 %
+Pt is responsible for 
+dehydrogenation and 
+hydrogenation, Y 
+promotes 
+acetaldehyde 
+condensation.
+[34]
+Ni/La2O3/ 
+γ-Al2O3
+N2, WHSV =
+0.79, 250 ◦C, 
+100 bar
+41 %
+51 %
+Bimetallic Ni-Co 
+synergistically 
+enhances conversion, 
+with ethanol 
+dehydrogenation as 
+the rate-determining 
+step.
+[97]
+Pd@UiO- 
+66
+N2, 250 ◦C, 2 
+MPa, 
+LHSV = 4 mL/ 
+(h⋅g⋅cat), N2/ 
+ethanol =
+250:1
+49.8 
+%
+48.6 
+%
+Pd nanoparticles and 
+UiO-66 coordinated Zr 
+sites synergistically 
+catalyze, enhancing 
+dehydrogenation and 
+condensation abilities.
+[89]
+Cu@UiO- 
+66
+N2, 280 ◦C, 2 
+MPa, LHSV =
+4 mL/ 
+(h⋅g⋅cat))
+26.8 
+%
+60.3 
+%
+Zr nodes contain Lewis 
+acid-oxygen vacancy 
+pairs (Zr3–□)
+[94]
+Ni-MgAlO
+N2, 250 ◦C, 3 
+MPa, WHSV =
+3.2 h−1
+18.7 
+%
+55.2 
+%
+Ni promotes ethanol 
+dehydrogenation, and 
+acid-base sites 
+facilitate acetaldehyde 
+condensation.
+[96]
+Ag/MgAl- 
+LDO
+N2, 350 ◦C, 
+0.1 MPa, 
+LHSV = 6 mL/ 
+(h⋅g⋅cat)
+23.2 
+%
+76.6 
+%
+Ag-layered oxide 
+provides 
+dehydrogenation sites, 
+and acid-base 
+synergism promotes 
+condensation 
+reactions.
+[90]
+Cu–CeO2/ 
+AC
+batch reactor, 
+250 ◦C, 0.1 
+MPa N2, 
+reaction for 
+48 h
+39.1 
+%
+55.2 
+%
+Synergistic effect of 
+Cu, CeO2, and AC
+[95]
+a Reactions were performed in a fixed bed reactor if not specified; Conv. and 
+Sel. are abbreviations for ethanol conversion and n-butanol selectivity, 
+respectively.
+Q. Meng et al. 
+Journal of Catalysis 453 (2026) 116571 
+13 
+sites (e.g., Ca2+ and P–OH) facilitate C–C bond formation by stabilizing 
+adsorbed acetaldehyde mole

@@ -1,0 +1,353 @@
+========== ABSTRACT ==========
+
+r-
+mediates. These results suggest that Al–O–Mg species may
+be particularly effective and abundant sites for dehydro-
+genation reactions on Mg-rich samples. In contrast, pure
+MgO contains a high density of isolated O2−ions, which
+are strongly basic, but which lack sufﬁciently strong conju-
+gated Lewis acid pairs to stabilize the alkoxy intermediates.
+As a result, pure MgO shows lower dehydrogenation rates
+than Mg-rich MgyAlOx catalysts.
+The compositional trends observed for H2–D2 equilibra-
+tion rates (Fig. 3) and alcohol dehydrogenation (Figs. 10a
+and 11a) on MgO and Mg-rich samples are similar, sug-
+gesting that both reactions involve rate-determining steps
+requiring similar surface sites. In contrast, on Al-rich sam-
+ples the aldehyde formation rate increases with increasing
+Al content, while H2–D2 equilibration rates remain rela-
+tively independent of composition. These results suggest
+that H2(D2) dissociation and O–H or C–H bond activation
+beneﬁt from the presence of Al–O–Mg sites on Mg-rich
+MgyAlOx samples, but that on more electronegative
+Al-rich catalysts only the C–H bond activation can be
+efﬁciently performed. Its is probable that Al3+–O2−pairs
+contribute to aldehyde formation on Al-rich MgyAlOx
+samples. For instance, it has been reported that on Al2O3
+activated at low temperatures, alcohol dehydrogenation
+is largely determined by the density of structural defects,
+speciﬁcally Al vacancies (53). Al-rich MgyAlOx samples
+contain a high density of Al–O pairs with unsaturated
+surface aluminum cations, which can form aldehydes via
+the abstraction of the α-hydrogen as a hydride, as reported
+for ZnO and Cr2O3 (54).
+The dependence of dehydrogenation and condensation
+ratesoncatalystcomposition(Figs.10aand11a)arequalita-
+tively similar, suggesting that both reactions require com-
+mon intermediates and similar acid–base surface proper-
+ties. Condensation reactions also proceed via a combined
+mechanism in which the role of Al–O pairs is to increase
+the rate of formati
+
+
+========== EXPERIMENTAL ==========
+
+EXPERIMENTAL
+1. Catalyst Preparation
+Mg–Al hydroxycarbonate precursors with Mg/Al atomic
+ratios (y) of 0.5, 1, 5, and 9 were prepared by co-
+precipitation. An acidic solution of the metal nitrates with a
+total [Al + Mg] cation concentration of 1.5 M was contacted
+with an aqueous solution of KOH and K2CO3 at a constant
+pH of 10. The two solutions were simultaneously added
+dropwise to 300 ml distilled water kept at 333 K in a stirred
+batch reactor. The resulting precipitates were aged for 2 h
+at 333 K in their mother liquor and then ﬁltered, washed
+thoroughly with 300–500 ml deionized water at 373 K, and
+dried at 348 K overnight. The residual potassium content
+in all dried samples was below 0.1 wt%. Hydrotalcite pre-
+cursors were decomposed in N2 at 673 K for 4 h in order to
+obtain the corresponding Mg–Al mixed oxides (MgyAlOx).
+Pure MgO and Al2O3 were prepared following the same
+procedure.
+2. Catalyst Characterization
+The crystalline phases in the precipitated hydrotalcites
+before and after decomposition were determined by X-ray
+diffraction (XRD) using a Shimadzu XD-Dl diffractome-
+ter and Ni-ﬁltered Cu Kα radiation. BET surface areas (Sg)
+were measured by N2 physisorption at its boiling point us-
+ing a Quantachrome Nova-1000 sorptometer. Elemental
+compositions were measured by atomic absorption spec-
+troscopy (AAS).
+CO2 adsorption site densities and binding energies
+were obtained from temperature-programmed desorption
+(TPD) of CO2 preadsorbed at room temperature. Samples
+(50 mg) were treated in He (∼100 cm3/min) at 723 K for
+0.3 h and exposed to 0.1% CO2/0.1% Ar/He (Cambridge
+Isotope Laboratories Inc.) for 0.15 h at room temperature
+(RT). Weakly adsorbed CO2 was removed by ﬂowing He
+at RT, and the temperature was then increased to 723 K
+at 30 K/min. CO2 concentrations in the efﬂuent were mea-
+sured by mass spectrometry (MS).
+Basic site densities were also measured by 13CO2/12CO2
+isotopic switch methods that give the number of sites avail-
+able for reversible adsorpt
+
+y ﬂowing He
+at RT, and the temperature was then increased to 723 K
+at 30 K/min. CO2 concentrations in the efﬂuent were mea-
+sured by mass spectrometry (MS).
+Basic site densities were also measured by 13CO2/12CO2
+isotopic switch methods that give the number of sites avail-
+able for reversible adsorption–desorption of CO2 at typi-
+cal reaction temperatures, as described in detail elsewhere
+(8, 20). Samples were exposed to a 0.1% 13CO2/0.1% Ar/He
+(Cambridge Isotope Laboratories, Inc.) stream at 573 K
+until 13CO2 reached a constant concentration in the efﬂu-
+ent (0.5 h). Then, the ﬂow was switched to 0.1% 12CO2/He
+(Cambridge Isotope Laboratories, Inc.). The resulting de-
+crease in the surface concentration of 13CO2, as it was
+replaced by 12CO2, was followed by mass spectrometric
+CONDENSATION REACTIONS OF ALCOHOLS ON MgyAlOx
+263
+analysis of 13CO2 and Ar concentrations in the efﬂuent
+stream as a function of the time elapsed after the isotopic
+switch. Ar was used as an internal standard in order to cor-
+rect for gas holdup and hydrodynamic delays within the
+apparatus.
+Acid site densities were measured by TPD of NH3 pre-
+adsorbed at room temperature. Samples (150 mg) were
+treated in He (∼100 cm3/min) at 723 K for 0.5 h and exposed
+to a 0.93% NH3/He stream until saturation coverages were
+reached. Weakly adsorbed NH3 was removed by ﬂowing He
+at RT for 0.5 h. Temperature was then increased to 773 K
+at 10 K/min, and the NH3 concentration in the efﬂuent was
+measured by mass spectrometry.
+3. Catalytic Reactions
+3.1. H2–D2
+steady-state
+equilibration
+reaction
+on
+MgyAlOx.
+H2–D2 equilibration reactions were carried
+out in a differential packed bed reactor. Decomposed
+hydrotalcite samples (150 mg) were treated in ﬂowing He
+(∼100 cm3/min) at 723 K for 0.5 h. Then, an H2/D2/Ar
+(5%/5%/90%) mixture was introduced at 105 cm3/min
+while the sample was at room temperature, and the temp-
+erature was increased at 10 K/min to 773 K. H2, D2, and
+HD concentrations in the efﬂuent were measured con-
+
+
+========== RESULTS ==========
+
+eserved during decomposition
+and leads to the formation of well-mixed MgyAlOx binary
+oxides. Their surface areas increase with increasing Al con-
+tent, apparently because the carbonate content and thus
+the amount of CO2 formed during decomposition are pro-
+portional to the Al content (23).
+Basic site densities measured by 13CO2/12CO2 isotopic ex-
+change at 573 K on MgO, Al2O3, and MgyAlOx samples are
+shown in Table 2. These measurements reﬂect the number
+of adsorption sites that can bind CO2 reversibly at typical
+temperatures of catalytic reactions. This method does not
+count basic sites that are strong enough to bind CO2 irre-
+versibly at this temperatures or sites that bind molecules too
+weakly and desorb CO2 with characteristic times shorter
+than those detected in these measurements (∼2 s). The
+surface density (per m2) and the total number (per g) of
+sites capable of reversible CO2 chemisorption are higher
+on pure MgO than on MgyAlOx samples and very low on
+pure Al2O3 (Table 2). Small amounts of Al decrease the
+TABLE 2
+Catalyst Characterization: Acid–Base Properties
+Temperature-programmed desorption of CO2 and NH3
+Areas under CO2 TPD peaksb
+Areas under NH3 TPD
+Exchangeable
+(µmol/m2)
+Total evolved
+peaks (µmol/m2)
+Total evolved
+CO2 at 573 Ka
+CO2
+NH3
+Catalyst
+(µmol/m2)
+αc
+βc
+γ c
+(µmol/m2)
+Bd
+Ld
+(µmol/m2)
+MgO
+0.38
+0.06(3.5)
+0.32(19.8)
+1.25(76.7)
+1.63
+0.18
+0.30
+0.48
+Mg9AlOx
+0.17
+0.23(20.0)
+0.44(37.3)
+0.50(42.7)
+1.17
+0.49
+0.32
+0.81
+Mg5AlOx
+0.18
+0.08(16.7)
+0.17(37.6)
+0.21(45.7)
+0.46
+0.21
+0.64
+0.84
+Mg1AlOx
+0.33
+0.18(21.9)
+0.37(44.5)
+0.28(33.6)
+0.83
+0.53
+1.04
+1.57
+Mg0.5AlOx
+0.17
+0.17(23.2)
+0.32(44.2)
+0.24(32.6)
+0.73
+0.42
+0.97
+1.39
+Al2O3
+0.04
+0.16(48.6)
+0.18(51.4)
+0.00(0.0)
+0.34
+0.50
+0.84
+1.34
+a Measured by the 13CO2/12CO2 isotopic switch method.
+b Parenthesis are the percentage of contribution of each peak.
+c α, low-temperature peak; β, middle-temperature peak; γ , high-temperature peak.
+d B, Brønsted peak; L, Lewis peak.
+density of kinetically accessible active sites in 
+
+
+0.50
+0.84
+1.34
+a Measured by the 13CO2/12CO2 isotopic switch method.
+b Parenthesis are the percentage of contribution of each peak.
+c α, low-temperature peak; β, middle-temperature peak; γ , high-temperature peak.
+d B, Brønsted peak; L, Lewis peak.
+density of kinetically accessible active sites in MgO; MgO
+adsorbs 0.38 µmol CO2/m2, but sample Mg9AlOx with only
+6.2% wt Al adsorbs 0.17 µmol CO2/m2. X-ray photoelec-
+tron spectroscopy showed signiﬁcant Al surface enrichment
+in MgyAlOx samples with low Al/(Al + Mg) ratios (<0.20)
+(20). The presence of more electronegative amorphous
+AlOx domains or isolated species on MgO blocks CO2 ad-
+sorption sites, and it is likely to account for the strong effect
+of Al on the density of surface sites. At higher Al/(Al + Mg)
+ratios (0.2–0.5), the nucleation of a separate stable Al-rich
+phase provides a thermodynamic sink for Al3+ cations, and
+the density of basic sites increases as Al migrates from MgO
+surfaces to the Al-rich phase to reach a second maximum
+for the Mg1AlOx sample.
+In this composition range, the Al3+ cations located in the
+MgO framework create a defect in order to compensate the
+positive charge generated, and the adjacent oxygen anions
+become coordinatively unsaturated; as a result, the solid
+solution displays higher basicity. In Al-rich samples (sam-
+ple Mg0.5AlOx), the nucleation of a separate bulk MgAl2O4
+spinel lacking basic surface oxygens causes the basic site
+density to decrease again at higher Al contents. We have
+also observed this decrease in basic site density at high Al
+contents by XPS, and chemisorption and TPD of CO2 (20),
+as also reported by others (24, 25) for a more narrow com-
+positional range.
+The distribution of binding sites with basic properties
+was determined by temperature-programmed desorption
+(TPD) of CO2 preadsorbed at RT on MgO, MgyAlOx, and
+Al2O3. The TPD proﬁle for Mg1AlOx (Fig. 1) shows that
+CO2 desorbs in three overlapping peaks, as also observed
+on all other samples except Al2O3. These
+
+ution of binding sites with basic properties
+was determined by temperature-programmed desorption
+(TPD) of CO2 preadsorbed at RT on MgO, MgyAlOx, and
+Al2O3. The TPD proﬁle for Mg1AlOx (Fig. 1) shows that
+CO2 desorbs in three overlapping peaks, as also observed
+on all other samples except Al2O3. These features are re-
+ferred to as α- (low-temperature), β- (intermediate temper-
+ature), and γ - (high-temperature) peaks in the discussion
+that follows. The relative contributions from these three
+CONDENSATION REACTIONS OF ALCOHOLS ON MgyAlOx
+265
+FIG. 1.
+TPD proﬁles of CO2 and NH3 on Mg1AlOx. Deconvolution
+of CO2 TPD trace: α, low-temperature peak; β, middle-temperature
+peak; γ , high-temperature peak. Deconvolution of NH3 TPD trace: B,
+Brønsted peak; L, Lewis peak. Heating rates: 30 K/min (CO2 TPD),
+10 K/min (NH3 TPD).
+types of adsorbed CO2 were obtained by deconvolution of
+the experimental TPD proﬁles and integration of the three
+desorption features. Although CO2 desorption follows a
+ﬁrst-order kinetics, we have used for simplicity Gaussian
+functions for the deconvolution of the TPD traces. The ad-
+sorbed CO2 surface densities are shown in Table 2 for all
+samples.
+The complex TPD proﬁles suggest that MgO and
+MgyAlOx surfaces are nonuniform and contain several
+types of adsorbed CO2. Infrared spectra of CO2 adsorbed
+on MgO and MgyAlOx (20) detected three distinct ad-
+sorbed structures, located on surface sites with different
+structuresandbasicstrengths.Bicarbonatesformonweakly
+basic OH groups, bidentate carbonates adsorb on Mg–O
+site pairs with accessible cations, and unidentate carbon-
+ates on strongly basic surface O2−anions. These combined
+IR and TPD data led us to assign the desorption peaks to
+CO2 species adsorbed on OH groups (α-peak), Mg-O pairs
+(β-peak), and O2−anions (γ -peak). With this assignment,
+the data on Table 2 show that pure MgO contains the
+highest absolute (1.25 µmol CO2/m2) and relative (76.7%)
+amounts of strongly basic O2−sites. The relative concen-
+tr
+
+re, N2/ethanol = 10, X0
+C2H5OH ∼= 5%).
+5. Sample Composition, Surface Base Property,
+and Catalytic Performance
+C2H5OH and CH3OH/C3H7OH mixtures undergo dehy-
+drogenation, dehydration, and condensation reactions on
+MgyAlOx samples. C2H5OH and CH3OH/C3H7OH conver-
+sion rates were measured for MgO, Al2O3, and MgyAlOx
+samples at 573 K. Figures 10 and 11 show the product
+distribution for dehydrogenation and coupling reactions
+(Figs. 10a and 11a) and for dehydration reactions (Figs. 10b
+and 11b). A comparison of the data in Figs. 10 and 11 sug-
+gests a similar effect of chemical composition on the prod-
+uct distribution from C2H5OH and CH3OH/C3H7OH re-
+actants. While MgO and Mg-rich MgyAlOx mixed oxides
+behave as solid basic catalysts and convert short-chain lin-
+ear alcohols predominantly into aldehydes or higher alco-
+hols,Al-richMgyAlOxsamplesandAl2O3mainlydehydrate
+alcohols to ethers and to a lesser extent to oleﬁns.
+Pure MgO is active for dehydrogenation and coupling re-
+actions but shows negligible dehydration activity. The intro-
+duction of small amounts of Al3+ ions into the MgO matrix
+FIG. 11.
+Product distribution for methanol/1-propanol conversion reactions on MgO, Al2O3, and MgyAlOx samples. Initial formation rates as
+a function of the sample composition: (a) products of dehydrogenation and condensation reactions, (b) products of dehydration reactions. (573 K,
+101.3 kPa total pressure, W = 0.038 g, 2.7 kPa methanol, 1.4 kPa 1-propanol, balance He.)
+increases both dehydrogenation and condensation rates,
+but dehydrogenation (to form C2H4O or C3H6O) becomes
+the predominant reaction on Mg-rich samples (Figs. 10a
+and 11a). The required dehydrogenation steps occur much
+faster than chain growth reactions, which form higher al-
+cohols and other oxygenates. For C2H5OH reactions, n-
+C4H9OH is the main coupling product and it forms at the
+highest rate on Mg9AlOx and Mg1AlOx (Fig. 10a). Similarly,
+iso-C4H9OH is the predominant condensation product of
+CH3OH/C3H7OH cross-cou

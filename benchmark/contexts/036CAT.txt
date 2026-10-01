@@ -1,0 +1,284 @@
+========== ABSTRACT ==========
+
+ABSTRACT: The kinetics of aldol condensation of acetaldehyde
+were studied over anatase titania (TiO2), hydroxyapatite (HAP), and
+magnesia (MgO). Reactions were carried out in a ﬁxed-bed reactor
+with a total system pressure of 220 kPa at temperatures between 533
+and 633 K and acetaldehyde partial pressures between 0.05 and 50
+kPa. Crotonaldehyde was the only product observed over all three
+catalysts, and severe catalyst deactivation occurred at acetaldehyde
+partial pressures of 5 kPa or greater. The aldol condensation reaction
+over all three catalysts was ﬁrst order at low acetaldehyde partial
+pressure and approached zero order at high acetaldehyde partial
+pressure. No kinetic isotope eﬀect (KIE) was observed with fully deuterated acetaldehyde reacting over TiO2 or HAP, implying
+that C−H bond activation is not kinetically relevant. These measurements are consistent with a mechanism in which adsorption
+and desorption steps are kinetically signiﬁcant during the reaction. Characterization of the catalysts by adsorption
+microcalorimetry of acetaldehyde and ethanol and diﬀuse reﬂectance Fourier transform infrared spectroscopy of adsorbed
+acetaldehyde, crotonaldehyde, and acetic acid revealed a very high reactivity of these catalysts, even at low temperatures.
+KEYWORDS: aldol condensation, Guerbet coupling, DRIFTS, microcalorimetry, kinetic isotope eﬀect
+1.
+
+
+========== EXPERIMENTAL ==========
+
+experimental results involves the irreversible
+adsorption of acetaldehyde and kinetically relevant desorption
+of either crotonaldehyde or water, as shown in Scheme 1.
+In an attempt to further explore the kinetic mechanism, the
+inﬂuence of acetaldehyde on the condensation rate was
+evaluated at higher partial pressures. Unfortunately, all three
+catalysts deactivate rapidly at high acetaldehyde partial
+pressures and steady-state rates cannot be measured. Indeed,
+Rekoske and Barteau discovered severe deactivation of titania
+during the ﬁrst 10 min of aldol condensation of acetaldehyde
+Figure 1. Rates collected over 6 h at 5 kPa acetaldehyde partial
+pressure. TiO2 and HAP were run at 553 K, and MgO was run at 673
+K. Results were ﬁtted to a three-parameter empirical hyperbolic
+function.
+Figure 2. Rate of aldol condensation of acetaldehdye at low partial
+pressure over (a) HAP and (b) TiO2.
+Table 1. Kinetic Isotope Eﬀect for Aldol Condensation of
+Acetaldehyde over HAP and TiO2 at 553 K
+catalyst
+acetaldehyde partial
+pressure (kPa)
+kH (mol kPa−1
+m−2 s−1)
+kD (mol kPa−1
+m−2 s−1)
+kH/kD
+HAP
+0.097
+2.5 × 10−8
+2.2 × 10−8
+1.1
+TiO2
+0.26
+8.6 × 10−9
+8.8 × 10−9
+0.98
+ACS Catalysis
+Research Article
+DOI: 10.1021/acscatal.6b00264
+ACS Catal. 2016, 6, 3193−3202
+3195
+under conditions similar to the high-pressure acetaldehyde
+experiments reported here.27 In an attempt to minimize the
+inﬂuence of deactivation on the reaction kinetics, initial rates
+were estimated by extrapolating the rate curves over 6 h of
+reaction to zero time on stream. The three-parameter
+hyperbolic function shown in eq 1 was used to determine
+initial rates.
+=
++
++
+r
+c
+c t
+c
+1
+1
+2
+3
+(1)
+The functional form was found to ﬁt the deactivation curves
+well, as shown in Figure 1. An empirical function such as this is
+commonly used to model a deactivating catalyst.35
+The aldol condensation reaction over the three catalysts was
+performed at multiple acetaldehyde partial pressures, and the
+results are shown in Figure 3. Titania was the m
+
+y-state rates measured at low pressure to within a
+factor of 2 over TiO2 and within 30% over HAP. The model
+agreement involving rates measured at steady state (low
+pressure) and initial rates measured on a deactivating system
+(higher pressure) suggests that the initial rates are a reasonable
+approximation of the steady-state rates at higher acetaldehyde
+partial pressures, although the uncertainty in k2 could be quite
+high, as it is determined solely by the high-pressure initial rates.
+The calculated groupings of rate parameters are shown in
+Table 2. It was not possible to statistically evaluate individual
+rate constants on the basis of the current data set because the
+value of [*]0 was highly correlated to k1. Therefore, we needed
+to seek an independent estimate of [*]0, which will be
+discussed later. The acetaldehyde adsorption rate constant k1
+appears to be relatively similar among the three catalysts,
+assuming the active site densities ([*]0) among the catalysts are
+not too diﬀerent. The order of magnitude diﬀerence in k1/2k2
+suggests that the main diﬀerence among the catalysts is the rate
+at which product desorbs from the catalyst surface. Indeed, the
+ﬁtted values indicate the lowest value of k2, the product
+desorption rate constant, is associated with MgO, which is a
+strong base catalyst, and the greatest value of k2 is associated
+with TiO2. Because the product desorption rate constant has
+signiﬁcant uncertainty, as it was estimated from rapidly
+deactivating catalysts, additional information about the
+interactions of aldehydes with the catalysts is needed to
+validate the reactivity trends. Hence, we used adsorption
+microcalorimetry and DRIFTS of adsorbed aldehydes to
+complement the results derived from reaction kinetics, as will
+be discussed later.
+At ﬁrst glance, our results may seem inconsistent with those
+of Ho et al., who propose enolate formation from acetaldehyde
+as the rate-determining step during Guerbet coupling of
+ethanol over HAP.13 Under the conditi
+
+
+========== RESULTS ==========
+
+that Guerbet coupling proceeds through a
+direct condensation mechanism.15 In an attempt to elucidate
+the role of aldol condensation in the Guerbet coupling reaction,
+the aldol condensation of acetaldehyde was studied over a
+series of catalysts.
+Aldol condensation is a well-studied reaction that forms a
+carbon−carbon bond between two aldehyde or ketone
+molecules. Aldol condensation is a critical step in the
+production of 2-ethyhexanal, isophorone, and crotonaldehyde.
+Received:
+January 26, 2016
+Revised:
+April 6, 2016
+Research Article
+pubs.acs.org/acscatalysis
+© XXXX American Chemical Society
+3193
+DOI: 10.1021/acscatal.6b00264
+ACS Catal. 2016, 6, 3193−3202
+This reaction can be catalyzed by a wide variety of solid acid or
+base catalysts such as zeolites,16 hydrotalcites and hydrotalcite-
+derived materials,1,17−21 metal oxides and supported metal
+oxides,22−29 and hydroxyapatite.30
+In the current study, rate measurements were carried out
+over multiple catalysts to explore the kinetic mechanism of
+aldol condensation and provide insight into the Guerbet
+coupling of ethanol. The condensation reaction was studied
+over three catalysts: anatase TiO2, HAP, and MgO. Both HAP
+and MgO are common Guerbet coupling catalysts, whereas
+TiO2 is a commonly studied catalyst for aldol condensation.
+Diﬀuse reﬂectance infrared Fourier transform spectroscopy
+(DRIFTS) and adsorption microcalorimetry of various probe
+molecules were used to probe the aﬃnity of catalyst surfaces for
+species relevant to the condensation reaction.
+2. MATERIALS AND METHODS
+2.1. Catalyst Synthesis. A near-stoichiometric hydrox-
+yapatite was synthesized using the coprecipitation method
+described by Tsuchida et al.7 Brieﬂy, 200 cm3 of 0.5 M calcium
+nitrate tetrahydrate (Ca(NO3)2·4H2O, Acros Organics) and
+200 cm3 of 0.3 M diammonium phosphate ((NH4)2HPO4,
+Aldrich, >99.99%) adjusted to pH 10 using ammonium
+hydroxide were added dropwise to 100 cm3 of distilled and
+deionized water at 353 K. The slurry was left for 24 h at 3
+
+00 cm3 of 0.5 M calcium
+nitrate tetrahydrate (Ca(NO3)2·4H2O, Acros Organics) and
+200 cm3 of 0.3 M diammonium phosphate ((NH4)2HPO4,
+Aldrich, >99.99%) adjusted to pH 10 using ammonium
+hydroxide were added dropwise to 100 cm3 of distilled and
+deionized water at 353 K. The slurry was left for 24 h at 353 K
+with stirring. The resulting powder was ﬁltered, washed with
+distilled and deionized water three times, and dried overnight in
+air at 373 K.
+Commercially available magnesia (Ube Material Industries,
+Ltd., Lot No. 109071725) and anatase titania (Aldrich, 99.8%)
+were purchased. All three catalysts were thermally treated at
+873 K under 100 cm3 min−1 ﬂowing air for 2 h prior to
+characterization and use in reaction. The powders were
+subsequently pelletized, crushed, and sieved to 106−180 μm.
+2.2. Catalyst Characterization. X-ray diﬀraction (XRD)
+was performed with a PANalytical X’Pert Pro diﬀractometer
+using Cu Kα radiation to verify crystal structure and phase
+purity.
+Elemental analysis of HAP was performed by Galbraith
+Laboratories (Knoxville, TN) using inductively coupled plasma
+optical emission spectroscopy (ICP-OES) for calcium and
+phosphorus content.
+The catalyst surface area was obtained from N2 adsorption at
+77 K on a Micromeritics ASAP 2020 automated analyzer using
+the BET method.
+2.3. Aldol Condensation of Acetaldehyde. Kinetic
+studies were carried out in a stainless steel, downward ﬂow,
+ﬁxed-bed reactor. Prior to reaction, HAP and MgO were heated
+in situ at 773 K for 1 h in 100 cm3 min−1 dry air (GTS-Welco),
+while TiO2 was heated for 2 h at 773 K in 100 cm3 min−1 dry
+air. A dinitrogen (GTS-Welco, 99.999%) stream containing
+acetaldehyde was passed over the catalyst for 10 min prior to
+product analysis with an online gas chromatograph equipped
+with a PoraPLOT Q-HT column and ﬂame ionization detector.
+The concentration of acetaldehyde was controlled by diluting
+the saturated dinitrogen stream with ﬂowing dinitrogen as well
+as cooling the saturator with either a wa
+
+ A sample
+was ﬁrst outgassed at 773 K for 16 h at 10−2 Pa. The treated
+sample was then cooled and placed in an isothermal block
+maintained at 303 K for 2 h to reach thermal equilibrium. The
+sample was exposed to doses of acetaldehyde or ethanol via a
+volumetric dosing system, and each dose was allowed to reach
+equilibrium with the sample over 15 min. The acetaldehyde
+(Aldrich, 99.5%) and ethanol (Aldrich, anhydrous, >99.5%)
+used in these experiments were further degassed by three
+freeze−pump−thaw cycles prior to adsorption experiments.
+2.5. Diﬀuse Reﬂectance Infrared Fourier Transform
+Spectroscopy (DRIFTS). Stepwise temperature-programmed
+desorption of acetaldehyde, crotonaldehyde, and acetic acid was
+measured using a Bio-Rad (FTS-60A) FTIR spectrometer
+equipped with a liquid N2 cooled MCT detector. A 5 wt %
+catalyst sample (TiO2, HAP, or MgO) diluted with KBr powder
+was pretreated at 773 K for 1 h under 30 cm3 min−1 ﬂowing
+He. Background scans were collected at multiple temperatures
+after waiting for 15 min to allow the catalyst bed to reach
+thermal equilibrium. After background scans were collected, a
+30 cm3 min−1 He stream passed through a saturator at either
+room temperature (for crotonaldehyde and acetic acid) or dry
+ice−acetone temperature (for acetaldehyde). The saturated He
+stream was passed over the catalyst for 15 min at 303 K. The
+catalyst was purged with pure He for 15 min at 303 K to
+remove the gas phase and weakly adsorbed probe molecules.
+The temperature was then increased in a stepwise manner while
+continuously ﬂowing He. Scans were collected at each
+temperature after the system was purged for 15 min at that
+temperature.
+3. RESULTS AND DISCUSSION
+3.1. Catalyst Characterization. The BET surface areas of
+TiO2, HAP, and MgO were found to be 9, 29, and 35 m2 g−1,
+respectively. The ICP-OES results for HAP showed a Ca/P
+ratio of 1.70, which is very close to the stoichiometric value of
+1.67. All catalysts were found to be phase pure and had XRD
+patterns tha
+
+itions at low acetaldehyde pressure. The order of
+reaction over HAP under these conditions is 0.9. Interestingly,
+changing the reaction temperature by 20 K had no measurable
+eﬀect on the rate of reaction over HAP, implying a very low
+activation energy. The reaction is also ﬁrst order over TiO2, but
+the temperature dependence of the rate indicated an apparent
+activation energy of 47 kJ mol−1, which is also low. An apparent
+activation energy for MgO was not measured because of
+deactivation even at low partial pressures of acetaldehyde.
+In an attempt to explore the mechanism of aldol
+condensation over TiO2 and HAP, fully deuterated acetalde-
+hyde was used to check for a kinetic isotope eﬀect (KIE). The
+kinetic isotope studies were carried out at low acetaldehyde
+partial pressures to avoid the eﬀects of deactivation. Table 1
+shows the KIE evaluated over both TiO2 and HAP. The
+apparent ﬁrst-order rate constants kH and kD were calculated by
+normalizing the rate of reaction by the acetaldehyde partial
+pressure. The ratio of kH to kD is very close to unity for the
+reactions on TiO2 and HAP. The lack of a kinetic isotope eﬀect
+shows that C−H activation is not kinetically relevant over
+either catalyst.
+Elementary steps for aldol condensation include acetalde-
+hyde adsorption, enolate formation, C−C coupling, dehydra-
+tion, and product desorption. The fact that C−H bond
+activation is not kinetically relevant implies that enolate
+formation is not the rate-determining step, because it is the
+result of α-H abstraction from the surface-bound aldehyde.
+Results from adsorption microcalorimetry and infrared spec-
+troscopy, discussed later, indicate that surface reactions of
+adsorbed aldehydes occur readily under very mild conditions. If
+a bimolecular surface reaction between surface enolate and
+acetaldehyde were rate limiting, the condensation reaction
+would be second order in acetaldehyde instead of the observed
+ﬁrst order. Construction of a Langmuir−Hinshelwood rate
+equation assumi

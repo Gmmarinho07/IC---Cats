@@ -1,0 +1,40 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu/Li-Al mixed metal oxides",
+                "raw_name": "Cu/Li-Al mixed metal oxides",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu_0.5",
+                "raw_name": "Cu_0.5",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu_5.0",
+                "raw_name": "Cu_5.0",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu_10.0",
+                "raw_name": "Cu_10.0",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Copper",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Li-Al mixed metal oxides",
+            "raw_name": "Li-Al mixed metal oxides",
+            "article_identifiers": []
+        }
+    }
+}

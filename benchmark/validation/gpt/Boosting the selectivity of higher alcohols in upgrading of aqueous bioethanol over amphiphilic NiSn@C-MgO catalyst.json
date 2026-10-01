@@ -1,0 +1,103 @@
+{
+    "paper": "Boosting the selectivity of higher alcohols in upgrading of aqueous bioethanol over amphiphilic NiSn@C-MgO catalyst",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "NiSn@C-MgO catalysts were prepared by a facile sol–gel method",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO-550",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the ethanol conversion displays a volcano shape, which first increase from 62.5 % to 73.3 % and then decrease to 60.6 %. Interestingly, NiSn@C-MgO-550 catalyst exhibited the highest ethanol conversion of 73.3 %",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO-400",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "NiSn@C-MgO-400, NiSn@C-MgO-500, NiSn@C-MgO-550, NiSn@C-MgO-600 and NiSn@C-MgO-700 are calculated by Scherrer equation",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO-500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "NiSn@C-MgO-500, NiSn@C-MgO-550, NiSn@C-MgO-600 and NiSn@C-MgO-700 are calculated by Scherrer equation",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO-600",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "NiSn@C-MgO-400, NiSn@C-MgO-500, NiSn@C-MgO-550, NiSn@C-MgO-600 and NiSn@C-MgO-700 are calculated by Scherrer equation",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO-700",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "NiSn@C-MgO-400, NiSn@C-MgO-500, NiSn@C-MgO-550, NiSn@C-MgO-600 and NiSn@C-MgO-700 are calculated by Scherrer equation",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn/MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the hydrophilic NiSn/MgO catalyst, the ethanol conversion and organic liquid products yield are only 50.8 %",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the ethanol conversion and liquid product selectivity for lipophilic NiSn@C catalyst are to some extent similar to that for hydrophilic NiSn/MgO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the peaks at 44.5◦, 51.8◦and 76.4◦are corresponded to Ni (111), (200) and (220) facets",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Sn",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the low loading of Sn and the amorphous state of carbon shell",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "MgO was used as the hydrophilic support",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 11
+        }
+    }
+}

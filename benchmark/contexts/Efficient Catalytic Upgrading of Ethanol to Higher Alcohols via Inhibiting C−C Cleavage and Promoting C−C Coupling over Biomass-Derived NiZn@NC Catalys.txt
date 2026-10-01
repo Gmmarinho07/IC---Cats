@@ -1,0 +1,31 @@
+========== ABSTRACT ==========
+
+ABSTRACT: The conversion of renewable bioethanol into high-
+energy-density higher alcohols has become essential for meeting
+the increasing global demand to achieve carbon neutrality. In this
+study, Zn- and nitrogen-codoped Ni-based lignin-derived carbon
+catalysts (NiZn@NC) were prepared by solvent volatile self-
+assembly and in situ reductive carbonization using pulp and paper
+waste stream alkali lignin as the carbon source. Lignin amphipathic
+derivatives with −COOH and −NH2 groups would coordinate
+with metal ions to form a stable lignin−metal framework; thus, the
+lignin-derived carbon layer disperses the NiZn bimetallic catalyst
+and prevents from corroding. At an amination reagent/lignin mass
+ratio of 1:2, an ethanol conversion of 75.2% and a high alcohol
+yield of 41.7% were achieved over the Ni20Zn1@NC catalyst.
+
+
+========== EXPERIMENTAL ==========
+
+Experimental
+
+
+========== RESULTS ==========
+
+results and density functional theory calculations showed that Zn doping improved the electronic environment and
+defect structures of metallic Ni and carbon carrier, which effectively inhibited C−C cleavage and suppressed the byproduct
+formation, such as methane. Thereby, the synergetic effect between Ni and Zn facilitated the efficient conversion of aqueous ethanol
+into higher alcohols by the Guerbet reaction. This work provides a strategy of in situ pyrolytic doping and stabilizing of renewable
+biomass macromolecules as the frameworks for the construction of highly active and cost-efficient catalysts for ethanol upgrading.
+KEYWORDS: ethanol coupling, higher alcohols, Guerbet reaction, NiZn bimetallic catalysts, lignin-derived carbon
+■

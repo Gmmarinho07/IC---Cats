@@ -1,0 +1,100 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Au/Al2O3",
+                "raw_name": "Au/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni/Al2O3",
+                "raw_name": "Ni/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "AuCu/Al2O3",
+                "raw_name": "AuCu/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "20%Ni/Al2O3",
+                "raw_name": "20%Ni/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd/MgAlOx",
+                "raw_name": "palladium-doped MgAlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca3(PO4)2",
+                "raw_name": "Ca3(PO4)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Zr–BEA",
+                "raw_name": "Zr–BEA",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.6%Pd/Zr–BEA",
+                "raw_name": "0.6%Pd/Zr–BEA",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "1%Pd/Zr–BEA",
+                "raw_name": "1%Pd/Zr–BEA",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pt",
+                "raw_name": "Pt",
+                "article_identifiers": []
+            },
+            {
+                "name": "Au",
+                "raw_name": "Au",
+                "article_identifiers": []
+            },
+            {
+                "name": "Rh",
+                "raw_name": "Rh",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ru",
+                "raw_name": "Ru",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ag",
+                "raw_name": "Ag",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pd",
+                "raw_name": "Pd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Al2O3",
+            "raw_name": "Al2O3",
+            "article_identifiers": []
+        }
+    }
+}

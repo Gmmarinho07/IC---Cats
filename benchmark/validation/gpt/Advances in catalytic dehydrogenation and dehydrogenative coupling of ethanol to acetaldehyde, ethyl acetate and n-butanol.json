@@ -1,0 +1,191 @@
+{
+    "paper": "Advances in catalytic dehydrogenation and dehydrogenative coupling of ethanol to acetaldehyde, ethyl acetate and n-butanol",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/MC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu catalyst supported on mesoporous carbon (Cu/MC)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/SBA-15",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "silica-based counterpart (Cu/SBA-15)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni–Cu",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ni–Cu improves conversion but reduces acetaldehyde selectivity",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd–CeO2/AC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Pd–CeO2/AC catalyst exhibited the highest n-butanol selectivity",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu–CeO2/AC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu–CeO2/AC catalyst achieved the highest ethanol conversion",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd@UiO-66",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Pd@UiO-66 catalyst exhibits excellent performance",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ag/MgAl-LDO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ag particles supported on MgAl-layered double oxides (Ag/MgAl-LDO)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pt-Y/Beta",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "bifunctional Pt-Y/Beta catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu@UiO-66",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu@UiO-66 catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-Cr",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu–Cr catalyst surface",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuCeZr",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CuCeZr catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni0.1Zn0.7Al0.3InOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ni0.1Zn0.7Al0.3InOx catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni-MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ni-MgAlO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu metal dominated ethanol conversion",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ag",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Ag reacts weakly with ethanol",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Co",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "transition metals (Ag, Co, Ni, Cd and Pt)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Ni–Cu improves conversion",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cd",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "transition metals (Ag, Co, Ni, Cd and Pt)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Pt",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "transition metals (Ag, Co, Ni, Cd and Pt)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Pd",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Pd–CeO2/AC catalyst exhibited the highest n-butanol selectivity",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Fe",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "transition metal (Co, Ni, Cu, Mn, Cr) promoted Mg-Fe mixed oxide catalysts",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "mesoporous carbon",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu catalyst supported on mesoporous carbon",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 22
+        }
+    }
+}

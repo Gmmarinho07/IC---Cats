@@ -1,0 +1,62 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "AlMgO",
+                "raw_name": "AlMgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "AlMgO-P",
+                "raw_name": "AlMgO-P",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "AlCaO",
+                "raw_name": "AlCaO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "AlCaO-P",
+                "raw_name": "AlCaO-P",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/AlMgO",
+                "raw_name": "Cu/AlMgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/AlMgO-P",
+                "raw_name": "Cu/AlMgO-P",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/AlCaO",
+                "raw_name": "Cu/AlCaO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/AlCaO-P",
+                "raw_name": "Cu/AlCaO-P",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "AlMgO",
+            "raw_name": "AlMgO",
+            "article_identifiers": [
+                "S1"
+            ]
+        }
+    }
+}

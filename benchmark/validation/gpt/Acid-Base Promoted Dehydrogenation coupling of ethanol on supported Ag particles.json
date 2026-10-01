@@ -1,0 +1,79 @@
+{
+    "paper": "Acid-Base Promoted Dehydrogenation coupling of ethanol on supported Ag particles",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ag/Mg2Al-LDO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "0.68 wt% Ag/Mg2.23Al-LDO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ag/Mg3Al-LDO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "0.64 wt% Ag/Mg3.17Al-LDO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ag/Mg4Al-LDO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "0.65 wt% Ag/Mg4.15Al-LDO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ag/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "0.70 wt% Ag/Al2O3",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ag/MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "0.73 wt% Ag/MgO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg4Al-LDO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg4Al-LDO possesses similar basicity to Ag/Mg4Al-LDO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ag",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Ag particles disperse in a narrow distribution",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAl-LDO",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "Ag loaded MgxAl-LDO",
+                "reason": "The support is not explicitly identified as 'MgAl-LDO' but rather as a general term for a class of materials."
+            }
+        ],
+        "summary": {
+            "incorrect": 1,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 7
+        }
+    }
+}

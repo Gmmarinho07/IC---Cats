@@ -1,0 +1,44 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Hydroxyapatite",
+                "raw_name": "HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Beta-tricalcium phosphate",
+                "raw_name": "b-TCP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Strontium phosphate",
+                "raw_name": "Sr3(PO4)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Magnesium oxide",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Fluorapatite",
+                "raw_name": "FAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Magnesium phosphate",
+                "raw_name": "Mg3(PO4)2",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "HAP",
+            "raw_name": "HAP",
+            "article_identifiers": []
+        }
+    }
+}

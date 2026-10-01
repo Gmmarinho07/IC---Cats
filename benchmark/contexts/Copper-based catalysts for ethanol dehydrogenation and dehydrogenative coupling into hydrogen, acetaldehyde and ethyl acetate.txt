@@ -1,0 +1,617 @@
+========== ABSTRACT ==========
+
+nol conversion
+and product selectivity as a function of temperature (b). Reproduce from Refs. [60,72].
+i n t e r n a t i o n a l j o u r n a l o f h y d r o g e n e n e r g y 4 7 ( 2 0 2 2 ) 4 2 2 3 4 e4 2 2 4 9
+42243
+Table 1 e The summary of ethanol dehydrogenation and dehydrogenative coupling with high ethanol conversion in over Cu-based catalysts.
+Entry
+Catalyst
+Support
+Catalyst
+mass (g)
+Cu loading
+(wt%)
+Cu
+dispersion
+(%)
+Particle
+size (nm)
+WHSV
+(h1)
+Time
+(min.)
+Temp.
+(C)
+Ethanol
+conv. (%)
+Rate of ethanol
+consumption
+(kg EtOH/(kg Cu *h))
+S(AcH)
+(%)
+S (EA)
+(%)
+S(H2)
+(%)
+Ref.
+1
+Cu/PPC
+PPC
+0.1
+10
+18.3
+6.3
+2.4
+100
+180
+80
+19.2
+~95
+e
+~95
+[81]
+2
+Cu/CMC
+CMC
+0.1
+10
+15.4
+8.6
+2.4
+100
+180
+60
+14.4
+~95
+e
+~95
+3
+Cu20CA-C
+Ca/Al
+0.2
+20
+e
+e
+1.6
+e
+275
+92
+7.3
+92
+e
+92
+[95]
+4
+Cu40CA-C
+Ca/Al
+0.2
+40
+e
+e
+1.6
+e
+275
+94
+3.7
+92
+e
+92
+5
+Cu20CA-R
+Ca/Al
+0.2
+20
+e
+e
+1.6
+e
+275
+88
+6.9
+94
+e
+94
+6
+Cu40CA-R
+Ca/Al
+0.2
+40
+e
+e
+1.6
+e
+275
+96
+3.8
+93
+e
+93
+7
+HT-Cu20
+Mg/Al
+0.2
+20
+e
+e
+1.6
+275
+94.2
+7.4
+97.2
+0.4
+98.0
+[73]
+8
+HT-Cu40
+Mg/Al
+0.2
+40
+e
+e
+1.6
+275
+97.8
+3.9
+92.3
+2.8
+97.9
+9
+CeCu20
+Mg/Al
+0.2
+20
+e
+e
+1.6
+275
+96.1
+7.6
+92.3
+2.6
+97.5
+10
+CeCu40
+Mg/Al
+0.2
+40
+e
+e
+1.6
+275
+95.6
+3.8
+87.1
+5.6
+98.3
+11
+ReCu20
+Mg/Al
+0.2
+20
+e
+e
+1.6
+275
+89.7
+7.1
+92.1
+2.9
+97.9
+12
+ReCu40
+Mg/Al
+0.2
+40
+e
+e
+1.6
+275
+95.8
+3.8
+87.8
+6.9
+101.6
+13
+Cu/MgAlOx-P
+MgAlOx
+0.15
+10
+85
+1.2
+31.1
+300
+61
+189.7
+98
+e
+98
+[82]
+14
+Cu/MgAlOx
+MgAlOx
+0.15
+10
+50
+2.1
+31.1
+300
+28
+87.1
+94
+e
+94
+15
+Cu/MgAlOx-P
+MgAlOx
+0.24
+10
+85
+1.2
+4.7
+360
+300
+90
+42.3
+~75
+~20
+115
+16
+Cu/MgAlOx
+MgAlOx
+0.24
+10
+50
+2.1
+4.7
+360
+300
+70
+32.9
+~60
+~35
+130
+17
+Cu30ZA
+ZnAl2O4
+30
+e
+e
+60
+400
+~100
+e
+~90
+~5
+100
+[35]
+18
+Cu/C/SiO2
+C/SiO2
+0.1
+8.8
+44.9
+2.2
+2.4
+600
+260
+83
+22.6
+95.1
+e
+95.1
+[80]
+19
+Cu/SiO2
+SiO2
+0.1
+8.4
+57.0
+1.8
+2.4
+600
+260
+85.4
+24.4
+79.4
+e
+79.4
+20
+Cu/SiC
+SiC
+0.1
+5
+5.7
+17.5
+2.4
+e
+280
+47.4
+22.8
+97.7
+e
+97.7
+[61]
+21
+Cu/SiO2/SiC
+SiO2/SiC
+0.1
+5
+17.6
+5.7
+2.4
+e
+280
+81.4
+39.1
+94.2
+e
+94.2
+22
+Cu/C/SiC
+C/SiC
+0.1
+5
+3.5
+28.6
+2.4
+e
+280
+65.8
+31.6
+99.0
+e
+99.0
+23
+Cu/SiO2-AE
+SiO2
+0.1
+10
+38.7
+2.7
+1.6
+300
+~100
+15.8
+~98
+e
+98
+
+
+========== EXPERIMENTAL ==========
+
+experimental
+
+
+========== RESULTS ==========
+
+].
+i n t e r n a t i o n a l j o u r n a l o f h y d r o g e n e n e r g y 4 7 ( 2 0 2 2 ) 4 2 2 3 4 e4 2 2 4 9
+42238
+of Cu with ZrO2 and SiO2 are different, resulting in the dif-
+ference of product selectivity.
+Effect of particle size and dispersion Cu particles
+The particle size and dispersion of Cu particles are the
+important factors affecting the catalytic conversion and
+product
+selectivity
+of
+ethanol
+dehydrogenation.
+Fig.
+5a
+showed that the small particle size gives high ethanol con-
+version using Cu/silicon carbide support [61]. The same
+manner is also observed over different catalysts, Cu/SiO2, Cu/
+PPC and Cu/silicon carbide, with high ethanol conversion
+>80% at Cu particle size <10 nm (Fig. 5c) [61,76,80,81]. That can
+be explained that small Cu particles possess a higher density
+of coordinatively unsaturated sites, e.g. corners and kinks,
+which are more reactive than steps or terrace sites [76,79].
+However, at low Cu particle size (<10 nm), the ethanol con-
+version is also low (<40%) over some catalysts due to the effect
+of support to Cu-based catalysts. Indeed, as the same small Cu
+particle size (<10 nm), the mesoporous support (61% ethanol
+conversion over Cu/MgAlOx-P) shows high catalytic activity
+than that of non-porous support (28% ethanol conversion over
+Cu/MgAlOx) [82]. Moreover, SiO2 support exhibits higher
+ethanol conversion (85.4% ethanol conversion) than that of
+carbon support (17.4% ethanol conversion) [80]. Looking at the
+dispersion of Cu particles, the dispersion of Cu particles in the
+range of 20%e60% gives high ethanol conversion (Fig. 5d).
+Generally, the high Cu dispersion will provide a high amount
+of active sites resulting in high ethanol conversion. But with
+low Cu loading leads to low total Cu active sites and low
+ethanol conversion. In Fig. 5a, the high Cu dispersion showed
+high ethanol conversion (81.4%) in the case of Cu/SiO2/SiC
+catalyst. This trend is relative to the high active sites resulting
+from the high dispersion of Cu species 
+
+ion. But with
+low Cu loading leads to low total Cu active sites and low
+ethanol conversion. In Fig. 5a, the high Cu dispersion showed
+high ethanol conversion (81.4%) in the case of Cu/SiO2/SiC
+catalyst. This trend is relative to the high active sites resulting
+from the high dispersion of Cu species on the surface of SiO2-
+rich surface [61]. With low Cu dispersion (3.5% for Cu/C/SiC
+catalyst; and 5.7% for Cu/SiC), the lower dispersion of Cu
+species (3.5%) shows high ethanol conversion than that of
+middle Cu dispersion (5.7%) due to the C-rich surface accel-
+erates the enrichment of ethanol concentration resulting in
+high ethanol conversion [61].
+The different trends in particle size and dispersion can be
+presented by TOF over Cu/0.675AleZr and Cu/Zr catalyst
+(Fig. 5b). TOF of ethanol over Cu/Zr catalyst increases with an
+increase of particle size and a decrease of Cu dispersion,
+whereas that trend is reverse using Cu/0.675AleZr catalyst
+[72]. That indicates that the interface dominates the catalyst
+activity rather than the Cu active sites [72].
+For the product selectivity, small particle size usually favors
+acetaldehyde formation, while larger copper particles can
+favor ethyl acetate production [82]. Therefore, the particle size
+of Cu particles can be adjusted to select the desired products.
+In 2020, Zhang et al. [76] showed a promising Cu/SiO2
+catalyst with >90% ethanol conversion and >95% acetalde-
+hyde selectivity. Cu/SiO2 with 10 wt% Cu showed well
+dispersion of Cu particles (38.7%) and small particle size
+(2.7 nm) using the ammonium evaporation method. The
+HRTEM image showed that no CuO particles were observed
+even at 5 nm resolution at 600 C calcination (Fig. 6). Sug-
+gesting the ammonia evaporation method is an excellent
+method to prepare a high dispersion of Cu on the support.
+(b)
+3.5
+5.7
+17.6
+0
+20
+40
+60
+80
+100
+28.6
+17.5
+5.7
+% dispersion
+Ethanol conversion (%)
+Particle size (nm)
+(a)
+0
+20
+40
+60
+80
+100
+0
+10
+20
+30
+40
+Ethanol conversion (%)
+particle size (nm)
+Li_
+
+-
+gesting the ammonia evaporation method is an excellent
+method to prepare a high dispersion of Cu on the support.
+(b)
+3.5
+5.7
+17.6
+0
+20
+40
+60
+80
+100
+28.6
+17.5
+5.7
+% dispersion
+Ethanol conversion (%)
+Particle size (nm)
+(a)
+0
+20
+40
+60
+80
+100
+0
+10
+20
+30
+40
+Ethanol conversion (%)
+particle size (nm)
+Li_2019
+Zhang_2017
+Wang_2018
+Petrolini_2019
+Zhang_2020
+0
+20
+40
+60
+80
+100
+0
+50
+100
+Ethanol conversion (%)
+Dispersion (%)
+Li_2019
+Zhang_2017
+Wang_2018
+Petrolini_2019
+Zhang_2020
+)
+d
+(
+)
+c
+(
+Cu/SiC
+Cu/SiO2/SiC
+Cu/C/SiC
+Fig. 5 e Ethanol conversion as a function of particle size and dispersion (a); Turnover frequency (TOF) as a function of particle
+size and 1/dispersion (b); ethanol conversion as a function of particle size (c) and dispersion (d). Reproduce from Refs.
+[61,72,76,80e82].
+i n t e r n a t i o n a l j o u r n a l o f h y d r o g e n e n e r g y 4 7 ( 2 0 2 2 ) 4 2 2 3 4 e4 2 2 4 9
+42239
+Support
+As discussed in the effect of Cu particles, the support can
+provide a positive or negative effect on the catalyst. In fact, the
+interface of the Cu-support is very important in tailoring the
+products because different support can direct different reac-
+tion pathways and the catalyst activity.
+The support with high acidity favors ethanol dehydration
+into ethylene, while ethanol dehydrogenation takes place on
+weak acid or basis sites [76,83,84]. Phung et al. [85] reported
+that catalysts possessing both acid and base sites (MgOeAl2-
+O3) showed high acetaldehyde selectivity than that of ZrO2,
+SiO2, and TiO2. While the strong Lewis acid g-Al2O3 did not
+observe acetaldehyde and mainly ethanol dehydration prod-
+ucts. In addition, Zhang et al. [76] reported that Cu/SiO2
+showed the best ethanol conversion (X > 90%) and acetalde-
+hyde selectivity (S > 98%) at 240 C in comparison to Cu/ZrO2
+(X ¼ 52%, S ¼ 86%), Cu/La2O3 (X ¼ 43%, S ¼ 98.5%), Cu/MgO
+(X ¼ 60%, S ¼ 98.5%), and Cu/MSU-9 (X ¼ 78%, S ¼ 52%;
+MSU ¼ mesoporous silica-alumina Si/Al ¼ 9).
+The support can enhance the ethanol conversion
+
+l conversion (X > 90%) and acetalde-
+hyde selectivity (S > 98%) at 240 C in comparison to Cu/ZrO2
+(X ¼ 52%, S ¼ 86%), Cu/La2O3 (X ¼ 43%, S ¼ 98.5%), Cu/MgO
+(X ¼ 60%, S ¼ 98.5%), and Cu/MSU-9 (X ¼ 78%, S ¼ 52%;
+MSU ¼ mesoporous silica-alumina Si/Al ¼ 9).
+The support can enhance the ethanol conversion and
+ethanol dehydrogenation reaction to form hydrogen, acetal-
+dehyde, and further reaction to ethyl acetate. Good support
+improves the dispersion of Cu on the surface of the catalyst
+leading to an increase in acetaldehyde selectivity and stability
+[86]. Indeed, hybrid C@SiO2 hollow submicron spheres showed
+a high dispersion of Cu species due to the highly dispersed
+silica species among carbons [86]. The Cu/C@SiO2 performed
+36.1% ethanol conversion and ~99% acetaldehyde selectivity
+at 260 C. Additionally, the high dispersion of Cu on the sur-
+face of the hybrid carbon-silica prevents the sintering and
+agglomeration of copper particles during the reaction process
+resulting in the improvement of the catalyst stability.
+Not only the high dispersion of Cu species on the support
+but also the interaction of Cu species with support and the
+interaction of intermediate and product with support are
+important [61]. For example, ethyl acetate is formed a high
+yield on the surface of Cu/ZrO2, but not on the surface of Cu/
+SiO2 þ ZrO2 [87], conﬁrming the role of the interface Cu-
+support on the dehydrogenative coupling reaction. Recently,
+Finger et al. [38] performed the effect of metal oxides on Cu-
+based catalysts, they found that the rate of ethyl acetate in-
+creases with the addition of metal oxides with the trend: no-
+metal oxides adding < Cr2O3 < Al2O3- < ZrO2 ¼ ZnO. The dif-
+ference in ethyl acetate rate is due to the effect of the interface
+Cu-support. In fact, the metal oxides support can tailor the
+agglomeration of Cu nanoparticles showing different Cu
+dispersion [38]. Also, the addition of metal oxides can also
+introduce different Cuþ and Cu on the pristine 10Cu/MCM-41,
+e.g

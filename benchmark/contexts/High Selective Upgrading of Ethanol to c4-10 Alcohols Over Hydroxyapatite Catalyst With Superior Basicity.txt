@@ -1,0 +1,301 @@
+========== ABSTRACT ==========
+
+ABSTRACT: The catalytic upgrading of renewable ethanol to
+C4−10 alcohols via C−C coupling offers a green and negative-
+carbon-emission pathway toward value-added compounds. The
+manipulation of catalysts’ surface basic and acidic properties is the
+key to achieve high-selectivity C4−10 alcohols. In this study, we
+present a solvent-free mechanochemical approach for the synthesis
+of hydroxyapatite (HAP) catalysts with enhanced basicity. The
+selectivity for a total C4−10 alcohols reaches 97.8% with a yield of
+53.9% at 325 °C and 0.1 MPa, surpassing previously reported
+catalysts in the literature. The mechanochemically synthesized
+HAP catalysts extend along the c-axis and expose the (002) crystal
+plane with enriched strong basic [Ca−O−P] sites. CO2-TPD and XPS analyses demonstrated that the hydrogen bonds between the
+oxygen atoms of adjoining phosphate groups enhance the basic property of the catalyst surfaces. The kinetic measurements have
+demonstrated that the abundance of strong basic sites facilitates the adsorption of ethanol molecules and accelerates the rate of C−C
+coupling reactions, which is responsible for a high yield of C4−10 alcohols. This work offers a sustainable approach for synthesizing
+such alcohols and stimulates the advancement of environmentally friendly catalysts.
+KEYWORDS: ethanol, C−C coupling, mechanochemistry, hydroxyapatite, C4−10 alcohols
+■
+
+
+========== EXPERIMENTAL ==========
+
+EXPERIMENTAL SECTION
+Catalyst Preparation. The mechanochemical synthesis was
+carried out in a Fritsch Pulverisette 7 planetary ball mill with 80
+mL tanks and a rotation speed of 800 rpm under an ambient
+atmosphere. In all experiments, the weight ratio of the reactant blends
+to milling beads was 1:20. The milling beads were zirconia balls with a
+5 mm diameter and each mass of about 0.4 g. The duration of the ball
+milling was 30 min. HAP can be obtained by mechanochemical
+synthesis containing various mixtures including diverse calcium-
+containing compounds, phosphates, etc., if the components of the
+powder mixture are carefully selected based on the chemometric ratio
+of Ca:P:O:H of the HAP (Scheme 1). The powder mixture was
+formulated in a suitable molar ratio according to the following
+chemical reactions 1−4, which were subsequently used to prepare
+HAP, maintaining a theoretical Ca/P ratio of 1.67. The ball-milled
+powder samples were calcined at 400 °C with a temperature ramp of 5
+°C/min in air for 2 h. These samples are labeled HAP-1, HAP-2,
+HAP-3, and HAP-4, respectively. The generation of 1 mol of HAP is
+accompanied by the formation of different molar amounts of H2O in
+each synthesis reaction. Commercial Ca3(PO4)2 calcined at 400 °C
+were used as representative catalysts for comparison.
++
+3Ca (PO )
+1Ca(OH)
+Ca (PO ) (OH)
+3
+4 2
+2
+10
+4 6
+2
+(1)
++
++
+6CaHPO
+4Ca(OH)
+Ca (PO ) (OH)
+6H O
+4
+2
+10
+4 6
+2
+2
+(2)
++
++
+3Ca(H PO )
+7Ca(OH)
+Ca (PO ) (OH)
+12H O
+2
+4 2
+2
+10
+4 6
+2
+2
+(3)
+•
++
++
+3Ca(H PO )
+H O
+7Ca(OH)
+Ca (PO ) (OH)
+15H O
+2
+4 2
+2
+2
+10
+4 6
+2
+2
+(4)
+Two powders, Ca(H2PO4)2 and Ca(OH)2 were chosen for the
+synthesis of HAP as a reaction mixture according to chemical reaction
+3, tuning the acid−base properties of the HAP surface by changing
+the molar ratio of the raw materials. Similarly, the ball-milled powder
+samples were calcined at 400 °C in air for 2 h. These samples were
+noted as HAP-3-x, where x represents the molar ratio of Ca(H2PO4)2
+and Ca(OH)2.
+Characterization. Powder X-r
+
+ acid−base properties of the HAP surface by changing
+the molar ratio of the raw materials. Similarly, the ball-milled powder
+samples were calcined at 400 °C in air for 2 h. These samples were
+noted as HAP-3-x, where x represents the molar ratio of Ca(H2PO4)2
+and Ca(OH)2.
+Characterization. Powder X-ray diffraction (XRD) patterns were
+performed using a Panalytical X’Pert Pro Super X-ray diffractometer
+with Cu Kα radiation (40 kV, 40 mA, λ = 0.15418 nm). N2
+adsorption−desorption isotherms were measured at −196 °C by
+using a TriStar 3000 physical adsorption analyzer (Micromeritics).
+The type and number of acid/basic sites of the catalysts were analyzed
+by NH3/CO2-temperature-programmed desorption-mass spectrome-
+try (NH3/CO2-TPD-MS) on a Micromeritics AutoChem II 2920
+apparatus. X-ray photoelectron spectra (XPS) were recorded with a
+Thermo Scientific K-α+ Spectrometer System using a monochromatic
+Al Kα (1486.6 eV) X-ray source. Transmission electron microscopy
+(TEM) images were obtained with a Tecnai G2 F30 S-Twin
+instrument operated at 300 kV. Fourier transform infrared spectros-
+copy (FT-IR) spectra were obtained on a Nicolet 6700 spectrometer.
+In situ ethanol-diffuse reflectance infrared Fourier transform (DRIFT)
+spectra were captured using a Bruker 70 V spectrometer with a
+reaction cell (HARRICK) and MCT detector. The time-dependent
+adsorption profiles of ethanol were recorded on an IGA-100
+Intelligent Gravimetric Analyzer (Hiden analytical).
+Catalytic Activity Measurements. The ethanol conversion
+experiments were carried out at atmospheric pressure in a fixed bed
+reactor with quartz tubes of 8 mm inner diameter. Ethanol (5.7 kPa)
+diluted with N2 was flowed through the catalyst bed maintaining a
+total flow rate of 30 mL·min−1. Before testing, 100 mg of catalyst was
+pretreated at 400 °C for 2 h in an N2 atmosphere to remove any H2O
+or CO2 that might have been adsorbed on the catalyst surface. The
+products were quantitated through online gas chromatography with a
+flam
+
+
+========== RESULTS ==========
+
+mately
+95%, especially for the selectivity of C6−10 alcohols that
+increased progressively with increasing temperature.
+The different ethanol catalytic activities motivated us to
+further investigate the structural and surface properties of the
+catalysts. The physicochemical properties of the HAP catalysts
+are shown in Figures 2 and S3. Figure 2a provides the
+crystalline structure of HAP obtained after calcination at 400
+°C. The XRD patterns displayed that all materials have major
+diffraction peaks at 2θ = 25.88, 31.77, and 32.90°,
+corresponding to the (002), (211), and (300) crystallographic
+planes of HAP, respectively. The HAP catalysts synthesized
+mechanochemically exhibit a typical hexagonal phase apatite
+crystal structure. As shown in Figure S4, the crystalline
+Figure 1. Catalytic performance: (a) Ethanol conversion over HAP catalysts obtained from various feedstock. Reaction activity was measured at
+325 °C with WHSV = 1.96 gC2H5OH gcat
+−1·h−1. (b) Ethanol conversion performance over the HAP-3 catalyst at various temperatures. Reaction
+activity was measured at 250−350 °C with a WHSV of 1.96 gC2H5OH gcat
+−1·h−1.
+Figure 2. (a) XRD profiles, (b, c) HRTEM images of HAP-1 and HAP-3 catalysts. (d) N2 adsorption−desorption isotherms, (e) CO2-TPD-MS
+signals, and (f) NH3-TPD-MS signals of HAP catalysts obtained from various feedstock.
+ACS Sustainable Chemistry & Engineering
+pubs.acs.org/journal/ascecg
+Research Article
+https://doi.org/10.1021/acssuschemeng.4c04185
+ACS Sustainable Chem. Eng. 2025, 13, 36−45
+38
+structures of the uncalcined samples and those calcined at 400
+°C were almost identical, indicating that the bound water
+accompanying the synthesis of HAP had no effect on the
+crystalline structures of the samples. Nonetheless, there is a
+gradual decline in the crystallinity of HAP with increasing
+amounts of its combined water.29 According to the Scherrer
+equation, the crystallite size decreased from 43 nm for HAP-1
+to 11 nm for HAP-4.
+HAP-3 catalyst has a well-define
+
+d that there is a broad desorption
+peak over a wide temperature range of 100−300 °C, which
+indicates the presence of weak-medium acidic sites on the
+catalyst, and pyridine-IR further reveals that only Lewis acid is
+exposed on the HAP surface.32 It reinforces that HAP is an
+acid−base bifunctional catalyst. Notably, catalysts with higher
+acid/base site ratios lead to additional selectivity of the
+dehydrated byproduct (Figure S8).
+Several investigations have also been conducted to
+determine how to tailor the surface environments of HAP by
+varying critical synthesis parameters. By altering the molar
+ratios of Ca(H2PO4)2/Ca(OH)2, nonstoichiometric HAP can
+be prepared with the bulk theoretical Ca/P ratio of 1.50−1.75.
+It is established that the surface Ca/P ratio and the atomic
+coordination environment in general also vary depending on
+the feedstock ratio, which in turn allows tuning the surface
+acid−base properties and catalytic performance.33 All samples
+exhibit a hexagonal apatite crystalline phase with a consistently
+high specific surface area of approximately 100 m2/g (Figure
+3b).
+XPS measurements of the catalysts were carried out to gain
+further insight into the chemical state of the HAP surface. The
+full-range scan is presented in Figure S9. Simultaneously, the O
+1s XPS survey of these catalysts was examined. The O 1s peak
+spectrum of HAP was deconvoluted into three peaks,34
+including −OH (530.50 eV), PO (531.08 eV), and P−O
+(532.48 eV), respectively (Figure 3a, Table S4). It was
+observed that the total amount of P−O and PO species
+(specifically, PO4
+3−species) on the sample surface increased
+with an increasing Ca(H2PO4)2/Ca(OH)2 ratio. PO4
+3−species
+is the active site responsible for acetaldehyde condensation.8
+Additionally, XPS analysis of the surface composition indicated
+a decrease in the Ca/P ratio of the catalyst. For Ca-deficient
+catalysts, the charge imbalance was revised due to the
+introduction of H+ and the fractional replacement of OH−
+by H2O. Hydrogen b
+
+esponsible for acetaldehyde condensation.8
+Additionally, XPS analysis of the surface composition indicated
+a decrease in the Ca/P ratio of the catalyst. For Ca-deficient
+catalysts, the charge imbalance was revised due to the
+introduction of H+ and the fractional replacement of OH−
+by H2O. Hydrogen bonds were presented between the oxygens
+of adjoining phosphate groups.35,36 The presence of hydrogen
+bonds encourages basic sites enhancement. However, when the
+Figure 4. Catalytic performance: (a) Ethanol conversions over HAP catalysts with different Ca(H2PO4)2/Ca(OH)2 molar ratios. Reaction activity
+was measured at 325 °C with a WHSV of 1.96 gC
+d2H
+d5OH·gcat
+−1·h−1. (b) Dependence of high-carbon alcohol yield on the Ca(H2PO4)2/Ca(OH)2
+molar ratio. Reaction activity was measured at 325 °C with a WHSV of 1.96 gC
+d2H
+d5OH·gcat
+−1·h−1. (c) Ethanol conversion performance over the HAP-
+3-0.44 catalyst at different WHSV. Reaction activity was measured at 325 °C with a WHSV of 0.98−1.96 gC
+d2H
+d5OH·gcat
+−1·h−1. (d) Yields of C4−10
+alcohols versus ethanol reaction rate for catalysts described in this work and in the literature (Table S8).
+ACS Sustainable Chemistry & Engineering
+pubs.acs.org/journal/ascecg
+Research Article
+https://doi.org/10.1021/acssuschemeng.4c04185
+ACS Sustainable Chem. Eng. 2025, 13, 36−45
+40
+molar ratio of Ca(H2PO4)2/Ca(OH)2 exceeds a certain limit,
+it may have a slight excess of Ca(H2PO4)2 attached to the
+catalyst surface, making the catalyst imperfectly HAP-like in its
+properties. In contrast, the HAP-3−0.44 catalyst exhibits the
+highest basic sites among these materials, particularly the
+amount of strong basic sites of 39.2 μmol·g−1 (Table 1). This
+surpasses the previously reported values of HAP catalysts.
+The adsorption of ethanol on the HAP surface constitutes
+the first step in the coupling reaction. To investigate the
+diffusion behavior of ethanol in HAP, the time-resolved gas
+adsorption of ethanol on HAP was measured (Figures 3c and
+S10, S11). HAP-3-0
+
+e previously reported values of HAP catalysts.
+The adsorption of ethanol on the HAP surface constitutes
+the first step in the coupling reaction. To investigate the
+diffusion behavior of ethanol in HAP, the time-resolved gas
+adsorption of ethanol on HAP was measured (Figures 3c and
+S10, S11). HAP-3-0.44, the more basic sites catalyst, exhibited
+higher ethanol gas uptake, approximately 1.2 times higher than
+that of the HAP-3 catalyst. Interestingly, the ethanol diffusional
+time constant (D′= D/r2, s−1) for HAP-3-0.44 catalyst is 5.04
+× 10−4, which is 1.6 times higher than that of 3.14 × 10−4 for
+HAP-3 catalyst. As we presumed, the Lewis strong basic sites
+on the catalyst surface facilitate the adsorption of ethanol
+molecules for the subsequent C−C coupling reaction.
+The HAP surface exposed a suitable surface density of acidic
+and basic sites which would illustrate the great catalytic activity
+observed during the reaction (Table S5). As shown in Figure
+4a,b, when the Ca(H2PO4)2/Ca(OH)2 molar ratio was 0.40−
+0.44, the ethanol conversion increased from 7.1 to 27.3%,
+which was improved nearly four times. However, as the
+Ca(H2PO4)2/Ca(OH)2 molar ratio increased consistently to
+0.45, the ethanol conversion tended to decrease. It obtained
+the highest C4−10 alcohols yield at Ca(H2PO4)2/Ca(OH)2
+molar ratio of 0.44. Meanwhile, the HAP-3-0.44 catalyst
+achieved a significantly enhanced conversion at a lower WHSV
+of 0.98 gC
+d2H
+d5OH·gcat
+−1·h−1 while holding a selectivity above 95%
+for C4−10 alcohols (Figures 4c and S12). It obtained a total
+C4−10 alcohols selectivity of 97.8% on the HAP-3−0.44 catalyst
+with an activity advantage for C4−10 alcohols yield (53.9%)
+compared to other solid acid−base catalysts at an identical
+reaction rate (ca. 10.0 mmol·gcat
+−1· h−1) (Figure 4d).
+Subsequently, the C−C coupling rate was plotted as a
+function of the number of [Ca−O−P] sites. As shown in
+Figure 5a, there is a linear dependence between the C−C
+coupling rate and the amount of [Ca−O−P] site

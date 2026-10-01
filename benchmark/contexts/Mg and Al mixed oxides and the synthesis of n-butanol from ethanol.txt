@@ -1,0 +1,1809 @@
+========== ABSTRACT ==========
+
+abstract
+ hydrogen
+ from
+ one
+ of
+ them.
+As
+ it
+ can
+ be
+ observed,
+ these
+ authors’
+ suggestions
+ are
+ not
+ fully
+ in
+agreement.
+ Therefore,
+ analyzing
+ the
+ physical–chemical
+ properties
+of
+ the
+ Mg–Al
+ mixed
+ oxides,
+ this
+ work
+ aims
+ at
+ further
+ studying
+ the
+one-step
+ process
+ that
+ generates
+ n-butanol
+ from
+ ethanol.
+2.
+
+
+========== EXPERIMENTAL ==========
+
+Experimental
+2.1.
+ Catalysts
+ and
+ oxides
+ preparation
+The
+ Mg–Al
+ hydrotalcite
+ precursors
+ of
+ the
+ Mg–Al
+ mixed
+ oxides
+were
+ prepared
+ by
+ the
+ co-precipitation
+ method.
+ Two
+ aqueous
+ solu-
+tions,
+ one
+ comprising
+ K2CO3 and
+ KOH,
+ and
+ the
+ other
+ Mg(NO3)2 and
+Al(NO3),
+ were
+ prepared.
+ Both
+ solutions
+ were
+ simultaneously
+ added
+dropwise
+ to
+ deionized
+ water
+ kept
+ at
+ 70 ◦C
+ under
+ constant
+ stirring.
+The
+ suspension
+ obtained
+ was
+ ﬁltered
+ under
+ vacuum,
+ washed
+ with
+deionized
+ water
+ and
+ dried
+ at
+ 120 ◦C
+ for
+ 18
+ h.
+ The
+ solid
+ obtained
+was
+ then
+ calcined
+ at
+ 400 ◦C
+ (10 ◦C
+ min−1)
+ for
+ 4
+ h
+ and
+ at
+ 500 ◦C
+ for
+1
+ h.
+ Magnesium
+ oxide
+ (MgO)
+ and
+ alumina
+ (Al2O3)
+ were
+ also
+ pre-
+pared
+ following
+ the
+ same
+ synthetic
+ route
+ used
+ for
+ the
+ Mg–Al
+ mixed
+oxides.
+2.2.
+ Characterization
+The
+ measurements
+ of
+ the
+ speciﬁc
+ surface
+ area
+ of
+ the
+ mixed
+oxides
+ were
+ carried
+ out
+ using
+ an
+ ASAP
+ 2010
+ Micrometrics
+ instru-
+ment.
+ The
+ samples
+ were
+ treated
+ at
+ 100 ◦C
+ for
+ 24
+ h.
+ After
+ that,
+ they
+were
+ submitted
+ to
+ a
+ treatment
+ in
+ situ
+ under
+ vacuum
+ at
+ 150 ◦C
+ for
+2 h.
+ The
+ N2 adsorption
+ was
+ carried
+ out
+ at
+ −196 ◦C.
+The
+ Mg/Al
+ atomic
+ ratios
+ of
+ the
+ synthesized
+ catalysts
+ were
+determined
+ by
+ X-ray
+ ﬂuorescence
+ (XRF)
+ using
+ a
+ Rigaku
+ RIX
+ 3100
+spectrometer.
+The
+ X-ray
+ diffraction
+ (XRD)
+ was
+ performed
+ using
+ a
+ Philips
+diffractometer,
+ model
+ D5000
+ Siemens,
+ operating
+ with
+ radiation
+ Cu
+K
+ (40
+ kV,
+ 30
+ mA)
+ and
+ a
+ Ni
+ ﬁlter.
+ The
+ angular
+ range
+ varied
+ from
+ 5◦to
+80◦, with
+ increments
+ of
+ 0.05◦and
+ 5
+ s per
+ step.
+ Diffractograms
+ were
+analyzed
+ by
+ the
+ Rietveld
+ method
+ with
+ fundamental
+ parameters
+employing
+ the
+ TOPAS
+ program
+ (Bruker,
+ version
+ 4.2).
+The
+ acidity
+ of
+ the
+ samples
+ was
+ determined
+ by
+ pyridine
+ adsorp-
+tion
+ experiments
+ followed
+ by
+ FTIR
+ spectroscopy.
+ The
+ spectra
+ were
+recorded
+ from
+ self-supporting
+ wafers
+ using
+ a
+ Nicolet
+ Magna
+ spec-
+trophotometer.
+ The
+ samples
+ were
+ pr
+
+ 270 ◦C
+ are
+ assigned
+ to
+ medium
+strength
+ basic
+ sites,
+ and
+ ﬁnally,
+ the
+ ones
+ above
+ 270 ◦C,
+ strong
+ basic
+sites.
+MAS
+ (magic-angle
+ spinning) 27Al
+ NMR
+ (nuclear
+ magnetic
+ res-
+onance)
+ spectra
+ were
+ obtained
+ on
+ a
+ Varian
+ Inﬁnity-Plus-400
+spectrometer
+ at
+ room
+ temperature,
+ at
+ 103.9
+ MHz
+ with
+ zirconia
+rotors
+ (4
+ mm
+ diameter)
+ and
+ a
+ sample
+ spinning
+ rate
+ of
+ 10,000
+ Hz.
+The
+ length
+ of
+ the
+ rf
+ pulses
+ was
+ 1.0
+ s.
+ All
+ measurements
+ were
+ car-
+ried
+ out
+ at
+ room
+ temperature
+ employing
+ AlCl3·6H2O
+ as
+ a
+ standard
+reference
+ (0
+ ppm).
+2.3.
+ Catalytic
+ testes
+The
+ catalytic
+ tests
+ were
+ performed
+ using
+ a
+ conventional
+ system
+with
+ a
+ ﬁxed
+ bed
+ reactor
+ at
+ atmospheric
+ pressure
+ and
+ monitored
+ by
+on-line
+ gas
+ chromatography
+ (CG
+ 6850).
+ A
+ 12%
+ ethanol/N2 (vol.%)
+mixture
+ was
+ fed
+ at
+ 40
+ mL min−1 on
+ a
+ catalyst
+ mass
+ of
+ 300
+ mg.
+ A
+binary
+ physical
+ mixture
+ comprised
+ of
+ Al2O3 and
+ ZrO2 (with
+ 300
+ mg
+of
+ each
+ catalyst)
+ was
+ also
+ employed.
+ Ethanol
+ vapors
+ were
+ generated
+by
+ passing
+ nitrogen
+ through
+ a
+ saturator
+ at
+ 30.5 ◦C.
+ The
+ catalysts
+were
+ pretreated
+ at
+ 500 ◦C
+ for
+ 1
+ h
+ under
+ synthetic
+ air.
+ The
+ deactiva-
+tion
+ rate
+ during
+ the
+ catalytic
+ tests
+ (12
+ h)
+ was
+ very
+ low.
+ Thus,
+ the
+values
+ of
+ conversion
+ and
+ selectivities
+ were
+ calculated
+ considering
+the
+ average
+ values
+ of
+ the
+ last
+ 8
+ h.
+98
+D.L.
+ Carvalho
+ et
+ al.
+ / Applied
+ Catalysis
+ A:
+ General
+ 415–
+ 416 (2012) 96–
+ 100
+Table 1
+The
+ Mg/Al
+ atomic
+ ratio
+ obtained
+ by
+ X-ray
+ ﬂuorescence
+ (Mg/AlXRF),
+ the
+ concentration
+of
+ crystalline
+ species
+ (%p/p)
+ and
+ the
+ Mg/Al
+ atomic
+ ratio
+ (Mg/Al)XDR obtained
+ by
+ XRD
+(Rietveld
+ method).
+Samples
+ 
+(Mg/Al)XRF
+XRD
+Crystalline
+ species
+ 
+%p/p
+ 
+(Mg/Al)XDR
+MgAl
+ 1:1
+1.2
+MgO
+ 
+7.2
+0.2
+-Al2O3
+70.5
+MgAl2O4
+22.3
+MgAl
+ 3:1
+3.0
+MgO
+ 
+90.6
+12.3
+-Al2O3
+9.4
+Al2O3
+–
+Al2O3
+100
+–
+MgO
+–
+-MgO
+ 
+100
+ 
+–
+3.
+
+
+========== RESULTS ==========
+
+Results
+ and
+ discussion
+Fig.
+ 1
+ and
+ Table
+ 1
+ display
+ the
+ results
+ related
+ to
+ the
+ X-ray
+ diffrac-
+tion
+ of
+ the
+ synthesized
+ samples.
+ The
+ sample
+ containing
+ the
+ highest
+percentage
+ of
+ Mg
+ shows
+ a
+ predominance
+ of
+ MgO
+ (cubic).
+ In
+ the
+ case
+of
+ the
+ catalyst
+ with
+ the
+ lowest
+ amount
+ of
+ this
+ element
+ (MgAl
+ 1:1),
+the
+ predominant
+ phase
+ is
+ -Al2O3. This
+ sample
+ also
+ shows
+ the
+ pres-
+ence
+ of
+ MgAl2O4 and
+ MgO.
+ In
+ the
+ case
+ of
+ Al2O3 and
+ MgO
+ samples,
+-Al2O3 and
+ MgO
+ (cubic)
+ were
+ observed,
+ respectively.
+ Both
+ mixed
+oxides
+ showed
+ XRD
+ patterns
+ assigned
+ to
+ hydrotalcite
+ structures
+before
+ the
+ calcination
+ step.
+The
+ concentration
+ of
+ crystalline
+ species
+ shown
+ in
+ Table
+ 1
+ refers
+only
+ to
+ the
+ crystalline
+ nature
+ of
+ these
+ materials.
+ It
+ was
+ not
+ possible
+to
+ determine
+ the
+ composition
+ of
+ the
+ structures
+ mentioned
+ above
+due
+ to
+ the
+ following
+ reasons:
+ the
+ proximity
+ of
+ the
+ atomic
+ numbers
+of
+ Mg
+ and
+ Al,
+ the
+ nanocrystalline
+ nature
+ of
+ the
+ catalysts,
+ and
+ the
+presence
+ of
+ several
+ overlapping
+ reﬂections.
+Table
+ 1
+ also
+ shows
+ two
+ Mg/Al
+ atomic
+ ratios,
+ one
+ obtained
+ by
+chemical
+ analyses
+ (Mg/AlXRF)
+ and
+ the
+ other
+ through
+ XRD
+ results
+(Mg/AlXRD).
+ It
+ can
+ be
+ veriﬁed
+ that
+ in
+ the
+ case
+ of
+ the
+ MgAl
+ 3:1
+sample,
+ the
+ Mg/Al
+ ratio
+ inferred
+ by
+ XRD
+ is
+ much
+ higher
+ than
+ the
+one
+ obtained
+ by
+ the
+ chemical
+ analyses.
+ Moreover,
+ the
+ Mg/Al
+ ratio
+obtained
+ by
+ XRD
+ in
+ the
+ case
+ of
+ the
+ MgAl
+ 1:1
+ catalyst,
+ is
+ lower
+ than
+the
+ one
+ from
+ chemical
+ analysis.
+ Taking
+ these
+ Mg/Al
+ values
+ into
+account,
+ it
+ can
+ be
+ suggested
+ that
+ in
+ the
+ case
+ of
+ the
+ MgAl
+ 3:1
+ sam-
+ple,
+ Al
+ is
+ in
+ the
+ lattice
+ of
+ MgO.
+ And
+ for
+ the
+ MgAl
+ 1:1
+ sample,
+ Mg
+would
+ be
+ in
+ the
+ -Al2O3 lattice.
+ In
+ other
+ words,
+ 90.6%
+ of
+ the
+ MgO
+inferred
+ by
+ XRD,
+ in
+ the
+ case
+ of
+ MgAl
+ 3:1
+ sample,
+ refers
+ to
+ the
+ MgO
+structure
+ containing
+ Al,
+ and
+ 70%
+ of
+ -Al2O3 observed
+ in
+ the
+ case
+ of
+the
+
+
+ the
+ lattice
+ of
+ MgO.
+ And
+ for
+ the
+ MgAl
+ 1:1
+ sample,
+ Mg
+would
+ be
+ in
+ the
+ -Al2O3 lattice.
+ In
+ other
+ words,
+ 90.6%
+ of
+ the
+ MgO
+inferred
+ by
+ XRD,
+ in
+ the
+ case
+ of
+ MgAl
+ 3:1
+ sample,
+ refers
+ to
+ the
+ MgO
+structure
+ containing
+ Al,
+ and
+ 70%
+ of
+ -Al2O3 observed
+ in
+ the
+ case
+ of
+the
+ MgAl
+ 1:1
+ sample,
+ is
+ associated
+ with
+ the
+ presence
+ of
+ Mg in
+ this
+structure.The
+ spinel
+ structure
+ is
+ shown
+ by
+ MgAl2O4 and
+ Al2O3 and
+both
+ are
+ composed
+ of
+ Mg
+ and
+ Al.
+ Thus,
+ to
+ simplify
+ the
+ discussion
+when
+ MgAl
+ 1:1
+ is
+ studied,
+ MgAl2O4 is
+ considered
+ together
+ with
+Al2O3.
+Table
+ 2
+ and
+ Fig.
+ 2
+ depict
+ the
+ NMR
+ analysis
+ (27Al
+ signal)
+ of
+ the
+synthesized
+ samples.
+ It
+ can
+ be
+ noticed
+ that
+ only
+ Al3+ cations
+ octa-
+hedrally
+ (Alo) coordinated
+ to
+ oxygen,
+ are
+ observed
+ in
+ the
+ case
+ of
+the
+ MgAl
+ 3:1
+ sample.
+ Taking
+ into
+ account
+ that
+ the
+ Mg coordina-
+tion
+ in
+ the
+ MgO
+ crystal
+ is
+ octahedral
+ [12], this
+ result
+ suggests
+ that
+the
+ Al
+ in
+ this
+ sample
+ would
+ be
+ almost
+ entirely
+ in
+ the
+ MgO
+ lattice,
+thus
+ conﬁrming
+ the
+ XRD
+ results.
+ On
+ the
+ other
+ hand,
+ for
+ the
+ MgAl
+1:1
+ and
+ Al2O3 samples,
+ two
+ signals
+ were
+ observed:
+ one
+ related
+ to
+Al3+ cations
+ tetrahedrally
+ (Alt) coordinated
+ to
+ oxygen,
+ and
+ another,
+Table
+ 2
+27Al
+ NMR
+ analysis
+ of
+ mixed
+ oxides
+ and
+ Al2O3 samples.
+Samples
+ 
+Alo
+Alt
+Alo/Alt
+MgAl
+ 1:1
+69.2
+ 
+30.8
+ 
+2.2
+MgAl
+ 3:1
+ 
+100.0
+ 
+–
+ 
+–
+Al2O3
+81.4
+ 
+18.6
+ 
+4.4
+Fig.
+ 2. 27Al
+ NMR
+ analyses
+ of
+ mixed
+ oxides
+ and
+ Al2O3 samples.
+assigned
+ to
+ Al3+ cations
+ octahedrally
+ (Alo) coordinated
+ to
+ oxygen.
+The
+ Alo/Alt ratio
+ of
+ MgAl
+ 1:1
+ is
+ smaller
+ than
+ the
+ one
+ of
+ Al2O3. This
+result
+ suggests
+ that
+ Mg is
+ in
+ octahedral
+ position
+ in
+ the
+ -Al2O3
+lattice.
+Employing
+ NMR
+ and
+ studying
+ alcohol
+ elimination
+ reactions,
+Díez
+ et
+ al.
+ [13]
+ also
+ analyzed
+ these
+ mixed
+ oxides
+ and
+ observed
+the
+ insertion
+ of
+ Al
+ in
+ the
+ MgO
+ structure.
+ However,
+ they
+ did
+ not
+obtain
+ a
+ structure
+ that
+ 
+
+
+ Mg is
+ in
+ octahedral
+ position
+ in
+ the
+ -Al2O3
+lattice.
+Employing
+ NMR
+ and
+ studying
+ alcohol
+ elimination
+ reactions,
+Díez
+ et
+ al.
+ [13]
+ also
+ analyzed
+ these
+ mixed
+ oxides
+ and
+ observed
+the
+ insertion
+ of
+ Al
+ in
+ the
+ MgO
+ structure.
+ However,
+ they
+ did
+ not
+obtain
+ a
+ structure
+ that
+ showed
+ only
+ Al3+ cations
+ octahedrally
+ (Alo)
+coordinated
+ to
+ oxygen.
+Fig.
+ 3
+ depicts
+ the
+ TPD
+ of
+ CO2 of
+ the
+ mixed
+ oxides
+ (MgAl
+ 1:1
+and
+ MgAl
+ 3:1),
+ MgO
+ and
+ Al2O3. Table
+ 3
+ shows
+ the
+ quantiﬁcation
+of
+ the
+ basic
+ sites.
+ As
+ it
+ can
+ be
+ observed
+ in
+ Fig.
+ 3,
+ all
+ the
+ samples
+analyzed
+ depicted
+ two
+ kinds
+ of
+ weak
+ basic
+ sites
+ (the
+ best
+ ﬁt
+ of
+ the
+experimental
+ data).
+ As
+ expected,
+ Al2O3 only
+ exhibits
+ weak
+ sites
+[14],
+ whereas
+ weak,
+ medium
+ and
+ strong
+ sites
+ were
+ observed
+ in
+ the
+case
+ of
+ MgO.
+ When
+ Al
+ is
+ added
+ into
+ the
+ MgO
+ crystal
+ (MgAl
+ 3:1),
+ the
+density
+ of
+ the
+ basic
+ sites
+ decreases.
+ The
+ strong
+ basic
+ sites
+ disappear
+and
+ the
+ percentage
+ of
+ medium
+ basic
+ sites
+ increases.
+ On
+ the
+ other
+hand,
+ when
+ Mg is
+ added
+ to
+ -Al2O3 (MgAl
+ 1:1),
+ it
+ is
+ possible
+ to
+observe
+ the
+ appearance
+ of
+ medium
+ basic
+ sites.
+Table
+ 3
+ displays
+ the
+ density
+ of
+ the
+ Lewis
+ acid
+ sites
+ of
+ the
+ pre-
+pared
+ catalysts.
+ The
+ MgO
+ sample
+ does
+ not
+ show
+ acid
+ sites.
+ Acid
+ sites
+are
+ generated
+ when
+ Al
+ is
+ added
+ into
+ MgO
+ lattice
+ (MgAl
+ 3:1).
+ On
+ the
+other
+ hand,
+ the
+ density
+ of
+ acid
+ sites
+ decreases
+ when
+ Mg is
+ added
+to
+ Al2O3 (MgAl
+ 1:1).
+ Both
+ mixed
+ oxides
+ show
+ very
+ low
+ density
+ of
+Brönsted
+ acid
+ sites.
+These
+ results
+ clearly
+ show
+ that
+ the
+ insertion
+ of
+ Al
+ into
+ the
+ MgO
+crystal
+ and
+ also
+ Mg into
+ the
+ -Al2O3 lattice
+ change
+ the
+ acid
+ and
+basic
+ properties
+ of
+ these
+ oxides.
+ It
+ is
+ interesting
+ to
+ verify
+ that
+ the
+values
+ of
+ the
+ surface
+ area
+ (Table
+ 3)
+ almost
+ do
+ not
+ change
+ when
+comparing
+ MgAl
+ 3:1
+ with
+ MgO
+ and
+ MgAl
+ 1:1
+ with
+ Al2O3.
+Fig.
+ 4
+ shows
+ the
+ catalytic
+ test
+ be
+
+e
+ -Al2O3 lattice
+ change
+ the
+ acid
+ and
+basic
+ properties
+ of
+ these
+ oxides.
+ It
+ is
+ interesting
+ to
+ verify
+ that
+ the
+values
+ of
+ the
+ surface
+ area
+ (Table
+ 3)
+ almost
+ do
+ not
+ change
+ when
+comparing
+ MgAl
+ 3:1
+ with
+ MgO
+ and
+ MgAl
+ 1:1
+ with
+ Al2O3.
+Fig.
+ 4
+ shows
+ the
+ catalytic
+ test
+ behavior
+ of
+ the
+ mixed
+ oxides
+ as
+well
+ as
+ MgO
+ +
+ Al2O3 physical
+ mixture,
+ Al2O3, and
+ MgO.
+ Both
+ cat-
+alysts
+ with
+ different
+ Mg/Al
+ ratios
+ are
+ able
+ to
+ condense
+ ethanol
+producing
+ n-butanol
+ and
+ butyraldehyde
+ (C4
+ compounds).
+ High
+concentration
+ levels
+ of
+ Mg (MgAl
+ 3:1)
+ lead
+ to
+ a
+ slightly
+ lower
+ activ-
+ity
+ (lower
+ conversion),
+ and,
+ as
+ a
+ result,
+ this
+ catalytic
+ system
+ shows
+an
+ increase
+ in
+ selectivity
+ to
+ acetaldehyde
+ and
+ a
+ small
+ decrease
+ of
+the
+ selectivity
+ toward
+ the
+ condensation
+ products
+ (C4
+ compounds).
+D.L.
+ Carvalho
+ et
+ al.
+ / Applied
+ Catalysis
+ A:
+ General
+ 415–
+ 416 (2012) 96–
+ 100
+99
+Table 3
+Speciﬁc
+ surface
+ area
+ (S),
+ density
+ of
+ weak
+ basic
+ sites
+ (Wb),
+ density
+ of
+ medium
+ basic
+ sites
+ (Mb),
+ strong
+ basic
+ sites
+ (Sb),
+ density
+ of
+ basic
+ sites
+ (Tb)
+ and
+ density
+ of
+ Lewis
+ acid
+ sites
+(Ta).
+Samples
+ 
+S
+ (m2 g−1)
+ 
+Density
+ of
+ basic
+ sites
+ (mol
+ g−1) 
+Density
+ of
+ Lewis
+ acid
+ sites
+ (a.u.)
+Wb
+Mb
+Sb
+Tb
+Ta
+MgAl
+ 1:1
+ 
+295
+ 
+21.0
+ (44%)
+ 
+27.0
+ (56%)
+ 
+–
+ 
+48.0
+ 
+0.2
+MgAl
+ 3:1
+ 
+252
+ 
+13.0
+ (42%)
+ 
+18.0
+ (58%)
+ 
+–
+ 
+31.0
+ 
+0.2
+Al2O3
+309
+43.3
+ (100%)
+ 
+–
+–
+ 
+43.3
+ 
+0.3
+MgO
+242
+ 
+19.4
+ (31%)
+ 
+14.5
+ (23%)
+ 
+29.0
+ (46%)
+ 
+62.9
+ 
+–
+Parentheses
+ are
+ the
+ percentage
+ of
+ contribution
+ of
+ each
+ kind
+ of
+ basic
+ site.
+Fig.
+ 3.
+ TPD
+ spectra
+ of
+ CO2 of
+ the
+ synthesized
+ catalysts.
+The
+ higher
+ the
+ concentration
+ of
+ Mg is,
+ the
+ higher
+ the
+ hydrogena-
+tion
+ capacity
+ of
+ the
+ catalyst,
+ since
+ a
+ greater
+ selectivity
+ to
+ n-butanol
+was
+ observed
+ (Fig.
+ 4).
+ Both
+ catalysts
+ depict
+ low
+ selectivity
+ to
+ ethy-
+lene.
+Fig.
+ 4.
+ Conversion
+ of
+ ethanol
+ and
+ selectivities
+ for
+ ethylene,
+ butyraldehyde,
+ n-
+butan

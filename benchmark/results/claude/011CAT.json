@@ -46,5 +46,74 @@
             "raw_name": "MgO",
             "article_identifiers": []
         }
+    },
+    "validation": {
+        "judge_model": "gpt",
+        "result": {
+            "validation": [
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "MgO",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "the MgO basicity may be regulated by modifying the calcination temperature",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "MgO calcined at 673 K",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "MgO-673",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "MgO calcined at 773 K",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "MgO-773",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "MgO calcined at 873 K",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "MgO-873",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "Ni/Kieselghur",
+                    "field": "catalyst",
+                    "decision": "not_supported",
+                    "evidence": "",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "Mg(OH)2",
+                    "field": "catalyst",
+                    "decision": "not_supported",
+                    "evidence": "",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "support",
+                    "extracted_value": "MgO",
+                    "field": "support",
+                    "decision": "correct",
+                    "evidence": "the MgO basicity may be regulated by modifying the calcination temperature",
+                    "reason": ""
+                }
+            ],
+            "summary": {
+                "correct": 5,
+                "partial": 0,
+                "incorrect": 0,
+                "not_supported": 2
+            }
+        }
     }
 }

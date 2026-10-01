@@ -1,0 +1,127 @@
+========== ABSTRACT ==========
+
+Abstract: In view that n-butanol as fuel additive has more 
+advantageous physico-chemical properties compared to ethanol, 
+ethanol valorization to n-butanol via homogeneous or heterogeneous 
+catalysis has received great attention over the last decades both in 
+the scientific and industrial fields. This paper reviewed the recent 
+progress in catalyst development for upgrading ethanol to n-butanol, 
+which involves homogeneous catalysts such as Iridium and 
+Ruthenium complexes catalysts and heterogeneous catalysts mainly 
+including metal oxides, hydroxyapatite (HAP) and especially 
+supported metal catalysts. The structure-performance relationship of 
+catalysts and underlying reaction mechanism were critically examined. 
+Future research directions on the catalyst design and improvement 
+were also proposed. 
+1.
+
+
+========== RESULTS ==========
+
+results are shown in Table 3 
+and detailed mechanism is shown in Scheme 3.[25] As shown in 
+Table 3, the catalyst with the Mg/Al ratio of 3 showed superior 
+catalytic performance over previously reported mixed oxide 
+catalysts. The reaction mechanism involves adjacent Lewis acid-
+basic site pairs playing a vital role in enhancing catalytic activity 
+and C4 products selectivity (Scheme 3). Specifically, one ethanol 
+Catalyst 
+Density of basic sites 
+(μmol/g) 
+Density of 
+Lewis acid sites 
+(μmol/g) 
+Ethanol 
+conversion 
+(%) 
+Selectivity (%) 
+W 
+M 
+S 
+n-Butanol 
+C4 products 
+Acetaldehyde 
+Mg1Al1O 
+21 
+27 
+- 
+0.2 
+40.5 
+22 
+68.8 
+ 6.8 
+Mg3Al1O 
+13 
+18 
+- 
+0.2 
+33.2 
+34.2 
+55.6 
+22.2 
+MgO 
+19.4 
+15 
+29 
+- 
+5.2 
+- 
+- 
+69.8 
+Al2O3 
+43.3 
+- 
+- 
+0.3 
+90.1 
+- 
+- 
+- 
+[a] Reaction conditions: 0.3 g catalyst, 623 K, atmospheric pressure, 12% ethanol/N2 (vol.%) at 40 ml/min. 
+10.1002/cssc.201701590
+ChemSusChem
+This article is protected by copyright. All rights reserved.
+MINIREVIEW 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4. Ethanol conversion and selectivity to n-butanol and other by-products over various M-Mg-Al-O mixed oxide catalysts (M=Cu, Pd, Ag, Mn, Fe, Sm, Yb).[a]
+ 
+ 
+Scheme 3. The formation mechanism of n-butanol on pairs of adjacent Lewis 
+acid-basic sites. 
+molecule initially adsorbs on Lewis acid center (Mn+) and adjacent 
+basic center (O2-) pairs to generate intermediate species 
+(ethoxide), which then undergoes H removal from Cα-H to form 
+acetaldehyde. Subsequently, aldol condensation of acetaldehyde 
+occurs on adjacent Lewis acid and strong basic sites. The former 
+adsorbs one acetaldehyde molecule and the latter is related to a 
+proton abstraction generating carbon anion intermediate species 
+which attacks another acetaldehyde molecule to produce 3-
+hydroxybutyraldehyde, then followed by dehydration and 
+hydrogenation to form n-butanol. This Guerbet route is 
+subsequently verified by Carvalho et al. who conducted an in situ 
+Fourier transform infrared spectroscopy (FTIR) in corporati
+
+es 
+which attacks another acetaldehyde molecule to produce 3-
+hydroxybutyraldehyde, then followed by dehydration and 
+hydrogenation to form n-butanol. This Guerbet route is 
+subsequently verified by Carvalho et al. who conducted an in situ 
+Fourier transform infrared spectroscopy (FTIR) in corporation with 
+DRIFT-MS experiments for this ethanol upgrading process.[26] By 
+contrast, Lewis acid sites or strong basic sites alone rarely make 
+any contribution to the catalytic ethanol condensation. Actually, 
+almost ＞95% ethylene selectivity was achieved over pure Al2O3 
+catalysts mainly due to the presence of a large amount of 
+Brønsted acid (Al-OH) and Lewis acid centers (Al3+) on the 
+surface of Al2O3 catalysts.[24] The formation mechanism of 
+ethylene on Brønsted and Lewis acid centers is shown in Scheme 
+4.[27] Although there are many strong basic sites over MgO 
+catalysts, no n-butanol and C4 products were generated (Table 3) 
+mainly because of the lack of Lewis acid sites to stabilize ethoxide 
+intermediates in the course of reaction.[25] A distinct

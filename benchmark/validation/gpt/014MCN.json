@@ -1,0 +1,79 @@
+{
+    "paper": "014MCN",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO samples were prepared starting from two kinds of precursors, magnesium hydroxide or metallic magnesium.",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-hydration",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Samples hereafter referred to as MgO-hydration, MgO-precipitation and MgO-sol-gel, respectively.",
+                "reason": "The catalyst MgO-hydration is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-precipitation",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Samples hereafter referred to as MgO-hydration, MgO-precipitation and MgO-sol-gel, respectively.",
+                "reason": "The catalyst MgO-precipitation is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-sol-gel",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Samples hereafter referred to as MgO-hydration, MgO-precipitation and MgO-sol-gel, respectively.",
+                "reason": "The catalyst MgO-sol-gel is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-smoke",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO-smoke was prepared by burning Mg ribbons (Aldrich, 98%) in static air above the melting temperature.",
+                "reason": "The catalyst MgO-smoke is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-CVD",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO-CVD was obtained by chemical vapor deposition as described earlier.",
+                "reason": "The catalyst MgO-CVD is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "MgO samples were prepared starting from two kinds of precursors, magnesium hydroxide or metallic magnesium.",
+                "reason": "The support MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "MgO samples were prepared starting from two kinds of precursors, magnesium hydroxide or metallic magnesium.",
+                "reason": "The support MgO is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 8
+        }
+    }
+}

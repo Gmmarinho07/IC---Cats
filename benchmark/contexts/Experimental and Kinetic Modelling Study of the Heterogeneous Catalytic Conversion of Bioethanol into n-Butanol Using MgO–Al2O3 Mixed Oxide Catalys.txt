@@ -1,0 +1,217 @@
+========== ABSTRACT ==========
+
+Abstract
+Ethanol upgrading via catalytic C–C coupling, commonly known as the Guerbet reaction,
+offers a sustainable route to produce 1-butanol, a high-performance biofuel. To address
+gaps in the mechanistic understanding of the catalytic reaction, we investigated the process
+involving a fixed-bed reactor, operated at 275–325 ◦C, 21 bar, and weight hourly space
+velocities of 0.25–2.5 gEtOH/(gcat·h), using helium as a carrier gas, with a 5:1 He/EtOH
+molar ratio. The catalyst was a MgO–Al2O3 mixed oxide (Mg/Al = 2:1), derived from a
+hydrotalcite precursor. A detailed kinetic model was developed, encompassing 15 species
+and 27 reversible steps (10 sorption and 17 reaction steps), within a 1+1D sorption–reaction–
+transport framework. Four C4-forming pathways were included: aldol condensation to
+form crotonaldehyde, semi-direct coupling to form butyraldehyde and crotyl alcohol, and
+direct coupling to form 1-butanol. To avoid overfitting, Arrhenius parameters were grouped
+by reaction type, resulting in sixty rate parameters and one active site-specific density
+parameter. The optimized model achieved high accuracy, with an average prediction error
+of 1.44 times the experimental standard deviation. The mechanistic analysis revealed aldol
+condensation as the dominant pathway below 335 ◦C, with semi-direct coupling to crotyl
+alcohol prevailing above 340 ◦C. The resulting model provides a robust framework for
+understanding and predicting complex reaction networks in ethanol upgrading systems.
+Keywords: bioethanol coupling to n-butanol; Guerbet reaction; MgO-Al2O3 mixed oxide
+catalyst; packed-bed reactor; kinetic modelling; parameter optimization
+1.
+
+
+========== EXPERIMENTAL ==========
+
+Experimental and
+Kinetic Modelling Study of the
+Heterogeneous Catalytic Conversion
+of Bioethanol into n-Butanol Using
+MgO–Al2O3 Mixed Oxide Catalyst.
+Catalysts 2025, 15, 709. https://
+doi.org/10.3390/catal15080709
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Article
+Experimental and Kinetic Modelling Study of the Heterogeneous
+Catalytic Conversion of Bioethanol into n-Butanol Using
+MgO–Al2O3 Mixed Oxide Catalyst
+Amosi Makoye 1,2,3
+, Anna Vikár 1
+, András Bence Nacsa 1,†
+, Róbert Barthos 1
+, József Valyon 1
+,
+Ferenc Lónyi 1,*
+and Tibor Nagy 1,*
+1
+Institute of Materials and Environmental Chemistry, HUN-REN Research Centre for Natural Sciences,
+H-1117 Budapest, Hungary
+2
+Hevesy György Doctoral School of Chemistry, ELTE Eötvös Loránd University, H-1117 Budapest, Hungary
+3
+Department of Natural Sciences, College of Science and Technical Education, Mbeya University of Science
+and Technology, Mbeya P.O. Box 131, Tanzania
+*
+Correspondence: lonyi.ferenc@ttk.hu (F.L.); nagy.tibor@ttk.hu (T.N.); Tel.: +36-1-382-6864 (F.L.);
++36-1-382-6507 (T.N.)
+†
+Current address: Hungarian Intellectual Property Office, H-1081 Budapest, Hungary.
+
+
+========== RESULTS ==========
+
+results, and to determine,
+based on this analysis, which mechanisms dominate in various temperature ranges.
+2. Results
+2.1. Experimental Results
+The main characteristics of the MgO–Al2O3 catalyst used in the present study have
+been detailed elsewhere [34]. In brief, calcining the hydrotalcite precursor at 550 ◦C pro-
+duced a MgO–Al2O3 mixed oxide, with a specific surface area of 218 m2·g−1, containing
+slit-like pores (Figure S1). The XRD measurements revealed the transformation of the
+hydrotalcite precursor into the corresponding mixed oxide, which shows only the character-
+istic reflections of the cubic periclase form of MgO (Figure S2). The absence of an aluminum
+Catalysts 2025, 15, 709
+4 of 19
+oxide phase indicated that Al was finely dispersed in the MgO structure, possibly result-
+ing in the formation of Al–O–Mg linkages. The TEM image of the sample (Figure S3)
+shows irregular, agglomerated particles, typical of mixed oxide samples. Characterization
+of the acid-base properties revealed that calcination at 550 ◦C produced a MgO–Al2O3
+mixed oxide catalyst with optimal concentrations of strong basic sites and medium-strong
+Lewis acid sites, which are necessary to achieve high butanol selectivity during the ethanol
+coupling reaction.
+The MgO–Al2O3 catalyst (2 g) was loaded between quartz wool plugs into a vertically
+oriented fixed-bed reactor, with its design parameters outlined in Figure 1 and Table 1. The
+ethanol reactant was introduced at 7–8 different feeding rates between 0.5–5.0 g/h, corre-
+sponding to a weight hourly space velocity (WHSV) of 0.25–2.5gEtOH/(gcat·h). Helium was
+used as the carrier gas, with a 5:1 helium-to-ethanol molar ratio. Based on the previously
+measured temperature dependence of the reaction at a WHSV of 1.0 gEtOH/(gcat·h) [34], the
+reactor was thermostated at three selected temperatures: 275, 300, and 325 ◦C (conversion
+range: 10–30%). This was done to avoid extremely low or high conversions at high or low
+WHSV values, respectively. The 
+
+ and the catalyst.
+Property
+Value
+Property
+Value
+Reactor length (l)
+9.1 cm
+Specific pore volume (Vspec)
+0.25 cm3/g
+Catalyst bed length (lbed)
+4.74 cm
+Specific surface area (Aspec)
+218 m2/g
+Reactor diameter (d)
+9.00 mm
+Crystal density (ρcryst)
+3.3 g/cm3
+Thermocouple diameter (dTC)
+2.40 mm
+Volume density (ρvol)
+0.69 g/cm3
+Reduced eff. diameter (dred)
+8.67 mm
+Grain density (ρgrain)
+1.81 g/cm3
+Catalyst bed cross-section (A)
+0.590 cm2
+Crystal volume (Vcryst)
+0.606 cm3
+Catalyst volume (V)
+2.91 cm3
+Pore volume (Vpore)
+0.506 cm3
+Catalyst mass (mcat)
+2.00 g
+Void volume (Vvoid)
+1.798 cm3
+Grain diameter (dgrain)
+0.5–0.8 mm
+Void fraction (ε)
+0.618
+Measurements were conducted until the product distribution became stationary. Then,
+under steady-state conditions, parallel measurements were taken every hour. A total of
+59 measurements were taken in regard to 23 conditions (3 temperatures and 7–8 WHSVs),
+resulting in 434 product yield data points, including 59 for ethanol. The ethanol conversion
+and product yields (in mass%) for five species are shown in Figure 2 (vide infra) and,
+in Figure S4, for three additional minor products (crotonaldehyde, crotyl alcohol, and
+butyraldehyde), as well as in tabulated form in Table S2. The yields show monotonic trends
+in regard to the WHSV and temperature for all species, except for 1-butanol and 1-hexanol
+at high temperatures and low WHSV values, where the data exhibit low reproducibility
+(i.e., large error bars) and non-monotonic, noise-like variations in regard to the WHSV,
+suggesting the presence of potential experimental issues.
+Figure 2. Experimental data (symbols with ±2σ error bars) and model simulation results (curves) for
+ethanol conversion and product yields for major liquid products as a function of the weight hourly
+space velocity (WHSV) at three different temperatures. The yellow-shaded regions at low WHSVs
+highlight the largest discrepancies between the model predictions and the experimental data, where
+the measurements also show 
+
+◦C temperature range.
+3. Materials and Methods
+3.1. Materials and Experimental Methods
+3.1.1. Synthesis of MgO–Al2O3 Mixed Oxide Catalyst
+The hydrotalcite (HT) precursor for the mixed oxide catalyst, with a Mg to Al molar
+ratio of 2:1, was synthesized using a controlled co-precipitation method [7,12,36]. An
+aqueous solution (400 mL) containing Mg2+ and Al3+ ions at concentrations of 1 M and
+0.5 M, respectively, was prepared using Mg(NO3)2·6H2O and Al(NO3)3·9H2O (Sigma-
+Aldrich, Merck KGaA, Darmstadt, Germany). The solution was slowly added to 150 mL
+of NaOH buffer solution at a pH of 11.5, with continuous stirring, at room temperature.
+Simultaneously, 2 M NaOH was added dropwise to maintain the pH at about 10. The
+suspension was stirred at 60 ◦C for one hour and then left to rest overnight. The resulting
+solid was separated by centrifugation and washed several times with distilled water until
+the pH of the washing water fell below 9. The sample was dried at 70 ◦C for three days,
+and ground into a fine powder. The formation of the hydrotalcite structure and the absence
+of other impurity phases were confirmed using X-ray powder diffraction (XRD) analysis.
+The dried hydrotalcite was then heated up in an oven at a heating rate of 10 ◦C/min to
+550 ◦C and then calcined at this temperature for 3 h to produce the MgO–Al2O3 mixed
+oxide catalyst.
+3.1.2. Catalyst Characterization
+The specific surface area (SSA or Aspec) of the MgO–Al2O3 catalyst samples was
+determined by measuring the nitrogen adsorption isotherms of the dehydrated sample
+(pretreated at 250 ◦C in high vacuum conditions at 10−6 mbar for 4h) at −196 ◦C, using
+an automatic, volumetric adsorption analyzer (The “Surfer”, Thermo-Fisher Scientific,
+Waltham, MA, USA). The specific surface areas of the samples were calculated from the N2
+adsorption isotherms, using the Brunauer–Emmett–Teller (BET) method.
+Catalysts 2025, 15, 709
+14 of 19
+The X-ray powder diffraction (XRPD) measurements were performed using a Philips
+PW
+
+ Thermo-Fisher Scientific,
+Waltham, MA, USA). The specific surface areas of the samples were calculated from the N2
+adsorption isotherms, using the Brunauer–Emmett–Teller (BET) method.
+Catalysts 2025, 15, 709
+14 of 19
+The X-ray powder diffraction (XRPD) measurements were performed using a Philips
+PW 1810/3710 diffractometer (Amsterdam, The Netherlands) equipped with a graphite
+monochromator (Cu Kα radiation, λ = 1.5418 Å) and a Anton Paar HT1200 high-
+temperature chamber (Graz, Austria). The XRD patterns were measured in steps of 0.02◦in
+2Θ and a scan time of 5 s per step. The X-ray tube was set at 40 kV and 35 mA.
+The morphology of the sample was studied (TEM), using a JEOL JEM 1011 trans-
+mission electron microscope (Tokyo, Japan) equipped with a side-mounted Morada
+11-megapixel camera (Olympus Soft Imaging Solutions, Münster, Germany). The sample
+was suspended in distilled water and drop-cast onto a 300-mesh copper grid coated with a
+Formvar and lacey carbon support film. The TEM image was obtained at an accelerating
+voltage of 80 kV.
+3.1.3. Catalytic Reaction
+Two grams of the catalyst sample, with a 0.5–0.8 mm size sieve fraction, was loaded
+into the reactor. Before the catalytic reaction, the catalyst was pretreated in situ in a
+helium flow (200 mL/min) at atmospheric pressure and 500 ◦C for 2 h to remove possible
+contaminants from the catalyst surface. The catalytic reaction was initiated by introducing
+absolute ethanol (99.95% purity) at a feeding rate of 0.5–5.0 g/h into the reactor, using a
+high-precision Gilson Verity 3011 HPLC pump (Middleton, WI, USA), which corresponds to
+a weight hourly space velocity of 0.25–2.5 gEtOH/(gcat·h). The catalytic reaction was carried
+out in He carrier gas. The flow rate of the He was changed to between 22.5 to 225 mL·min−1
+to maintain the molar ratio of the carrier gas to ethanol at 5:1 in the feed. The experiments
+were carried out at a total pressure of 21 bar and in a temperature range of 275–325 ◦C in
+order to run the r

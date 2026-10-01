@@ -1,0 +1,63 @@
+{
+    "paper": "012MCN",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-sol–gel",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO-sol–gel has a rough surface, probably due to defects created by desorption of the last residual methoxy groups introduced during synthesis.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-precipitation",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The DRIFT spectrum of MgO-precipitation is shown in Fig. 2 before and after high temperature treatment.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-hydration",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalytic properties of MgO-sol–gel, MgO-precipitation, and MgO-hydration, treated in the same conditions as those described for DRIFT experiments, were determined.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-CVD",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO-CVD, kindly provided by Knözinger, was obtained through chemical vapor deposition by oxidizing metallic magnesium in a flow of oxygen/argon.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The relationship between thermodynamic Brønsted basicity and reactivity of basic sites of MgO samples was investigated.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The relationship between thermodynamic Brønsted basicity and reactivity of basic sites of MgO samples was investigated.",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 6
+        }
+    }
+}

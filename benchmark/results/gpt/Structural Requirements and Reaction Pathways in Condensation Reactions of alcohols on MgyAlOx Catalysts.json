@@ -1,0 +1,49 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgyAlOx",
+                "raw_name": "MgyAlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Al2O3",
+                "raw_name": "Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg9AlOx",
+                "raw_name": "Mg9AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg5AlOx",
+                "raw_name": "Mg5AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg1AlOx",
+                "raw_name": "Mg1AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg0.5AlOx",
+                "raw_name": "Mg0.5AlOx",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        }
+    }
+}

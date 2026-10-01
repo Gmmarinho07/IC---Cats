@@ -1,0 +1,29 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "ZSM-5",
+                "raw_name": "ZSM-5",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Proton-type ZSM-5",
+                "raw_name": "Proton-type ZSM-5",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "ZSM-5 zeolite",
+                "raw_name": "ZSM-5 zeolite",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "ZSM-5",
+            "raw_name": "ZSM-5",
+            "article_identifiers": []
+        }
+    }
+}

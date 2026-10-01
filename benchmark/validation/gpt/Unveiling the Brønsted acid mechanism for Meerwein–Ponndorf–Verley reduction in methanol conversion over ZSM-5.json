@@ -1,0 +1,55 @@
+{
+    "paper": "Unveiling the Brønsted acid mechanism for Meerwein–Ponndorf–Verley reduction in methanol conversion over ZSM-5",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Proton-type ZSM-5 zeolites (Si/Al = 11.5) were utilized as catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Proton-type ZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Proton-type ZSM-5 zeolites (Si/Al = 11.5) were utilized as catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZSM-5 zeolite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Proton-type ZSM-5 zeolites (Si/Al = 11.5) were utilized as catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "ZSM-5",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Proton-type ZSM-5 zeolites (Si/Al = 11.5) were utilized as catalysts",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "ZSM-5",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Proton-type ZSM-5 zeolites (Si/Al = 11.5) were utilized as catalysts",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 5
+        }
+    }
+}

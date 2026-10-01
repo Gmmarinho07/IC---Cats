@@ -1,0 +1,264 @@
+========== EXPERIMENTAL ==========
+
+ogen could be incorporated into the
+product. These isotopic studies were carried out using a
+downward-flow, fixed-bed, ¼″ O.D. stainless steel reactor that
+was connected to an on-line mass spectrometer and an on-
+line gas chromatograph (GC). The catalyst bed (HAP or MgO)
+was supported in the reactor on quartz wool and was ther-
+mally treated in 50 cm3 min−1 flowing argon (GTS-Welco,
+99.999%) at 773 K prior to the reaction. Ethanol (Sigma-Al-
+drich, 99.5%) was introduced to the feed by flowing H2
+through a saturator at room temperature. The ethanol/H2
+stream was then passed over the catalyst. After the reaction
+came to steady-state, fifteen mass spectra of the product
+stream were collected. The carrier gas flowing through the
+saturator was then switched to D2 and allowed to pass over
+the catalyst for 1 h before reaction rates were measured using
+an online GC equipped with a flame ionization detector and
+a Restek MXT-Q-Bond column (0.53 mm i.d., 30 m length).
+Subsequently, fifteen mass spectra were collected. Finally, the
+carrier gas was switched to He and the ethanol conversion
+rates were measured. A small amount of methane was intro-
+duced to the reactant stream to serve as an internal standard.
+Product selectivity and conversion were calculated as
+where Ni is the number of carbons in the product, ni is the
+molar flow rate of the product, and nEtOH is the molar flow
+rate of the reactant ethanol.
+2.3.2 H2–D2 exchange. The H2–D2 exchange reaction was
+performed in the same reactor as described above for the
+Guerbet coupling in the presence of H2/D2. During these reac-
+tions, an equimolar mixture of H2 and D2 was diluted in Ar.
+The partial pressure of the equimolar H2/D2 reaction mixture
+was varied while the total pressure was maintained at 1 atm.
+The catalyst bed (either HAP or MgO) was supported on
+quartz wool and was pretreated at 773 K in 100 cm3 min−1 Ar
+for 1 h prior to the reaction. The H2/D2/Ar mixture was then
+passed over the catalyst at room temperature and th
+
+tion mixture
+was varied while the total pressure was maintained at 1 atm.
+The catalyst bed (either HAP or MgO) was supported on
+quartz wool and was pretreated at 773 K in 100 cm3 min−1 Ar
+for 1 h prior to the reaction. The H2/D2/Ar mixture was then
+passed over the catalyst at room temperature and the product
+stream was analyzed using a mass spectrometer measuring
+m/z = 2,3,4 and 40.
+2.3.3 Benzyl alcohol dehydrogenation. A downward-flow,
+fixed-bed, ¼″ O.D. stainless steel reactor with an on-line GC
+was used for the benzyl alcohol dehydrogenation reaction.
+The catalyst bed was supported on quartz wool and was
+pretreated at 773 K for 1 h in 100 cm3 min−1 N2 (GTS-Welco,
+99.999%) prior to reaction. Pure benzyl alcohol (Sigma-Al-
+drich, 99.8%) was introduced to the system with a syringe
+pump and was vaporized in a high temperature mixing cham-
+ber together with flowing N2. A small amount of methane
+(1 cm3 min−1) was added to the product stream downstream
+Catalysis Science & Technology
+Paper
+Published on 26 February 2018. Downloaded by UNIV FEDERAL DO RIO DE JANEIRO on 12/10/2025 8:40:56 PM. 
+View Article Online
+Catal. Sci. Technol., 2018, 8, 1722–1729 | 1725
+This journal is © The Royal Society of Chemistry 2018
+of the reactor as an internal standard. The reaction products
+were analyzed with an on-line gas chromatograph using a
+PoraPLOT Q-HT column and a flame ionization detector.
+2.3.4 Hydrogenation of acetone and ethene. The same flow
+reactor and catalyst pretreatment conditions described for
+the benzyl alcohol dehydrogenation reaction were used for
+the hydrogenation reactions. When acetone was hydroge-
+nated using ethanol as a hydrogen source, a 95 wt% ethanol,
+5 wt% acetone (Sigma-Aldrich, 99.9%) solution was fed to the
+high temperature mixing chamber together with flowing N2.
+When ethene was hydrogenated using ethanol as a hydro-
+gen source, a N2/ethene (ethene from GTS Welco 99.5%, 4
+kPa ethene, 1 atm total pressure) gas mixture was passed
+through the high temperatur
+
+
+========== RESULTS ==========
+
+Results and discussion
+3.1 Guerbet coupling in the presence of H2/D2
+Dihydrogen is a byproduct that can be produced during the
+Guerbet coupling reaction by alcohol dehydrogenation. Al-
+though H2 is not a product of the coupling of ethanol into
+butanol, one molecule of H2 is produced for every molecule
+of acetaldehyde, which is a common side product during the
+Guerbet coupling reaction. Our group and others have shown
+that adding gaseous H2 has no effect on the rate of the etha-
+nol coupling reaction or the selectivity towards butanol over
+HAP.23,41,42 These observations do not preclude the possibil-
+ity that H2 interacts with the catalyst surface and can incor-
+porate into product molecules. To explore this, the Guerbet
+coupling of ethanol was performed in the presence of
+dideuterium gas. The rate of ethanol conversion using He,
+H2, or D2 as a diluent are shown in Table 1. The Guerbet re-
+action was carried out at low conversion in all cases (≤5%).
+Both the rate and selectivity were relatively unaffected by the
+presence of H2 or D2. This similarity in rate and selectivity
+among H2, D2, and He as a diluent gas over each catalyst is
+consistent with previous reports showing a negligible influ-
+ence of H2 on coupling kinetics. Moreover, there is no kinetic
+isotope effect involving H2 and D2.
+The mass spectra of butanol produced over HAP and MgO
+in H2 and D2 diluent gas are shown in Fig. 1. For butanol
+production over HAP, the mass spectrum changes very little
+after the switch from H2 to D2. In contrast, the intensity of
+the butanol peaks at m/z = 57 and 58 increases significantly
+when MgO was used as the catalyst, indicating a fraction of
+D2 from the gas phase incorporates into the butanol product,
+although there is no kinetic influence of D2 on the reaction.
+Incorporation of deuterium into butanol can result from di-
+rect hydrogenation of CC and/or CO by D2 or exchange
+of deuterium with surface bound hydrogen atoms that even-
+tually incorporate into butanol. From the
+
+to the butanol product,
+although there is no kinetic influence of D2 on the reaction.
+Incorporation of deuterium into butanol can result from di-
+rect hydrogenation of CC and/or CO by D2 or exchange
+of deuterium with surface bound hydrogen atoms that even-
+tually incorporate into butanol. From the mass spectrum in
+Fig. 1B, we estimate that 31% of the butanol had no deute-
+rium, whereas 36%, 27%, and 6% had one D, two D, and
+three D atoms substituted into butanol, respectively. The lack
+of deuterium incorporation into the product butanol pro-
+duced over HAP suggests that direct hydrogenation of CC
+or CO bonds of intermediate crotonaldehyde using H2 as a
+hydrogen source does not take place to any significant extent.
+The significant difference in the isotopomer distribution
+of butanol produced over HAP and MgO motivated a study of
+the H2–D2 exchange reaction as shown in Scheme 3. The
+MgO catalyst is known to be very active for this reaction at
+low temperatures.8,16 Indeed, we observed the H2–D2 ex-
+change reaction occurred readily at 298 K on MgO with a rate
+of 1.3 × 10−5 mol m−2 s−1 when the H2 partial pressure was 2
+kPa. The reaction was so rapid that conversion was ∼30% at
+all pressures tested, which is 83% of the calculated equilib-
+rium conversion for the reaction (feq = 36%, Keq = 3.2).46 The
+rate of H2–D2 exchange reported by Boudart et al.8 measured
+at 78 K for an MgO sample calcined at ∼650 K can be extrap-
+olated to 298 K and 2 kPa H2 using their reported activation
+energy. The extrapolated rate from Boudart et al.8 of ∼1.5 ×
+10−5 mol m−2 s−1 is similar to our measured rate and this
+agreement suggests that the MgO catalyst used in the current
+study exposes similar active sites for H2–D2 exchange as the
+catalyst prepared by Boudart et al.8 They suggest the reaction
+proceeds through an Eley–Rideal like mechanism in which a
+proton on the catalyst surface reacts with a weakly adsorbed
+D2 molecule through a triangular transition state8 to produce
+Table 1
+Influ
+
+lar active sites for H2–D2 exchange as the
+catalyst prepared by Boudart et al.8 They suggest the reaction
+proceeds through an Eley–Rideal like mechanism in which a
+proton on the catalyst surface reacts with a weakly adsorbed
+D2 molecule through a triangular transition state8 to produce
+Table 1
+Influence of H2 or D2 on rate and selectivity of ethanol conversion over HAP and MgOa
+Catalyst
+T (K)
+Diluent gas
+Ethanol conversion rate (mol m−2 s−1)
+Butanol selectivity (C%)
+HAP
+613
+He
+5.0 × 10−8
+65
+HAP
+613
+H2
+6.4 × 10−8
+61
+HAP
+613
+D2
+7.2 × 10−8
+63
+MgO
+673
+He
+2.5 × 10−8
+17
+MgO
+673
+H2
+2.5 × 10−8
+23
+MgO
+673
+D2
+2.7 × 10−8
+24
+a Partial pressure of ethanol = 6 kPa, remainder diluent gas to give 101 kPa total pressure. All ethanol conversion levels were <5%. Catalyst
+loading = 0.05 g for HAP and 0.2 g for MgO. Flow rate = 50 cm3 min−1.
+Catalysis Science & Technology
+Paper
+Published on 26 February 2018. Downloaded by UNIV FEDERAL DO RIO DE JANEIRO on 12/10/2025 8:40:56 PM. 
+View Article Online
+1726 | Catal. Sci. Technol., 2018, 8, 1722–1729
+This journal is © The Royal Society of Chemistry 2018
+a surface deuteron and gas phase HD. For our work on
+Guerbet coupling of ethanol, we suggest the surface deuteron
+produced via surface exchange with the D2 could then add to
+a carbanion that is formed during the coupling reaction se-
+quence. In this way, deuterium can incorporate into product
+butanol.
+As no H2–D2 exchange was observed over the HAP catalyst
+at 298 K, it is not surprising that no deuterium is incorpo-
+rated into butanol during Guerbet coupling of ethanol.
+3.2 Hydrogenation reaction
+Results described in the previous section indicate that nei-
+ther HAP nor MgO are able to directly hydrogenate CC or
+CO bonds of reactive intermediates formed during Guerbet
+coupling using gas phase H2. Potential reactions of ethene
+and acetone in the presence of H2 were then examined to fur-
+ther probe the hydrogenating ability of the catalyst. No
+2-propanol was formed when H2 and acetone were co-
+
+ out the possibility that some CC bonds of
+reactive intermediates produced during Guerbet coupling are
+being hydrogenated by these catalysts. Based on the lack of
+deuterium incorporation into butanol over HAP (Fig. 1), it
+seems unlikely that a H2/D2 heterolytic dissociation is kineti-
+cally relevant. Additionally, the presence of water was shown
+previously to destroy the strongly basic sites required for
+heterolytic H2 dissociation. Because water is a product of
+Guerbet coupling, it is unlikely that these sites would exist
+under Guerbet coupling conditions.
+A commonly-proposed path for CO hydrogenation in-
+volves an MPV-like mechanism22,23 where hydrogen is trans-
+ferred directly from a sacrificial alcohol to the CO bond.
+Therefore, hydrogenation of CO and CC bonds using eth-
+anol as a hydrogen source was also tested. In the case of eth-
+anol reacting with crotonaldehyde, this would result in the
+formation of acetaldehyde and crotyl alcohol. To explore this
+type of transfer hydrogenation, the reaction of acetone to
+2-propanol was performed over both HAP and MgO at 473 K
+using
+ethanol
+as
+the
+sacrificial
+alcohol
+as
+shown
+in
+Scheme 4. When excess ethanol was co-fed with acetone, the
+formation of 2-propanol was observed over both HAP and
+MgO, and Fig. 2 shows the rate of 2-propanol formation at a
+constant ratio of acetone to ethanol diluted in N2. Deactiva-
+tion was observed over both HAP and MgO, which makes a
+direct comparison of rates difficult, but it is clear that both
+catalysts are able to hydrogenate acetone using ethanol as a
+hydrogen source. Over MgO, some C6 products were observed
+and more acetaldehyde was produced than 2-propanol over
+this catalyst. No C6 products were observed over HAP and a
+similar amount of acetaldehyde and 2-propanol were ob-
+served. It is possible that the excess acetaldehyde that was
+observed during the reaction over MgO is due to either back-
+ground dehydrogenation of ethanol to acetaldehyde or to the
+transfer hydrogenation of C6

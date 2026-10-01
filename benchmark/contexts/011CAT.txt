@@ -1,0 +1,707 @@
+========== ABSTRACT ==========
+
+summary,
+ our
+ results
+ show
+ that
+ the
+ density,
+ nature
+ and
+strength
+ of
+ surface
+ base
+ sites
+ of
+ MgO,
+ and
+ as
+ a
+ consequence
+ its
+catalytic
+ properties,
+ change
+ by
+ increasing
+ the
+ solid
+ calcination
+ tem-
+perature.
+ The
+ effect
+ of
+ the
+ calcination
+ temperature
+ on
+ MgO
+ activity
+and
+ selectivity
+ depends
+ on
+ the
+ basicity
+ requirements
+ for
+ the
+ rate-
+limiting
+ step
+ of
+ the
+ base-catalyzed
+ reaction.
+V.K.
+ Díez
+ et
+ al.
+ / Catalysis
+ Today
+ 173 (2011) 21–
+ 27
+27
+Mesityl oxide 
+2-propanol 
+4-methyl-3-penten-2ol (UOL)
+Acetone
+C
+H3
+CH3
+CH3
+O
++
+C
+H3
+CH3
+OH
+C
+H3
+CH3
+CH3
+OH
+C
+H3
+CH3
+O
++
+Scheme
+ 3.
+ Hydrogen
+ transfer
+ reaction
+ of
+ mesityl
+ oxide
+ with
+ 2-propanol.
+Scheme
+ 4.
+ Formation
+ of
+ reaction
+ intermediate
+ for
+ HTR
+ of
+ mesityl
+ oxide
+ with
+ 2-
+propanol
+ on
+ MgO
+ by
+ MPV
+ mechanism.
+4.
+
+
+========== EXPERIMENTAL ==========
+
+Experimental
+2.1.
+ Catalyst
+ preparation
+Three
+ magnesium
+ oxide
+ samples
+ were
+ prepared
+ by
+ hydration
+of
+ commercial
+ MgO
+ (Carlo
+ Erba,
+ 99%,
+ 27
+ m2/g).
+ 250
+ ml
+ of
+ distilled
+water
+ were
+ slowly
+ added
+ to
+ 25
+ g
+ of
+ commercial
+ MgO
+ and
+ stirred
+at
+ room
+ temperature.
+ The
+ temperature
+ was
+ then
+ raised
+ to
+ 353
+ K
+and
+ stirring
+ was
+ maintained
+ for
+ 4
+ h.
+ Excess
+ of
+ water
+ was
+ removed
+by
+ drying
+ the
+ sample
+ in
+ an
+ oven
+ at
+ 358
+ K
+ overnight.
+ The
+ resulting
+Mg(OH)2 was
+ decomposed
+ in
+ N2 (30
+ ml/min
+ STP)
+ to
+ obtain
+ MgO
+which
+ was
+ then
+ treated
+ for
+ 18
+ h
+ in
+ N2 either
+ at
+ 673,
+ 773
+ or
+ 873
+ K
+ to
+give
+ samples
+ MgO-673,
+ MgO-773
+ and
+ MgO-873,
+ respectively.
+2.2.
+ Catalyst
+ characterization
+The
+ decomposition
+ of
+ Mg(OH)2 was
+ investigated
+ by
+ differen-
+tial
+ thermal
+ analysis
+ (DTA)
+ using
+ a
+ Shimadzu
+ DT30
+ analyzer,
+ by
+temperature
+ programmed
+ decomposition
+ (TPDe)
+ using
+ a
+ ﬂame
+ ion-
+ization
+ detector
+ (FID)
+ with
+ a
+ methanation
+ catalyst
+ (Ni/Kieselghur)
+operating
+ at
+ 673
+ K
+ and
+ by
+ X-ray
+ diffraction
+ (XRD)
+ in
+ a
+ Shimadzu
+XD-D1
+ diffractometer
+ equipped
+ with
+ Cu-K
+ radiation
+ source
+(
+ =
+ 0.1542
+ nm)
+ and
+ a
+ high
+ temperature
+ chamber.
+ Samples
+ char-
+acterized
+ by
+ X-ray
+ diffraction
+ were
+ heated
+ at
+ 5
+ K/min
+ until
+ 773
+ K,
+taking
+ diffractograms
+ at
+ 373,
+ 573,
+ 673
+ and
+ 773
+ K.
+Surface
+ 
+areas
+ 
+and
+ 
+pore
+ 
+volumes
+ 
+were
+ 
+measured
+ 
+by
+N2
+physisorption
+ 
+at
+ 
+77
+ K
+ 
+using
+ 
+the
+ 
+BET
+ 
+method
+ 
+and
+Barret–Joyner–Halender
+ (BJH)
+ calculations,
+ respectively,
+ in
+ an
+Autosorb
+ Quantochrome
+ 1-C
+ sorptometer.
+The
+ structural
+ properties
+ of
+ MgO-x samples
+ were
+ determined
+by
+ X-ray
+ diffraction
+ (XRD)
+ using
+ the
+ instrument
+ described
+ above.
+Analysis
+ was
+ carried
+ out
+ using
+ a
+ continuous
+ scan
+ mode
+ at
+ 2◦/min
+over
+ a
+ 2
+ range
+ of
+ 20–80◦. Scherrer
+ equation
+ was
+ used
+ to
+ calculate
+the
+ mean
+ crystallite
+ size
+ of
+ the
+ samples.
+Sample
+ base
+ site
+ densities
+ were
+ measured
+ by
+ temperature-
+programmed
+
+ a
+ function
+ of
+ calcination
+ temperature,
+ were
+ measured
+ by
+integration
+ of
+ TPD
+ curves
+ of
+ Fig.
+ 5
+ and
+ using
+ the
+ surface
+ areas
+ of
+Table
+ 1.
+ It
+ is
+ observed
+ that
+ nb decreased
+ with
+ calcination
+ tempera-
+ture,
+ from
+ 4.58
+ mol/m2 (MgO-673)
+ to
+ 3.13
+ mol/m2 (MgO-873).
+Based
+ on
+ the
+ previous
+ IR
+ characterization
+ data,
+ the
+ TPD
+ proﬁles
+ of
+Fig.
+ 5
+ were
+ deconvoluted
+ in
+ three
+ desorption
+ peaks:
+ a
+ low
+ temper-
+ature
+ peak
+ at
+ 390
+ K,
+ assigned
+ to
+ bicarbonates
+ formed
+ on
+ surface
+ OH
+groups,
+ a
+ middle-temperature
+ peak
+ at
+ 440
+ K
+ attributed
+ to
+ bidentate
+carbonates
+ desorbed
+ from
+ Mg2+–O2−pairs,
+ and
+ a
+ high-temperature
+peak
+ at
+ 550
+ K
+ resulting
+ from
+ unidentate
+ carbonates
+ released
+ from
+low-coordination
+ O2−anions.
+ By
+ integrating
+ these
+ three
+ CO2 TPD
+peaks
+ we
+ determined
+ the
+ density
+ of
+ weak
+ (nOH),
+ medium
+ (nMg–O),
+and
+ strong
+ (nO)
+ base
+ sites,
+ respectively.
+ Results
+ are
+ presented
+ in
+Fig.
+ 6
+ and
+ show
+ that
+ nO and
+ nOH decreased
+ while
+ nMg–O increased
+with
+ the
+ MgO
+ calcination
+ temperature.
+300 
+400 
+500
+600
+700
+medium
+1000
+MgO-673 
+MgO-773
+MgO-873 
+Temperature (K)
+weak
+strong
+CO2desorption rate ( mol/h g)
+Fig.
+ 5.
+ CO2 TPD
+ proﬁles
+ of
+ MgO-x
+ samples.
+V.K.
+ Díez
+ et
+ al.
+ / Catalysis
+ Today
+ 173 (2011) 21–
+ 27
+25
+650
+700
+750
+800
+850
+900
+0
+1
+2
+3
+4
+5
+strong (nO)
+middle (nMg-O
+ 
+)
+total (nb)
+Calcination temperature (K)
+Base site densities ( mol/m
+2)
+weak (nOH )
+Fig.
+ 6.
+ Effect
+ of
+ MgO
+ calcination
+ temperature
+ on
+ base
+ site
+ densities.
+3.2.
+ Catalytic
+ results
+ on
+ MgO-x
+ catalysts
+Characterization
+ of
+ MgO-x
+ samples
+ from
+ data
+ of
+ Figs.
+ 4–6
+ sug-
+gested
+ that
+ the
+ MgO
+ basicity
+ may
+ be
+ regulated
+ by
+ modifying
+ the
+calcination
+ temperature
+ which
+ produces
+ changes
+ in
+ density
+ and
+strength
+ distribution
+ of
+ surface
+ base
+ sites.
+ In
+ order
+ to
+ investigate
+the
+ effect
+ of
+ MgO
+ calcination
+ temperature
+ on
+ catalyst
+ activity,
+ we
+carried
+ out
+ three
+ base-catalyzed
+ reactions
+ on
+ our
+ MgO-x 
+
+
+========== RESULTS ==========
+
+Results
+ show
+ that
+ the
+ base
+ properties
+ of
+ MgO,
+and
+ as
+ a
+ consequence
+ its
+ catalytic
+ properties,
+ may
+ be
+ tuned
+ by
+modifying
+ the
+ solid
+ calcination
+ temperature.
+2.

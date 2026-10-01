@@ -1,0 +1,385 @@
+========== ABSTRACT ==========
+
+summary, the catalytic performance of the NiO–Cu–
+La2O3/Al2O3
+catalysts
+were
+obviously
+improved
+by
+the
+addition of nickel oxide, and the 0.65%NiO–Cu–La2O3/Al2O3
+catalyst exhibited excellent catalytic activity and the highest
+total
+yield
+of
+higher
+alcohols
+in
+continuous
+catalytic
+upgrading of ethanol. The addition of an appropriate NiO
+amount effectively not only improved the dehydrogenation/
+hydrogenation
+ability
+of
+the
+catalyst
+by
+improving
+the
+dispersion of Cu species, but also optimized the acid–base
+properties of the catalysts, therefore promoting the aldol
+condensation of acetaldehyde.
+
+
+========== EXPERIMENTAL ==========
+
+Experimental
+Catalyst preparation
+All of chemicals used in this experiment were of analytical
+grade and used without further purification. A commercial
+alumina support was purchased from Shandong Aluminum
+Industry Co., Ltd.
+The xNiO–Cu–La2O3/Al2O3 catalysts, where x (0.32–2.55%)
+represented the mass fraction of NiO in the catalysts, were
+prepared by a simple wetness impregnation method. The Cu
+loadings of all the catalysts were fixed at 6 wt%, while the
+Cu/La molar ratios were 3 : 1.5. In a typical procedure,
+stoichiometric nitrate precursors were dissolved in 10 mL
+ethanol absolute, and a 2 g Al2O3 support was added into the
+above solution. After impregnating at room temperature
+overnight, the resultant composite was dried in an electric
+thermostatic drying oven at 383 K for 4 h and subsequently
+calcined at 723 K for 3 h under an air atmosphere using a
+muffle furnace. Cu–La2O3/Al2O3, NiO/Al2O3 and NiO–La2O3/
+Al2O3 catalysts were prepared using a similar method as
+reference.
+Catalysts characterization
+The BET surface areas and the parameters of the pore
+structure of catalysts were determined by N2 adsorption using
+a Quantachrome ASIQC0 FV100·2 apparatus with liquid-N2 at
+the temperature of 77 K. The samples were outgassed at 473
+K for 4 h prior to analysis.
+X-ray diffraction (XRD) data were collected on an X'Pert
+PRO X-ray diffractometer between 2θ = 10° and 80° at 2°
+min−1 employing a Cu-Kα radiation source (λ = 1.5406 Å). The
+average crystal diameters of the nanoparticles were calculated
+using the Scherrer formula.
+High
+resolution
+transmission
+electron
+microscopy
+(HRTEM) was performed using a Talos S-FEG operated at 300
+kV
+from
+Philips-FEI
+Company.
+Before
+microscopy
+examination, the samples were dispersed onto a copper grid
+coated with a thin holey carbon film.
+H2 temperature-programmed reduction (H2-TPR) and H2
+temperature-programmed
+desorption
+(H2-TPD)
+were
+performed on a Micromeritics Autochem II 2920 chemisorber
+equipped with a thermal conductivity detector (T
+
+emperature-programmed desorption (CO2-TPD) and
+NH3 temperature-programmed desorption (NH3-TPD) were
+also
+performed
+on
+a
+Micromeritics
+Autochem
+II
+2920
+chemisorber equipped with a TCD and MS. For CO2-TPD
+experiments, the sample (100 mg) was pretreated in a quartz
+U-tube reactor with a He gas stream (30 mL min−1) at 473 K
+for 1 h. When the temperature decreased to 323 K, the CO2
+saturation uptake of the pretreated catalysts was achieved by
+passing pure CO2 for 0.5 h at 30 ml min−1. After the CO2
+adsorption, the catalyst was purged with Ar flow (40 mL
+min−1) for 30 min at 323 K. Then the temperature was
+linearly increased from 323 K to 1073 K (10 K min−1) in the
+Ar flow while the desorbed species were monitored using the
+TCD and MS in real time. NH3-TPD experiments were carried
+out by a similar procedure to that of CO2-TPD experiments
+except for using 10% NH3/Ar gas mixture as the adsorbate.
+Catalysts evaluation
+The catalytic tests were performed in a fixed-bed reactor.
+Typically, 1 g of the catalyst was placed in a tubular reactor.
+The reaction was carried out under the following conditions:
+523 K, 3 MPa, LHSV = 2 ml gcat
+−1 h−1 and N2/ethanol = 250 : 1
+(v/v).
+The
+liquid
+products
+were
+analyzed
+by
+a
+gas
+chromatograph (GC) with a flame ionization detector (FID)
+and an HP-5 column (30 m, 0.25 mm inner diameter).
+1-pentanol
+was
+used
+as
+the
+internal
+standard
+for
+the
+quantification of liquid products. The outlet gases from the
+condenser were analyzed using the GC with a TCD and an
+HP-PLOT/Q column (30 m, 0.32 mm inner diameter).
+Catalysis Science & Technology
+Paper
+Published on 07 November 2022. Downloaded on 8/12/2024 10:57:30 PM. 
+View Article Online
+172 | Catal. Sci. Technol., 2023, 13, 170–177
+This journal is © The Royal Society of Chemistry 2023
+The ethanol conversion, selectivity and yield of products
+were calculated as follows:
+conversion %
+ð
+Þ
+¼
+C mol of products
+C mol of products þ unreacted ethanol
+ð
+Þ × 100%
+selectivity %
+ð
+Þ ¼ C mol of specific product
+C mol of 
+
+
+========== RESULTS ==========
+
+Results and discussion
+XRD analysis of the NiO–Cu–La2O3/Al2O3 catalysts
+The XRD patterns of this series of catalysts after the reaction
+are displayed in Fig. 1. The diffraction peaks at 2θ = 43.3°,
+50.4° and 74.1° are characteristic of the Cu crystal phase,
+while the others are attributed to the γ-alumina support. It
+can
+be
+found
+that
+the
+nickel-modified
+Cu–La2O3/Al2O3
+catalysts
+except
+for
+the
+2.55%NiO–La2O3/Al2O3
+catalyst
+exhibited relatively weak metal Cu diffraction peaks in
+comparison with the Cu–La2O3/Al2O3 catalyst, suggesting that
+the addition of an appropriate amount of nickel improved
+the dispersion of copper; moreover, the intensity of metal Cu
+diffraction peaks reached the lowest at 0.65% of the NiO
+content, indicating the highest Cu dispersion for 0.65%NiO–
+Cu–La2O3/Al2O3. As confirmed by the results of the FTIR
+characterization of the Al2O3 support and the CuO/Al2O3,
+NiO/Al2O3 and CuO–NiO/Al2O3 catalysts with different CuO
+and/or NiO loadings (Fig. S1–S3 and Tables S1–S3†), both
+CuO and NiO preferentially bonded with the coordinatively
+unsaturated Al3+,23,24 and then –OH on the surface of the
+Al2O3
+support.25
+Thus,
+the
+initial
+enhancement
+in
+Cu
+dispersion with the increase of NiO loading might be
+attributed to the separation effect of the NiO promoter on
+CuO species on the surface of catalysts, while the subsequent
+decrease in Cu dispersion with the excessive loading of NiO
+should
+be
+ascribed
+to
+the
+overweight
+of
+competitive
+deposition of CuO and NiO over the separation effect of the
+NiO promoter on CuO species. Additionally, the characteristic
+diffraction peaks of metal Ni, NiO, La2O3 or other crystal
+phases of nickel and lanthanum species were not observed in
+the XRD patterns, indicating that the nickel and lanthanum
+species over these catalysts were highly dispersed or existed
+in amorphous forms.
+TEM analysis of the NiO–Cu–La2O3/Al2O3 catalysts
+As shown in Fig. 2A–D, there are no distinguishable metal Ni,
+NiO or La2O3 or other nanoparticles of nickel
+
+in
+the XRD patterns, indicating that the nickel and lanthanum
+species over these catalysts were highly dispersed or existed
+in amorphous forms.
+TEM analysis of the NiO–Cu–La2O3/Al2O3 catalysts
+As shown in Fig. 2A–D, there are no distinguishable metal Ni,
+NiO or La2O3 or other nanoparticles of nickel and lanthanum
+species except Cu nanoparticles found in typical HRTEM
+images of Cu–La2O3/Al2O3 and 0.65%NiO–Cu–La2O3/Al2O3
+catalysts, suggesting that the nickel and lanthanum species
+were highly dispersed or existed in amorphous forms, which
+is consistent with the XRD results. The HRTEM and the
+Fig. 1
+XRD patterns of catalysts after reaction: (a) Cu–La2O3/Al2O3, (b)
+0.32%NiO–Cu–La2O3/Al2O3,
+(c)
+0.65%NiO–Cu–La2O3/Al2O3,
+(d)
+1.27%NiO–Cu–La2O3/Al2O3, and (e) 2.55%NiO–Cu–La2O3/Al2O3.
+Fig. 2
+(A) and (B) HRTEM images of the Cu–La2O3/Al2O3 catalyst after
+reaction,
+(C)
+and
+(D)
+HRTEM
+images,
+and
+(E)
+HRTEM
+and
+the
+corresponding EDX mapping images of the 0.65%NiO–Cu–La2O3/Al2O3
+catalyst after reaction.
+Catalysis Science & Technology
+Paper
+Published on 07 November 2022. Downloaded on 8/12/2024 10:57:30 PM. 
+View Article Online
+Catal. Sci. Technol., 2023, 13, 170–177 | 173
+This journal is © The Royal Society of Chemistry 2023
+corresponding EDX mapping images (Fig. 2E) further suggest
+that a small amount of copper existed in the form of Cu
+nanoparticles, while most of the Cu species were ultra-highly
+dispersed. In particular, the EDX mapping photographs show
+that nickel and lanthanum species were not only highly
+dispersed but also contacted intimately with Cu species or
+partially
+covered
+Cu
+nanoparticles
+which
+may
+play
+an
+important role in preventing the sintering of the ultra-highly
+dispersed Cu species or Cu nanoparticles. Additionally, the
+average size of the Cu nanoparticles over the 0.65%NiO–Cu–
+La2O3/Al2O3 catalyst was smaller than that over the Cu–
+La2O3/Al2O3 catalyst (25 vs. 42 nm), further confirming that
+the addition of nickel oxide improved the dispersion of Cu
+species effe
+
+lmost overlapped with the H2 consumption peak of Cu–Al
+spinel
+on
+the
+Cu–La2O3/Al2O3
+and
+NiO–Cu–La2O3/Al2O3
+catalysts. Furthermore, the intensity of the high temperature
+peak in the TPR spectra of the NiO–Cu–La2O3/Al2O3 catalysts
+slightly increased with the increase of NiO loading (Fig. 3).
+These results indicated that the reduction peaks of NiO or
+Ni–Al spinel species on the NiO–Cu–La2O3/Al2O3 catalysts
+were probably included in the high temperature peaks and
+overlapped with the H2 consumption peaks of the Cu–Al
+spinels.
+XPS analysis of the NiO–Cu–La2O3/Al2O3 catalysts
+In order to further identify the chemical states of Ni and Cu
+species, the Cu–La2O3/Al2O3 and 0.65%NiO–Cu–La2O3/Al2O3
+catalysts after reaction was characterized by XPS. As shown in
+Fig. 4A, the peaks at 855.5 and 873.8 eV along with the
+satellite
+peaks
+at
+862.6
+and
+879.1
+eV
+are
+respectively
+characteristic of Ni2+ 2p3/2 and 2p1/2 in the form of NiO, while
+there were no peaks characteristic of metallic Ni (at ca. 853.0
+eV) found in the Ni 2p XPS spectrum.31–33 These results
+indicate that the nickel species on the surface of the catalyst
+mainly existed in the form of NiO. Additionally, the peaks at
+852.0 and 856.7 eV were ascribed to La3+ 3d3/2, while the ones
+at 838.5 and 835.6 eV were ascribed to La3+ 3d5/2 (Fig. 4A and
+S5 and Table S4†).34 Furthermore, the binding energies of La
+3d5/2 (835.6 eV) were substantially higher than the values
+measured for bulk La2O3 (833.2 eV) standards, indicating a
+high dispersion of La2O3 on the surface of the catalysts,35
+which was consistent with the former XRD and HRTEM
+results. As shown in Fig. 4B, the Cu–La2O3/Al2O3 and
+0.65%NiO–Cu–La2O3/Al2O3 catalysts exhibited a similar Cu
+2p XPS spectrum in which two peaks at ca. 932.1 and 952.3
+eV corresponded to Cu+ or Cu0,36–38 while the peaks located
+at ca. 933.4 and 953.4 eV with a satellite peak at 940–945 eV
+confirmed the existence of Cu2+.39,40 The Cu LMM AES
+spectrum of the catalysts (Fig. 4C) further confirmed that the
+
+rgest amount of Cu active species, which were responsible
+for the highest capability for hydrogen activation.45,46 Though
+the amounts of the spilled hydrogen on the NiO-containing
+catalysts were less than those on the Cu–La2O3/Al2O3 catalyst,
+the spilled hydrogen had lower desorption temperature,
+probably indicating that the addition of NiO increased the
+activity of the spilled hydrogen.
+Fig. 4
+(A) Ni 2p XPS spectrum of the 0.65%NiO–Cu–La2O3/Al2O3
+catalyst after the reaction. (B) Cu 2p XPS spectra and (C) Cu LMM AES
+spectra
+of
+the
+Cu–La2O3/Al2O3
+and
+0.65%NiO–Cu–La2O3/Al2O3
+catalysts after the reaction.
+Fig. 5
+H2-TPD profiles of the reduced catalysts: (a) Cu–La2O3/Al2O3,
+(b) 0.32%NiO–Cu–La2O3/Al2O3, (c) 0.65%NiO–Cu–La2O3/Al2O3, and (d)
+2.55%NiO–Cu–La2O3/Al2O3.
+Catalysis Science & Technology
+Paper
+Published on 07 November 2022. Downloaded on 8/12/2024 10:57:30 PM. 
+View Article Online
+Catal. Sci. Technol., 2023, 13, 170–177 | 175
+This journal is © The Royal Society of Chemistry 2023
+NH3-TPD and CO2-TPD analysis of the NiO–Cu–La2O3/Al2O3
+catalysts
+The NH3-TPD and CO2-TPD profiles of this series of catalysts
+are presented in Fig. 6. The Cu–La2O3/Al2O3 catalyst exhibited
+three NH3 desorption peaks centered at 377 K, 538 K and 630
+K (Fig. 6A), which were assigned to the weak, medium and
+strong acidic sites, respectively.47 These acidic sites were
+related to Al3+ with different coordination structural patterns
+and aluminum hydroxyl groups on the surface of the Al2O3
+support.48–50 According to Fig. 6A and Table S5,† the strong
+acidic sites disappeared, while the total amount of weak and
+medium acidic sites slightly decreased with the addition of
+NiO, which is understandable given the weak alkalinity of
+nickel oxide.
+As shown in Fig. 6B, there were three CO2 desorption
+peaks at 361 K, ∼550 K and 600–650 K observed for each
+catalyst. The first CO2 desorption peak corresponding to
+weak basic sites was associated to the surface basic hydroxyl
+groups (–OH), while the subsequent

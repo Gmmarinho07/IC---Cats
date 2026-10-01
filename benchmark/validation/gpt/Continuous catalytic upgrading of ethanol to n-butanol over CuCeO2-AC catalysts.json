@@ -1,0 +1,143 @@
+{
+    "paper": "Continuous catalytic upgrading of ethanol to n-butanol over CuCeO2-AC catalysts",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-CeO2/AC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu-CeO2/AC catalysts exhibited extraordinary catalytic performance in upgrading of ethanol to n-butanol.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "3Cu1CeO2/AC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "39.1% of ethanol conversion, 55.2% of selectivity to n-butanol and up to 21.6% of n-butanol yield were also achieved over the 3Cu1CeO2/AC catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/AC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The Cu/AC catalyst showed only 1.2% of ethanol conversion and 12.1% of selectivity to n-butanol.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "3Cu1Ce/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu-CeO2/AC catalysts, in spite of different Cu/Ce molar ratios, all exhibited higher ethanol conversions.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "3Cu1Ce/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu-CeO2/AC catalysts, in spite of different Cu/Ce molar ratios, all exhibited higher ethanol conversions.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The high catalytic activity, selectivity and stability of these catalysts could be ascribed to the synergy of Cu, CeO2 and the activated carbon support.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The high catalytic activity, selectivity and stability of these catalysts could be ascribed to the synergy of Cu, CeO2 and the activated carbon support.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ce",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The high catalytic activity, selectivity and stability of these catalysts could be ascribed to the synergy of Cu, CeO2 and the activated carbon support.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "CeO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The high catalytic activity, selectivity and stability of these catalysts could be ascribed to the synergy of Cu, CeO2 and the activated carbon support.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "For example, Ni/Al2O3 catalyst exhibited up to 80% of selectivity to n-butanol.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Co",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Pd",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Pt",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ru",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "activated carbon",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Active carbon (AC) is widely used as catalyst itself or support for precious metals.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "AC",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Active carbon (AC) is widely used as catalyst itself or support for precious metals.",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 4,
+            "partial": 0,
+            "correct": 12
+        }
+    }
+}

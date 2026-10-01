@@ -1,0 +1,109 @@
+========== EXPERIMENTAL ==========
+
+cted modiﬁcation of intensity versus time in
+static vacuum conditions, the photoluminescent yield of
+O2
+3C was overestimated, because the emission energy
+considered (390 nm) was not the same as
+that of the
+emitting O2
+3C (460 nm). Thus, owing to the improved
+stability of the signal intensity versus time, we can now
+propose a pseudo-quantitative procedure to evaluate the
+contributions of several species at maximum photolumi-
+nescent yield for each of them. The evaluation should be
+based on excitation rather than emission spectra, due to
+their better resolution [2]. From the excitation spectra
+monitored at 380 and 460 nm respectively, the deconvo-
+lution of the contributions at 230 and 270 nm on both
+spectra can be performed. The ratio of the areas of the
+resulting peaks excited at 270 and 230 nm, monitored at
+460 nm and 380 nm respectively, represents the relative
+concentrations of O2
+3C to O2
+4C ions. In the case of the
+precipitation-MgO sample, the O2
+3C=O2
+4C ratio has
+been found to be 0.06.
+This pseudoquantitative approach allows following
+the evolution of this ratio as a function of the
+pretreatment temperature of the sample. Moreover,
+the effect of MgO-preparation methods on the distribu-
+tion of oxide ions in low coordination can be evaluated
+by this procedure, complementary to TEM and BET
+characterizations [21], and the results obtained are
+consistent with catalysis data for MgO samples prepared
+with different methods [22].
+4.3. Discrimination of surface oxide ions using propyne,
+as probe molecule
+Having improved the stability of the bands as a
+function of time, we have investigated, by in situ
+photoluminescence, the reactivity of O2 surface ions.
+In fact, the energy transfer resulting in quenching of
+the spectrum proceeds via two mechanisms: (i) dynamic
+quenching by collision with gas-phase molecules or weak
+interaction with adsorbed species and (ii) quenching via
+the formation of complexes adsorbed on the emitting site
+[2,17,23–25]. Recently, Shelimov et al
+
+ace. More precisely, the fact that the 460-nm
+contribution is particularly affected by quenching and is
+consistent with the expected higher reactivity of O2
+3C
+to air contaminants such as CO2 or water. High vacuum
+(106 torr)maintained stable by dynamic conditions is
+required to probe and quantify such ions of low
+coordination on the MgO surface.
+Thus, the modiﬁcations in intensity and/or shape of
+the spectra reported on ﬁgure 3(a) versus increasing
+amounts of propyne, unambiguously result from the
+interaction of the MgO surface with chemisorbed
+species, considering that the physisorbed species are
+removed by evacuation at room temperature. If the
+whole spectrum decreases in intensity, the observed shift
+toward high energy indicates that the three oxide
+(O2
+3C, O2
+4C
+and O2
+5C) contributions described
+earlier are not affected in the same way. In fact, the
+decrease in intensity of the emission at 460 and 380 nm
+as well as that of their respective contributions at 270
+and 230 nm in the corresponding excitation spectra
+indicates that propyne is adsorbed on O2
+3C and O2
+4C.
+By contrast, the shift of the maximum of the emission
+band from 380 to 355 nm shows that the O2
+5C ions do
+not interact with propyne, which thus appears to be a
+selective probe of O2
+3C and O2
+4C ions. The exact
+nature of the adsorbate (molecular or dissociative form)
+will be discussed in a forthcoming paper, in correlation
+with FTIR characterization [26–29]. This phenomenon
+is reversible since the signal is totally recovered by
+heating under vacuum to 1273 K (ﬁgure 3(b)). From the
+shift of the maximum of the emission from 355 to
+380 nm, it can be observed that the O2
+4C ions begin to
+be recovered from 323 K, whereas the contributions at
+460 nm, related to O2
+3C ions, are recovered at 423 K:
+the lower the coordinence of the oxide ions, the stronger
+is its interaction with propyne.
+5.
+
+
+========== RESULTS ==========
+
+results in emission spectra of MgO, which are better-resolved and more stable in time, leading to a better
+characterization of the very reactive oxide ions, i.e., those in low coordination. Apart from a more precise assignment of the spectra,
+new developments are proposed to evaluate the relative distribution of ions of low coordination. Discrimination of the oxide ions
+with different coordination numbers is also possible by studying in situ their interaction with propyne as a probe molecule.
+KEY WORDS: photoluminescence; oxide ions; basicity; coordination; alkaline earth; quenching; dynamic vacuum; in situ probe
+molecule; propyne.
+1.

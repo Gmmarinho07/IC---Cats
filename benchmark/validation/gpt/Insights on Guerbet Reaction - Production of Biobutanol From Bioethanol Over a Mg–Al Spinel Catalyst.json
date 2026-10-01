@@ -1,0 +1,71 @@
+{
+    "paper": "Insights on Guerbet Reaction - Production of Biobutanol From Bioethanol Over a Mg–Al Spinel Catalyst",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg–Al spinel catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the aim of this work is to study the effect of operating conditions in the performance of a Mg–Al spinel catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAl2O4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "obtaining a stoichiometric spinel (MgAl2O4)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "calcined MgAl2O4 mixed oxide catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the calcined MgAl2O4 mixed oxide catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ru",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted metal."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ru",
+                "field": "raw_name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted metal."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted support."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted support."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 4,
+            "partial": 0,
+            "correct": 3
+        }
+    }
+}

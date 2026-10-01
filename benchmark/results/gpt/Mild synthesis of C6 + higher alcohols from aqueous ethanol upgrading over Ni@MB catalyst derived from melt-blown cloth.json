@@ -1,0 +1,40 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Ni@MB",
+                "raw_name": "Ni@MB",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni@MB-1/20–500",
+                "raw_name": "Ni@MB-1/20–500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni@CA",
+                "raw_name": "Ni@CA",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni@CA-1/20–500",
+                "raw_name": "Ni@CA-1/20–500",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MB",
+            "raw_name": "melt-blown cloth (MB)",
+            "article_identifiers": []
+        }
+    }
+}

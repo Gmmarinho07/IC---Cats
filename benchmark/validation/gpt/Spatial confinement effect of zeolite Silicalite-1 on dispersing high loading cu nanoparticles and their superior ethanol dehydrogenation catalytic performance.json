@@ -1,0 +1,103 @@
+{
+    "paper": "Spatial confinement effect of zeolite Silicalite-1 on dispersing high loading cu nanoparticles and their superior ethanol dehydrogenation catalytic performance",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu@S-1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The black products obtained were denoted as zCu/SiO2, where z means the weight percent of Cu (z = 4 wt % and 8 wt%, respectively).",
+                "reason": "The catalyst Cu@S-1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The black products obtained were denoted as zCu/SiO2, where z means the weight percent of Cu (z = 4 wt % and 8 wt%, respectively).",
+                "reason": "The catalyst Cu/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "8 wt%Cu/SiO2-HT",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/SiO2 with Cu loading amount of 8 wt% was also prepared following similar calcination process as that utilized for Cu@S-1, which is denoted as 8 wt%Cu/SiO2-HT.",
+                "reason": "The catalyst 8 wt%Cu/SiO2-HT is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "4 wt%Cu@S-1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "TEM images of reduced 4 wt%Cu@S-1 and 10 wt%Cu@S-1 are shown in Fig. 2D–E.",
+                "reason": "The catalyst 4 wt%Cu@S-1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "10 wt%Cu@S-1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "TEM images of reduced 4 wt%Cu@S-1 and 10 wt%Cu@S-1 are shown in Fig. 2D–E.",
+                "reason": "The catalyst 10 wt%Cu@S-1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "8 wt%Cu@S-1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The EtOH conversion over 4 wt%Cu@S-1 is around 29 %, which is close to that over 8 wt%Cu/SiO2 (33 %).",
+                "reason": "The catalyst 8 wt%Cu@S-1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "8 wt%Cu/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The EtOH conversion over 4 wt%Cu@S-1 is around 29 %, which is close to that over 8 wt%Cu/SiO2 (33 %).",
+                "reason": "The catalyst 8 wt%Cu/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The dependence of the rates of EtOH dehydrogenation on the metal loadings of the catalysts is illustrated in Fig. 4.",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The dependence of the rates of EtOH dehydrogenation on the metal loadings of the catalysts is illustrated in Fig. 4.",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "SiO2",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu-supported silica (Cu/SiO2) catalysts were prepared for comparison via wetness impregnation method.",
+                "reason": "The support SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "SiO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu-supported silica (Cu/SiO2) catalysts were prepared for comparison via wetness impregnation method.",
+                "reason": "The support SiO2 is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 11
+        }
+    }
+}

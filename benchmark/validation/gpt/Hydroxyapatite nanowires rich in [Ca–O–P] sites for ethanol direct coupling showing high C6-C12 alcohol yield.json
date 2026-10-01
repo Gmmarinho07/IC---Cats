@@ -1,0 +1,71 @@
+{
+    "paper": "Hydroxyapatite nanowires rich in [Ca–O–P] sites for ethanol direct coupling showing high C6-C12 alcohol yield",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ethanol coupling on wire-like HAP proceeds mainly via the ‘‘direct-coupling’’ route to form aliphatic alcohols.",
+                "reason": "The catalyst HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP-W",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Ethanol coupling on wire-like HAP proceeds mainly via the ‘‘direct-coupling’’ route to form aliphatic alcohols.",
+                "reason": "The article explicitly associates HAP-W with the catalyst HAP."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Co",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "In our recent work, cobalt–HAP catalysts were used to directly produce aromatic oxygenates from ethanol.",
+                "reason": "The metal Co is explicitly identified in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "cobalt",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "In our recent work, cobalt–HAP catalysts were used to directly produce aromatic oxygenates from ethanol.",
+                "reason": "The raw name cobalt is explicitly identified in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Ethanol coupling on wire-like HAP proceeds mainly via the ‘‘direct-coupling’’ route to form aliphatic alcohols.",
+                "reason": "The support HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Ethanol coupling on wire-like HAP proceeds mainly via the ‘‘direct-coupling’’ route to form aliphatic alcohols.",
+                "reason": "The raw name HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP-W",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Ethanol coupling on wire-like HAP proceeds mainly via the ‘‘direct-coupling’’ route to form aliphatic alcohols.",
+                "reason": "The article explicitly associates HAP-W with the support HAP."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 7
+        }
+    }
+}

@@ -1,0 +1,199 @@
+========== ABSTRACT ==========
+
+Summary of the parameters optimized in the fitting of the Cu K-edge EXAFS data for needle_6 and plate_14 samples. Underlined values were
+fixed in the fit. RCu–X values indicate the Cu–X distances and NCu–X the coordination numbers, where X = Ca, P or O
+Sample
+S0
+2
+E0 (eV)
+NCu–X
+RCu–X (Å)
+σ2 (Å2)
+R factor
+Needle_ 6
+1
+−1.5 ± 0.8
+Cu–O: 3.32 ± 0.12
+Cu–O: 2.01 ± 0.05
+0.013
+Cu–P: 0.53 ± 0.26
+Cu–P: 3.00 ± 0.04
+Cu–Ca: 0.60 ± 0.35
+Cu–Ca: 3.94 ± 0.01
+Plate_14
+1
+−1.5 ± 0.8
+Cu–O: 3.33 ± 0.12
+Cu–O: 2.01 ± 0.05
+0.010
+Cu–P: 0.56 ± 0.27
+Cu–P: 3.00 ± 0.04
+Cu–Ca: 0.54 ± 0.37
+Cu–Ca: 3.94 ± 0.01
+Catalysis Science & Technology
+Paper
+Open Access Article. Published on 26 May 2025. Downloaded on 1/16/2026 11:09:13 AM. 
+This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.
+View Article Online
+4202 | Catal. Sci. Technol., 2025, 15, 4194–4203
+This journal is © The Royal Society of Chemistry 2025
+specific surface area of pristine plate HA (ca. 200 vs. 100
+m2 g−1).
+XRD analysis revealed no noticeable differences between
+the pristine and Cu-doped samples, confirming that Cu
+exchange
+occurred
+exclusively
+at
+the
+surface
+without
+significantly
+affecting
+the
+HA
+crystal
+structure.
+XAS
+measurements
+confirmed
+a
+similar
+Cu2+
+coordination
+environment in all samples, characterized by the presence of
+oxygen atoms at an average distance of 2.0 Å in the first
+coordination shell.
+The materials were tested in the CO oxidation reaction
+and both pristine needle and plate HAs showed poor CO
+conversion
+(<5%),
+while
+all
+Cu-functionalized
+samples
+exhibited catalytic activity. At 523 K, needle HA with both 4
+and 6 Cu wt% achieved higher CO conversion (up to 61%)
+than plate HA with 4, 11 or 14 Cu wt% (XCO ∼47%). At 573
+K, nearly complete CO conversion (∼99%) was observed for
+all materials. We can thus conclude that the copper content
+is not the main factor determining the catalytic efficiency of
+the
+doped
+HAs.
+On
+the
+contrary,
+the
+different
+redox
+properties of the samples, which are influe
+
+
+========== EXPERIMENTAL ==========
+
+tion step of 30 minutes
+at each temperature. The ramp temperature used was 5 K
+min−1. An Agilent 8960 Gas Chromatograph (GC) equipped
+with sequential H-PLOT and MOLSIEVE columns and with a
+thermal conductivity detector (TCD) was coupled with the
+plug-flow reactor to evaluate the CO conversion (XCO) during
+subsequent catalytic steps, using the following formula:
+XCO %
+ð
+Þ ¼
+1 −C
+C0
+
+·100
+where C0 is the CO concentration at the reactor inlet and C is
+the CO concentration downstream the reactor after 30
+minutes of stabilization at a given temperature.
+3. Results and discussion
+3.1 Elemental and textural analysis
+As the first step of our study, we investigated the elemental
+composition for the two different samples morphologies as a
+function of the concentration of the Cu(NO3)2 solution
+employed for the ion exchange procedure (see experimental
+section). As visible in Fig. 1, as expected, there is a decrease
+in the Ca wt% correlated with an increase in the Cu wt% for
+progressively
+higher
+concentrations
+of
+Cu(NO3)2
+in
+the
+starting solution. The maximum copper uptake for the HA
+needle series is 6 wt% and is reached for a 0.05 M Cu(NO3)2
+solution (needle_6 sample). Conversely, for the HA plate
+series, the maximum copper content is 14 wt% (plate_14
+sample), obtained using a 0.1 M Cu(NO3)2 solution. The
+different behaviour of the two series of HA can be explained
+considering the corresponding specific surface area values,
+which are ca. 100 and 200 m2 g−1 for pristine needle and
+plate HA, respectively (Fig. 1A′ and B′), resulting in a different
+surface cation exchange capacity.23,24 For more concentrated
+initial Cu(NO3)2 solutions (samples needle_6′, needle_6″ and
+plate_14′), the copper uptake does not increase, but we
+observe
+a
+slight
+decrease
+in
+the
+phosphates
+content
+(Fig. 1A and B) and in the SSA (Fig. 1A′ and B′), which can be
+ascribed to a partial HA dissolution due to the lower pH of
+the solutions employed during the exchange procedure.19 For
+this reason, these samples 
+
+sent, possibly including surface
+Fig. 1
+Top panel: Weight percent composition measured by ICP for the needle (A) and plate (B) HAs. Bottom panel: (Ca + Cu)/P ratio (orange
+bars) and BET SSA values (black bars) for the needle (A′) and plate (B′) HAs. The molar concentration of the Cu(NO3)2 solution employed for the ion
+exchange is also shown for each sample. The complete list of numerical values with their corresponding uncertainties is reported in Table S1.†
+Fig. 2
+XRD patterns of the needle HA nanoparticles (top panel in red) and plate HA nanoparticles (bottom panel in blue). The reference HA phase
+(PDF no. 00-009-0432) is also reported.
+Catalysis Science & Technology
+Paper
+Open Access Article. Published on 26 May 2025. Downloaded on 1/16/2026 11:09:13 AM. 
+This article is licensed under a Creative Commons Attribution 3.0 Unported Licence.
+View Article Online
+4198 | Catal. Sci. Technol., 2025, 15, 4194–4203
+This journal is © The Royal Society of Chemistry 2025
+complexation, hydrogen substitution in structural hydroxyls
+forming oxocuprate ions and/or formation of copper oxide
+nanoclusters.25–27 This hypothesis is further supported by the
+Cu2+ surface density in more concentrated samples, which
+reaches approximately 7 Cu nm−2 for plate_14, exceeding the
+surface concentration of exchangeable Ca2+ ions (∼5 Ca
+nm−2).28
+3.2 Structural and morphological study
+The
+general
+structural
+characterization
+and
+the
+phase
+identification of the HA nanoparticles was performed by
+X-ray powder diffraction. As visible in Fig. 2, the XRD
+patterns show broad diffraction peaks, typical of nanometric
+poorly crystalline materials,29 which can be described as a
+hydroxyapatite single phase (PDF no. 00-009-0432). There are
+no evident differences between the pristine and Cu-doped
+samples, confirming that the Cu exchange has occurred only
+at the surface, without significantly altering the crystal
+structure. For the pristine needle HA, the size of the
+crystalline domains, evaluated using the Scher
+
+
+========== RESULTS ==========
+
+results highlighted that doped Ca-rich HAs exhibit better catalytic
+activity despite a lower copper content. This is explained by the easier reducibility of Cu2+ to Cu+ in these
+materials, as evidenced by IR measurements of CO adsorption.
+1.

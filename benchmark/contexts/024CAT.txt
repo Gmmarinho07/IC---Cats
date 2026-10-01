@@ -1,0 +1,77 @@
+========== ABSTRACT ==========
+
+Abstract: The catalytic upgrading of ethanol into butanol through the Guerbet coupling reaction has
+received increasing attention recently due to the sufﬁcient supply of bioethanol and the versatile
+applications of butanol. In this work, four different supported Cu catalysts, i.e., Cu/Al2O3, Cu/NiO,
+Cu/Ni3AlOx, and Cu/Ni1AlOx (Ni2+/Al3+ molar ratios of 3 and 1), were applied to investigate the
+catalytic performances for ethanol conversion. From the
+
+
+========== EXPERIMENTAL ==========
+
+n to room temperature.
+Molecules 2023, 28, 5683
+10 of 13
+The precipitate was ﬁltered, washed with deionized water, dried at 80 ◦C for 8 h, and then
+ground to 100 mesh to obtain the supports of Ni(OH)2 or Al(OH)3.
+Supported Cu catalysts were prepared via the hydrothermal deposition precipitation
+method. At ﬁrst, 5.00 g of the above supports was added to 100 mL of deionized water. The
+pH value of the solution was adjusted to 10 by adding 0.16 M of Na2CO3. Then, 2.2 g of
+Cu(NO3)2·3H2O was dissolved in 20 mL of water, and the pH value of the precipitating
+solution was also maintained at 10. The above solutions were then intensively mixed by
+stirring and heated to 80 ◦C in a water bath, followed by aging for 2 h. The solid catalyst
+was obtained after ﬁltering, washing with deionized water, drying overnight at 80 ◦C,
+and further calcining in air at 300 ◦C for 2 h before the reaction test with a heating rate
+of 5 ◦C/min. The catalysts, which are denoted as Cu/NiO, Cu/Al2O3, Cu/Ni3AlOx, and
+Cu/Ni1AlOx, have theoretical Cu loadings of 12 wt.%.
+3.3. Catalytic Evaluation
+The catalytic conversion of ethanol into butanol was performed in a micro-reaction
+system on a stainless steel ﬁxed-bed reactor (inner diameter, 10.0 mm; length, 660 mm),
+equipped with a thermocouple and a mass ﬂow controller for the control of reaction
+temperature and gas ﬂow rate. Typically, speciﬁc amounts of catalysts were placed in the
+middle of the reactor, and then the pressure of the system was increased and maintained
+with a back-pressure regulator. After purging with N2 for 30 min, the temperature was
+programmed to increase to the speciﬁc value with a heating rate of 5 ◦C/min. Then, ethanol
+was introduced by using a plunger pump (NP-KX-210) with a constant liquid hourly
+space velocity (LHSV). The reaction products were analyzed ofﬂine with an Agilent 7890B
+chromatograph equipped with an HP-5 capillary column (30 m × 0.32 mm) and a ﬂame
+ionization detector (FID). O-xylene was used as an internal stand
+
+roscopy (HRTEM) was recorded on a JEM-2100F microscope (Tokyo, Japan) at 200 kV.
+The samples were prepared by dispersing the catalyst powder in ethanol via ultrasonication
+onto a micromolybdenum TEM grid. X-ray photoelectron spectroscopy (XPS) was con-
+ducted on a Thermo ESCLALAB 250Xi spectrometer equipped with a monochromatic Al
+and double anode Al/Mg target as a radiation source. The binding energies were calibrated
+by using the C 1s peak (284.8 eV) as the reference. Hydrogen temperature-programmed
+reduction (H2-TPR) experiments were performed on a Micromeritics Autochem II 2920
+equipped with a thermal conductivity detector (TCD) and mass spectrometry (MS). Before
+Molecules 2023, 28, 5683
+11 of 13
+the measurement, 100 mg of the samples was treated at 300 ◦C for 60 min in a quartz
+U-tube reactor under a He gas ﬂow of 30 mL/min. After cooling to room temperature,
+a 10% H2/Ar ﬂow (30 mL/min) was introduced, and the sample was heated to 800 ◦C
+at a ramping rate of 10 ◦C/min. Temperature-programmed desorption of CO2 and NH3
+(CO2/NH3-TPD) measurements were also conducted on a Micromeritics Autochem II 2920.
+Prior to the tests, about 100 mg of the catalyst was outgassed at 300 ◦C for 1 h in a U-type
+quartz tube reactor with a He gas ﬂow of 50 mL/min. Next, the samples were cooled
+down to 100 ◦C, and then pulses of CO2 or NH3 were introduced into the tube to ensure
+saturation of the samples. The temperature-programmed desorption was performed up
+to 800 ◦C with a heating ramp of 10 ◦C/min. The signal of the desorbed CO2 or NH3 was
+recorded by the MS simultaneously.
+4. Conclusions
+In
+
+
+========== RESULTS ==========
+
+results, Ni-containing catalysts exhibit better
+reactivity; Al-containing catalysts exhibit better stability; but in terms of ethanol conversion, butanol
+selectivity, and catalyst stability, a corporative effect between Ni–Al catalytic systems can be clearly
+observed. Combined characterizations such as XRD, TEM, XPS, H2-TPR, and CO2/NH3-TPD were
+applied to analyze the properties of different catalysts. Based on the results, Cu species provide the
+active sites for ethanol dehydrogenation/hydrogenation, and the support derived from Ni–Al–LDH
+supplies appropriate acid–base sites for the aldol condensation, contributing to the high butanol
+selectivity. In addition, catalysts with strong reducibility (i.e., Cu/NiO) may be easily deconstructed
+during catalysis, leading to fast deactivation of the catalysts in the Guerbet coupling process.
+Keywords: copper catalyst; hydrotalcite; stability; ethanol; butanol
+1.

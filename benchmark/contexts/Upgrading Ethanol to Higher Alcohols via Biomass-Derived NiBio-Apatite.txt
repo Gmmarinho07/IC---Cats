@@ -1,0 +1,106 @@
+========== ABSTRACT ==========
+
+ABSTRACT: Acquiring value-added chemicals from renewable
+ethanol instead of fossil resources has special signiﬁcance under the
+background of carbon neutrality. In this work, a heterogeneous
+recyclable biomass-derived Ni/bio-apatite catalyst was developed
+for upgrading ethanol to higher alcohols (C6+-OH). Catalysts were
+prepared employing calcined porous natural bone and analyzed by
+various characterizations of thermogravimetric analysis−diﬀerential
+thermal analysis, X-ray diﬀraction, high-angle annular dark ﬁeld
+scanning transmission electron microscopy, X-ray photoelectron
+spectroscopy, H2-temperature-programmed reduction, and CO2-
+temperature-programmed desorption. The ethanol upgrading
+reaction can be achieved in the liquid phase without alkali
+additives, ligands, and extra hydrogen. The selectivity for C6+-OH
+reached as high as 67.7% at the single pass 55.6% ethanol
+conversion, substantially higher than the Anderson−Schulz−Flory distribution. Research shows that the porous structure and
+coordination between metal and alkaline sites could play key roles in C6+-OH selectivity. The catalyst recycles and reaction pathway
+of ethanol upgrading to higher alcohols were also discussed.
+KEYWORDS: higher alcohol, clean fuel additives, biomass hydroxyapatite, bioethanol, Guerbet reaction
+■
+
+
+========== EXPERIMENTAL ==========
+
+ is shown in Figure
+7. There are two peaks appearing at binding energies of 853.5
+and 856.4 eV in the XPS spectra of BAP-0.25Ni-calcinated in
+the Ni 2p3/2 region. The ﬁtting peak at 853.5 eV can be
+ascribed to Ni2+ in NiO dispersed on BAP,43 while the peak at
+856.4 eV should be attributed to Ni2+ in the BAP skeleton due
+to ion exchange with Ca.44 The satellite peak at approximately
+861.6 eV is the shakeup satellite peak of nickel at the high
+binding energy side of the Ni 2p3/2 edge.45 When the catalyst
+was reduced at 470 °C for 2 h, the peak at 852.5 eV, which is
+ascribed to metallic Ni0, appeared.46 However, the Ni2+ species
+cannot be completely reduced at this temperature due to the
+strong interaction between the metal and support.
+Catalytic Performance of the Diﬀerent Catalysts. The
+eﬀect of calcination temperature on the catalytic performance
+was studied in the range of 300−700 °C. As shown in Figure 8,
+the conversion of ethanol ﬁrst rose and reached the optimum
+with an ethanol conversion of 77.4% at a calcination
+temperature of 400 °C. Then, the conversion decreased with
+calcination temperature, showing only 11.6% when the
+calcination temperature was 700 °C. It is interesting that the
+product distribution also showed an obvious diﬀerence. When
+the calcination temperature was lower than 400 °C or higher
+than 600 °C, the primary product was n-butanol, whereas the
+longer chain alcohols, that is, C6-OH, C8-OH, and C10+-OH,
+were signiﬁcantly high at 400 and 500 °C. For example, the
+selectivity of C6+-OH could reach 44.2% at 400 °C. These
+results can be explained by the changes in the catalyst
+structure, as revealed in catalyst characterization. The raw bone
+was catalytically inert before heat treatment, as we tested the
+Ni/bone in the reaction and found no eﬀective ethanol
+conversion. As shown by TG-DTA analysis, the oxidation of
+organic matter of bone to form the porous structure occurred
+at ca. 280−400 °C. When the calcination temperature was too
+low, such as 300 
+
+lly inert before heat treatment, as we tested the
+Ni/bone in the reaction and found no eﬀective ethanol
+conversion. As shown by TG-DTA analysis, the oxidation of
+organic matter of bone to form the porous structure occurred
+at ca. 280−400 °C. When the calcination temperature was too
+low, such as 300 °C, active catalytic centers were hindered by
+organic matter. However, as revealed by SEM and XRD
+analyses, when the calcination temperature was too high
+(above 600 °C), the growth of nanocrystals would signiﬁcantly
+reduce the porous structure, leading to a small speciﬁc surface
+area, just as textual analysis showed. Both the accessible metal
+sites and basic sites are reduced, resulting in weak catalytic
+activity and low C6+-OH selectivity.
+As shown in the catalyst characterization, the Ni loading
+amount may aﬀect both Ni sites (size, dispersion, and metal−
+support interaction) and basic sites. Therefore, the Ni loading
+amount would have a signiﬁcant inﬂuence on the ethanol
+conversion and distribution of products. As shown in Figure 9,
+as the Ni loading increased from 0.1 to 5%, the ethanol
+conversion increased from 17.8 to 77.4%, while the selectivity
+of total alcohols decreased from 95.2 to 73.7% because some
+alkanes were generated as byproducts, mainly including odd
+number chained aliphatic hydrocarbons, that is, CH4, C3H8,
+C5H12, C7H16, and so forth. The selectivity of C6+-OH,
+including 2-ethyl-1-butanol, 1-hexanol, 2-ethyl-1-hexanol, and
+1-octanol, reached a higher level when the Ni loading was in
+the range of 0.25−1% (Figures S2 and S3 show the typical GC
+Figure 6. CO2-TPD proﬁles of several typical catalysts.
+Figure 7. XPS spectra of the Ni 2p3/2 region of BAP-0.25Ni.
+Figure 8. Catalytic performance of the BAP-T-5Ni catalysts (T = 300,
+400, 500, 600, and 700). Conditions: 0.1 MPa N2, 200 °C, 24 h, 2.5
+mL of toluene, 0.5 mL of ethanol, 0.25 g of the catalyst, Ni loading 5
+wt %.
+ACS Sustainable Chemistry & Engineering
+pubs.acs.org/journal/ascecg
+Research Article
+http
+
+
+========== RESULTS ==========
+
+results. The catalyst regeneration and reaction
+pathway of ethanol upgrading to higher alcohols over the Ni-
+BAP catalyst are also discussed.
+■

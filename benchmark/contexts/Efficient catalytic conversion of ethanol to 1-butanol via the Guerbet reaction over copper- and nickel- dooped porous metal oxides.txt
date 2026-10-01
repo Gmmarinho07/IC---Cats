@@ -1,0 +1,268 @@
+========== ABSTRACT ==========
+
+on Plus Environment
+ACS Sustainable Chemistry & Engineering
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+2  
+  
+Abstract  
+The   direct   conversion   of   ethanol   to   higher   value   1-­‐butanol   is   a   catalytic   transformation   of   great  
+interest  in  light  of  the  expected  wide  availability  of  bioethanol  originating  from  the  fermentation  of  
+renewable  resources.  In  this  contribution  we  describe  several  novel  compositions  of  porous  metal  
+oxides  (PMO)  as  highly  active  and  selective  catalysts  for  the  Guerbet-­‐coupling  of  ethanol  to  1-­‐butanol  
+in   the   temperature   range   of   180-­‐320   °C.   The   novel   PMO   catalysts   that   do   not   contain   any   noble  
+metals  are  obtained  by  calcination  of  a  series  of  hydrotalcite  precursors  synthetized  through  modular  
+procedures.  In  particular,  catalyst  compositions  simultaneously  containing  Cu  and  Ni  dopants  have  
+shown   excellent   catalytic   activities.   Up   to   22%   1-­‐butanol   yield   at   56%   ethanol   conversion   were  
+reached   in   a   batch   mode,   recycling   and   leaching   tests   showed   excellent   robustness   of   the   new  
+catalysts.  An  extensive  characterization  by  means  of  several  techniques  such  as  powder  XRD,  SEM,  
+TEM,  BET,  NH3-­‐  and  CO2-­‐TPD  was  performed  in  order  to  understand  structure-­‐activity  trends.    
+Key  words:  
+Bio-­‐ethanol,  1-­‐butanol,  Guerbet  reaction,  copper,  porous  metal  oxides  
+  
+  
+  
+Page 2 of 27
+ACS Paragon Plus Environment
+ACS Sustainable Chemistry & Engineering
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+3
+
+
+========== EXPERIMENTAL ==========
+
+e  main  products.  The  best  catalytic  performance  was  achieved  with  catalysts  
+containing  both  copper  and  nickel.  The  conversion  values  were  increased  to  62.4%,  51.2%  and  47.9%  
+(Table  2,  Entry  4,  5  and  6)  and  1-­‐butanol  yield  was  18.7%,  17.9%,  and  21.1%,  respectively  (Table  2,  
+Entry   4,   5   and   6).   With   the   increasing   amount   of   Ni   dopant   besides   copper,   the   selectivity   of   1-­‐
+butanol   remained   at   a   constant   value   of   72%,   but   the   total   alcohol   to   ester   ratio   increased.   The  
+space-­‐time  yields  with  these  Cu-­‐Ni  PMOs  were  approximately  3  times  higher  than  those  obtained  
+with   the   composition   with   no   dopants.   A   control   reaction   performed   under   argon   atmosphere  
+showed  no  difference  (Table  2,  Entry  7).  The  HTC  alone  was  also  active,  but  the  yield  of  1-­‐butanol  
+was   much   lower   (Table   2,   Entry   8).   To   our   knowledge,   PMO   catalysts   containing   both   Ni   and   Cu  
+dopants   have   not   yet   been   used   for   the   Guerbet   coupling   of   ethanol.   A   few   examples   of   similar  
+materials   include   the   hydrogenation   of   glucose   to   sorbitol30,   the   transesterification   of   dimethyl  
+oxalate   with   phenol31,   steam   reforming   reactions32,33   and   furfural   hydrogenation34.   None   of   these  
+reports   have   addressed   the   influence   of   the   mutual   amounts   of   both   dopants   in   the   catalytic  
+outcome.  In  our  study  it  appears  that  the  ratio  between  Cu  and  Ni  has  an  influence  on  the  catalytic  
+performance  and  the  catalyst  composition  with  equimolar  amounts  of  Cu  and  Ni  lead  to  the  best,  
+21.1%  yield  and  72%  selectivity  of  1-­‐butanol  (Table  2,  Entry  6)  among  the  tested  catalysts.  
+Page 8 of 27
+ACS Paragon Plus Environment
+ACS Sustainable Chemistry & Engineering
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+
+catalyst  composition  with  equimolar  amounts  of  Cu  and  Ni  lead  to  the  best,  
+21.1%  yield  and  72%  selectivity  of  1-­‐butanol  (Table  2,  Entry  6)  among  the  tested  catalysts.  
+Page 8 of 27
+ACS Paragon Plus Environment
+ACS Sustainable Chemistry & Engineering
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+9  
+  
+Next,   this   catalyst   composition   was   studied   in   greater   detail.   On   Figure   3   and   Table   S5   the  
+dependence  of  the  conversion  and  yield  values  on  the  reaction  temperature  (in  the  range  180  -­‐  320  
+oC)   and   catalyst   loading   (ranging   from   0.05   g   to   0.2   g)   is   shown.   As   expected,   the   conversion  
+consistently  increased  from  2.3  %  at  180   oC  to  56.5  %  at  320   oC.  At  the  same  time,  the  yield  of  1-­‐
+butanol  increased  up  to  a  maximum  of  22.2  %  and  space  time  yield  reached  the  outstanding  value  of  
+704.6  g  kgcat
+-­‐1h−1  at  320   oC.  However,  the  carbon  balance  decreased  from  98.5%  to  75.0%  with  the  
+increase  of  temperature  (Table  S3).  This  is  attributed  to  the  formation  of  volatile  by-­‐products  (See  
+also  Supporting  Information,  Page  S3).  It  should  be  noted  that  the  runs  at  180  oC  and  220   oC  take  
+place  in  liquid  phase,  while  the  reactions  at  higher  temperature  are  under  supercritical  conditions,  
+which   should   facilitate   mass   transfer.   The   yield   of   long   chain   alcohols   rose   with   the   temperature  
+accordingly   (Figure   3),   whereby   the   formation   of   C6+   products   (especially   C6   and   C8   alcohols)   at  
+higher   temperatures   was   mainly   due   to   the   self-­‐coupling   of   1-­‐butanol   and   to   the   coupling   of   1-­‐
+butanol  with  ethanol.  That  is  why  the  selectivity  of  1-­‐butan
+
+
+========== RESULTS ==========
+
+results  in  the  Guerbet  coupling  of  ethanol  to  1-­‐butanol  
+is  also  summarized  in  Table  S1  and  Table  S2  with  the  corresponding

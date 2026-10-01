@@ -1,0 +1,35 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "copper-based catalysts",
+                "raw_name": "copper-based catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "copper catalysts",
+                "raw_name": "copper catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg–Al mixed oxides",
+                "raw_name": "Mg–Al mixed oxides",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "copper",
+                "raw_name": "copper",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Mg–Al mixed oxides",
+            "raw_name": "Mg–Al mixed oxides",
+            "article_identifiers": []
+        }
+    }
+}

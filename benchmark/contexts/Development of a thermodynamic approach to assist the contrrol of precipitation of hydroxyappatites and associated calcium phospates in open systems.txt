@@ -1,0 +1,420 @@
+========== EXPERIMENTAL ==========
+
+experimental approach made it possible to
+analyze the influence of various experimental parameters
+such as the pH, the temperature, the final concentration ratio
+[Ca2+]/[HxPO(3−x)−
+4
+] = [Ca2+]/[P] introduced into the reactor as
+well as the order of introduction of the precursor ions on
+materials synthesized under thermodynamic control. It is
+rationalized how setting these experimental parameters can
+help control the HAp morphology in the absence of organic
+solvent or additive.33–35 From an industrial point of view, the
+establishment
+of
+such
+interconnection
+between
+the
+experimental parameters and the properties of the synthesized
+materials is of the utmost interest.36–38 The purpose of this
+study lies in the in-depth analysis of the thermodynamic
+aspects of the competitive precipitation of CaPs, whereas the
+complementary kinetic aspects will be investigated in a
+forthcoming article. Synthesized CaP powders have been
+characterized by X-ray diffraction (XRD), Raman spectroscopy,
+X-ray fluorescence spectroscopy (XRF), scanning electron
+microscopy (SEM) and N2 sorption. The synthesis routes
+implemented at stationary pH to validate the thermodynamic
+model have made it possible to greatly modulate the Ca/P
+ratio of the HAp material as well as its morphology and
+specific surface area (SSA), which is of particular interest in
+the context of applications in heterogeneous catalysis in order
+to establish structure–activity relationships.39
+Materials and methods
+Material synthesis
+Calcium phosphates were prepared via a co-precipitation
+procedure
+using
+an
+automated
+reactor
+(Optimax
+1001
+synthesis
+workstation,
+Mettler
+Toledo)
+that
+allows
+controlling, inter alia, both pH and temperature profiles as
+well as the addition rate of the precursor solutions (Fig. 1).40
+Calcium
+and
+phosphate
+solutions
+were
+prepared
+by
+dissolving 12.81 mg of Ca(NO3)2·4H2O (Sigma Aldrich, purity
+≥99.0%) and 3.74 mg of (NH4)2HPO4 (Acros Organics, purity
+≥99.0%) in 250 mL of ultrapure water (resistivity of 18
+
+ the experimental set-up to
+prevent the detector from directly receiving the incident X-ray
+beam and patterns were recorded by 0.02° steps in the 2θ
+range of 1–6°. The indexation of the XRD lines of the CaP
+phases is reported in S2 (Table S2A†).
+Raman spectroscopy
+Raman spectra were collected with a Kaiser Optical system
+equipped with a charge couple detector (CCD) and a laser
+with λ = 785 nm (P = 12 or 25 mW, resolution = 4 cm−1,
+accumulation time = 30 s, 30 scans per spectrum). Poorly
+crystalline powders were analyzed with a laser power of 25
+mW instead of 12 mW to improve the signal-to-noise ratio,
+without any noticeable observation of material degradation.
+Assignment of the Raman bands of the CaP phases is
+provided in S2 (Table S2B†).
+Scanning electron microscopy
+Scanning electron microscopy with field emission gun (SEM-
+FEG)
+was
+used
+for
+morphological
+investigation
+of
+the
+materials. High resolution images were obtained with a
+Hitachi SU-70 microscope. The samples were fixed on an
+alumina SEM support with a carbon adhesive tape and were
+observed without any metal coating. Secondary electron
+detector (SE-lower) was used to observe the samples. The low
+accelerating voltage was 1 kV to prevent charging effects of
+the insulating CaPs and the working distance was around 10
+to 15 mm.
+N2 sorption
+Specific surface area measurements were carried out on a
+BELSORP-max
+instrument
+(BEL
+Japan)
+at
+77
+K
+after
+evacuation of the samples at 140 °C for 12 h under vacuum.
+This parameter was estimated by using the BET method in
+the 0.05 < p/p0 < 0.30 domain.
+X-ray fluorescence spectroscopy
+Ca/P bulk ratio of the prepared CaPs was determined
+following a quantitative XRF protocol. In order to avoid
+matrix and grain size effects, all samples were melted into
+“beads” and analyzed with a X-ray fluorimeter Epsilon 3xl
+(Panalytical) equipped with an Ag X-ray tube operating under
+He atmosphere, with two conditions: 12 kV–25 μA during 120
+s for the analysis of calcium and 10 kV–30 μA during 1
+
+
+========== RESULTS ==========
+
+ced into the reactor containing the
+phosphate solution, to precipitate the HAp mineral should
+verify the equation:
+Q ¼ a Ca2þ
+
+5
+mina PO3 −
+4
+
+3
+r a HO −
+ð
+Þr
+¼ γ5
+2±γ3
+3±γ±
+Ca2þ
+½
+5
+min PO3 −
+4
+
+3
+r HO −
+½
+r
+c°
+ð
+Þ9
+¼ KHAp
+s
+(1)
+with γ±, γ2± and γ3± the activity coefficients associated with
+HO−,
+Ca2+
+and
+PO3−
+4
+ions
+calculated
+from
+the
+Davies
+equation deriving from the Debye–Hückel theory, [HO−]r and
+[PO3−
+4 ]r the initial concentrations of hydroxide and phosphate
+Table 1
+Ca/P molar ratio of calcium phosphates, dissolution–precipitation equilibria and associated solubility product KCaP
+s, app at 37 and 80 °C. Acid–base
+equilibria and associated acidity constant Kai and Kw at 37 and 80 °C
+Ca/P
+Dissolution–precipitation equilibriuma
+KCaP
+s, app (37 °C)
+KCaP
+s, app (80 °C)
+1.67
+HAp(s) = 5Ca2+
+(aq) + 3PO3−
+4(aq) + HO−
+(aq)
+10−58.6
+10−59.6
+1.50
+ACP(s) = 3Ca2+
+(aq) + 2PO3−
+4(aq)
+10−29.5
+10−31.0
+1.33
+OCP(s) = 4Ca2+
+(aq) + 3PO3−
+4(aq) + H3O+
+(aq) + H2O(l)
+10−48.7
+10−49.5–10−52.5
+1.00
+DCPD(s) = Ca2+
+(aq) + HPO2−
+4(aq) + 2H2O(l)
+10−6.56
+10−7.00
+1.00
+DCPA(s) = Ca2+
+(aq) + HPO2−
+4(aq)
+10−7.03
+10−7.40
+Acid–base equilibriumb
+Ka (37 °C)
+Ka (80 °C)
+H3PO4(aq) + H2O(l) = H2PO−
+4(aq) + H3O+
+(aq)
+Ka1 = 10−2.20
+10−2.37
+H2PO−
+4(aq) + H2O(l) = HPO2−
+4(aq) + H3O+
+(aq)
+Ka2 = 10−7.17
+10−7.09
+HPO2−
+4(aq) + H2O(l) = PO3−
+4(aq) + H3O+
+(aq)
+Ka3 = 10−12.3
+10−11.9
+2H2O(l) = H3O+
+(aq) + HO−
+(aq)
+Kw = 10−13.6
+10−12.6
+a Data on CaPs dissolution–precipitation equilibria were taken and/or extrapolated from the literature.44–47 Note that, for ACP, the
+thermodynamic data used in this study are those associated with the β-Ca3(PO4)2 mineral having a close structure.48 b Data on the acid–base
+equilibria involving phosphate species at 80 °C were extrapolated from the study of Rard and Wolery,49 using the Ellingham approximation.50
+Fig. 2
+Thermodynamic traces predicting the minimum concentration in precursor to be initially introduced into the reactor for both Ca →P (A)
+and P →Ca (B) routes in order to prec
+
+itation
+predicts
+thermodynamic
+differentiation at the beginning of the Ca →P and P →Ca
+synthesis routes as the DCPA/HAp stability frontier is shifted by
+1.5 units of pH, decreasing from 5.3 to 3.8, respectively
+(Fig. 2A and B). Such an influence of the order of introduction of
+the precursors under acidic conditions has never been reported
+in earlier literature studies to the best of our knowledge.
+I – 2. Influence of the temperature. The influence of the
+temperature on the formation of CaPs in aqueous solution
+was studied by plotting the thermodynamic traces [Ca2+]min =
+f(pH) and [P]min = f(pH) calculated at 37 °C (Fig. S5A†) and
+80
+°C
+(Fig.
+2A
+and
+B).
+It
+appears
+that
+the
+reaction
+temperature has very little influence on the stability of the
+calcium phosphates, and the HAp and DCPA materials
+remain the thermodynamic products as a function of the pH
+at physiological temperature (Fig. S5A†). A decrease in
+temperature from 80 to 37 °C leads to a slight increase in the
+KCaP
+s
+values (Table 1), which translates in the need for the
+addition of slightly higher amounts of precursor ions to
+spontaneously precipitate both HAp and DCPA minerals (eqn
+(2) and (4) and Fig. 3). In line with the conclusions of
+Vereecke and Lemaître,32 a lower reaction temperature is
+found to be favourable to the thermodynamic stability of the
+DCPA material over a moderately wider range of pH with an
+increase in this parameter by about 0.5 unit for both
+synthesis routes.
+I – 3. Successive disruptions of equilibrium during the
+addition step: influence of the [Ca2+]/[P] ratio. At a given pH,
+the competitive precipitation of CaPs in P-rich (Ca →P route)
+or Ca-rich (P →Ca route) solutions has to deal with different
+CaPs stabilities (Fig. 2). In particular, the HAp mineral is
+thermodynamically stable over a wider range of pH when
+precipitated in a Ca-rich solution (Fig. 2B) rather than in a
+P-rich one (Fig. 2A) in agreement with its high intrinsic Ca/P
+ratio making it the most calcium enriched CaP minera
+
+ferent
+CaPs stabilities (Fig. 2). In particular, the HAp mineral is
+thermodynamically stable over a wider range of pH when
+precipitated in a Ca-rich solution (Fig. 2B) rather than in a
+P-rich one (Fig. 2A) in agreement with its high intrinsic Ca/P
+ratio making it the most calcium enriched CaP mineral
+(Table 1).
+During the addition step, the [Ca2+]r and [P]r concentrations
+in the reactor decrease due to both the precipitation of CaPs
+and the dilution of the reaction medium. The pH stability
+frontier between HAp and DCPA appears to be more or less
+shifted during that step, depending on the selected synthesis
+route (Fig. 4). Such a pH shift can be calculated using the same
+methodology as that used for the prediction of the DCPA/HAp
+stability frontier at the beginning of the reaction by considering
+the
+corresponding
+decrease
+in
+the
+[Ca2+]r
+and
+[P]r
+concentrations in the reactor, in other words, by taking into
+account the progress of the precipitation reaction. Considering
+the Ca →P route at 80 °C, the pH stability frontier between the
+HAp and DCPA materials, initially at pH 5.3 (Fig. 2A),
+progressively shifts to lower pH as the addition step progresses
+and
+the
+[P]r
+concentration
+decreases
+in
+the
+reactor
+(Fig. 4, dashed line). Within this synthesis route, the stability
+domains of HAp and DCPA are on the right-hand side
+(Fig. 4, region III) and the left-hand side (Fig. 4, regions I and II)
+of the dashed trace, respectively. A reverse tendency is observed
+for the P →Ca route regarding the impact of the addition step
+on the position of the stability frontier moving to higher pH
+during
+the
+progress
+of
+the
+precipitation
+reaction
+(Fig. 4, solid line). Regions I and III in Fig. 4 define
+experimental conditions boundaries for which the order of
+introduction of the precursor ions has no influence on the
+nature of the predicted thermodynamic product, i.e. DCPA
+(region I) or HAp (region III). In contrast, a thermodynamic
+differentiation should occur in region II for which HAp is
+pr
+
+loss can be inferred to a lowering in the size
+of the crystallites, as supported by the significant changes in
+the
+specific
+surface
+area
+(Table
+2).
+Indeed,
+by
+simply
+switching the order of introduction of the ion precursors from
+P →Ca to Ca →P, the SSA increases from 38 (sample 2) to
+102 m2 g−1 (sample 3) for materials prepared at pH 9.0 and
+from 15 (sample 5) to 44 m2 g−1 (sample 7) for those
+synthesized at pH 6.5 (Table 2). Similarly, the particularly
+wide diffraction lines observed for samples 4 and 6, formed at
+physiological temperature (Fig. 5A and B), is attributed to
+barely crystallized particles. Consequently, an increase in the
+precipitation temperature from 37 up to 80 °C results in a
+decrease in the SSA of the materials ranging from 195 to 102
+m2 g−1 for those obtained following the Ca →P route at pH
+9.0 (Table 2, samples 4 and 3) and from 122 to 15 m2 g−1 for
+those prepared with the P →Ca route at pH 6.5 (Table 2,
+samples 6 and 5). Thus, for the same synthesis duration, the
+use
+of
+a
+higher
+reaction
+temperature
+promotes
+a
+thermodynamic control of the precipitation process that
+logically tends to bring the system to a stable state more
+rapidly,
+i.e.
+more
+crystallized
+in
+the
+case
+of
+HAp
+precipitation.55
+Hydroxyapatite
+stoichiometry.
+The
+HAp
+materials
+prepared at pH 6.5 and 9.0 exhibit different Ca/P ratios
+ranging from 1.52 to 1.72 (Table 2, samples 1 to 8). Both the
+pH and the order of introduction of the precursor ions are
+shown
+to
+influence
+this
+ratio
+with
+the
+formation
+of
+substoichiometric materials (Ca/P < 1.67) at pH 6.5. A
+simplified formula Ca10−x(HPO4)x(PO4)6−x(OH)2−x·nH2O was
+reported for such minerals, also referred to as calcium-
+deficient hydroxyapatite (CDHAp, x = 0–1 and Ca/P = 1.67–
+1.50).56 The presence of hydrogen phosphate groups HPO2−
+4
+as crystallographic defects is responsible for the Raman
+bands at 879, 920 and 1011 cm−1 assigned to [P–OH] and
+ν1(HPO4) stretching modes (Table S2B†). The related bands
+are clearly observed for the HAp m

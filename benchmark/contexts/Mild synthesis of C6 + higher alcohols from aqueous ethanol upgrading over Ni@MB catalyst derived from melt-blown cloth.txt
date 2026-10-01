@@ -1,0 +1,232 @@
+========== ABSTRACT ==========
+
+summary, the mild synthesis of C6 + higher alcohols from direct 
+aqueous ethanol upgrading were achieved over the high-active Ni@MB 
+catalyst derived from melt-blown cloth (MB). The nitrogenous MB 
+facilitated the formation of graphite defects and forming N-doped gra­
+phene layers which bring additional basic sites, thus promoting the 
+aldol-coupling and dehydrogenation capability of Ni@MB. Benefiting 
+from this, superior higher alcohols yield of 46.9 % with 74.1 % ethanol 
+conversion was achieved at 170 ◦C mild reaction temperature over 
+optimal Ni@MB-1/20–500 catalyst. Excellent hydrothermal stability 
+and reusability of Ni@MB catalyst was demonstrated. Furthermore, a 
+novel staged-reaction-cooling (SRC) strategy was proposed for enhanced 
+synthesis of C6 + higher alcohols from aqueous ethanol coupling, the 
+SRC reaction conditions were explored and optimal C6 + higher alcohols 
+selectivity up to 72.1 % was firstly achieved. This work gains new insight 
+to mild synthesis of alternative higher alcohols from readily-accessible 
+aqueous bio-ethanol and the waste-to-resource strategy. 
+CRediT authorship contribution statement 
+Qian Zhang: Writing – review & editing, Validation, Supervision, 
+Methodology, Data curation. Yanlan Cen: Writing – original draft, 
+Visualization, Software, Project administration, Methodology, Investi­
+gation, Formal analysis, Data curation. Bo Chen: Conceptualization. 
+Jiajin Li: Methodology. Xinqi Zheng: Visualization. Xiaoping Wu: 
+Project administration. Songbai Qiu: Formal analysis. Tiejun Wang: 
+Resources. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+The data that has been used is confidential. 
+Acknowledgements 
+This work was supported by the National Nature Science Foundation 
+of China (22278088, 52106232), the National Key Research and 
+Development Progr
+
+
+========== EXPERIMENTAL ==========
+
+Experimental section 
+2.1. Materials 
+All chemicals were commercially available and used as purchased 
+without further purification. Nickel (II) nitrate (Ni(NO3)2⋅6H2O, 99.8 %) 
+was purchased from Macklin Biochemical Technology Co., Ltd. (China). 
+Melt-blown cloth (MB) was obtained from Shixin Textile Company 
+(China), with a basis weight ranging from 18 to 60 g/m2 and average 
+molecular weight between 40,000 and 90,000. Citric acid (C6H8O7⋅H2O, 
+CA, with a purity specification of 99.5 %) was purchased from Aladdin 
+Biochemical Technology Co., Ltd. (China). 
+2.2. Catalyst preparation 
+The Ni@MB catalysts were fabricated through a facile impregnation- 
+carbonization strategy using melt-blown cloth (MB) and Ni(NO3)2⋅6H2O 
+as staring materials as shown in Fig. 1. Firstly, the Ni(NO3)2⋅6H2O (1.6 
+g) was added into certain amount of ethanol to obtain a homogeneous 
+nickel-ethanol solution. Then, the MB (unit weight of 25 g/m2, 1.5 g) 
+was fragmented and impregnated into the above nickel-ethanol solution 
+with thoroughly stirring, followed by drying overnight at 80 ◦C in oven. 
+Subsequently, the dried precursor was transferred to a tubular furnace 
+and carbonized for 2 h at certain temperature with N2 flow. Finally, the 
+Ni@MB catalyst was obtained as black sample. The catalysts prepared 
+with various conditions were denoted as Ni@MB-X-T, where X repre­
+sented the molar ratio of Ni to MB (MB was calculated with PP basis, 
+typical ratios of 1/5, 1/10, 1/15, 1/20, 1/25, 1/30, 1/35 and 1/50 were 
+adopted), and T represented the carbonization temperature (typical 
+temperatures of 400, 450, 500, 550, 600, 650 and 700 ◦C were adopted). 
+For comparison, the Ni@CA catalyst was also prepared using same 
+method except adopting citric acid (CA) as staring material instead of 
+MB. 
+2.3. Catalyst characterization 
+The crystal states of obtained catalysts were analyzed by using X-ray 
+diffractometer (MiniFlex 600, Rigaku, Ltd., Japan) equipped with a Cu 
+Kα radiation source and a wavel
+
+pared using same 
+method except adopting citric acid (CA) as staring material instead of 
+MB. 
+2.3. Catalyst characterization 
+The crystal states of obtained catalysts were analyzed by using X-ray 
+diffractometer (MiniFlex 600, Rigaku, Ltd., Japan) equipped with a Cu 
+Kα radiation source and a wavelength (λ) of 1.5418 nm. The 2θ scanning 
+range was set from 5◦to 80◦, with a scanning rate of 10◦/min. The 
+microstructure and morphology were observed using scanning electron 
+microscopy (SEM, SU8220, Hitachi) and transmission electron micro­
+scopy (TEM, FEI Thermo Talos F200S TEM). Prior to the characteriza­
+tion, the samples were thoroughly ground in an agate mortar. After 30 
+min of ultrasonic dispersion in anhydrous ethanol, the dispersed solu­
+tion was dropped onto a carbon film supported on a copper grid for 
+observation. The Brunauer-Emmett-Teller (BET) method was used to 
+measure the pore characteristics and specific surface area of the mate­
+rials at Micromeritics ASAP 2460. Prior to measurement, the samples 
+were first degassed at 300 ◦C for 12 h. The Barrett-Joyner-Halenda 
+(BJH) method was employed for further analysis of the data. Thermo 
+Scientific K-Alpha X-ray Photoelectron Spectroscopy (XPS) analyzer was 
+adopted to analyze the surface elemental composition and chemical 
+states of the samples. Approximately 20 mg of sample was pressed into a 
+pellet for testing, the acquired data was calibrated based on the binding 
+energy of the C 1 s peak at 284.8 eV. The CO2 temperature-programmed 
+desorption-mass spectrometry (CO2-TPD-MS) experiment was conduct­
+ed to analyze the desorption process of carbon dioxide on the catalyst. 
+Fig. 1. Preparation process of the Ni@MB catalyst. 
+Q. Zhang et al. 
+Chemical Engineering Science 288 (2024) 119841
+3
+Raman spectrum was recorded using the WITec alpha300R system from 
+Germany for carbon defect analysis. The content of Ni in the catalyst 
+sample was analyzed using the Agilent 720 ES Inductively Coupled 
+Plasma Atomic Emi
+
+
+========== RESULTS ==========
+
+glomeration. For comparison, the Ni@CA catalyst was prepared as its 
+XRD pattern shown in Fig. 2c, diffraction peaks corresponding to the Ni 
+(111), (200) and (220) were also observed. Notably, the narrow 
+FWHM of Ni@CA indicating larger Ni particle sizes compared to 
+Ni@MB. 
+The N2 adsorption and desorption results of the prepared Ni@MB 
+catalysts are shown in Fig. 3. The catalysts exhibit typical Type IV 
+isotherm within P/P0 range of 0.4–1.0, indicating the characteristic of 
+mesoporous network (Hongmanorom et al., 2021). The pore distribution 
+analysis reveals the abundant mesopores with pore volume among 0.16 
+cm3/g to 0.26 cm3/g and BET areas among 151.1 m2/g to 202.3 m2/g 
+(Table S2). Specifically, the high MB content as well as the carbonization 
+temperature are beneficial for preparing Ni@MB catalyst with large 
+specific surface areas, which is favorable to facilitate the accessibility of 
+active sites. 
+The morphological characteristic of prepared catalysts was investi­
+gated by SEM and TEM as shown in Fig. 4 and Fig. S1. Clearly, the 
+abundant multi-layered stacking structure of Ni@MB sample can be 
+observed in Fig. 4a SEM image. Typically, the detailed TEM images 
+further reveal the multiple carbon layers encapsulated metal particle 
+structure of Ni@MB-1/20–500 catalyst (Fig. 4b–d), and the metal par­
+ticles are well-dispersed with an average particle size of 5.63 nm 
+Fig. 2. The XRD diffraction pattern: (a) Ni@MB-X-500 catalysts, (b) Ni@MB-1/20-T catalysts and (c) Comparison between Ni@CA-1/20–500 and Ni@MB-1/20–500 
+catalysts prepared under same conditions. 
+Q. Zhang et al. 
+Chemical Engineering Science 288 (2024) 119841
+4
+(Fig. 4i). For Ni@MB prepared from different Ni/MB ratios and 
+carbonization temperatures, the metal particle size increased with the 
+increase of Ni/MB ratio (Fig. S1a–f) and metal aggregation occurred 
+with elevated carbonization temperature (Fig. S1g-l), which is consis­
+tent with the XRD analysis mentioned. Additionally, lattice 
+
+yproducts, and over- 
+hydrogenated hydrocarbons (HC). The gas product mainly consist of 
+H2 and C1 gas products from C-C cleavage, such as CH4, CO and CO2. 
+According to the catalytic performances of ethanol aqueous coupling 
+shown in Fig. 7, the trends of ethanol conversion and higher alcohols 
+yield varied with the change of Ni/MB ratio in Ni@MB-X-500 catalyst. 
+When the Ni/MB ratio decreased from 1/5 to 1/20, the ethanol con­
+version increased from 64.6 % to 74.1 %, and the yield of higher alco­
+hols also increased from 23.8 % to 46.9 %. More importantly, we found 
+that the carbon distribution of higher alcohols shifted significantly to­
+wards C6 + higher alcohols, with the highest selectivity reaching 66.7 
+%. In general, the carbon distribution of higher alcohol products from 
+ethanol coupling usually shows decreasing trend with the increase of 
+carbon number due to the step-growth cascade reaction process (Eagan 
+et al., 2020). Here, the selectivity of C6 hexanol reached 28.6 % 
+compared with 29.9 % of C4 butanol over the Ni@MB-1/20–500 cata­
+lyst as shown in Fig. 7b, which clearly broke the traditional cascading 
+chain growth pattern of carbon distribution. This should be caused by 
+the introduction of additional basic centers by N-doping, which en­
+hances the aldehydes coupling (Ling et al., 2023; Juwen et al., 2022; Lin 
+et al., 2022). Further decreased the Ni/MB ratio from 1/20 to 1/35, the 
+conversion of ethanol and higher alcohols yield decreased accordingly. 
+Fig. 4. (a) SEM image, (b) TEM image, (c) HRTEM image, (d) HAADF image, (e-h) EDS elemental map of C, N, O, and Ni, (i) particle size distribution for the Ni@MB- 
+1/20–500 catalyst; (j) TEM image, (k) HRTEM image and (l) particle size distribution for the Ni@CA-1/20–500 catalyst. 
+Q. Zhang et al. 
+Chemical Engineering Science 288 (2024) 119841
+6
+Combining with the prior XRD and TEM analysis, the high Ni/MB ratio 
+led to larger particle size and metal aggregation, while the low Ni/MB 
+ratio led to o
+
+TEM image and (l) particle size distribution for the Ni@CA-1/20–500 catalyst. 
+Q. Zhang et al. 
+Chemical Engineering Science 288 (2024) 119841
+6
+Combining with the prior XRD and TEM analysis, the high Ni/MB ratio 
+led to larger particle size and metal aggregation, while the low Ni/MB 
+ratio led to over-thick carbon layer, which both unfavorable for the 
+accessibility of active sites (Zhu et al., 2022). Preferably, the catalyst 
+with Ni/MB ratio of 1/20 exhibited best higher alcohols yield of 46.9 % 
+with C6 + higher alcohols selectivity of 66.7 %. 
+3.2.2. Effect of carbonization temperature on Ni@MB catalytic activity 
+The ethanol coupling catalytic activity using Ni@MB-1/20-T cata­
+lysts prepared at different carbonization temperatures were shown in 
+Fig. 8. It can be observed that both ethanol conversion and higher al­
+cohols yield enhanced as the catalyst carbonization temperature 
+increased from 400 ◦C to 500 ◦C. But further increased the carbonization 
+temperature to 700 ◦C led to significant decay of catalyst activity. Based 
+on prior XRD and XPS analysis, the low carbonization temperature like 
+400 ◦C is inadequate for the formation of active-Ni and the over-high 
+carbonization temperature led to severe metal agglomeration, which 
+responsible for their declined catalyst activities. Optimally, the Ni@MB- 
+1/20–500 catalyst exhibited the best activity with ethanol conversion 
+reached 74.1 %. 
+3.2.3. Effect of reaction temperature 
+The reaction temperature usually play crucial role for catalytic per­
+formance and the low reaction temperature is desired for its benefits in 
+energy conservation and low reactor cost. Herein, the effect of reaction 
+temperature on ethanol coupling to higher alcohols was investigated 
+over the optimal Ni@MB-1/20–500 catalyst. As results shown in Fig. 9, 
+the ethanol conversion increased significantly from 32.9 % to 93.3 % as 
+the reaction temperature increased from 140 ◦C to 240 ◦C. However, the 
+selectivity of undesired gas product 
+
+ coupling to higher alcohols was investigated 
+over the optimal Ni@MB-1/20–500 catalyst. As results shown in Fig. 9, 
+the ethanol conversion increased significantly from 32.9 % to 93.3 % as 
+the reaction temperature increased from 140 ◦C to 240 ◦C. However, the 
+selectivity of undesired gas product also expanded with increased re­
+action temperature, which caused by enhanced C-C cleavage side re­
+actions. At reaction temperatures of 240 ◦C, the gas by-product 
+selectivity reached 50.7 %, which led to poor carbon atom efficiency 
+toward target higher alcohols. Preferably, the Ni@MB-1/20–500 cata­
+lyst exhibited the optimal higher alcohols yield of 46.9 % and C6 +
+higher alcohols selectivity of 66.7 % at 170 ◦C reaction temperature. 
+Fig. 5. XPS spectra of the Ni@MB-X-T catalyst: (a) N 1 s spectra, (b) Ni 2p spectra and (c) O 1 s spectra. XPS comparative spectra of the Ni@MB-1/20–500 catalyst 
+and Ni@CA-1/20–500 catalyst: (d) Survey spectra, (e) Ni 2p spectra and (f) N 1 s spectra. 
+Fig. 6. (a) Raman spectra of the Ni@MB-1/20–500 catalyst and Ni@CA-1/20–500 catalyst, and (b) CO2-TPD spectra of the Ni@MB-1/20–500 catalyst and Ni@CA- 
+1/20–500 catalyst. 
+Q. Zhang et al. 
+Chemical Engineering Science 288 (2024) 119841
+7
+Fig. 7. Catalytic activity of ethanol to higher alcohols over Ni@MB catalysts prepared with different Ni/MB ratio: (a) ethanol conversion, higher alcohols yield, 
+product selectivity and C6 + higher alcohols selectivity, and (b) carbon distribution of higher alcohol products. 
+Fig. 8. During the preparation of the Ni@MB-1/20-T catalysts, the influence of different carbonization temperatures on the conversion of ethanol to higher alcohols: 
+(a) ethanol conversion, higher alcohols yield, product selectivity and C6 + higher alcohols selectivity, and (b) carbon distribution of higher alcohol products. 
+Fig. 9. The influence of reaction temperature on the conversion of ethanol to higher alcohols: (a) ethanol conversion, higher alcohols yield，product selectivit

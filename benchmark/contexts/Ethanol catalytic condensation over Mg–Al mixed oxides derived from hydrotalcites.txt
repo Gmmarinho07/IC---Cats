@@ -1,0 +1,256 @@
+========== EXPERIMENTAL ==========
+
+ared under sonication. For the calcined samples, “c” was placed
+in front.
+2.2. Catalysts characterization
+Chemical analysis of the samples was determined in a HP 7500c
+inductively coupled plasma mass spectrometer (ICP-MS). The crys-
+talline structure of the hydrotalcites and the derived mixed oxides
+was studied by XRD using a Philips X’Pert Pro powder diffrac-
+tometer equipped with a CuK radiation source (0.154 nm) and
+operating in a 2 range of 5–85◦at a scanning rate of 0.02◦/s.
+The X-ray tube voltage and current were set at 45 kV and 40 mA,
+respectively. Textural properties of the materials, surface area
+(SBET), average pore diameter (DP) and total pore volume (VP),
+were measured by N2 adsorption–desorption isotherms at 77 K on
+a Micromeritics ASAP 2000.
+Determination of the density of basic sites on the surface of
+the catalysts, along with their strength and nature was carried
+out by thermogravimetric adsorption of CO2 and Fourier transform
+infrared spectroscopy (FT-IR) of chemisorbed CO2. Thermogravi-
+metric adsorption of CO2 (Praxair, >99.99%) on mixed oxides
+was measured using a thermogravimetry-differential scanning
+calorimetry (TG-DSC) instrument (Setaram, Sensys). Samples were
+pretreated in situ at 723 K in pure N2 ﬂowing at 20 mL/min before
+measuring the CO2 adsorption at 0.1 MPa and 323 K. A constant
+ﬂow of 20 mL/min was maintained during the CO2 sorption exper-
+iments for 10 h, followed by desorption under N2 ﬂow for 2 h and,
+subsequently, under thermal conditions (723 K, at 5 K/min). The
+procedures used for the characterization of the basicity of these
+materials have been optimized in a previous work [24].
+The surface acid properties of the catalysts were studied by
+temperature programmed desorption of preadsorbed NH3 and,
+additionally, by the catalytic test of isopropanol decomposition.
+TPD-NH3 experiments were carried out in a Micromeritics TPD/TPR
+2900 apparatus. Samples (100 mg) were pretreated overnight in
+He at 723 K prior to saturation with NH3 (
+
+died by
+temperature programmed desorption of preadsorbed NH3 and,
+additionally, by the catalytic test of isopropanol decomposition.
+TPD-NH3 experiments were carried out in a Micromeritics TPD/TPR
+2900 apparatus. Samples (100 mg) were pretreated overnight in
+He at 723 K prior to saturation with NH3 (5% in He) at 323 K for
+0.3 h. Weakly adsorbed NH3 was removed by ﬂushing with He at
+the same temperature for 1 h. The temperature was then increased
+at a linear rate of 5 K/min up to 723 K while NH3 evolution was
+monitored by mass spectrometry (Pfeiffer Vacuum-300). Catalytic
+decomposition of isopropanol was carried out in order to gain
+further understanding about the balance between basic and acid
+sites [10], and was performed in a U-shaped quartz reactor (4 mm
+i.d.) housed in an electric furnace controlled by PID. The sample
+(100 mg) was placed on a plug of quartz wool and a thermocouple
+was placed inside the catalyst bed. Feed (30 mL STP/min) consisted
+of 2.8 vol.% of isopropanol (Prolabo, 99.7%) gas diluted with nitro-
+gen. Prior to the reaction, the samples were pretreated at 723 K for
+1 h in nitrogen ﬂow. Outgoing gases were analysed on-line by mass
+spectrometry.
+2.3. Reaction studies
+Ethanol conversion experiments were performed between 473
+and 723 K in the same experimental setup described above for
+the isopropanol reaction. The catalysts (100 mg, with a particle
+size of 100–250 m) were pretreated at 723 K for 1 h in helium
+ﬂow before the reaction. Ethanol (Panreac, 99.5%) was vapor-
+ized in helium and the resulting stream, with 5.5 vol.% of ethanol,
+was fed to the reactor at 30 mL STP/min. (W/FA0 = 24.7 g h/mol;
+WHSV = 0.215 h−1). Outgoing gases were analysed on-line through
+a mass spectrometer, previously calibrated for the reaction prod-
+ucts response. Additionally, products identiﬁcation was conﬁrmed
+438
+M. León et al. / Catalysis Today 164 (2011) 436–442
+Table 1
+Chemical and morphological properties of the mixed oxides used as condensation catalysts in this w
+
+
+========== RESULTS ==========
+
+Results obtained in these two experiments were similar to the
+obtained in the parent experiment, suggesting the absence of both
+external and internal mass transfer effects.
+3. Results and discussion
+3.1. Catalysts characterization
+Results concerning the chemical and morphological character-
+ization of the catalyst are summarized in Table 1, further details
+being described in our previous work [24]. Chemical analysis con-
+ﬁrmed the correct incorporation of Mg and Al cations from the
+precursor solutions, since molar ratios Mg/Al = 3 were determined
+for all the samples. X-ray diffraction patterns of raw materials
+showed the typical diffractograms of hydrotalcite-like materials
+(JCPDS 14-191) [24]. Regarding the mixed oxides, XRD patterns
+revealed that the layered structure was completely collapsed after
+heat treatment. Only weak, broad peaks reﬂections at ∼37◦, 43◦
+and 62◦were observed, which corresponds to diffraction by planes
+(1 1 1), (2 0 0) and (2 2 0) of the periclase (MgO, JCPDS 45-946).
+No aluminium phases were discerned in the diffractograms, sug-
+gesting that aluminium compounds should be well dispersed or
+forming an amorphous phase [25]. The crystallite size of the
+mixed oxides was calculated from the plane (2 0 0) using the
+Debye–Scherrer equation [26] and their values are included in
+Table 1. Sonication treatment generally leads to slightly lower
+crystillinities, caused by acoustic cavitation effects, which induces
+particle fragmentation [22]. This effect is more marked in the
+mixed oxides prepared by low supersaturation method, how-
+ever no differences were found between catalysts synthesized at
+high supersaturation conditions. Nitrogen adsorption–desorption
+isotherms determined at 77 K correspond to a type IV isotherm
+(mesoporous solids) according to the IUPAC classiﬁcation. From
+the values exposed in Table 1, precipitation at high supersatura-
+tion conditions gave rise to mixed oxides displaying larger speciﬁc
+surface areas, although smaller pore sizes 
+
+otherms determined at 77 K correspond to a type IV isotherm
+(mesoporous solids) according to the IUPAC classiﬁcation. From
+the values exposed in Table 1, precipitation at high supersatura-
+tion conditions gave rise to mixed oxides displaying larger speciﬁc
+surface areas, although smaller pore sizes and pore volumes.
+The combined physisorption and chemisorption isotherms of
+CO2 at 323 K were determined by TG-DSC. After desorption under
+N2 ﬂow at the same temperature, the weakly bonded physisorbed
+CO2 was removed, remaining merely the chemisorbed fraction,
+which can be correlated with the density of basic sites on the sur-
+face of the catalysts. From the ﬁrst column in Table 2 (amount of
+chemisorbed CO2 expressed in mmol per gram of sample), it can
+be concluded that ultrasound treatment during the coprecipita-
+tion step markedly enhanced the surface basicity on the catalysts.
+Furthermore, high supersaturation method also beneﬁted the gen-
+eration of basic sites, compared to low supersaturation method.
+To further characterize the basic sites, infrared spectroscopic
+studies of the surface of the mixed oxides after CO2 adsorption
+and desorption at temperatures up to 673 K were determined in
+our previous work [24]. Experimental results showed that bridging
+bidentate carbonates were formed on the weakest basic sites, since
+they disappear above 323 K. Bicarbonates and chelating bidentate
+disappeared above 373 and 473 K, respectively, whereas a fraction
+of unidentate carbonates remained even after evacuation at 673 K.
+The values of the assigned infrared bands corresponding to the
+highest vibration modes of the spectra obtained after CO2 adsorp-
+tion at room temperature, as well as the area of the decomposed
+peaks corresponding to each species, which is proportional to the
+concentration of each type of basic site present in the samples, are
+summarized in Table 2. According to these results, ultrasound treat-
+ment not only increased the total number of basic sites, but also
+th
+
+ the area of the decomposed
+peaks corresponding to each species, which is proportional to the
+concentration of each type of basic site present in the samples, are
+summarized in Table 2. According to these results, ultrasound treat-
+ment not only increased the total number of basic sites, but also
+the proportion of the stronger ones, which is consistent with the
+remarks reported by Climent et al., 2004 [22]. Regarding the pre-
+cipitation method, high supersaturation conditions increased the
+density of strong base sites.
+Main results of the integration of TPD-NH3 proﬁles are reported
+in the last column of Table 2. Similar considerations can be drawn
+for all the catalyst regarding their surface acid properties, except
+for cHT2. This sample presented the largest amount of adsorbed
+ammonia, along with the highest temperature for the maximum,
+which can be correlated with a greater density and average strength
+of the surface acid sites, respectively.
+Besides direct measurements of acidity adsorbing gaseous probe
+molecules as NH3, catalytic test reactions, such as decomposi-
+tion of isopropanol, have been used for indirect characterization
+of the catalysts acidity in reaction conditions [27,28]. Depend-
+ing on the acid–base properties of the catalyst, isopropanol can
+undergo three types of competitive reactions, namely: dehydro-
+genation, which gives rise to acetone and hydrogen; intramolecular
+dehydration, which yields propene and water; and intermolecu-
+lar dehydration to isopropyl ether [29]. It has been reported that
+dehydrogenation to acetone involves intermediate-strength base
+sites [30]. Nevertheless, propene formation can proceed via differ-
+ent mechanisms. On strongly acid solids, isopropanol dehydrates
+through an E1 mechanism in which only the acidic sites take part,
+whereas on amphoteric oxides the reaction occurs via a concerted
+Table 2
+Surface acid–base properties of the mixed oxides studied in this work.
+Chem. CO2
+(mmol/g)
+Unidentate
+carbonates
+Chelating biden
+
+id solids, isopropanol dehydrates
+through an E1 mechanism in which only the acidic sites take part,
+whereas on amphoteric oxides the reaction occurs via a concerted
+Table 2
+Surface acid–base properties of the mixed oxides studied in this work.
+Chem. CO2
+(mmol/g)
+Unidentate
+carbonates
+Chelating bidentate
+carbonates
+Bicarbonates
+Bridged bidentate
+carbonates
+TPD-NH3
+cHT1
+0.67
+1575, 1505 (23)
+1650 (55)
+85 [4.1 × 10−11]
+cHT1US
+0.79
+1590, 1530 (44)
+1645 (13)
+1685 (19)
+1730 (7)
+87 [4.5 × 10−11]
+cHT2
+0.68
+1590, 1525 (27)
+1655 (19)
+1690 (14)
+1740 (5)
+98 [5.6 × 10−11]
+cHT2US
+0.90
+1590, 1500 (74)
+1650 (14)
+1690(36)
+1755 (3)
+87 [4.8 × 10−11]
+In italics (cm−1): infrared bands after CO2 adsorption at room temperature. In brackets (a.u.): area of the decomposed FT-IR peaks. In bold (◦C): temperature of the maximum
+of the TPD-NH3 desorption peak. In square brackets (a.u.): area under the TPD-NH3 peaks.
+M. León et al. / Catalysis Today 164 (2011) 436–442
+439
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+500
+550
+600
+650
+700
+750
+Conversion
+T (K)
+Fig. 1. Evolution of conversion with temperature over the tested catalysts: cHT1
+(♦), cHT1US (⃝), cHT2 (△) and cHT2US (×).
+E2 mechanism implying acid–base pairs. Additionally, dehydration
+can take place on strongly basic catalyst containing acid–base pairs
+of imbalanced strength through an E1cB mechanism. Finally, the E2
+mechanism also leads to isopropyl ether formation [10]. Reactions
+carried out in the present work yielded acetone as the main prod-
+uct for the four catalysts tested. Isopropyl ether was not detected in
+any case, whilst propene was only appreciable with two of the cat-
+alysts: cHT2, reaching a maximum selectivity of 35% at 633 K, and
+cHT1US, 10.5% at the same temperature. Sample cHT2 showed the
+greater acid character according to TPD-NH3 experiments, which,
+together with the fact that no outstanding base properties were
+evidenced from FT-IR measurements, suggests that dehydration on
+this catalyst could occur mainly through an E2 mechanism. On the
+o

@@ -1,0 +1,265 @@
+========== EXPERIMENTAL ==========
+
+Experimental section 
+2.1. Catalyst preparation 
+Calcium-iron-modified Mg-Al based-hydrotalcite precursor was 
+prepared by a co-precipitation method [47] improved via sonication, 
+using a 3:1 ratio between divalent cations and trivalent cation. Besides, 
+partial substitution of Mg by Ca (80%Mg2+ + 20%Ca2+ in molar basis) 
+and partial substitution of Al by Fe (80%Al3+ + 20%Fe3+ in molar 
+basis) were considered. An adequate aqueous solution of Ca 
+(NO3)2⋅4H2O, Fe(NO3)3⋅9H2O, Mg(NO3)2⋅6H2O and Al(NO3)3⋅9H2O (all 
+precursors were over 98% purity supported by Panreac AppliChem) was 
+added drop-wise into a 0.2 mol⋅L−1 K2CO3 (Panreac AppliChem, 99%) 
+solution under controlled temperature (60 ◦C), in constant vigorous 
+stirring and the pH was adjusted to 10 ± 0.2 by adding appropriate 
+quantities of a 0.1 mol⋅L−1 NaOH solution. During the precipitation step, 
+a constant nitrogen stream (20 mL⋅min−1) was flowing into the synthesis 
+container to maintain an inert atmosphere in order to ensure a contin­
+uous stream of N2 that displaces the air in the system. Once all the so­
+lution had been added, the mixture was kept overnight at 60 ◦C after 
+sonication 
+at 
+room 
+temperature 
+(Ultrasonic 
+Processor 
+UIP1000hd-Hielscher with a frequency of 20 KHz using a titanium 
+sonotrode). The precipitate was washed several times with distilled 
+water by high-speed centrifugation until pH 7 to remove alkali metals 
+and nitrate ions and then, the aqueous solid suspension was sonicated 
+before keeping it autoclaved at 100 ◦C during 48 h. The gel was dried 
+overnight under vacuum at 40 ◦C and then, the powder was milled and 
+sieved (100-80 MESH) and labeled as Ca20Fe20MgAl-LDH. Another 
+non-modified mixed oxide hydrotalcite-base precursor, MgAl-LDH, was 
+synthesized using the same divalent-trivalent cation ratio (MgAl = 3:1) 
+and methodology. The resulting hydrotalcites were calcined at 400 ◦C 
+(5 ◦C⋅min−1) in air for 4 h deriving in mixed oxides catalysts designated 
+as Ca20Fe20MgAl-Ox and M
+
+d mixed oxide hydrotalcite-base precursor, MgAl-LDH, was 
+synthesized using the same divalent-trivalent cation ratio (MgAl = 3:1) 
+and methodology. The resulting hydrotalcites were calcined at 400 ◦C 
+(5 ◦C⋅min−1) in air for 4 h deriving in mixed oxides catalysts designated 
+as Ca20Fe20MgAl-Ox and MgAl-Ox, respectively. 
+2.2. LDHs and oxide-derived catalysts characterization 
+The LDHs’ morphologies were characterized by Scanning Electron 
+Microscope (SEM) analysis where micrographs were conducted on a 
+JEOL JSM-840 microscope equipped with an Energy Dispersive X-Ray 
+(EDX) detector and a Philips CM200 (200 kV) microscope was used for 
+High Resolution Transmission Electron Microscope (HRTEM) images 
+and the EDX mapping. The specific surface area (m2⋅g−1) was deter­
+mined using Brunauer-Emmet-Teller (BET) method and the pore volume 
+(cm3⋅g−1) by Barret-Joyner-Halenda (BJH) method in a Micromeritics 
+ASAP 2020 Analyzer by adsorption-desorption of N2 at −
+196 ◦C in 
+which solid was previously outgassed in vacuum (1⋅10−3 Pa) at 40 ◦C. 
+X-Ray Powder Diffraction data was recorded using an X′Pert Pro MPD 
+diffractometer (PANanalytical) using a CuKα1 radiation (λ = 1.5406 Å) 
+and a Ge(111) primary monochromator. Measurements were done from 
+10 to 70 º (2Ɵ) and average crystallite size was calculated by Debye- 
+Scherrer equation. 
+Surface basicity and acidity were studied by Temperature- 
+Programmed Desorption (TPD) of preadsorbed CO2 and NH3 respec­
+tively. For TPD profiles, 60 mg of MgAl-Ox or Ca20Fe20MgAl-Ox cata­
+lysts were used (pretreated in He for 2 h at 400 ◦C) and placed in a 
+quartz U-shaped reactor (di = 6 mm) prior of feeding 100 mL⋅min−1 of 
+gas with 2,000 ppm of each compound balanced in He to saturation at 
+60 ◦C. Physisorbed compounds were removed by flowing He at 60 ◦C 
+for 2 h and finally, the samples were heated up to 400 ◦C with a ramp of 
+10 ◦C⋅min−1 in helium. The gas-off was analyzed with the QMS 200 
+mass spectrometer (Pfeiffer Vacuum Prisma™). 
+The na
+
+
+========== RESULTS ==========
+
+Results and discussion 
+3.1. LDHs and catalyst characterization 
+HR-TEM-EDX and SEM images of synthetized LDHs catalyst 
+Fig. 1. (a,b) HR-TEM images and EDX-mapping of (a) MgAl-LDH and (b) Ca20Fe20MgAl-LDH; (c, d) SEM images of (c) MgAl-LDH and (d) Ca20Fe20MgAl-LDH. 
+S. Molina-Ramírez et al. 
+Catalysis Today 394-396 (2022) 365–375
+368
+precursors are shown in Fig. 1. TEM micrographs confirmed the char­
+acteristics of a hydrotalcite well-developed with layered structure and 
+overlapped platelets, some regions with fibrous morphology and a 
+similar lamellar interlayer average length close to 7 nm for both sam­
+ples. The uniform composition of the prepared hydrotalcites were 
+confirmed by EDX elemental mapping analysis, except for the modified 
+hydrotalcite (Fig. 1.b), where some calcium carbonate aggregates were 
+registered. In SEM images (Fig. 1.c and d), the same particle aggregates 
+with irregular shape and size (10–60 µm) were observed for LDH- 
+samples. SEM-EDX composition analysis showed the good homoge­
+neous dispersion of elements for MgAl-LDH and Ca20Fe20MgAl-LDH, and 
+the ratio M2+/M3+ was kept constant without modifying the LDH 
+structure. 
+X-Ray Diffraction patterns for hydrotalcites and oxide catalysts are 
+presented in Fig. 2. LDHs (Fig. 2.a) showed the typical diffractograms of 
+a well-formed hydrotalcite hydroxide structures for MgAl-LDH (ICDD 
+04-015-1683, brucite) and for Ca20Fe20MgAl-LDH (ICDD 01-082-8043, 
+meixnerite). Both XRD patterns exhibited signals at the 2Ɵ angles of 
+11.5º, 22.9º, 34.6º, 45.1º, 60.4º and 61.6º that correspond to the char­
+acteristic (0 0 3), (0 0 6), (0 0 9), (0 1 5), (0 1 8), (1 1 0) and (1 1 3) 
+layered double hydrotalcite structure basal planes, respectively [48,49]. 
+In the case of Ca20Fe20MgAl-LDH, there was no reflection associated 
+with Fe and superimposed signals at 29.4º, 43.1º and 48.5º associated 
+with CaCO3 (ICDD 01-078-4614) were registered. The meixnerite layer 
+structure, brucite-like [50–52], is associated wi
+
+ce properties for oxide catalysts after in situ- 
+pretreatment were studied combining CO2 and NH3 TPD tests and 
+FTIR, and the results are presented in Table 2 and Figs. 3 and 4. 
+Temperature-Desorption curve of CO2 and NH3 are shown from 60 to 
+400 ◦C and CO2/NH3-TPD FTIR profiles are presented in the range of 
+1900–1100 cm−1 where spectra of catalyst samples were collected after 
+probe molecules desorption in vacuum at each temperature. In Table 2, 
+the CO2 and NH3 net adsorption capacity (calculated from TDP 
+Fig. 2. XRD patterns of (a) synthetized LDHs catalyst precursors and (b) mixed oxide catalysts. 
+Table 1 
+Lattice parameters and morphological data of LDHs and oxide derived catalysts. 
+Sample 
+a (Å) 
+c (Å) 
+Crystal 
+(Å) 
+ABET 
+(m2⋅g−1) 
+VP 
+(cm3⋅g−1) 
+DP 
+(Å) 
+MgAl-LDH 
+3.067 
+23.313 
+307.7 
+66 
+0.19 
+110 
+Ca20Fe20MgAl- 
+LDH 
+3.062 
+23.106 
+221.8 
+49 
+0.11 
+91 
+MgAl-Ox 
+– 
+– 
+– 
+81 
+0.31 
+156 
+Ca20Fe20MgAl- 
+Ox 
+– 
+– 
+– 
+62 
+0.13 
+86 
+S. Molina-Ramírez et al. 
+Catalysis Today 394-396 (2022) 365–375
+369
+adsorption curve) are shown. CO2-TPD curves trends are similar and, it 
+can be observed that the Tmax desorption presented 25 ◦C of shift at 
+higher temperatures for Ca20Fe20MgAl-LDH. The values corresponding 
+to net CO2 adsorption capacity revealed an increase in basic sites den­
+sity, higher than ≈600%, for Ca20Fe20MgAl-Ox compared to MgAl-Ox. 
+Furthermore, the value of µmol COret
+2 ⋅m-2 for modified catalyst also 
+revealed a high surface basic sites density. It is remarkable that the 
+partial substitution of Mg and Al by Ca and Fe leads to an increase 
+(Fig. 3.a) in the amount of the weakest basic sites (60–200 ◦C) associ­
+ated to weakly CO2-adsorbed such as metal hydroxide and the medium 
+basic sites assigned to metal-oxygen ion pairs (M2+-O2- and M3+-O2-) at 
+250–450 ◦C temperature range [49,56]. This fact suggests that the 
+incorporation Ca2+ significantly affects the CO2 adsorption capacity of 
+the material while the partial exchange of Al3+ to Fe3+ do
+
+al hydroxide and the medium 
+basic sites assigned to metal-oxygen ion pairs (M2+-O2- and M3+-O2-) at 
+250–450 ◦C temperature range [49,56]. This fact suggests that the 
+incorporation Ca2+ significantly affects the CO2 adsorption capacity of 
+the material while the partial exchange of Al3+ to Fe3+ does not alter the 
+Mg-Al hydrotalcite basic properties as Le´on et al. [45] described. 
+CO2-FTIR-TPD spectra (Fig. 3.b) confirmed the higher concentration of 
+weak-medium basic as Brønsted sites (1650 and 1550 cm−1 [30,57]) in 
+Table 2 
+Values of CO2 and NH3 storage capacity calculated from TPD-experiments. 
+Sample 
+CO2-TPD 
+NH3-TPD 
+CO2-stored 
+(
+mmolCO2⋅g−1
+cat
+)
+μmolCOsto
+2 ⋅m−2 
+NH3-stored 
+(
+mmolNH3⋅g−1
+cat
+)
+μmolNHsto
+3 ⋅m−2 
+MgAl-Ox 
+0.48 
+5.9 
+0.42 
+4.1 
+Ca20Fe20MgAl-Ox 
+3.38 
+54 
+0.20 
+3.2 
+Fig. 3. (a) CO2-Temperature Desorption profiles and (b) FTIR spectra collected of CO2-adsorbed after evacuation at different temperatures for both oxide samples. 
+Fig. 4. (a) NH3-Temperature Desorption profiles and (b) FTIR spectra collected of NH3-adsorbed after evacuation at different temperatures for both oxide samples. 
+S. Molina-Ramírez et al. 
+Catalysis Today 394-396 (2022) 365–375
+370
+modified sample due to the stability of bidentate carbonates at low 
+temperature. It was also established the higher stability of strong basic 
+sites (monodentate species) linked to 1385 cm−1 signal in Ca20Fe20M­
+gAl-Ox which were maintained until 300 ◦C compared to MgAl-Ox 
+(1410 cm−1) catalyst where monodentate carbonates disappeared at 
+250 ◦C [45]. Spectra evolution during the temperature increase after 
+evacuation showed that bidentate carbonates as Brønsted sites were 
+stronger in modified catalyst since they were maintained until 150 ◦C 
+(1650 cm−1) and disappeared at 250 ◦C (1550 cm−1). Monodentate 
+carbonates species related to strong basic sites (1385 cm−1) were 
+maintained at higher temperatures (350 ◦C) in Ca20Fe20MgAl-Ox 
+compared to MgAl-Ox (1410 cm−1) although they totally di
+
+ction aldehyde-derived species 
+with the ethanol together with ethanol retention capacity justify both 
+routes for the relative distribution of formed products. On the right side 
+of the figure, from 250 ◦C to the highest tested temperature of 320 ◦C, it 
+was possible to observe the increase in the fraction of butanol and cro­
+tonaldehyde, even butadiene, as the main products formed from ethanol 
+conversion reaction. These facts indicated that the balance of mono­
+dentate and bidentate ethoxide groups anchored on basic-acid sites 
+together with the species that act as spectators were responsible for the 
+formed intermediary or side products, favoring the butanol selectivity 
+between 250 ◦C and 320 ◦C and decreasing the presence of crotyl 
+alcohol, butadiene and crotonaldehyde. In fact, there was practically an 
+inhibition of all secondary products such as diethyl ether (DEE) mainly 
+hindered by lower-residual Lewis acidity exhibited by this modified 
+oxide catalyst respect to the Mg-Al oxide reference catalyst used. So, the 
+preferential formation of monodentate/bidentate ethoxy species and 
+adsorbed EtOH are identified as the key factors for n-butanol production 
+from ethanol. 
+3.2.3. Catalytic test under ethanol transitory response method 
+Transitory response experiments were performed under ethanol 
+pulse admission and isothermally, at 280 and 400 ◦C, and the results are 
+presented in Fig. 6. Rectangular pulse of ethanol (dark blue) of 
+10,000 ppm were fed into fix-bed reactor once the catalyst was pre­
+treated and stabilized at the reaction temperature. The signal evolution 
+corresponding to the ethanol pulse (left-axis) without catalyst (using 
+quartz as inert) is included with a dotted gray line as a blank. In Fig. 6, 
+the mass intensity of each product (right-axis) was shown for the tests 
+performed for Ca20Fe20MgAl-Ox catalyst and MgAl-Ox reference cata­
+lyst and the legend color code are maintained as in Fig. 5. 
+At 280 ◦C, which is considered in the low te

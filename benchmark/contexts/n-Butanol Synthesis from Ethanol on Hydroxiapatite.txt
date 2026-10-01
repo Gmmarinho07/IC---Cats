@@ -1,0 +1,52 @@
+========== ABSTRACT ==========
+
+Abstract 
+n-Butanol was directly synthesized from ethanol on nonstoichiometric hydroxyapatite 
+(Ca10.2(HP04) 2(P04) 6.2(0H)2_z · n H20; O<Z::Ol, n=0~2.5: HAP). The selectivity and the yield of 
+n-butanol strongly depended on contact time. The hydroxyapatite catalyzed selective ethanol 
+conversion to n-butanol with maximum selectivity of 76%. When this is assumed to be a 
+second-order reaction, the simulation plot of the reaction fits the
+
+
+========== EXPERIMENTAL ==========
+
+experimental data well. 
+1.
+
+
+========== RESULTS ==========
+
+RESULTS AND DISCUSSION 
+Hydroxyapatite 
+with 
+Ca/P=l.64 
+catalyzed selective ethanol conversion to 
+n-butanol at 300°C and contact time 1.78 
+s with maximum selectivity of 76% (see 
+Table), which is the highest value ever 
+reported. Higher alcohols were also 
+obtained. 
+However 
+the 
+reaction 
+mechanism has not been elucidated. 
+Assuming 
+a 
+successive 
+reaction 
+mechanism, in which only n-alcohol was 
+reacted with n-alcohols, and olefins were 
+synthesized by dehydration of alcohols 
+and aldehydes by dehydrogenation of 
+alcohols respectively, we simulated the 
+ethanol conversion curve and the yield 
+curve for n-butanol at 450°C over a 
+range of contact times. Results are 
+shown in the Figure. The n-butanol yield 
+increased with an increase in contact 
+time from 0 to 0.22 s, but decreased 
+thereafter, and the HAP catalyst showed 
+a maximum n-butanol yield of 19.3% at 
+contact time of 0.22 s. The simulation 
+plot thus fits the reaction data well. 
+4.

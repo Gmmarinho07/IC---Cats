@@ -3,11 +3,11 @@
         "catalysts": [
             {
                 "catalyst": "Cu-La-Al composite metal oxides",
-                "raw_name": "Cu-La-Al composite metal oxides",
+                "raw_name": "ordered mesoporous Cu-La-Al composite metal oxides",
                 "article_identifiers": []
             },
             {
-                "catalyst": "ordered mesoporous Al2O3",
+                "catalyst": "Al2O3",
                 "raw_name": "ordered mesoporous Al2O3",
                 "article_identifiers": [
                     "OMA"
@@ -28,13 +28,8 @@
                 ]
             },
             {
-                "catalyst": "stoichiometric copper aluminate spinel",
-                "raw_name": "CuAl2O4",
-                "article_identifiers": []
-            },
-            {
-                "catalyst": "OM-Cu6.3La2.6Al100",
-                "raw_name": "OM-Cu6.3La2.6Al100",
+                "catalyst": "CuAl2O4",
+                "raw_name": "Stoichiometric copper aluminate spinel (CuAl2O4)",
                 "article_identifiers": []
             },
             {
@@ -68,13 +63,23 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "Cu/γ-Al2O3",
-                "raw_name": "Cu/γ-Al2O3",
+                "catalyst": "Cu2+Octa",
+                "raw_name": "Cu2+Octa",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Rh-Cu/Al2O3",
+                "raw_name": "Rh-Cu/Al2O3 catalyst",
                 "article_identifiers": []
             },
             {
                 "catalyst": "Cu0.5Zn0.5Fe2O4",
-                "raw_name": "Cu0.5Zn0.5Fe2O4",
+                "raw_name": "Cu0.5Zn0.5Fe2O4 catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/γ-Al2O3",
+                "raw_name": "Cu/γ-Al2O3 catalyst",
                 "article_identifiers": []
             }
         ]

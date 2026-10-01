@@ -1,0 +1,452 @@
+========== ABSTRACT ==========
+
+
+EtOH Conversion
+0
+0.006
+0.009
+0.012
+0.024
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+)
+%
+C
+(
+.le
+S
+tc
+u
+d
+o
+r
+P
+DMSO fraction (mol%)
+EtOH Conv. (C%)
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+)
+%
+C
+(
+.le
+S
+tc
+u
+d
+o
+r
+P
+EtOH Conv. (C%)
+Sulfur source
+None
+L-Cys
+NiSO4
+LA
+SDS
+0
+20
+40
+60
+80
+)
+%
+C
+(
+.le
+S
+S
+A
+L
+EtOH Conv. (C%)
+Ni@C
+Ni@C-DMSO0.006
+Ni@C-S1/30
+Ni@C-S1/30-NiSO4
+Ni@C-S1/30-SDS
+0
+20
+40
+60
+80
+100
+Ni@C-S1/30-LA
+a
+b
+c
+Fig. 5 | Catalytic performance of catalysts prepared by different synthesis
+methods. EtOH conversion and product selectivity over Ni@C-DMSOz catalysts
+with different DMSO fractions in aqueous EtOH (a) and Ni@C-S1/30-y catalysts using
+different sulfur precursors (b). Reaction conditions: 180 °C, 12 h, catalyst (0.3 g),
+NaOH (21.6 mmol), 50.0 wt% aqueous EtOH (108.0 mmol). The catalytic perfor-
+mance of typical catalysts under the optimized reaction conditions (c). Reaction
+conditions: 180 °C for 6 h and then heating to 250 °C for 6 h, catalyst (0.3 g), NaOH
+(21.6 mmol), 50.0 wt% aqueous EtOH (108.0 mmol).
+Article
+https://doi.org/10.1038/s41467-023-43773-3
+Nature Communications| (2023) 14:7935 
+7
+catalysts. The as-prepared catalysts were denoted as Ni@C-Sx, where x
+represented the molar ratio of sulfur (S) to nickel (Ni).
+Synthesis of Ni@C-DMSOz catalysts
+DMSO was directly introduced to the aqueous EtOH solution for in situ
+modifying Ni@C-S0 catalyst during the reaction. After the reaction, the
+used catalyst was fully washed by EtOH and then dried in vacuum for
+12 h. The catalyst was denoted as Ni@C-DMSOz, where z represented
+the mole fraction of DMSO added to the EtOH aqueous solution.
+Synthesis of Ni@C-S1/30-y catalysts
+Ni@C-S1/30-y catalysts were synthesized by following the typical pro-
+tocol for the synthesis of Ni@C-Sx catalysts with a S/Ni molar ratio of 1/
+30, except that the sulfur precursor of L-Cys was replaced by the same
+molar amount of NiSO4, LA or SDS, respectively. The y represented the
+abbreviation name of sulfur precursor.
+Characterizations
+XRD pa
+
+
+========== EXPERIMENTAL ==========
+
+t sulfur coverage. d Schematic illustration for the role of
+sulfur in promoting upgrading of EtOH to LAS.
+Article
+https://doi.org/10.1038/s41467-023-43773-3
+Nature Communications| (2023) 14:7935 
+6
+fraction, and the EtOH conversion and LAS selectivity reach maximum
+as the DMSO fraction increases to 0.006% (Fig. 5a, Supplementary
+Table 13 and Supplementary Fig. 23).Although XRDanalysis showsthat
+the catalyst after reaction has no difference with the original Ni@C-S0
+catalyst, the deconvoluted XPS peaks assigned to S–Ni and S element
+distributed around the Ni NPs can also be observed over the Ni@C-
+DMSO0.006 (Supplementary Figs. 24–26), suggesting that the sulfur
+can be directly modiﬁed on the Ni surface.
+Then, the ﬂexibility of sulfur precursor was also evaluated. In
+addition to L-cysteine (L-Cys), NiSO4, lipoic acid (LA) and sodium
+dodecyl sulfate (SDS) were also used as sulfur precursors with the
+same S/Ni ratio of 1/30. As revealed in Fig. 5b, Supplementary Table 14
+and Supplementary Fig. 27, the catalyst using NiSO4 as a precursor
+shows a high selectivity for LAS (28.5% for C6OH and 40.7% for C8+OH).
+Additionally, the catalysts using LA and SDS as precursors have higher
+poisoning degree, whose catalytic performances are similar to that of
+Ni@C-S1/25 catalyst. Those results show that the change of the sulfur
+precursors can also effectively enhance the EtOH conversion and
+alcohol selectivity, but there are some differences in poisoning degree
+between various sulfur precursors.
+Under the optimized reaction temperature of 250 °C, the selec-
+tivity of LAS over S-free Ni@C-S0 catalyst is only 23.5%. The catalyst
+performance of Ni@C-S0 catalyst is even lower than that at low tem-
+perature (180 °C) due to the more severe C–C bond cleavage. In con-
+trast to Ni@C-S0 catalyst, both Ni@C-S1/30-y (y stands for sulfur
+precursor) and optimal Ni@C-DMSO0.006 catalysts exhibit desirable
+LAS selectivity (>58.0%) at high conversions of EtOH (>80.0%) (Fig. 5c
+and Supplementary Table 
+
+tem-
+perature (180 °C) due to the more severe C–C bond cleavage. In con-
+trast to Ni@C-S0 catalyst, both Ni@C-S1/30-y (y stands for sulfur
+precursor) and optimal Ni@C-DMSO0.006 catalysts exhibit desirable
+LAS selectivity (>58.0%) at high conversions of EtOH (>80.0%) (Fig. 5c
+and Supplementary Table 15). Moreover, compared to Ni@C-S0 cata-
+lyst, the deviation of the alcohol distribution from the step-growth
+model is more obvious over the Ni@C-S1/30-y and optimal Ni@C-
+DMSO0.006 catalysts (Supplementary Fig. 28), implying that the inhi-
+bition of the C–C bond cleavage is a prerequisite for improving the
+selectivity of LAS. In brief, the above results conﬁrm the ﬂexibility of
+surface sulfur modiﬁcation for preparing Ni@C-Sx catalysts in terms of
+adding method and sulfur precursors.
+Discussion
+In
+
+
+========== RESULTS ==========
+
+54.2 and 856.5 eV correspond
+to
+NiO
+and
+other
+Ni2+
+species
+(NiSx,
+Ni(OH)2
+or
+NiCO3),
+respectively25,32–36. It is noteworthy that the Ni/S ratios determined
+from XPS are substantially lower than those from ICP–OES and ele-
+mental analysis (Supplementary Table 1), implying that the sulfur
+species are mainly distributed on the catalyst surface. The sulfur-
+modiﬁed Ni surface is also proven by infrared spectroscopy with CO
+probe (Supplementary Fig. 8). Moreover, the XPS results of Ni@C-S1/30
+catalyst for different Ar+ beam etching times further indicate that the
+sulfur species are concentrated at the interface of Ni surface and
+adjacent carbon layer (Supplementary Fig. 9). Taken together, these
+results conﬁrm that sulfur has been successfully incorporated to the Ni
+surface.
+Catalytic performance
+The catalytic performance of Ni@C-Sx catalysts was evaluated in a
+stainless-steel autoclave reactor for the conversion of 50.0 wt% aqu-
+eous EtOH to LAS. Originally, the LAS selectivity is 49.2% (26.0% of
+C8+OH) with an EtOH conversion of 51.8% over S-free Ni@C-S0 catalyst
+at 180 °C (Fig. 2a and Supplementary Table 2). Meanwhile, the alcohol
+distribution follows the step-growth model, accompanied with a
+monotonic decrease in the alcohol selectivity with the increase of
+carbon number (Supplementary Fig. 10a). In order to explore the
+promotional effect of surface sulfur modiﬁcation, a series of Ni@C-Sx
+catalysts with different S/Ni ratios were screened systematically. As
+shown in Fig. 2a and Supplementary Table 2, a volcano-type correla-
+tion between EtOH coupling activity and S/Ni ratios was discovered,
+emerging with a summit at the S/Ni ratio of 1/30. Unexpectedly, we
+found that the appropriate incorporation of sulfur in the Ni@C catalyst
+not only prevents C−C bond cleavage and promotes EtOH conversion,
+but also regulates the alcohol distribution. Accordingly, the EtOH
+0
+20
+40
+60
+80
+100
+LAS yield (C%)
+LAS sel. (C%)
+EtOH conv. (%)
+ This work
+ Ref.S12
+ Ref.S13
+ Ref.S14
+ Ref.S15
+0
+
+
+ppropriate incorporation of sulfur in the Ni@C catalyst
+not only prevents C−C bond cleavage and promotes EtOH conversion,
+but also regulates the alcohol distribution. Accordingly, the EtOH
+0
+20
+40
+60
+80
+100
+LAS yield (C%)
+LAS sel. (C%)
+EtOH conv. (%)
+ This work
+ Ref.S12
+ Ref.S13
+ Ref.S14
+ Ref.S15
+0
+1
+2
+3
+4
+5
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+Product Sel. (C%)
+Reuse cycle
+EtOH Conv. (C%)
+0
+20
+40
+60
+80
+100
+220
+240
+250
+260
+280
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+Product Sel. (C%)
+Reaction temperature (°C)
+EtOH Conv. (C%)
+0
+1/60 1/30 1/25 1/20
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+Product Sel. (C%)
+S/Ni molar ratio
+EtOH Conv. (C%)
+a
+c
+e
+b
+d
+f
+Aqueous 
+ethanol 
+Oil phase
+Aqueous 
+phase
+2
+3
+4
+5
+6
+7
+8
+0
+5
+10
+15
+20
+25
+Numer of monomers in the chain (i)
+α = 0.58
+In(Wn/n)
+Alcohol Sel. (C%)
+-9
+-8
+-7
+-6
+-5
+-4
+-3
+-2
+-1
+C4OH
+C6OH
+C8+OH
+Ald 
+ Liquid-CH
+Gas
+EtOH Conversion 
+C4OH
+C6OH
+C8+OH
+Ald
+Liquid-CH
+Gas
+EtOH Conversion
+Fig. 2 | Ethanol upgrading performance of Ni@C-Sx catalysts. a EtOH conversion
+and product selectivity over Ni@C-Sx catalysts with different S/Ni molar ratios at
+180 °C. b Photographs of aqueous EtOH feedstock (left) and obtained liquid pro-
+ducts (right). c Catalytic performance of the Ni@C-S1/30 catalyst in the two-stage
+intensiﬁcation process. The reaction was performed at 180 °C and then at the
+second stage temperature for 6 h. d Catalytic performance comparison among
+Ni@C-S1/30 catalyst and other previously reported catalysts. e Detailed alcohol
+distribution, step-growth plot and α value over Ni@C-S1/30 catalyst under opti-
+mized reaction conditions. f Stability test for Ni@C-S1/30 catalyst. Reaction condi-
+tions: 12 h, catalyst (0.3 g), NaOH (21.6 mmol), 50.0 wt% aqueous EtOH
+(108.0 mmol). (C4OH: 1-butnaol, C6OH: 1-hexanol and 2-ethyl-1-butanol, C8+OH: C8+
+alcohols, Ald aldehydes, Liquid-CH liquid hydrocarbon products, Gas gaseous
+carbon products).
+Article
+https://doi.org/10.1038/s41467-023-43773-3
+Nature Communications| (2023) 14:7935 
+3
+conversion and the
+
+44 and 72 for typical Ni@C-Sx catalysts.
+The peaks at m/z = 44 and 72 are attributed to n-propane and n-buta-
+nal, which are the dissociation fragment and molecular ion of n-buta-
+nal, respectively. As shown in Fig. 3b, c, the ﬁrst desorption peaks for
+all catalysts appear below 200 °C and the curves of both m/z = 44 and
+72 are detected simultaneously, suggesting that the ﬁrst desorption
+peak corresponds to weak adsorption of n-butanal. Then, the other
+peaks attributed to the dissociation of adsorbed n-butanal can only be
+observed at m/z = 44 on the catalyst. Notably, a large dissociation peak
+in the region of 220–600 °C is observed for S-free Ni@C-S0 catalyst
+while most dissociation peaks are observed in the region of
+380–600 °C for Ni@C-S1/30 catalyst. Additionally, we determined the
+Ni active sites on the Ni@C-Sx catalysts. As shown in Supplementary
+Table 12, the number of Ni active sites decreases with increasing S/Ni
+ratio. The Ni active sites on Ni@C-S0, Ni@C-S1/30 and Ni@C-S1/25 cat-
+alysts are 26.9 μmol g−1, 15.9 μmol g−1 and 7.8 μmol g−1, respectively.
+Combining these results with the CO-DRIFTS observations (Supple-
+mentary Fig. 8), we believe that introduction of low-content sulfur to
+occupy part of the threefold hollow sites on Ni can not only effectively
+reduce the C−C bond cleavage, thereby increasing the temperature
+required for aldehyde dissociation, but also retain abundant strong
+adsorption sites for aldehydes simultaneously. However, the incon-
+spicuous dissociation peak (~500 °C) for Ni@C-S1/25 catalyst (Fig. 3c)
+and the ethanol upgrading results (Fig. 2a) suggest the low LAS
+selectivity is associated with the deactivation of adsorption sites,
+which can be ascribed to excess sulfur covering the active sites for
+aldehydes strong adsorption. Moreover, this correlation was again
+conﬁrmed on NiSn@C and Ni@NC catalysts, with few strong adsorp-
+tion peaks observed, whose alcohols distribution succumbs to the
+step-growth model (Supplementary Fig. 17). To
+
+ 1.21–1.34 eV as the sulfur coverage
+increases from 0 to 20%. However, the dense sulfur atoms covering the
+Ni surface will hinder the adsorption of n-butanal. The adsorption
+energy sharply decreases from 1.26 to 0.87 eV when the sulfur cover-
+age increases from 20 to 25% and then continues to decrease with the
+increase of sulfur coverage, in line with the results of surface sulfur
+coverage quantiﬁcation (Supplementary Table 12), n-butanal-TPD/MS
+(Fig. 3b, c) and DRIFTS (Fig. 3d–f).
+We then selected the Ni (111) surfaces covered with 0, 14 and 25%
+sulfur (denoted as Ni-S0%, Ni-S14% and Ni-S25%) as typical models to
+calculate the Gibbs free energies for the RLS of ethanol dehy-
+drogenation and C–C bond cleavage, referring to previous research13,
+47–49. The conversion of EtOH to acetaldehyde involves C–H and O–H
+bond breaking steps, among which the O–H bond breaking of
+CH3CH2OH* to CH3CH2O* is the RLS. Similarly to the adsorption
+behavior of n-butanal, the CH3CH2OH* and CH3CH2O* are also adsor-
+bed on the Ni sites through the oxygen atom in the dehydrogenation
+process. For the dehydrogenation of EtOH, the dehydrogenation
+activation energy on Ni-S0%, Ni-S14% and Ni-S25% is 0.71, 0.70 and
+0.80 eV, respectively. Interestingly, the dehydrogenation activation
+energy on Ni-S14% is similar to that on Ni-S0%, indicating that the
+dehydrogenation process is not sensitive to low sulfur coverage
+(Fig. 4b and Supplementary Fig. 21). However, for the RLS of C–C bond
+Fig. 3 | Mechanism study of catalytic LAS production over Ni@C-Sx catalysts.
+a The measured hydrogenation rate, EtOH dehydrogenation rate and C–C forma-
+tion rate over catalysts. n-butanal-TPD/MS proﬁles over Ni@C-Sx catalysts: Signal of
+n-butanal (m/z = 72) (b) and signal of 1-propane (m/z = 44) (c). Temperature-
+dependent in situ DRIFTS spectra for n-butanal adsorption on Ni@C-S0 catalyst (d),
+Ni@C-S1/30 catalyst (e) and Ni@C-S1/25 catalyst (f).
+Article
+https://doi.org/10.1038/s41467-023-43773-3
+Nature Communications|

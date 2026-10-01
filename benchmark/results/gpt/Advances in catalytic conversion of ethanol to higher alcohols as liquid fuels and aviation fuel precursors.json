@@ -1,0 +1,131 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "[Ir(acac)(cod)]",
+                "raw_name": "[Ir(acac)(cod)]",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "[Ir(OAc)3]-L10 (1 : 8)",
+                "raw_name": "[Ir(OAc)3]-L10 (1 : 8)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ir-[Tp′Ni(μ-OH)]2(1 : 25)",
+                "raw_name": "Ir-[Tp′Ni(μ-OH)]2(1 : 25)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "[RuCl(η6-p-cymene)]Cl",
+                "raw_name": "[RuCl(η6-p-cymene)]Cl",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "[RuCl2(η6-p-cymene)]2",
+                "raw_name": "[RuCl2(η6-p-cymene)]2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "[Ru(bipyOH)]",
+                "raw_name": "[Ru(bipyOH)]",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "N,N,N-Ru(II)",
+                "raw_name": "N,N,N-Ru(II)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "[Ru]-6",
+                "raw_name": "[Ru]-6",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru(5-CH3-bpi)(PPh3)2Cl",
+                "raw_name": "Ru(5-CH3-bpi)(PPh3)2Cl",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "[HN(CH2CH2PiPr2)2]Mn(CO)2Br",
+                "raw_name": "[HN(CH2CH2PiPr2)2]Mn(CO)2Br",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "[HN(CH2CH2PPh2)2]Mn(CO)2Br",
+                "raw_name": "[HN(CH2CH2PPh2)2]Mn(CO)2Br",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "[Ru]–[Mn]",
+                "raw_name": "[Ru]–[Mn]",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ir",
+                "raw_name": "[Ir(acac)(cod)]",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ir",
+                "raw_name": "[Ir(OAc)3]-L10 (1 : 8)",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ir",
+                "raw_name": "Ir-[Tp′Ni(μ-OH)]2(1 : 25)",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ru",
+                "raw_name": "[RuCl(η6-p-cymene)]Cl",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ru",
+                "raw_name": "[RuCl2(η6-p-cymene)]2",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ru",
+                "raw_name": "[Ru(bipyOH)]",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ru",
+                "raw_name": "N,N,N-Ru(II)",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ru",
+                "raw_name": "[Ru]-6",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ru",
+                "raw_name": "Ru(5-CH3-bpi)(PPh3)2Cl",
+                "article_identifiers": []
+            },
+            {
+                "name": "Mn",
+                "raw_name": "[HN(CH2CH2PiPr2)2]Mn(CO)2Br",
+                "article_identifiers": []
+            },
+            {
+                "name": "Mn",
+                "raw_name": "[HN(CH2CH2PPh2)2]Mn(CO)2Br",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ru",
+                "raw_name": "[Ru]–[Mn]",
+                "article_identifiers": []
+            }
+        ],
+        "support": null
+    }
+}

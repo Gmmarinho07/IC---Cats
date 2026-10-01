@@ -1,0 +1,80 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "activated alumina",
+                "raw_name": "activated alumina",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "phosphoric acid catalyst",
+                "raw_name": "phosphoric acid catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "γ-Al2O3",
+                "raw_name": "γ-Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Si−Al catalyst",
+                "raw_name": "Si−Al catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Syndol catalyst",
+                "raw_name": "Syndol catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Al2O3−Cr2O3 catalyst",
+                "raw_name": "Al2O3−Cr2O3 catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HZSM-5",
+                "raw_name": "HZSM-5",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NKC-03A catalyst",
+                "raw_name": "NKC-03A catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-ZSM-5",
+                "raw_name": "Cu-ZSM-5",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "SAPO-34",
+                "raw_name": "SAPO-34",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiAPSO-34",
+                "raw_name": "NiAPSO-34",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "SAPO-11/HZSM-5",
+                "raw_name": "SAPO-11/HZSM-5",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "NiAPSO-34",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "γ-Al2O3",
+            "raw_name": "γ-Al2O3",
+            "article_identifiers": []
+        }
+    }
+}

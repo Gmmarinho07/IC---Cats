@@ -1,0 +1,55 @@
+{
+    "paper": "039MCN",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAAl mixed oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "butanol was formed through more than one reaction pathway over MgAAl mixed oxides",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "acetaldehyde production tends to level off over our HAP",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAAlAO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "similar acetaldehyde leveling off can be noted in the case of the data reported by Di Cosimo et al. over a MgAAlAO catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAAlAO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "over a MgAAlAO catalyst",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 1,
+            "partial": 0,
+            "correct": 4
+        }
+    }
+}

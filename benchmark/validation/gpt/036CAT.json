@@ -1,0 +1,55 @@
+{
+    "paper": "036CAT",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "anatase titania",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The condensation reaction was studied over three catalysts: anatase TiO2, HAP, and MgO.",
+                "reason": "The catalyst 'anatase titania' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The condensation reaction was studied over three catalysts: anatase TiO2, HAP, and MgO.",
+                "reason": "The catalyst 'hydroxyapatite' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "magnesia",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The condensation reaction was studied over three catalysts: anatase TiO2, HAP, and MgO.",
+                "reason": "The catalyst 'magnesia' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "anatase titania",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The extracted support 'anatase titania' is incorrectly classified as a support; it is a catalyst."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "TiO2",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The extracted support 'TiO2' is incorrectly classified as a support; it is a catalyst."
+            }
+        ],
+        "summary": {
+            "incorrect": 2,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 3
+        }
+    }
+}

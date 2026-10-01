@@ -1,0 +1,87 @@
+{
+    "paper": "Catalytic Conversion of Ethanol into an Advanced Biofuel - unprecendented selectivity for n-butanol",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "[RuCl(h6-p-cymene)(3)]Cl",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "[RuCl(h6-p-cymene)(3)]Cl",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "trans-[RuCl2(3)]",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "trans-[RuCl2(3)]",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "[RuH2(3)]",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "[RuH2(3)]",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "[RuCl2(L)]",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "[RuCl2(L)]",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "trans-[RuCl2(3)2]",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "trans-[RuCl2(3)2]",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ruthenium",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "[RuCl(h6-p-cymene)(3)]Cl",
+                "reason": "The active metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "[RuCl(h6-p-cymene)(3)]Cl",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The raw_name should represent the metal itself, not the catalyst."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": null,
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide any explicit evidence for a support."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": null,
+                "field": "raw_name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide any explicit evidence for a support."
+            }
+        ],
+        "summary": {
+            "incorrect": 1,
+            "not_supported": 2,
+            "partial": 0,
+            "correct": 6
+        }
+    }
+}

@@ -1,0 +1,375 @@
+========== ABSTRACT ==========
+
+Summary and perspectives
+The pressing challenge of reducing China’s reliance on fossil
+fuels demands innovative solutions for biofuel development,
+particularly in upgrading bioethanol—a renewable yet subopti-
+mal fuel due to its corrosiveness and low energy density—into
+value-added higher alcohols. This review analysis focuses on
+C–C bond formation paradigms, particularly the concerted
+dehydrogenation–hydrogenation cycles and aldol-based chain
+growth mechanisms that underpin modern ethanol upgrading
+technologies. Homogeneous catalysts while achieving mole-
+cular precision under mild conditions, face scalability hurdles
+due to noble metal dependency and solvent limitations.
+Heterogeneous systems, leveraging support engineering and
+metal-carrier synergies, oﬀer improved stability and cost-eﬀec-
+tiveness but contend with mass transfer ineﬃciencies and
+selectivity challenges. Despite their adjustable pore geometries
+and hydrothermal stability, carbon-supported catalysts face
+commercialization challenges including nanoparticle coalesc-
+ence and energy-intensive synthesis.
+Emerging catalysts such as single-atom catalysts (SACs) and
+metal-organic framework (MOF)-based catalytic systems have
+garnered significant attention in the field of catalysis.228
+However, their direct application in the Guerbet coupling of
+ethanol remains underexplored, despite their inherent pro-
+perties holding great promise for promoting this reaction.
+Atomically dispersed metal sites, as reported in the litera-
+ture,229 feature unique “isolated active centers” that may
+enable synergistic regulation of dehydrogenation and C–C
+coupling,230–232 alongside hydrogenation of aldehyde inter-
+mediates to facilitate the transformation of lower alcohols into
+higher alcohols. Meanwhile, the porous confinement charac-
+teristics of MOF materials are anticipated to precisely stabilize
+acetaldehyde intermediates within the catalytic system under
+mild conditions,233 predicting their exceptional potential in
+selecti
+
+
+========== EXPERIMENTAL ==========
+
+Experimental ignition delay measure-
+ments revealed that highly branched isoparaﬃns in ATJ fuels
+exhibit low oxidation reactivity at low temperatures, necessitat-
+Table 2
+Homogeneous catalysts catalyze the upgrading of ethanol to high-carbon alcohols
+Entry
+Catalyst
+Temperature
+Reaction time
+Reactor
+Conv./%
+Sel./%
+Ref.
+1
+[Ir(acac)(cod)]
+120 °C
+15 h
+Reaction still
+41.0
+51.0
+67
+2
+[Ir(OAc)3]-L10 (1 : 8)
+150 °C
+12 h
+Reaction still
+54.0
+91.0
+68
+3
+Ir-[Tp′Ni(μ-OH)]2(1 : 25)
+150 °C
+24 h
+Reaction still
+37.0
+>99.0
+69
+4
+[RuCl(η6-p-cymene)]Cl
+150 °C
+4 h
+Reaction still
+22.1
+93.6
+70
+5
+[RuCl2(η6-p-cymene)]2
+150 °C
+4 h
+Reaction still
+31.4
+92.7
+71
+6
+[Ru(bipyOH)]
+80 °C
+18 h
+Reaction still
+49.1
+57.0
+72
+7
+N,N,N-Ru(II)
+150 °C
+2 h
+Reaction still
+53.0
+80.0
+73
+8
+[Ru]-6
+150 °C
+40 h
+Reaction still
+73.4
+>99.0
+74
+9
+Ru(5-CH3-bpi)(PPh3)2Cl
+150 °C
+2 h
+Reaction still
+—
+65.0
+75
+10
+[HN(CH2CH2PiPr2)2]Mn(CO)2Br
+160 °C
+168 h
+Reaction still
+11.2
+92.0
+76
+11
+[HN(CH2CH2PPh2)2]Mn(CO)2Br
+150 °C
+24 h
+Reaction still
+72.0
+69.5
+77
+12
+[Ru]–[Mn]
+180 °C
+24 h
+Reaction still
+—
+70.0
+78
+Conv.: conversion of ethanol; Sel.: selectivity of higher alcohol; Ref.:
+
+
+========== RESULTS ==========
+
+ Commun., 2010, 11,
+901–906.
+54 H. Guo, S. Li, F. Peng, H. Zhang, L. Xiong, C. Huang,
+C. Wang and X. Chen, Catal. Lett., 2015, 145, 620–630.
+55 B. An, Z. Li, Y. Song, J. Zhang, L. Zeng, C. Wang and
+W. Lin, Nat. Catal., 2019, 2, 709–717.
+56 Y. Chen, S. Choi and L. T. Thompson, J. Catal., 2016, 343,
+147–156.
+57 D. L. S. Nieskens, D. Ferrari, Y. Liu and R. Kolonko, Catal.
+Commun., 2011, 14, 111–113.
+58 L. Wang, S. He, L. Wang, Y. Lei, X. Meng and F.-S. Xiao,
+ACS Catal., 2019, 9, 11335–11340.
+59 J.-n. Zheng, K. An, J.-m. Wang, J. Li and Y. Liu, J. Fuel
+Chem. Technol., 2019, 47, 697–708.
+60 S. Zhang, X. Liu, Z. Shao, H. Wang and Y. Sun, J. Catal.,
+2020, 382, 86–96.
+61 H. Du, M. Jiang, M. Zhao, X. Ma, Z. Xu and Z. Zhao,
+Int. J. Hydrogen Energy, 2022, 47, 4559–4567.
+62 S.
+M.
+Ghoreishian,
+K.
+Shariati,
+Y.
+S.
+Huh
+and
+J. Lauterbach, Chem. Eng. J., 2023, 467, 143533.
+63 F. Papa, A. Vasile and G. Dobrescu, Catalysts, 2022, 12, 1637.
+64 C. Yang and Z. Y. Meng, J. Catal., 1993, 142, 37–44.
+65 J. Gu, W. Gong, Q. Zhang, R. Long, J. Ma, X. Wang, J. Li,
+J. Li, Y. Fan, X. Zheng, S. Qiu, T. Wang and Y. Xiong, Nat.
+Commun., 2023, 14, 7935.
+66 N.
+M.
+Eagan,
+M.
+D.
+Kumbhalkar,
+J.
+S.
+Buchanan,
+J. A. Dumesic and G. W. Huber, Nat. Rev. Chem., 2019, 3,
+223–249.
+67 K. Koda, T. Matsu-ura, Y. Obora and Y. Ishii, Chem. Lett.,
+2009, 38, 838–839.
+68 G. Xu, T. Lammens, Q. Liu, X. Wang, L. Dong, A. Caiazzo,
+N. Ashraf, J. Guan and X. Mu, Green Chem., 2014, 16,
+3971–3977.
+69 S. Chakraborty, P. E. Piszel, C. E. Hayes, R. T. Baker and
+W. D. Jones, J. Am. Chem. Soc., 2015, 137, 14264–14267.
+70 G. R. M. Dowson, M. F. Haddow, J. Lee, R. L. Wingad and
+D. F. Wass, Angew. Chem., Int. Ed., 2013, 52, 9005–9008.
+71 R. L. Wingad, P. J. Gates, S. T. G. Street and D. F. Wass,
+ACS Catal., 2015, 5, 5822–5826.
+72 T. A. DiBenedetto and W. D. Jones, Organometallics, 2021,
+40, 1884–1888.
+73 K. N. T. Tseng, S. Lin, J. W. Kampf and N. K. Szymczak,
+Chem. Commun., 2016, 52, 2901–2904.
+74 Y. Xie, Y. Ben-David, L. J. W. Shimon and
+
+ Apesteguía, M. J. L. Ginés and
+E. Iglesia, J. Catal., 2000, 190, 261–275.
+102 J. Zhang, K. Shi, Z. An, Y. Zhu, X. Shu, H. Song, X. Xiang
+and J. He, Ind. Eng. Chem. Res., 2020, 59, 3342–3350.
+103 B. Yuan, J. Zhang, Z. An, Y. Zhu, X. Shu, H. Song,
+X. Xiang, W. Wang, Y. Jing, L. Zheng and J. He, Appl.
+Catal., B, 2022, 309, 121271.
+104 M. Rechi Siqueira, O. Micali Perrone, G. Metzker, D. C. de
+Oliveira Lisboa, J. C. Thoméo and M. Boscolo, Mol. Catal.,
+2019, 476, 110516.
+105 W.-L. Lv, L. He, W.-C. Li, B.-C. Zhou, S.-P. Lv and A.-H. Lu,
+Green Chem., 2023, 25, 2653–2662.
+106 Z. Wang, M. Yin, J. Pang, X. Li, Y. Xing, Y. Su, S. Liu,
+X. Liu, P. Wu, M. Zheng and T. Zhang, J. Energy Chem.,
+2022, 72, 306–317.
+107 T. A. DiBenedetto and W. D. Jones, Organometallics, 2021,
+40, 1884–1888.
+108 W. Liu, J. Sun, X. Zhang and M. Wei, Ind. Eng. Chem. Res.,
+2018, 57, 15606–15612.
+109 C. R. Ho, S. Shylesh and A. T. Bell, ACS Catal., 2016, 6,
+939–948.
+110 L. Silvester, J.-F. Lamonier, C. Lamonier, M. Capron,
+R.-N.
+Vannier,
+A.-S.
+Mamede
+and
+F.
+Dumeignil,
+ChemCatChem, 2017, 9, 2250–2261.
+111 H. Brasil, A. F. B. Bittencourt, K. C. E. S. Yokoo,
+P. d. C. D. Mendes, L. G. Verga, K. F. Andriani, R. Landers,
+J. L. F. d. Silva and G. P. Valença, J. Catal., 2021, 802–813,
+DOI: 10.1016/j.jcat.2021.08.050.
+112 T. Tsuchida, T. Yoshioka, S. Sakuma, T. Takeguchi
+and W. Ueda, Ind. Eng. Chem. Res., 2008, 47, 1443–
+1452.
+113 S. Ogo, A. Onda and K. Yanagisawa, Appl. Catal., A, 2011,
+402, 188–195.
+114 B.-C. Zhou, W.-C. Li, W.-L. Lv, S.-Y. Xiang, X.-Q. Gao and
+A.-H. Lu, ACS Catal., 2022, 12, 12045–12054.
+115 M. V. Landau, T. Hos, R. Vidruk Nehemya, G. Nomikos
+and M. Herskowitz, Catalysts, 2021, 11, 498.
+116 M. Xue, B. Yang, C. Xia and G. Zhu, ACS Sustainable
+Chem. Eng., 2022, 10, 3466–3476.
+117 M. Xue, Z. Jin, B. Yang, C. Xia and G. Zhu, ACS Catal.,
+2024, 14, 12654–12663.
+118 D. Chen, J. Liu, B. Liu, Y. Qin, X. Lin and X. Qiu, Adv.
+Mater., 2025, 37, 2501113.
+119 X. Lin, D. Chen, X. Qiu, B. Liu, J. Liu, X. Wang,
+
+ JANEIRO on 12/10/2025 8:43:19 PM. 
+View Article Online
+176 X. Wu, X. Cai, Q. Zhang, P. Bi, Q. Meng, Y. Pi and
+T. Wang, ACS Sustainable Chem. Eng., 2021, 9, 11269–
+11279.
+177 D. He, J. Zhou and K. Fang, Mol. Catal., 2025, 580,
+115079.
+178 O. V. Zikrata, O. V. Larina, K. V. Valihura, P. I. Kyriienko,
+D. Y. Balakin, I. Khalakhan, K. Veltruská, A. Krajnc,
+G. Mali, S. O. Soloviev and S. M. Orlyk, ACS Sustainable
+Chem. Eng., 2021, 9, 17289–17300.
+179 J. Hou, G. Zou, X. Liu, M. Li, P. Yang, X. Zhang, Y. Chen,
+Q. Zhang, X. Wu and T. Wang, Ind. Eng. Chem. Res., 2025,
+64, 10667–10677.
+180 S. Meng, Z. Cui, Q. Chen, H. Zhang, S. Li, E. C. Neyts,
+E. Vlasov, K. Jenkinson, S. Bals, D. Yang, M. Liu, Y. Liu,
+A. Bogaerts, A.-H. Lu and Y. Yi, ACS Catal., 2025, 15, 3236–
+3246.
+181 J. Li, R. Yang, S. Xu, C. Zhou, Y. Xiao, C. Hu and
+D. C. W. Tsang, Appl. Catal., B, 2022, 317, 121785.
+182 B. M. Trost, Science, 1991, 254, 1471–1477.
+183 R. A. Sheldon, Green Chem., 2007, 9, 1273–1283.
+184 A. Antenucci and S. Dughera, Catalysts, 2023, 13, 102.
+185 M.
+Meli,
+Z.
+Wang,
+S.
+Sterlepper,
+M.
+Picerno
+and
+S. Pischinger, Appl. Energy, 2025, 392, 125893.
+186 Z. Li, Y. Wang, H. Liu, Y. Feng, X. Du, Z. Xie, J. Zhou,
+Y. Liu, Y. Song, F. Wang, M. Sui, Y. Lu, F. Fang and
+D. Sun, Nat. Mater., 2025, 24, 424–432.
+187 F. Zhang, B. Zu, B. Wang, Z. Qin, J. Yao, Z. Wang, L. Fan
+and K. Jiao, Joule, 2025, 9, 101853.
+188 J. Han, K. Park, S. Tan, Y. Vaynzof, J. Xue, E. W.-G. Diau,
+M. G. Bawendi, J.-W. Lee and I. Jeon, Nat. Rev. Methods
+Primers, 2025, 5, 3.
+189 Q. Liu, X. Wen, H. Peng and Q. Cao, J. Cleaner Prod., 2023,
+423, 138635.
+190 A. Kerschbaum, L. Trentmann, A. Hanel, S. Fendt and
+H. Spliethoﬀ, Renewable Sustainable Energy Rev., 2025,
+215, 115559.
+191 K. I. Kiouranakis, P. de Vos, K. Zoumpourlos, A. Coraddu
+and R. Geertsma, Renewable Sustainable Energy Rev., 2025,
+214, 115529.
+192 A. Lu and Y. Zhu, Energy, 2025, 322, 135715.
+193 R.
+Patiño-Camino,
+A.
+Cova-Bonillo,
+F.
+Villanueva,
+Á. Ramos, V. M. Domínguez, J. Rodrí
+
+ergy Rev., 2025,
+215, 115559.
+191 K. I. Kiouranakis, P. de Vos, K. Zoumpourlos, A. Coraddu
+and R. Geertsma, Renewable Sustainable Energy Rev., 2025,
+214, 115529.
+192 A. Lu and Y. Zhu, Energy, 2025, 322, 135715.
+193 R.
+Patiño-Camino,
+A.
+Cova-Bonillo,
+F.
+Villanueva,
+Á. Ramos, V. M. Domínguez, J. Rodríguez-Fernández and
+J. J. Hernández, Fuel, 2025, 392, 134916.
+194 H. Chi, Z. Liang, S. Kuang, Y. Jin, M. Li, T. Yan, J. Lin,
+S. Wang, S. Zhang and X. Ma, Nat. Commun., 2025, 16,
+979.
+195 R. Fang, J. Kang, F. Wang, X. Zhao and Y. Li, ACS Catal.,
+2025, 15, 4403–4414.
+196 L. Ge, M. M. Ali, A. I. Osman, A. M. Elgarahy, M. Samer,
+Y. Xu and Z. Liu, Renewable Sustainable Energy Rev., 2025,
+217, 115726.
+197 D. Sun, Y. Zhang, Y. Zhou, Y. Nie, L. Ban, D. Wu, S. Yang,
+H. Zhang, C. Li and K. Zhang, Adv. Energy Mater., 2025,
+2406098.
+198 F. Xie, X. Meng, Y. Liu, L. Han, Y. Gong, C. Zhang, X. Li,
+Y. Zhou and H. Dou, Fuel Process. Technol., 2025, 269, 108190.
+199 P. Ventin, M. Lapuerta, F. A. Torres, E. A. Torres and
+J. J. Hernández, Fuel, 2025, 390, 134730.
+200 H. Feng, X. Chen, L. Sun, R. Ma, X. Zhang, L. Zhu and
+C. Yang, Energy, 2023, 282, 128792.
+201 Y.-C. Hu, Y. Zhao, N. Li and J.-P. Cao, J. Energy Chem.,
+2024, 95, 712–722.
+202 K. Lakzian, H.-J. Liaw, E. Lakzian and V. Gerbaud, Prog.
+Energy Combust. Sci., 2025, 108, 101222.
+203 P. J. Ansell, Prog. Aeronaut. Sci., 2023, 141, 100919.
+204 E. Oğur, A. Koç, H. Yağlı, Ö. Köse and Y. Koç, Energy,
+2025, 316, 134426.
+205 K. Kim, P. Wiersema, J. Ir Ryu, W. Lee, K. Min, E. Mayhew,
+J. Temme, C.-B. M. Kweon and T. Lee, Fuel, 2024, 368,
+131630.
+206 L. H. Nogueira Marinho, F. V. Aragão, D. M. de Genaro
+Chiroli, F. C. Zola and S. M. Tebcherani, Fuel, 2025, 402,
+135924.
+207 G. Inc, Focus Catal., 2021, 2021, 6.
+208 G. Inc, Focus Catal., 2022, 2022, 5.
+209 Y. Zhang, W. Dong, R. Xu, G. P. Smith and H. Wang,
+Combust. Flame, 2024, 259, 113168.
+210 C. Sheridan, Nat. Biotechnol., 2024, 42, 1628–1628.
+211 Z. Xu, Y. Fan, Y. Zheng, S. Ding, M. Zhu, G. Li, M.

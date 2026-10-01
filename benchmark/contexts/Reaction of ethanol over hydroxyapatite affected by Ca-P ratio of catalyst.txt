@@ -1,0 +1,125 @@
+========== EXPERIMENTAL ==========
+
+or the four HAP catalysts.
+The fact that the Ca/P ratio of HAP can be changed by control-
+ling the pH of the precipitation solution during synthesis derives
+from the morphological and electrical stability of phosphate ions
+(i.e., H2PO−
+4 , HPO2−
+4 , and PO3−
+4 ) in relation to pH. Phosphate ions
+in solution exist in equilibrium, as shown in (1), and the solubil-
+ity product indicates that as the pH of the solution rises, the most
+highly ionized form (PO3−
+4 ) becomes most prevalent [18]:
+H3PO4
+K1
+⇄H2PO−
+4
+K2
+⇄HPO2−
+4
+K3
+⇄PO3−
+4 ,
+K1 = 7.50 × 10−3,
+K2 = 6.20 × 10−8,
+K3 = 1.70 × 10−12.
+(1)
+T. Tsuchida et al. / Journal of Catalysis 259 (2008) 183–189
+185
+Thus, according to the chemical formula for nonstoichiometric
+HAP, Ca10−Z (HPO4)Z (PO4)6−Z (OH)2−Z ; 0 < Z ⩽1, if we want to
+synthesize HAP with a high Ca/P ratio (i.e., decrease the Z value),
+then we need to reduce the number of HPO2−
+4
+ions. In other words,
+we need to raise the pH of the precipitation solution and increase
+the number of PO3−
+4
+ions.
+The results of XPS analysis (Table 1) show that the surface Ca/P
+ratios of HAP were smaller than the bulk Ca/P ratios. The same
+tendency was seen in previous studies [19–22]. On the other hand,
+the surface Ca/P ratio of β-TCP was same as its bulk Ca/P ratio. Be-
+cause β-TCP is a mineral without nonstoichiometric composition
+[2,3], we can conclude from the ﬁndings that a difference in sur-
+face and bulk Ca/P ratios is a unique characteristic peculiar to HAP.
+The right column of Table 1 gives the density of acid sites and
+basic sites on the catalysts. For the four HAP catalysts, the higher
+the Ca/P ratio, the lower the acid site density; however, acid sites
+were still present on those catalysts with a high Ca/P ratio. In con-
+Table 1
+Characteristic properties of catalysts
+Catalyst
+pHa
+Ca/P molar ratio
+Z b
+BET
+(m2/g)
+Densityc (μmol/m2) of
+Bulkd
+Surfacee
+Acid sites
+Basic sites
+HAP-1
+7.0
+1.59
+1.40
+0.46
+27.5
+0.038
+0.01
+HAP-2
+9.0
+1.62
+1.43
+0.28
+35.7
+0.029
+0.02
+HAP-3
+10.0
+1.65
+1.
+
+ of
+Fig. 3. Selectivity of main products at 50% conversion of ethanol: (Q) total Guerbet
+alcohols, (") 1,3-butadiene, (2) ethylene. Reaction conditions: catalyst, 4 ml; GHSV,
+2000 h−1.
+ethanol conversion over HAP catalysts with high Ca/P ratios. This
+tendency reﬂects the relationship between the basic site density
+and Ca/P ratio of the HAP catalysts, also shown in Table 1. We
+conclude that HAP is a unique catalyst that synthesizes mainly
+Guerbet alcohols at high Ca/P ratios. In contrast, we found that
+CaO, a well-known base catalyst, synthesizes mainly ketones and
+ethylene at 50% ethanol conversion (data not shown). Both CaO
+and HAP have Ca–O bonds, but their reaction products differ. As
+seen in Table 1, CaO has neither acid nor basic properties at around
+320 ◦C, as HAP does, but exhibits basic properties only at higher
+temperature. These data indicate that the reaction of ethanol on
+HAP catalysts differs greatly from that on CaO catalysts.
+1,3-Butadiene was not synthesized at all on HAP-1, which had a
+low Ca/P ratio of 1.59, and was synthesized to only a small degree
+on HAP-3 and HAP-4, which had the highest Ca/P ratios. Maxi-
+mum selectivity for 1,3-butadiene was in fact observed over HAP-2,
+which had a Ca/P ratio of 1.62, the level at which a relative balance
+of acid and basic sites was seen on the HAP catalyst (Table 1). The
+reaction in which 1,3-butadiene is synthesized from ethanol on an
+acid-base catalyst is known as the Lebedev reaction [33–37]. We
+postulated that synthesis of 1,3-butadiene from ethanol over HAP
+with a Ca/P ratio of ⩾1.62 was due to a Lebedev reaction, because
+over that Ca/P range, HAP showed both acid and basic properties,
+albeit to a decreasing degree. Other products not shown in Fig. 3
+were oleﬁns, aldehydes, dienes, and aromatics. At higher conver-
+sion of ethanol (i.e., higher reaction temperature), selectivity to
+these products increased, resulting in a multicomponent compo-
+sition that resembled gasoline [17].
+3.3. Scheme of Guerbet a
+
+
+========== RESULTS ==========
+
+results explain the peculiar distribution of reaction
+products from ethanol over HAP catalysts.
+2.

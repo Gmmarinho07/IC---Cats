@@ -1,0 +1,294 @@
+========== ABSTRACT ==========
+
+aterials Science, Institute of Metal Research, Chinese Academy of Sciences, 
+Shenyang 110016, China. 
+ 
+ 
+ABSTRACT: Supported metal catalysts play a pivotal role in the production of fuels and chemicals, and environmental 
+remediation. However, identification and tailoring of the active metal sites on these catalysts still remain a formidable 
+challenge, primarily due to their dynamic nature in catalytic reactions. Here, we report a simple and effective strategy for 
+tuning supported Cu nanoparticles via controllable in situ surface restructuring to form coordinatively more unsaturated 
+Cu sites, which exhibit a fourfold increase in catalytic turnover rate and excellent stability probed by ethanol dehydrogena-
+tion reaction. In situ measurements by transmission electron microscopy and X-ray absorption spectroscopy reveal intense 
+phase transformation and consequent dynamic restructuring of Cu nanoparticles, induced by oxidation with temporarily 
+added nitrous oxide and subsequent reduction under reaction conditions. Such restructuring is precisely controlled at the 
+Cu surfaces without altering Cu dispersion and oxidation state, etc., enabling us to unambiguously identify the active sites 
+during catalysis. This strategy, alternative to many sophisticated synthesis methods, has shown to be effective for engineer-
+ing different Cu catalysts and in turn markedly enhancing their catalytic activity for a wide range of reactions varying from 
+alcohol dehydrogenation to methanol steam reforming. 
+KEYWODS: Supported copper catalysts, active metal site, surface restructuring, in situ characterization, activity enhance-
+ment. 
+1.
+
+
+========== EXPERIMENTAL ==========
+
+
+deuterated ethanol under the same conditions as described 
+above. CH3CH2OD was purchased from Sigma-Aldrich, 
+and CH3CD2OH and CD3CH2OH from Cambridge Isotope 
+Laboratories, Inc. 
+For examining the effect of treatment on Cu catalysts in 
+other reactions, dehydrogenation of other alcohols (1-pro-
+panol, 2-propanol and 2-butanol), steam reforming of 
+methanol, and hydrogenation of acetone, were carried out 
+in the similar way as described above. 
+All stream lines from the reactor to the detector were 
+kept above 393 K to avoid condensation of reactants and 
+products. Reactants and products were analyzed by on-line 
+gas chromatography (Shimadzu 2010 GC) using 5A molec-
+ular sieve column and Porapak Q column and TCD detec-
+tor for N2, O2, CO, and CO2 while AT-LZP-930 capillary col-
+umn and FID detector for organic components. Conver-
+sions and selectivities were reported on a carbon basis, and 
+rates as moles of reactants converted per mole of surface 
+Cu sites per hour (h-1), i.e. turnover frequencies (TOFs). 
+The evolution of the gas-phase composition (H2 and H2O) 
+during N2O treatment was also monitored by mass spec-
+trometry (Hiden HPR20). 
+2.3. Catalyst characterization. In situ TEM images and 
+videos of Cu/SiO2 under reaction conditions were taken on 
+an aberration-corrected TEM (Titan, 80-300, FEI Com-
+pany), operated at 300 KV with a gas cell holder system 
+(Climate S3+, DENSsolutions Company). The Cu/SiO2 
+sample was dispersed on the window membranes sup-
+ported across a heating chip for in situ TEM observations 
+at reaction temperatures. The cell holder was connected to 
+a gas supply system for the in situ sample cell with contin-
+uous flow at atmospheric pressure (H2 at Stage 1-before 
+treatment, 10 kPa H2 + 5 kPa N2O/Ar at Stage 2-during 
+treatment, and H2 at Stage 3-after treatment). 
+In situ XAS measurements for Cu/SiO2 at the Cu K-edge 
+were performed on the beamline 1W1B at the Beijing Syn-
+chrotron Radiation Facility. 20 mg sample was diluted with 
+bor
+
+(H2 at Stage 1-before 
+treatment, 10 kPa H2 + 5 kPa N2O/Ar at Stage 2-during 
+treatment, and H2 at Stage 3-after treatment). 
+In situ XAS measurements for Cu/SiO2 at the Cu K-edge 
+were performed on the beamline 1W1B at the Beijing Syn-
+chrotron Radiation Facility. 20 mg sample was diluted with 
+boron nitride, ground into fine powders, and then loaded 
+in a custom flow cell inside a stainless steel chamber with 
+Page 2 of 11
+ACS Paragon Plus Environment
+ACS Catalysis
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+ 
+beryllium windows. The sample was treated in situ under 
+the reaction conditions (see 2.2). All XAS spectra were col-
+lected at 473 K in the transmission mode during the treat-
+ment. XANES spectra were measured in the quick scanning 
+mode (110 s per scan), and spectra for Cu/SiO2 before treat-
+ment were taken and used as the reference spectrum. 
+The XAS spectra were analyzed using the program 
+Athena software package. The background correction and 
+normalization were carried out by fitting a linear polyno-
+mial to the pre-edge region and square polynomial to the 
+post-edge region of the absorption spectrum. The E0 value 
+was determined by the maximum in the first derivative in 
+the edge region. To estimate the relative concentrations of 
+different Cu species in Cu/SiO2 during treatment, XAS 
+spectra of Cu, Cu2O and CuO standard samples (represent-
+ing the Cu0, Cu+ and Cu2+ species, respectively) were meas-
+ured. Then, the in situ XAS spectra for Cu/SiO2 were de-
+composed into a linear combination of the three Cu stand-
+ards by the linear combination fitting (LCF) method with 
+the IFEFFIT software package44-45 in the energy region from 
+–20 to 60 eV. Fourier transformations were performed on 
+k2-weighted EXAFS oscillations in the range of 2.7 – 12.6 Å -
+1, employing Gaussian windows. For fitting the first coordi-
+nation shell, the pha
+
+
+========== RESULTS ==========
+
+results demon-
+strate the structural dynamics of the metal catalysts and 
+the catalytic consequences11. 
+Moreover, these effects point out the feasibility of the 
+controlled restructuring as a practical strategy to design of 
+metal catalysts with reaction-desired structures, for exam-
+ple, via tuning restructuring environments ideally in situ 
+under reaction conditions. However, developing such con-
+trollable methods still remains substantial challenges, 
+mainly due to the lack of the in-depth understanding on 
+Page 1 of 11
+ACS Paragon Plus Environment
+ACS Catalysis
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+ 
+the dynamic structures of metal catalysts and the difficulty 
+in tailoring such specific structures. In general, different 
+structural parameters (e.g. crystallite size, shape, and oxi-
+dation state) for the metal particles tend to concurrently 
+change and mutually interfere, as pervasively reported in 
+the literatures26-27. 
+To address these problems, in this work, we report a fac-
+ile method for the surface restructuring of Cu catalysts, in-
+duced by their intense phase transformation, involving 
+N2O oxidation treatment under the reaction conditions, 
+and the consequently remarkable enhancement in their 
+catalytic activity, as exemplified by Cu/SiO2 catalyst in 
+CH3CH2OH dehydrogenation to acetaldehyde (CH3CHO), 
+a probe reaction with well-established mechanism28-29. The 
+reason for choosing Cu/SiO2 as a model catalyst is that Cu 
+catalysts are widely used in the industrially important re-
+actions, such as methanol synthesis30-33, methanol stream 
+reforming34, and alcohol dehydrogenation35. But it is 
+known that the size and shape for Cu catalysts are more 
+difficult to be controlled relative to noble metal catalysts 
+because of their susceptibility to oxidation36-37. 
+We herein characterize the structures of the Cu nanopar-
+ticles 
+
+l stream 
+reforming34, and alcohol dehydrogenation35. But it is 
+known that the size and shape for Cu catalysts are more 
+difficult to be controlled relative to noble metal catalysts 
+because of their susceptibility to oxidation36-37. 
+We herein characterize the structures of the Cu nanopar-
+ticles on Cu/SiO2 by complementary techniques including 
+in situ transmission electron microscopy (TEM), X-ray dif-
+fraction (XRD), dissociative N2O adsorption, X-ray photo-
+electron spectroscopy (XPS), and X-ray absorption spec-
+troscopy (XAS). We observe that the restructuring, by 
+careful choice of the treatment parameters, can be pre-
+cisely controlled solely at the surfaces of the Cu nanoparti-
+cles without altering their other structural parameters (e.g. 
+size, dispersion and oxidation state). In particular, it is 
+noteworthy that the characterization of in situ aberration-
+corrected TEM, equipped with an advanced in situ gas cell 
+consisting of gas-flow channel, electron-transparent win-
+dows and heating spiral38-40, enables us to visualize the dy-
+namic structure of the Cu nanoparticles with atomic reso-
+lution at atmospheric pressure (~100 kPa), which bridges 
+the pressure gap frequently encountered with the conven-
+tional environmental TEM operated below several hun-
+dred Pa41. Together with our reaction kinetic study and 
+density functional theory (DFT) calculation, such control-
+lably restructured Cu catalysts make it possible to unam-
+biguously identify the active sites and understand the sur-
+face structure-reactivity correlation, a pervasive issue pre-
+requisite for rational design of different metal catalysts12, 42. 
+ 
+2.

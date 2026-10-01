@@ -1,0 +1,185 @@
+========== EXPERIMENTAL ==========
+
+Experimental 
+2.1. Materials 
+Cu(NO3)2⋅3H2O, ZnO, N,N′-dimethylformamide (DMF) and ethanol 
+were purchased from Sinopharm Chemical Reagent Co., Ltd (Shanghai, 
+China). Tetraethyl orthosilicate (TEOS) was obtained from Aladdin 
+Biochemical Technology Co., Ltd (Shanghai, China). 1,3,5-benzenetri­
+carboxylic acid (H3BTC) was purchased from Energy chemical. All the 
+reagents and solvents were used as received without further 
+purification. 
+2.2. Catalysts preparation 
+2.2.1. Preparation of CuZn-BTC 
+CuZn-BTC was prepared in a rapid method at room temperature 
+according to reference [35]. And the procedures were addressed in 
+Supporting information section in detail. 
+2.2.2. Preparation of CuZnBTC@SiO2 
+SiO2 encapsulated CuZn-BTC was synthesized via a steam-assisted 
+hydrolysis process. At first, the as-synthesized CuZn-BTC (2.4 g) was 
+degassed at 100 ◦C in vacuum (< 10−7 Pa) for 6 h. And then, the system 
+in vacuum was cooled to room temperature, and 15 mL TEOS was added 
+to above pretreated CuZn-BTC. After that, the mixture was sonicated for 
+15 min and maintained overnight at room temperature in order to make 
+the pore channels of CuZn-BTC full of TEOS, the precursor sediment was 
+filtered. Subsequently, the solid was transferred to a small beaker and 
+the beaker was placed in a Teflon-lined autoclave with 20 mL H2O (see 
+Fig. S1). The steam-assisted hydrolysis was performed at 110 ◦C for 12 h. 
+Finally, the solid was dried at 80 ◦C in a vacuum for overnight and 
+denoted as CuZnBTC@SiO2. 
+2.2.3. Preparation of CuZnO@SiO2 
+CuZnO@SiO2 was prepared via the controlled calcination of above 
+prepared CuZnBTC@SiO2 in air flow (30 mL/min) at 400 ◦C for 4 h with a 
+ramp of 2 ◦C/min. 
+2.2.4. Preparation of Cu/ZnO@SiO2 
+Before catalytic reaction, the calcined CuZnO@SiO2 was pressed into 
+granular (40–60 mesh), and then reduced at 350 ◦C in 5% H2/N2 flow 
+(60 mL/min) for 1 h. The reduced catalyst was denoted as Cu/ZnO@­
+SiO2. These procedures were diagrammatically depicted in Sc
+
+. 
+2.2.4. Preparation of Cu/ZnO@SiO2 
+Before catalytic reaction, the calcined CuZnO@SiO2 was pressed into 
+granular (40–60 mesh), and then reduced at 350 ◦C in 5% H2/N2 flow 
+(60 mL/min) for 1 h. The reduced catalyst was denoted as Cu/ZnO@­
+SiO2. These procedures were diagrammatically depicted in Scheme 1. 
+2.2.5. Preparation of reference catalysts 
+Cu/ZnO catalyst without SiO2 hollow was prepared via the direct 
+calcination and reduction of CuZn-BTC according to the reference [35], 
+and these procedures were addressed in Supporting information section. 
+As
+
+
+========== RESULTS ==========
+
+CuZnO@SiO2 was shown in Fig. S3, 
+and the obvious signals of Si 2p were detected in CuZnO@SiO2. At the 
+same time, high-resolved Cu 2p spectrum (Fig. 5) indicated that the 
+binding energy of Cu 2p3/2 and Cu 2p1/2 shifted from 933.9 and 
+953.6 eV (in CuZnO) to 934.4 and 954.2 eV (in CuZnO@SiO2), indi­
+cating that the interaction between Cu and ZnO (and/or between Cu and 
+SiO2) became stronger after the introduction of SiO2. The binding energy 
+at 942–944 eV in the XPS spectrum is attributed to the satellite of Cu2+. 
+After reduction, the overall binding energy of Cu 2p3/2 and Cu 2p1/2 
+decreased to 932.9 and 952.8 eV, respectively, because of the formation 
+metallic Cu and/or Cu+. The existence of Cu0 in reduced Cu/ZnO@SiO2 
+was also confirmed via Cu LMM auger spectra (see Fig. S4). The calcu­
+lated mol ratio of Cu0 to Cu+ in Cu/ZnO@SiO2 was 1.25, which might be 
+attributed to the strong interaction between Cu and SiO2. And the syn­
+ergism between Cu+ and Cu0 would improve the activity of Cu/ 
+ZnO@SiO2 [23]. It is worth noting that the surface content of Cu in 
+CuZnO@SiO2 was lower than the bulk content (see Table 1), which 
+might be attributed to that Cu and/or ZnO species was covered by the 
+added SiO2. 
+3.3. The properties of reduced Cu/ZnO@SiO2 
+Fig. S5 displayed the XRD pattern of reduced Cu/ZnO@SiO2 and 
+compared with the reference Cu/ZnO (without SiO2). It was found that 
+mainly metallic Cu (JCPDS 01–085–1326) and ZnO (JCPDS 
+00–065–0725) were detected in both samples. At the same time, the 
+calculated crystalline size of Cu in these catalysts was 4.0 nm and 
+22.0 nm, respectively, which was consistent with the above N2O 
+oxidation. These results suggested that the introduction of SiO2 could 
+improve the dispersion of Cu and inhibit the agglomeration of Cu during 
+the reduction process. 
+Fig. 2. Thermal analysis of CuZn-BTC (a) and CuZnBTC@SiO2 (b). 
+H. Liu et al. 
+Applied Catalysis B: Environmental 324 (2023) 122194
+5
+Fig. 6(a) revealed the TEM images of Cu/Z
+
+tion (FFT) analysis of 
+HRTEM images with the lattice plane intensity profile (see Fig. 6(e)-(g)) 
+disclosed that those reduced Cu particles (sized in 4–5 nm) were dotted 
+with even smaller ZnO particles (sized in 1–2 nm). The interplanar 
+spacing of the pure copper phase is 0.258 nm (110) (see Fig. 6(e)-(f)), 
+and the interplanar spacing of ZnO is 0.241 nm (101) [21,43] (see Fig. 6 
+(e)-(g)). 
+3.4. Catalytic performance 
+Table S2 compared the performance of reference ZnO@SiO2 and 
+Cu@SiO2 catalysts for the dehydrogenation of ethanol in a vertical fixed- 
+bed reactor at 310 ◦C. It was found that (1) ZnO@SiO2 was inactive for 
+this reaction, (2) Cu@SiO2 was active for the dehydrogenation with a 
+moderate conversion of ethanol (40.1%) and (3) the conversion of 
+ethanol reached 84.2% over Cu/ZnO@SiO2 under the same reaction 
+conditions. These results confirmed that Cu was indispensable for the 
+dehydrogenation of ethanol. At the same time, the higher activity of Cu/ 
+ZnO@SiO2 than that of Cu@SiO2 further indicated that ZnO could 
+improve the activity of Cu for the dehydrogenation of ethanol. The 
+promotion effect of ZnO on the performance of Cu-based catalysts were 
+also reported in methanol synthesis [44–46], methanol decomposition, 
+steam reforming and partial oxidation to hydrogen [47]. 
+Table 2 summarized the initial performance of Cu/ZnO@SiO2 and 
+Cu/ZnO (prepared via the direct calcination and reduction of pristine 
+CuZn-BTC without SiO2) for the continuous dehydrogenation of ethanol 
+at 310 ◦C. It was found that the conversion of ethanol over Cu/ZnO was 
+75.9%, and selectivity of acetaldehyde reached 98.2%. Under the same 
+conditions, Cu/ZnO@SiO2 exhibited better performance than that of 
+Cu/ZnO, and the detected conversion of ethanol and selectivity of 
+acetaldehyde increased to 84.2% and 99.1%, respectively. The calcu­
+lated space time yield (STY) of acetaldehyde over Cu/ZnO@SiO2 
+reached 8.1 g-AcH/g-cat/h at 310 ◦C. This improvement might benefit 
+from the hi
+
+ormance than that of 
+Cu/ZnO, and the detected conversion of ethanol and selectivity of 
+acetaldehyde increased to 84.2% and 99.1%, respectively. The calcu­
+lated space time yield (STY) of acetaldehyde over Cu/ZnO@SiO2 
+reached 8.1 g-AcH/g-cat/h at 310 ◦C. This improvement might benefit 
+from the high specific surface area and high dispersion of copper in Cu/ 
+ZnO@SiO2. In addition, Fig. S6 compared the stability of Cu/ZnO and 
+Cu/ZnO@SiO2 for the dehydrogenation of ethanol at 310 ◦C. It was 
+found that the Cu/ZnO deactivated quickly as the detected conversion of 
+ethanol decreased sharply to 40.1% (within 40 h). On the other hand, it 
+was interesting to note that Cu/ZnO@SiO2 could maintain its activity for 
+50 h, mainly thanks to that Cu/ZnO were further encapsulated in SiO2 
+hollow. The advantages of SiO2 modified catalyst could be attributed to 
+its high surface area and stabilized catalyst structure. 
+The performance of Cu/ZnO@SiO2 for dehydrogenation of ethanol 
+under varied reaction temperature (250–390 ◦C) was shown in Fig. 7. It 
+was found the conversion of ethanol was limited (50.6%) at lower 
+temperature (250 ◦C) and it increased quickly to 84.2% (at 310 ◦C), 
+after that, the conversion of ethanol increased slowly to 91.2% (at 
+350 ◦C) and 93.8% (at 390 ◦C). On the other hand, the selectivity of 
+acetaldehyde decreased slightly from 99.6% (at 250 ◦C) to 98.0% (at 
+390 ◦C), which might be attributed to the highly reactivity of acetal­
+dehyde [48]. 
+Fig. S7 exhibited the performance of Cu/ZnO@SiO2 for the dehy­
+drogenation of ethanol under different contact time at 310 ◦C. It was 
+found that the detected conversion of ethanol increased rapidly from 
+30.9% (at 0.06 h) to 84.2% (at 0.32 h), and remained higher than 85% 
+under the prolonged contact time. However, the selectivity for acetal­
+dehyde decreased slightly under longer contact time due to the reac­
+tivity of acetaldehyde. 
+The stability of Cu/ZnO@SiO2 catalyst for the dehydrogenation of 
+ethanol was c
+
+ h) to 84.2% (at 0.32 h), and remained higher than 85% 
+under the prolonged contact time. However, the selectivity for acetal­
+dehyde decreased slightly under longer contact time due to the reac­
+tivity of acetaldehyde. 
+The stability of Cu/ZnO@SiO2 catalyst for the dehydrogenation of 
+ethanol was checked under extremely harsh condition (350 ◦C) (see 
+Fig. 8). At first, it was confirmed Cu/ZnO@SiO2 was stable at 310 ◦C 
+within 50 h as the detected conversion of ethanol changed slightly 
+around 84%. After that, the conversion of ethanol could be increased to 
+88% and remained stable within another 50 h when the temperature 
+was raised to 330 ◦C. Finally, the temperature was increased to 350 ◦C in 
+order to accelerate the deactivation of Cu/ZnO@SiO2. It was quite 
+interesting to note that the detected conversion of ethanol only 
+decreased slightly from 91.2% to 90.1% within the followed 200 h. And 
+the selectivity of acetaldehyde remained higher than 98.5% within all 
+these 300 h. To the best of our knowledge, this prominent stability of Cu- 
+based catalyst at high temperature (350 ◦C) for the dehydrogenation of 
+ethanol was seldom reported in literatures. Characterization results 
+indicated that Cu and ZnO particles still dispersed homogenously in 
+spent catalyst with a slightly increased size (see Figs. S8 and S9 and 
+Table 1). But the octahedral profile collapsed partially (see Fig. S8), 
+which might be attributed to the violent mechanical treatments of spent 
+Cu/ZnO@SiO2. These destructive treatments include tablet compressing 
+(before reaction), scouring of hot gas (350 ◦C, 200 h) and grinding 
+(before TEM analysis). According to above characterization results, the 
+stability of Cu/ZnO@SiO2 could be attributed to the following reasons: 
+(1) Cu and Zn dispersed homogenously in its precursor (CuZnBTC@SiO2, 
+see Fig. 3b), and (2) those Cu particles (4–5 nm) were dotted with fine 
+ZnO particles in the final catalyst which could make Cu particle isolated 
+from each ot

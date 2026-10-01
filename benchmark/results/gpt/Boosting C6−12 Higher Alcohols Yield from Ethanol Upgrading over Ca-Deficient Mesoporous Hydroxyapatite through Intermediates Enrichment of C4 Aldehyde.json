@@ -1,0 +1,52 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Ca-deficient mesoporous hydroxyapatite",
+                "raw_name": "Ca-deficient mesoporous hydroxyapatite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "(NH4)2HPO4−HAP",
+                "raw_name": "(NH4)2HPO4−HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NH3−HAP",
+                "raw_name": "NH3−HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "H3PO4−HAP",
+                "raw_name": "H3PO4−HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-HAP",
+                "raw_name": "Cu-HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "copper",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "hydroxyapatite",
+            "raw_name": "hydroxyapatite",
+            "article_identifiers": [
+                "HAP"
+            ]
+        }
+    }
+}

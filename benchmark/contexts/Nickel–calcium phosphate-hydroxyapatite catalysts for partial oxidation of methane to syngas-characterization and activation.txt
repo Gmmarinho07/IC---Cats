@@ -1,0 +1,273 @@
+========== ABSTRACT ==========
+
+Abstract
+Nickel–calcium phosphate/hydroxyapatite catalysts exhibited high activity and selectivity in the partial oxidation of methane (POM).
+Characterizations have been performed in order to understand the characteristics of these catalysts. TEM showed that very ﬁne, needle-
+shaped nickel particles of a few nanometers were present in the sample after the reaction. TPR showed the presence of three nickel species
+in the fresh (before-reaction) sample, conﬁrming that the nickel in the calcium hydroxyapatite and phosphate structures comes out as ﬁne
+particles and is reduced during the reaction. The crystalline phases observed were calcium phosphate, calcium hydroxyapatite, NiO, and
+metallic Ni. As the Ca/PO4 ratio increased, the calcium hydroxyapatite phase tended to increase over the calcium phosphate phase. As the
+Ni/PO4 ratio increased, the amount of NiO increased in the fresh samples and the amount of metallic Ni also increased in the used (after-
+reaction) catalysts with the decrease of the NiO. The catalytically active component is certainly the metallic nickel that is produced under
+reducing environment during the reaction, but its surface is totally reoxidized at 673 K and loses the activity completely. The catalyst could
+be activated by the reactants only, without the H2 pretreatment. The ﬁrst activation could be achieved at 923 K or below, and the subsequent
+activation at 723 K.
+2003 Elsevier Inc. All rights reserved.
+Keywords: Nickel; Partial oxidation of methane; Calcium hydroxyapatite; Calcium phosphate; Syngas
+1.
+
+
+========== EXPERIMENTAL ==========
+
+Experimental
+2.1. Catalyst preparation
+The catalysts were prepared from nearly saturated aque-
+ous solutions of calcium nitrate, nickel nitrate, and dibasic
+ammonium phosphate. The pH of the solutions was adjusted
+to 10–11 by adding ammonia water, and predetermined
+amounts of the solutions were mixed at room temperature
+with vigorous stirring in 1 h and the water was evaporated to
+get a thick paste. The mixture was dried at 383 K overnight
+and ﬁnally calcined in air at 1073 K for 2 h to obtain the
+catalyst. The solid catalyst was crushed and sieved, and the
+particles of 40- to 80-mesh size were used.
+The mole ratio of Ca/PO4 was varied from 8.0/6 to
+10.0/6 and the Ni/PO4 ratio from 0.5/6 to 3.0/6. The cata-
+lysts were designated to be Ca∗NiP(a), where ∗is 60 times
+the Ca/PO4 mole ratio and a is 60 times the Ni/PO4 mole
+ratio employed. For example, Ca95NiP(25) has the composi-
+tion ratio of Ca9.5Ni2.5(PO4)6. The multiplication by 60 was
+taken for convenience sake in order to express the composi-
+tion by integers, since calcium phosphate (Ca3(PO4)2) and
+calcium hydroxyapatite (Ca10(PO4)6(OH)2) have the least
+common multiple of 6 between the subscript numbers of the
+phosphate group. In addition, -f or -u was afﬁxed when nec-
+essary, where f and u denoting fresh (before-reaction) and
+used (after-reaction) catalyst, respectively.
+2.2. Catalyst characterizations
+The catalysts were characterized with X-ray diffraction
+(XRD) using Ni-ﬁltered Cu-Kα (M18xHF-SRA, Mao Sci-
+ence) and high-resolution transmission electron microscopy
+(HRTEM, JEM3011, JEOL). The temperature-programmed
+reduction (TPR) was carried out by using 5% H2/Ar with
+a ramp rate of 10 K/min for 100 mg of the fresh cata-
+lyst. X-ray photoelectron spectroscopy (XPS) measurements
+were performed using Mg-Kα radiation with the reference
+of Au 4f7/2 at 84.00 eV (ESCA 2000). Ni particle sizes
+were estimated from XRD line broadening analysis using
+the Scherrer equation. Hydrogen chemisorption experiments
+were performe
+
+ata-
+lyst. X-ray photoelectron spectroscopy (XPS) measurements
+were performed using Mg-Kα radiation with the reference
+of Au 4f7/2 at 84.00 eV (ESCA 2000). Ni particle sizes
+were estimated from XRD line broadening analysis using
+the Scherrer equation. Hydrogen chemisorption experiments
+were performed with a volumetric adsorption apparatus (Mi-
+cromeritics ASAP-2000) as well as by employing pulse
+experiments consisting of repeated injections of a small
+amount of H2 in ﬂowing Ar and determination of efﬂuent
+H2 by TCD. The hydrogen chemisorption was carried out
+at room temperature for the fresh samples after reduction
+by ﬂowing H2 at 723 K for 2 h and subsequent evacuation
+180
+J.H. Jun et al. / Journal of Catalysis 221 (2004) 178–190
+when using the volumetric apparatus or at 1023 K for 2 h
+and subsequent ﬂushing with Ar when employing the pulse
+experiment. The amounts of O2 sorption at 923 K were also
+measured by employing the pulse experiments for the fresh
+samples reduced and ﬂushed as described above.
+2.3. Performance test
+The catalyst performance was tested by a conventional
+method using an 8-mm i.d. quartz-tube ﬂow reactor. The re-
+action temperature was measured by a thermocouple directly
+contacting the catalyst particles and controlled by an electric
+furnace. Unless speciﬁed otherwise, the following standard
+experimental conditions were employed. The catalyst charge
+was 0.2 g. The partial pressures of methane and oxygen were
+16.2 and 8.1 kPa (0.16 and 0.08 atm), respectively. Ar was
+used as the diluent gas and the total ﬂow rate was 100 cm3
+(STP)/min. The product gas was analyzed by two gas chro-
+matographs using Carboxen 1004 columns (Supelco); one
+used Ar as the carrier gas and the other used He. The latter
+was needed especially when the concentration of produced
+CO2 was too low to detect by using the Ar carrier gas. The
+ﬁrst reaction experiment for each catalyst was carried out at
+673 K by ﬂowing the reaction gas mixture without employ-
+ing the hydrogen pretr
+
+
+========== RESULTS ==========
+
+ formed.
+Fig.
+2.
+X-ray
+diffractograms
+for
+Ca80NiP(5),
+Ca80NiP(15),
+and
+Ca80NiP(25) (P, β-Ca3(PO4)2; ", Ca10(PO4)6(OH)2; 1, NiO; 2, Ni).
+Fig.
+3.
+X-ray
+diffractograms
+for
+Ca85NiP(5),
+Ca85NiP(15),
+and
+Ca85NiP(25) (P, β-Ca3(PO4)2; ", Ca10(PO4)6(OH)2; 1, NiO; 2, Ni).
+Fig.
+4.
+X-ray
+diffractograms
+for
+Ca95NiP(5),
+Ca95NiP(15),
+and
+Ca95NiP(25) (P, β-Ca3(PO4)2; ", Ca10(PO4)6(OH)2; 1, NiO; 2, Ni).
+182
+J.H. Jun et al. / Journal of Catalysis 221 (2004) 178–190
+This suggests that it is highly probable that a part of the
+nickel (as Ni2+) may incorporate into the phosphate struc-
+ture by taking the position of Ca2+ [19]. In the catalyst with
+a low content of Ni such as Ca80NiP(5), NiO phase was
+hardly observed. This may be due to the small amount of the
+nickel or some of the nickel taking the position of the cal-
+cium. In the catalyst with a higher content of nickel such as
+Ca80NiP(15), the NiO phase was present in the fresh sample
+but it was barely seen. In the used Ca80NiP(15), the NiO and
+metallic Ni phases were hardly seen. As the nickel content
+increased further, the amount of the NiO phase in the fresh
+catalyst increased. In Ca80NiP(30) having the highest nickel
+content among the Ca80NiP(a) catalysts investigated (ca.
+16.0 wt% Ni), the amount of NiO in the fresh sample was
+quite large. In the used Ca80NiP(30), the NiO almost dis-
+appeared but the metallic nickel was observed in almost the
+same amount of NiO in the fresh sample. This tells us that
+most of the NiO can be reduced to the metallic state during
+the reaction. Moreover, a considerable portion of the metal-
+lic nickel remained not reoxidized even if the used sample
+had been exposed to ﬂowing CH4–O2 at 673 K for 1 h.
+Fig. 3 shows XRD patterns for some samples of
+Ca85NiP(a) catalysts. For the catalyst with a low content
+of Ni such as Ca85NiP(5), the phosphate was the dominant
+phase and only a small amount of the apatite was observed.
+Although the Ca/PO4 mole ratio employed, 8.5/6, is lower
+than 10/6, the presence of the
+
+and CH4.
+Belik et al. [19] have recently reported that the Sr–Fe(or
+Ni)–PO4 system exists as a single phase, as a mixture of
+multiple phases, or as a solid solution of 2–4 phases, de-
+pending on the composition. For example, SrFe2(PO4)2 and
+Sr9Fe1.5(PO4)7 form a single phase. For the Sr3−xFex(PO4)2
+system in the 0.34 ⩽x ⩽0.43 range, there exist the
+Sr3(PO4)2 phase and a solid solution of Sr9Fe1.5(PO4)7 and
+SrFe2(PO4)2. They also showed that Ni, Co, Cu, Zn, Mn, and
+Cd could substitute the Sr2+. The Sr3−xNix(PO4)2 system
+exists as a solid solution of Sr2Ni(PO4)2 and Sr9Ni1.5(PO4)7
+in the 0.32 ⩽x ⩽0.39 range. This tells us that the nickel can
+substitute or take the position of Ca2+ in the phosphate and
+the apatite structure. In addition, this may also be applicable
+to the explanation of complicated constitution of the phos-
+phate and apatite phases depending on the composition.
+The XRD patterns of some samples of Ca95NiP(a) cat-
+alysts are shown in Fig. 4. In these catalysts the apatite
+phase was the dominant phase, which is different from the
+results for Ca80NiP(a) and Ca85NiP(a) catalysts. This is
+certainly due to the higher Ca/PO4 ratio, which is favor-
+able for the formation of the apatite phase. In Ca95NiP(5),
+the phosphate phase was not seen, and the NiO phase was
+hardly observed because the Ni content was low. In the cata-
+lysts with higher contents of Ni such as Ca95NiP(15) and
+Ca95NiP(25), the phosphate phase was present in a signiﬁ-
+cant amount, although it was considerably smaller than the
+apatite phase. Metallic Ni species was observed in the used
+catalysts and its amount appeared to increase with the Ni
+content. For Ca90NiP(a) catalysts (not shown for brevity’s
+sake), the XRD patterns were somewhere in the midway of
+Ca85NiP(a) and Ca95NiP(a) catalysts.
+For Ca100NiP(a) catalysts, the apatite was the domi-
+nant phase while the phosphate was present in very small
+amounts (Fig. 5). Because the (Ca + Ni)/PO4 mole ratio
+Fig. 5. X-ray diffractograms
+for Ca100NiP(
+
+sake), the XRD patterns were somewhere in the midway of
+Ca85NiP(a) and Ca95NiP(a) catalysts.
+For Ca100NiP(a) catalysts, the apatite was the domi-
+nant phase while the phosphate was present in very small
+amounts (Fig. 5). Because the (Ca + Ni)/PO4 mole ratio
+Fig. 5. X-ray diffractograms
+for Ca100NiP(5), Ca100NiP(15), and
+Ca100NiP(25) (P, β-Ca3(PO4)2; ", Ca10(PO4)6(OH)2; 1, NiO; 2, Ni).
+J.H. Jun et al. / Journal of Catalysis 221 (2004) 178–190
+183
+Fig. 6. Relative peak intensities of NiO with respect to the sum of calcium
+phosphate and apatite peak intensities against the Ni content and Ca/PO4
+ratio for fresh catalysts (the most intense peak for each phase is chosen for
+comparison).
+employed is considerably higher than 10/6, the apatite phase
+will be much more favorable to form. As the Ni content
+increased, the amount of NiO again increased in the fresh
+catalysts and the amount of metallic nickel also increased in
+the used catalysts with the decrease of the NiO.
+3.2.2. Relative amount of Ni and NiO depending on the Ni
+content and Ca/PO4 ratio
+From the XRD results, the relative amounts of NiO and
+Ni depending on the nickel content and the Ca/PO4 ratio
+were determined. In the investigated catalysts, the phosphate
+and apatite phases were present in a mixed state and the ra-
+tio of the two phases varied depending on the composition.
+Nevertheless, the amounts of the phosphate and the apatite
+in a fresh sample appeared to be nearly the same as those
+in the corresponding used sample. Therefore, the sum of the
+main peak intensities of the apatite (211) plane (I AP) and
+the phosphate (0.2.10 + 217) plane (I CP) was used as the
+reference for convenience sake since the difference in the
+Ca/PO4 ratios in these two phases was small. The ratio of
+NiO (211) peak intensity (I NiO) to the reference and the
+ratio of Ni (111) peak intensity multiplied by 0.81 to the
+reference were obtained in order to determine the relative
+amounts. The factor of 0.81 means the intensity ratio of NiO
+(2
+
+ycles. Al-
+though some experimental conditions in those works and in
+this work are different, especially as to the space velocity
+and partial pressures of methane and oxygen in the feed
+(Table 2), the common results are as follows: at the lower
+branch, where the methane conversion does not exceed 25%
+(the maximum conversion when only the complete oxidation
+occurs with a CH4/O2 feed ratio of 2), CO2 and H2O are the
+sole products; at the temperature-decreasing branch, the O2
+conversion was virtually 100%. The differences are the tem-
+peratures at which the sudden increase and decrease in the
+methane conversion occur. Below 673 K, all the catalysts
+lose the POM activity anyway.
+Dissanayake et al. [5] as well as van Looij and Geus [11]
+explained about the hysteresis as follows. At the tempera-
+ture-increasing branch, the nickel is initially present as an
+oxidized state, yielding completely oxidized products, but at
+a certain high temperature it is reduced rapidly by H2, CO,
+or CH4 to the metallic state, giving partially oxidized prod-
+ucts. Upon decreasing the temperature, the metallic nickel in
+gradually oxidized, and eventually the metallic nickel is all
+reoxidized by the O2 at a certain low temperature. The main
+point is that metallic nickel is the active and effective com-
+ponent for the selective partial oxidation of methane. The
+same explanation may be applicable to the catalysts in this
+work.
+Comparison of the catalysts in this work and the other
+catalysts is summarized in Table 2. For the catalysts in this
+work, however, the hysteresis was not observed any more
+in the subsequent cycles, and this is a salient difference of
+the Ni–calcium phosphate/hydroxyapatite catalysts from the
+other Ni catalysts noted above, besides the activation tem-
+perature being relatively lower. This suggests that the Ni–
+calcium phosphate/hydroxyapatite catalysts are more easily
+reducible than the other Ni catalysts. This may be attributed
+to the absence of the oxide support or to a we

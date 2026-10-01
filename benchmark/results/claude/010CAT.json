@@ -17,40 +17,35 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "calcined hydrotalcite",
-                "raw_name": "calcined hydrotalcites",
-                "article_identifiers": []
-            },
-            {
-                "catalyst": "CHT1",
+                "catalyst": "Mg-Al calcined hydrotalcite",
                 "raw_name": "CHT1",
                 "article_identifiers": [
                     "CHT1"
                 ]
             },
             {
-                "catalyst": "CHT2",
+                "catalyst": "Mg-Al calcined hydrotalcite",
                 "raw_name": "CHT2",
                 "article_identifiers": [
                     "CHT2"
                 ]
             },
             {
-                "catalyst": "CHT3",
+                "catalyst": "Mg-Al calcined hydrotalcite",
                 "raw_name": "CHT3",
                 "article_identifiers": [
                     "CHT3"
                 ]
             },
             {
-                "catalyst": "CHT4",
+                "catalyst": "Mg-Al calcined hydrotalcite",
                 "raw_name": "CHT4",
                 "article_identifiers": [
                     "CHT4"
                 ]
             },
             {
-                "catalyst": "CHT5",
+                "catalyst": "Mg-Al calcined hydrotalcite",
                 "raw_name": "CHT5",
                 "article_identifiers": [
                     "CHT5"
@@ -61,5 +56,82 @@
     "metal_support": {
         "metal": [],
         "support": null
+    },
+    "validation": {
+        "judge_model": "gpt",
+        "result": {
+            "validation": [
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "alumina",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "Table 4 shows that ethylene is readily formed on alumina, which is a typical E2 catalyst (33).",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "MgO",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "Pure MgO shows very low reaction rates.",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "Al2O3",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "The alumina sample is especially active for producing ethylene.",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "Mg-Al calcined hydrotalcite",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "On CHT samples, ethanol conversion rates depend on the Al content.",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "Mg-Al calcined hydrotalcite",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "On CHT samples, ethanol conversion rates depend on the Al content.",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "Mg-Al calcined hydrotalcite",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "On CHT samples, ethanol conversion rates depend on the Al content.",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "Mg-Al calcined hydrotalcite",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "On CHT samples, ethanol conversion rates depend on the Al content.",
+                    "reason": ""
+                },
+                {
+                    "entity_type": "catalyst",
+                    "extracted_value": "Mg-Al calcined hydrotalcite",
+                    "field": "catalyst",
+                    "decision": "correct",
+                    "evidence": "On CHT samples, ethanol conversion rates depend on the Al content.",
+                    "reason": ""
+                }
+            ],
+            "summary": {
+                "correct": 8,
+                "partial": 0,
+                "incorrect": 0,
+                "not_supported": 0
+            }
+        }
     }
 }

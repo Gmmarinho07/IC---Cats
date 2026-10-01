@@ -1,0 +1,79 @@
+{
+    "paper": "Upgrading ethanol to n-butanol over highly dispersed Ni–MgAlO catalysts",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni4MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Over the best catalyst, Ni4MgAlO (19.5 wt.% Ni), the selectivities for n-butanol and C4–C8 primary alcohols were 55.2 and 85%, respectively.",
+                "reason": "The catalyst Ni4MgAlO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni3AlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "When the Ni content was decreased to 18.7%, i.e., the Ni3AlO catalyst, which has a Ni percentage similar to that of Ni4MgAlO.",
+                "reason": "The catalyst Ni3AlO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "However, the selectivities for n-butanol over the NiAlO and Ni3AlO catalysts were inferior to that over Ni4MgAlO.",
+                "reason": "The catalyst NiAlO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni4MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the Ni–MgO catalysts of Ni4MgO and Ni6MgO (entries 4 and 5), which have Ni:Mg molar ratio and Ni content similar to those for the Ni4MgAlO catalyst.",
+                "reason": "The catalyst Ni4MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni6MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the Ni–MgO catalysts of Ni4MgO and Ni6MgO (entries 4 and 5), which have Ni:Mg molar ratio and Ni content similar to those for the Ni4MgAlO catalyst.",
+                "reason": "The catalyst Ni6MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "5%Ni/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "As shown in Fig. 1, the ethanol conversion over the 5%Ni/Al2O3 catalyst was 25%, with 35% selectivity for n-butanol.",
+                "reason": "The catalyst 5%Ni/Al2O3 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The presence of Ni facilitated hydrogen evolution from ethanol via dehydrogenation.",
+                "reason": "The metal Ni is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAlO",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The support MgAlO is not explicitly identified as a support in the context; it is part of the catalyst name (Ni4MgAlO)."
+            }
+        ],
+        "summary": {
+            "incorrect": 1,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 7
+        }
+    }
+}

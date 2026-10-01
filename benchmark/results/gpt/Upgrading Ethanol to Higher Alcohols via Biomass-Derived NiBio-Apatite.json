@@ -1,0 +1,47 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Ni/bio-apatite",
+                "raw_name": "Ni/bio-apatite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "BAP-0.25Ni",
+                "raw_name": "BAP-0.25Ni",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni/bone",
+                "raw_name": "Ni/bone",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "BAP-T-5Ni",
+                "raw_name": "BAP-T-5Ni",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni-BAP",
+                "raw_name": "Ni-BAP",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "bio-apatite",
+            "raw_name": "bio-apatite",
+            "article_identifiers": [
+                "BAP"
+            ]
+        }
+    }
+}

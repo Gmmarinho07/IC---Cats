@@ -1,0 +1,245 @@
+========== EXPERIMENTAL ==========
+
+ 3303
+Published on 21 May 2019. Downloaded by KEAN UNIVERSITY on 7/27/2019 11:06:22 AM. 
+View Article Online
+At alcohol conversions below ∼60%, conversion was calcu-
+lated as the sum of all observed products according to eqn (2).
+This was performed since small changes in feed alcohol
+quantification can lead to large nonphysical fluctuations in
+the
+calculated
+conversion;
+carbon
+balances
+(carbon
+out
+divided by carbon in) ranged between 95 and 105 C%. The
+yield of unidentified GC-detected species was estimated by
+multiplying the unidentified GC area by the total yield of
+identified products divided by the total GC area of such pro-
+ducts. At elevated conversions where carbon balances are
+lower (85–95%), conversion was calculated based on the dis-
+appearance of the feed alcohol (eqn (3)) since eqn (2) does not
+account for undetected heavy species which are more likely to
+be present at these conversions.
+Conversion ¼ X ¼
+X
+Y i
+ð2Þ
+Conversion ¼ X ¼ ˙nC;feed alcohol in ˙nC;feed alcohol out
+˙nC;feed alcohol in
+ð3Þ
+Selectivities are calculated on a carbon basis from the yield
+and the relevant metric for conversion based on eqn (4).
+Conversions, yields, and selectivities are reported as averages
+of at least two time points after steady-state was achieved.
+Selectivityi ¼ Si ¼ Yi
+X
+ð4Þ
+2.2.
+Etherification
+Etherification reactions were performed in a 45 mL Parr batch
+reactor with a 2.22 cm stir rod. Amberlyst™70 was crushed
+and sieved to <177 µm and dried at 110 °C prior to reaction. In
+a typical reaction, 15 g of feed were first added to the reactor
+along with 750 mg of Amberlyst™70. The reactor was then
+sealed and pressurized with argon to ∼20 bar stirring at 750
+rpm. The temperature was then heated to 150 °C with a ramp
+time of ∼10 minutes prior to a 24 h hold. This temperature
+was chosen to balance activity and selectivity, as increasing
+temperature decreases the ether selectivity while decreasing
+temperature decreases rates and therefore requires longer resi-
+dence times to
+
+e was then heated to 150 °C with a ramp
+time of ∼10 minutes prior to a 24 h hold. This temperature
+was chosen to balance activity and selectivity, as increasing
+temperature decreases the ether selectivity while decreasing
+temperature decreases rates and therefore requires longer resi-
+dence times to obtain the same conversion.69 After 24 h the
+reactor was immediately submerged in an ice bath and cooled
+to <15 °C to minimize loss of volatile components. On several
+occasions the gases were collected and analyzed to ensure that
+this had been achieved. In the case of 1-butanol conversion,
+for example, less than 0.1% of the carbon fed was observed in
+the gas. After careful depressurization, the liquid products and
+catalyst were collected. The reactor and reactor head were then
+thoroughly rinsed (∼75 mL total) with 1,4-dioxane to ensure
+full product collection. The resulting solution was then mixed
+and filtered through a 0.22 µm syringe filter. This solution was
+then further diluted in dioxane (20 : 1 by volume), and 1-penta-
+nol was added as an internal standard prior to analysis. The
+analysis of these products was otherwise the same as in
+Guerbet coupling (i.e. GC methods). For these products,
+however, species were often grouped by retention time since
+isomer mixtures were commonly produced (i.e. olefin and
+ether isomers). The conversion of a specific species i (Xi) was
+calculated according to its disappearance according to eqn (3)
+since carbon balances were often below 95%, suggesting that
+undetectable species were being produced. Yields and selectiv-
+ities were additionally calculated according to eqn (1) and (4),
+respectively. When multiple components were present in the
+feed, yields and selectivities were defined either with respect
+to the conversion of a single compound or with respect to all
+feed carbon.
+2.3.
+Additional analytical techniques
+Additional
+information
+on
+GC-detectable
+products
+was
+obtained by GC coupled to field ionization mass spectrometry
+(GC-MS-FI)
+
+
+========== RESULTS ==========
+
+ to a pseudo-equilibrium established
+between the feed alcohol and aldehyde. It is therefore more
+instructive to compare conversions and selectivities with
+respect to consumption of the reactant alcohol in addition to
+its aldehyde. These metrics better reflect the tendency of the
+catalyst to promote desired alcohol coupling reactions versus
+undesired dehydration side reactions. As such, an “eﬀective”
+conversion and an “eﬀective” selectivity can be defined accord-
+ing to eqn (5) and (6), respectively.
+ConversionEffective ¼ XEff ¼ XCn alcohol YCn aldehyde
+ð5Þ
+Selectivityi;Effective ¼ Si;Eff ¼ Yi
+XEff
+ð6Þ
+Here “Cn aldehyde” represents the aldehyde with the same
+carbon number as the feed alcohol, i.e. acetaldehyde for
+ethanol and butyraldehyde for 1-butanol. Over the contact
+time range discussed, the eﬀective conversions of ethanol and
+1-butanol according to these metrics therefore increase from
+11.4 to 30.5% and from 3.7 to 15.1%, respectively. The
+eﬀective alcohol selectivities decrease with conversion for both
+feeds, from 93.2 to 86.5% for ethanol and from 87.9 to 85.5%
+for 1-butanol. These are accompanied by increasing olefin
+selectivities.
+Ethanol and 1-butanol condensation were additionally
+examined at 350 °C as shown in Fig. 3 (data at 520 s kgHAP
+molalcohol
+−1 provided in Table S1†). The absolute conversion of
+ethanol increases with contact time from 26.5 to 55.9% while
+1-butanol conversion increases from 14.8 to 41.4%. The
+“eﬀective” conversion of ethanol increases over this range
+from 25.2 to 55.0% while that of 1-butanol increases from 11.8
+to 38.3%. These data indicate that all reaction rates decrease
+with increasing contact time. Given that previous studies on
+HAP have shown ethanol condensation to be nearly zero order
+in ethanol pressure at similar conditions,57,76,78 it is unlikely
+Fig. 1
+Alcohol coupling pathway along with key side-reactions. An alcohol ﬁrst dehydrogenates to an aldehyde via surface-mediated or MPV trans-
+fers. The aldehyde can then under
+
+dominantly zero or one oxygen
+atom. Deoxygenated species predominantly possess three
+double-bond equivalents (DBE) and are therefore most likely
+trienes. Oxygenates possess one, three, or four DBE and
+therefore are not saturated alcohols. These may be aldehydes,
+alkenols, alkenals, and alkylbenzenemethanols. As men-
+tioned prior, Moteki and Flaherty showed that alkadienals
+and alkatrienals can be produced from acetaldehyde oligo-
+merization on HAP, the latter of which can be cyclized when
+the species is larger than C8.82 Of the products identified,
+only 65% are higher alcohols or aldehydes while 31% are
+olefins and aromatics. The butanol condensation products
+are largely detectable (95%) with 47% selectivity to alcohols,
+18% selectivity to olefins and aromatics, 10% to 2-ethylhexa-
+nal, 5% to butyraldehyde, and 8% to unidentified detectable
+species. The higher carbon balance for 1-butanol is likely due
+to the lower conversion achieved.
+Fig. 4 plots the eﬀective alcohol selectivity and average
+alcohol carbon number as a function of conversion for both
+ethanol and 1-butanol feeds. This figure illustrates the major
+challenge with Guerbet coupling to the distillate range: the
+decreasing selectivity to higher alcohols observed with increas-
+ing conversion. Ethanol condensation drops below a target
+80% selectivity around 40–50% conversion, while butanol con-
+densation drops below this threshold around 20–30% conver-
+sion. At these conditions, the average carbon number of the
+ethanol-derived alcohols is around 5 while that of the
+1-butanol products is around 8. Distillate fuels are heavier,
+however, ranging from 8 to 22 carbon atoms per molecule.
+Heavier alcohol mixtures theoretically can be produced by
+operating at higher conversions. The simplest model which
+Fig. 3
+Guerbet coupling of (a, b) ethanol and (c, d) 1-butanol with HAP as a function of contact time at 350 °C, 8 kPa alcohol, and 93 kPa H2.
+Absolute (rather than “eﬀective”) conversions and selectivities are plott
+
+c-
+counted for in these data indicates that either undetected pro-
+ducts are formed or that the response factors assumed for the
+C12+ ethers are overestimated. The conversion of a 1 : 1 molar
+ratio of 1-butanol and 2-ethyl–1-hexanol leads to an ether
+selectivity of 59% and an olefin selectivity of 33% at 66% feed
+conversion. The conversion of 1-butanol is 79% while that of
+2-ethyl–1-hexanol is lower at 59%. The cross-etherification
+product 1-butoxy-2-ethylhexane was positively identified via
+GC-MS-EI, clearly showing that cross-etherification does occur
+between linear and branched alcohols. The selectivity to this
+C12 ether was also maximized with this equimolar feed as
+shown in Fig. 7b. Guilera et al. similarly observed that the
+selectivity to ethyl octyl ether in the cross-etherification of
+ethanol and 1-octanol over Amberlyst™70 was maximized
+with an equimolar feed.88 This maximum would be consistent
+with a rate-limiting step either involving bond formation
+between the two alcohols (which may or may not be bound to
+Fig. 6
+Conversions and selectivities in the dehydration of mixtures of 1-butanol and 2-ethyl–1-hexanol. Conditions: 15 g alcohol mixture, 0.75 g
+Amberlyst™70, 150 °C, 24 h.
+Fig. 7
+Conversion and selectivities in the etheriﬁcation of 1-butanol and 2-ethyl–1-hexanol mixtures as a function of butanol feed content. (a)
+Correlations between overall conversion, ether selectivity, and oleﬁn selectivity. (b) Selectivities to speciﬁc oleﬁns and ethers. Conditions: 15 g
+alcohol mixture, 0.75 g Amberlyst™70, 150 °C, 24 h.
+Paper
+Green Chemistry
+3312 | Green Chem., 2019, 21, 3300–3318
+This journal is © The Royal Society of Chemistry 2019
+Published on 21 May 2019. Downloaded by KEAN UNIVERSITY on 7/27/2019 11:06:22 AM. 
+View Article Online
+the catalyst) or the decomposition of an equilibrated surface
+dimer to form an ether. The former is supported by Guilera
+et al., though Song et al. have provided evidence for the latter
+in the Brønsted acid catalyzed etherificatio
+
+y in the
+literature for heterogeneous Guerbet coupling to our knowl-
+edge. Water is known to inhibit etherification reactions70,91,92
+and therefore must be removed from the coupling products
+prior to reaction. Here the addition of 7.4 wt% water to a
+model mixture of 1-butanol and 2-ethyl–1-hexanol was found
+to decrease conversion from 66 to 12% (Fig. S6†), though
+drying with molecular sieves fully recovered the activity. Sieves
+were therefore used to reduce the water content of the ethanol-
+derived feed from 15 to less than 0.5 wt%. Ethanol was then
+removed via distillation since etherification reactions involving
+ethanol would produce significant amounts of volatile C4–C6
+ethers. The major components in the resulting feed were
+1-butanol (51.8 wt%), 2-ethyl–1-butanol (13.6 wt%), 1-hexanol
+(12.5 wt%), and 2-ethyl–1-hexanol (4.1 wt%) with the remain-
+der comprising other alcohols (4.7 wt%) and species not
+detected via GC (13.2 wt%). 79.9 mol% of the alcohols in this
+feed are linear. Using correlations between the linear alcohol
+contents of model feeds and their etherification product distri-
+butions, an ether selectivity of 76.4% and an olefin selectivity
+of 9.8% were expected. In close agreement with these expec-
+tations, the feed was converted to ethers with 73.5% alcohol
+conversion, 71.6% ether selectivity, and 10.2% olefin selecti-
+vity. This demonstrates that combination of the two catalytic
+steps in series necessitates only conventional separation pro-
+cesses already common in alcohol purification (i.e. distillation
+and drying with molecular sieves) and that etherification selec-
+tivities can be reasonably predicted based on model reactions
+and the feed alcohol distribution.
+A proposed block flow diagram of this technology is shown
+in Fig. 10. Here the approximate carbon flows of key streams
+are displayed assuming that Guerbet condensation is per-
+formed at 50% conversion with 77% selectivity to alcohols.
+The product is then separated into four streams: water,
+e

@@ -1,0 +1,152 @@
+========== ABSTRACT ==========
+
+ABSTRACT: This article is an up-to-date review of the literature available on the subject of ethanol to ethylene. The process of
+ethanol to ethylene has broad development prospects. Compared with the process of petroleum to ethylene, ethanol dehydration
+to ethylene is economically feasible. Researchers have been redirecting their interest to the ethylene production process, catalysts,
+and reaction mechanisms. A ﬂuidized bed reactor, together with a wear-resistant, eﬃcient, and stable catalyst will be the focus of
+future research that includes a deep understanding of the large-scale activated alumina catalyst and the molecular sieve catalyst
+used, and will promote the development of the ethanol dehydration to ethylene process and provide strong support for the
+market competiveness of the process.
+1.
+
+
+========== EXPERIMENTAL ==========
+
+experimental
+
+
+========== RESULTS ==========
+
+oric acid, oxides,
+molecular sieves, and miscellaneous acid catalyst.54
+4.1. Catalyst of Phosphoric Acid System. The ﬁrst catalyst
+used in the industrial equipment of ethanol catalytic dehydration to
+ethylene plant was the catalyst of phosphoric acids. In the 1930s, it
+was developed by the British Imperial Chemical (ICI) by loading
+phosphate on clay or coke.55 Donald et al.56 have researched the
+reaction temperature, alcohol concentration, space velocity, and the
+impact of the catalyst regeneration times on the reaction of ethanol
+catalytic dehydration to ethylene with phosphoric acid catalyst. The
+ethylene from ethanol dehydration reaction with phosphoric acid
+catalyst is of high purity; however, the catalyst is easily deactivated by
+coke deposition, and it requires about a month to regenerate. Since
+the 1950s, such catalysts have no longer been used.
+4.2. Oxide Catalyst. The oxide catalyst of ethanol
+dehydration is the typical representative of actived alumina-
+based catalysts. The catalyst currently used in the industrial
+equipment of the ethanol dehydration to ethylene is mainly the
+actived alumina-based catalyst.57 Alumina is an important catalyst
+or catalyst carrier. It has long been found that alumina could be used
+for the alcohol dehydration reaction and also used in many other
+chemical reactions such as isomerization, alkylation, and catalytic
+cracking, etc.58
+In the 1950s, there was a lot of production equipment for
+ethanol dehydration to ethylene built in Asia and South America,
+mainly using clay or alumina as the catalyst. Comparison of the
+two catalysts shows that the deactivation of clay is more serious
+than that of alumina, while the ethylene product obtained from
+alumina catalyzing ethanol dehydration is of relatively low purity,
+which is about 96% to 97%.59 In 1960, when Lummus in America
+built the industrial plant of ethanol to ethylene in India, γ-Al2O3
+was used as the catalyst, and the ethanol conversion rate was up
+to 99%, and the yield of ethyl
+
+ed from
+alumina catalyzing ethanol dehydration is of relatively low purity,
+which is about 96% to 97%.59 In 1960, when Lummus in America
+built the industrial plant of ethanol to ethylene in India, γ-Al2O3
+was used as the catalyst, and the ethanol conversion rate was up
+to 99%, and the yield of ethylene was 94%.60 Roca et al.61 have
+investigated the ethanol dehydration reaction on the Si−Al
+catalyst, and they found that ethylene was the main product, and
+ethylene and the byproduct ether followed the parallel reaction
+mechanism. In the 1980s, American Halcon Scientiﬁc Design
+Inc. successfully developed a new type of multioxide catalysts
+with the main components of A12O3−MgO/SiO2, which were
+named the Syndol catalyst and were used in industrial equivalent
+temperature ﬁxed bed reactors; the ethanol conversion rate was
+97%−99%, and the product ethylene selectivity was nearly 97%;
+the one-way cycle of the catalyst was 8−12 months.62 The Syndol
+catalyst is considered as a kind of highly eﬀective catalyst for
+ethanol dehydration to ethylene. Kochar et al.63 have investigated
+the reaction of ethanol dehydration to ethylene with Syndol
+catalyst, and found that the rising of the reaction temperature
+was conducive to the improvement of ethylene selectivity. Ezzo
+et al.64−66 performed further research on the Al2O3−Cr2O3
+catalyst, put the catalyst in an ethanol catalytic conversion
+reaction, and found that the main gas product was ethylene and
+the liquid products were mainly water, ether, and a small amount
+of acetaldehyde and acetone. The addition of Cr2O3 improved
+the activity of the catalyst for ethanol dehydration, and the
+generation rate of ethylene on the catalyst surface was fastest at
+673 K. In the study, Kojima et al.67 found that the catalyst for the
+ethanol dehydration to ethylene with a higher conversion rate of
+raw materials and the selectivity of target products can be
+prepared by adding a small amount of Ca, Mg, or Zn phosphate
+in the alumina. EI-Katatny et al.68 h
+
+y. To solve
+the aforementioned problems, the researchers modiﬁed the ZSM-5
+zeolite with the hot water treatment, ion exchange, impregnation,
+and other methods. Pan, L. V. et al.81,82 modiﬁed HZSM-5 zeolite
+and then developed NKC-03A catalyst, using industrial ethanol as
+the raw material, when the temperature was 533 K, space velocity
+was 2.3 h−1, the ethanol conversion rate was 98%, and ethylene
+selectivity was 98−99%. The catalyst has been used in industrialized
+column tube reactors. Le Van Mao et al.83 studied the ethanol
+catalytic dehydration reaction with ZSM-5 zeolite modiﬁed with
+zinc and manganese, and found that when the temperature was
+673Kwith space velocityof2.5h−1,theliquidethanolcontentofraw
+material was 75%, the ethanol conversion rate was 99% and C2∼C4
+oleﬁn yield was 94%, which mainly was ethylene. Bun et al.84 used
+ZSM-5 zeolite modiﬁed with H, Cu ion for ethanol conversion
+reaction separately, and the results showed that the H-ZSM-5
+catalyzed ethanol dehydrogenation eﬀectively, while the ethanol on
+Cu-ZSM-5 zeolite was deeply oxidized to generate CO2 and CO;
+increasing the hydroxyl on the H-NaZSM-5 surface can enhance the
+dehydrogenation activity and decrease oxidation activity. Increasing
+Cu ions on the Cu-NaZSM-5 surface is good for the ethanol
+catalytic oxidation reaction. Takahara et al.85 researched the reaction
+of the ethanol dehydration to ethylene on diﬀerent solid acid
+catalysts, including mordenite, ZSM-5 zoelite, Hβ hydrogen type
+zoelite, and Si−Al compounds, and the results showed that the
+catalyst activity was related to the number of B acid sites, and
+mordenite had the highest catalytic activity for alcohol dehydroge-
+nation. Jia, O. Y. et al.86 conducted the ethanol dehydration reaction
+on ZSM-5 zeolite catalyst modiﬁed with La in the laboratory
+bioreactor. During the reaction over 950 h, the ethanol conversion
+rate and ethylene selectivity were above 98%, and the time required
+for the catalyst regeneration was no more than 830 h. Ra
+
+n 533 K, the
+ethanol conversion rate was about 90% and ethylene selectivity
+was about 99%; and the ether was generated when the reaction
+temperature was below 533 K or space velocity was larger. Under
+the reaction conditions (reaction condition: temperature of 49−
+533 K, LHSV 2 h−1), the catalytic activity of SAPO-34 was better
+than that of ZSM-5. Under the conditions of temperature of
+673 K, mass ratio of ethanol/water of 1, the pressure of ethanol
+and moisture of 0.4 MPa (carrier gas is Ar), and space velocity of
+16.7 h−1, Dahl et al.91 studied the reaction of ethanol dehydration
+on SAPO-34 and found that ethanol was quickly translated into
+ethylene and water on SAPO-34 pretreated by propylene. The
+ethylene conversion process is not diﬀusion-limited under these
+reaction conditions. Zhang et al.92 compared the activity and stability
+of four kinds of catalysts in the reaction of ethanol dehydration to
+ethylene, namely γ-Al2O3, HZSM-5 (Si/Al = 25), SAPO-34, and
+NiAPSO-34, and found that the activity of the catalysts in descending
+order was HZSM-5 > NiAPSO-34 > SAPO-34 > γ-Al2O3 (reaction
+condition: temperature 723 K (γ-Al2O3), 573 K (HZSM-5), and
+623 K (SAPO-34 and NiAPSO-34), LHSV 3 h−1), while in the
+stability test under 100 h, SAPO-34 and NiAPSO-34 have the best
+stability.Afterconsideringallthe aspects,NiAPSO-34is most suitable
+for the ethanol catalytic dehydration to ethylene reaction. Zhou T.
+et al.93 studied the ethanol (mass concentration is 99.7%) dehydra-
+tion to ethylene reaction on the composite catalyst of SAPO-11/
+HZSM-5 and found that the increase of the catalyst acidity helped to
+improve the ethanol conversion rate and ethylene yield, when the
+pressure was 0.1 MPa, the temperature was 513 K, the space velocity
+was 1.2 h−1, the ethanol conversion rate was 99.19%, and ethylene
+selectivity was 98.77%; when the ethanol conversion rate and
+ethylene selectivity both reached 99.00%, the reaction temperature of
+the catalyst was 60 K lower than those of HZSM-5

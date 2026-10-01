@@ -1,0 +1,127 @@
+{
+    "paper": "Prillaman2021_Article_CalciumPhosphateCatalystsForEt",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium hydroxyapatite (CaHAP) is well-recognized as an excellent catalyst for Guerbet coupling of ethanol to produce butanol and other C4 oxygenates.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The thermal treatment can be used to adjust the acid–base nature of the calcium phosphate catalysts.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Zirconia",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The high activity of zirconia for acid-catalyzed dehydration reactions.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Silica",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The very poor activity of silica (very low areal rate, near background conversion).",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Calcium",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Calcium (wt%)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Zirconia",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "CaP/ZrO2",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 14
+        }
+    }
+}

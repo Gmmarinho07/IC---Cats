@@ -1,0 +1,95 @@
+{
+    "paper": "Upgrading Ethanol to Higher Alcohols via Biomass-Derived NiBio-Apatite",
+    "extraction_model": "gpt",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni/bio-apatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a heterogeneous recyclable biomass-derived Ni/bio-apatite catalyst was developed",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "BAP-0.25Ni",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the XPS spectra of BAP-0.25Ni-calcinated",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni/bone",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "we tested the Ni/bone in the reaction",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "BAP-T-5Ni",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the catalytic performance of the BAP-T-5Ni catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni-BAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the Ni-BAP catalyst are also discussed",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the peak at 853.5 eV can be ascribed to Ni2+ in NiO",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the peak at 853.5 eV can be ascribed to Ni2+ in NiO",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "bio-apatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "a heterogeneous recyclable biomass-derived Ni/bio-apatite catalyst",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "bio-apatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "a heterogeneous recyclable biomass-derived Ni/bio-apatite catalyst",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "BAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the peak at 853.5 eV can be ascribed to Ni2+ in NiO dispersed on BAP",
+                "reason": "The article explicitly associates BAP with bio-apatite."
+            }
+        ],
+        "summary": {
+            "incorrect": 0,
+            "not_supported": 0,
+            "partial": 0,
+            "correct": 10
+        }
+    }
+}

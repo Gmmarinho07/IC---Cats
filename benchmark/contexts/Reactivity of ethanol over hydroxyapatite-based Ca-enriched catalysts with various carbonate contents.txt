@@ -1,0 +1,230 @@
+========== ABSTRACT ==========
+
+
+behavior of all the apatite catalysts. Indeed, the isopropanol
+test on the apatite catalysts mainly produced propylene
+(together with small quantities of diisopropyl ether) and ace-
+tone, which is an indirect representation of the acidic behav-
+ior and the basic character, respectively, of the probed
+solids.31 In the following figures, the catalysts are divided
+into three groups (corresponding to the groups given in
+Table 2): (i) HapD and Hap represented by circles, (ii) carbon-
+ated apatite catalysts, namely Hap-CO3 and HapNa-CO3, rep-
+resented by squares, and (iii) carbonate-rich apatites, namely
+HapE-CO3 and HapE-Na-CO3, represented by triangles (this
+representation is similar to that in ref. 31).
+Since ethylene and diethyl ether (reaction products of eth-
+anol) and propylene and diisopropyl ether (reaction products
+of isopropanol) are supposed to be formed by inter- and
+intra-molecular dehydration reactions over acid sites, a corre-
+lation study between these products was performed. As
+diisopropyl ether was hardly detected over group ii and group
+iii catalysts due to the GC analysis detection limit of ca.
+0.5%, its quantity was then arbitrarily accounted as 0.25% ±
+0.25% over these samples.
+Fig. 1(a) reveals a good correlation between ethylene and
+propylene selectivities. The selectivity to ethylene did not vary
+much for group ii & iii catalysts, with a value of 1.4 ± 0.2%,
+but increased for group i catalysts, namely Hap (2%) and
+HapD (3.1%). HapD and Hap exhibited higher selectivity to
+both ethylene and propylene, thus showing their predomi-
+nant acidic nature compared to the other solids. A consistent
+correlation was obtained for the plot of diethyl ether selectiv-
+ity as a function of diisopropyl ether selectivity [Fig. 1(b)],
+with the presence of low amounts of both compounds over
+group ii & group iii catalysts and more significant amounts
+over group i catalysts. Thus, it can be concluded that the pre-
+dominant acidic nature of group i catalysts was respons
+
+
+========== EXPERIMENTAL ==========
+
+Experimental
+Catalysts
+The synthesis method for all the solids used in this study is
+reported elsewhere.31 The solids are further listed in Table 1
+together with their main characteristics.
+Characterisation
+Techniques for extensive physico-chemical characterization
+of
+the
+solids,
+namely,
+X-ray
+diffraction
+(XRD),
+thermogravimetric analysis (TGA), scanning electron micros-
+copy (SEM), infrared spectroscopy (FTIR), X-ray photoelectron
+spectroscopy (XPS), low-energy ion scattering spectroscopy
+(LEIS), heteronuclear magnetic resonance spectroscopy (2D
+NMR), temperature programmed desorption (TPD-NH3 &
+TPD-CO2), XPS after adsorption of 2-phenylethylamine (PEA-
+XPS) and pulse liquid chromatographic adsorption using
+benzoic acid, are reported elsewhere.31 The present paper is
+thus focused on the reactivity of the solids in the Guerbet
+reaction, in relation to the aforementioned characterization
+
+
+========== RESULTS ==========
+
+results.
+The Guerbet reaction of ethanol was carried out using
+0.20 g (GHSV = 15 000 mL h−1 g−1) or 0.60 g (GHSV = 5000 mL
+h−1 g−1) of a sample under the form of a powder with a parti-
+cle size between 80 and 100 mesh. 20 vol.% ethanol in He
+gas was passed through a fixed bed glass reactor at a total
+Table 1
+List of the catalytic solids used in the present study and their
+basic characteristics (from data in ref. 31)
+Type of solid
+Name
+Ca/P atomic
+ratio (ICP)
+Na
+(wt.%)
+Specific surface
+area (m2 g−1)
+Deficient
+HapD
+1.62
+—
+124
+Stoichiometric
+Hap
+1.69
+—
+114
+Carbonated
+Hap-CO3
+1.70
+—
+107
+Carbonated
+HapNa-CO3
+1.72
+0.64
+109
+Carbonate-rich
+HapE-CO3
+1.90
+—
+76
+Carbonate-rich
+HapE-Na-CO3
+2.39
+<0.3
+72
+Catalysis Science & Technology
+Paper
+Published on 27 March 2015. Downloaded by University of Western Ontario on 13/04/2015 09:56:18. 
+View Article Online
+Catal. Sci. Technol.
+This journal is © The Royal Society of Chemistry 2015
+flow rate of 50 mL min−1. The feed and the outlet products
+were analyzed on-line by a gas chromatograph equipped with
+a Zebron ZB-Bioethanol capillary column (l = 30 m, id = 0.25
+mm) connected to a FID and coupled with a mass spectrome-
+ter (MS Agilent 5975C).
+The ethanol conversion, the selectivity to each product,
+and the corresponding yields were calculated as follows:
+- Ethanol conversion (%) = 100 × [(moles of ethanol before
+reaction −moles of ethanol after reaction)/moles of ethanol
+before reaction];
+- Product yield (%) = 100 × (moles of C converted into the
+considered product/moles of C in ethanol before reaction);
+- Product selectivity (%) = 100 × (product yield/ethanol
+conversion).
+Results and discussion
+Guerbet reaction products observed at iso-conversion
+The first series of experiments aimed at studying the intrinsic
+catalytic properties of the solids by working at iso-conversion.
+Table 2 shows the selectivity to the main products of the
+Guerbet reaction of ethanol at an iso-conversion of 14%. This
+iso-conversion of ethanol was achieved by appro
+
+ion
+The first series of experiments aimed at studying the intrinsic
+catalytic properties of the solids by working at iso-conversion.
+Table 2 shows the selectivity to the main products of the
+Guerbet reaction of ethanol at an iso-conversion of 14%. This
+iso-conversion of ethanol was achieved by appropriately
+adjusting the temperature between 300 °C and 400 °C at
+GHSVs of 5000 mL h−1 g−1 and 15 000 mL h−1 g−1. As afore-
+mentioned, the direct ethanol coupling pathway proposed by
+Scalbert et al. may not be applicable at lower temperatures,
+i.e., below 350 °C.30 The iso-conversion of 14% was observed
+at a temperature below 350 °C for three HAPs (HapD, Hap,
+Hap-CO3; Table 2). The other 3 HAPs are carbonate-rich sam-
+ples, thus with properties different from those obtained by
+Scalbert et al., who used a commercial solid most probably
+with a stoichiometric composition. Moreover, Scalbert et al.
+did not consider the mechanism involved in the formation of
+products like ethylene and ether, which are formed by dehy-
+dration of ethanol over acid sites. In the present study, i.e.,
+under the conditions and over the specific solids we used, we
+will see in the following sections that the observed products
+are
+in
+line
+with
+the
+sequential
+mechanism
+proposed
+elsewhere,27,29 which then actually applies here, even if we
+cannot completely rule out a potential contribution of the
+direct pathway to the distribution of the observed products.
+Butanol was the major product over all the catalysts, its
+selectivity being higher over the carbonated apatites, namely
+Hap-CO3 (71%) and HapNa-CO3 (59%). Formation of ethyl-
+ene, which is attributed to intramolecular dehydration of eth-
+anol, was observed in rather small quantities over all the apa-
+tites and especially over HapD (3.1%) and Hap (2%), its
+selectivity being less than 1.6% over the other solids. Acetal-
+dehyde, a dehydrogenation product of ethanol, was produced
+over all the catalysts and especially observed as a final prod-
+uct
+over
+the
+ca
+
+rather small quantities over all the apa-
+tites and especially over HapD (3.1%) and Hap (2%), its
+selectivity being less than 1.6% over the other solids. Acetal-
+dehyde, a dehydrogenation product of ethanol, was produced
+over all the catalysts and especially observed as a final prod-
+uct
+over
+the
+carbonate-rich
+apatites,
+namely
+HapE-CO3
+(15.5%) and HapE-Na-CO3 (19%). Formation of 2-buten-1-ol,
+which is produced by dehydrogenation of ethanol followed
+by aldol condensation and hydrogenation of the CO bond
+while leaving the CC bond non-hydrogenated, was also
+observed in increasing quantities when the solids were richer
+in carbonates. In contrast, only trace amounts of butyralde-
+hyde were observed, which is a compound produced in a way
+similar to that for 2-buten-1-ol but by hydrogenation of the
+CC bond while leaving the CO bond non-hydrogenated.
+Small
+amounts
+of
+diethyl
+ether,
+resulting
+from
+inter-
+molecular dehydration of ethanol over acid sites, as well as
+dienes, were also observed over all the catalysts. Further,
+‘other’ compounds were also detected, namely higher alde-
+hydes, higher alkenes and trace amounts of aromatics, which
+are formed by multiple consecutive steps (including Guerbet
+intermediates), by uncontrolled reaction over the various
+sites present at the surface of the solids.
+Due to the high level of complexity of the studied reaction,
+for the sake of clarity, we compile the conclusions deduced
+from all the results of this study in Scheme 1, which is thus,
+in fact, a

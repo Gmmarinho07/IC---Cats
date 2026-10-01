@@ -1,0 +1,374 @@
+========== ABSTRACT ==========
+
+atefully acknowledged. We thank 
+Prof. Song Hong from Beijing University of Chemical Technology for his 
+help in Ac-HAADF-STEM characterization. 
+B. Yuan et al. 
+Applied Catalysis B: Environmental 309 (2022) 121271
+10
+Appendix A. Supporting information 
+Supplementary data associated with this article can be found in the 
+online version at doi:10.1016/j.apcatb.2022.121271.
+
+
+========== EXPERIMENTAL ==========
+
+a heating rate of 5 ◦C/min. Ru/Mg3Al1-LDO-D-A, Ru/Mg3Al1- 
+LDO-E-A, Ru/Mg3Al1-LDO-I-A, Ru/Mg3Al0.9Ga0.1-LDO-P-A, or Ru/ 
+Mg3Al0.9Zr0.1-LDO-P-A was produced by the thermal treatment of Ru 
+(OH)6
+3-/Mg3Al1-LDHs-D, 
+Ru(OH)x/Mg3Al1-LDHs-E, 
+RuCl3/Mg3Al1- 
+LDHs-I, Ru(OH)6
+3-/Mg3Al0.9Ga0.1-LDHs-P, or Ru(OH)6
+3-/Mg3Al0.9Zr0.1- 
+LDHs-P in the same procedure. Ru/Mg3Al1-LDO-P-N was prepared by 
+the thermal treatment of Ru(OH)6
+3-/Mg3Al1-LDHs-P in the same pro­
+cedure as that for Ru/Mg3Al1-LDO-P-A, except that Ru(OH)6
+3-/Mg3Al1- 
+LDHs-P was first thermally treated at 500 ◦C for 2 h under N2 atmo­
+sphere in a tube furnace. For comparison, pristine Mg3Al1-LDO (without 
+Ru loaded) was produced by thermal treatment of Mg3Al1-LDHs 
+following the same procedures as that for Ru/Mg3Al1-LDO-P-A. 
+B. Yuan et al. 
+Applied Catalysis B: Environmental 309 (2022) 121271
+3
+2.3. Characterizations 
+Powder X-ray diffraction (XRD) patterns were taken on a Shimadzu 
+XRD-6000 diffractometer operated at 40 kV and 30 mA using a Cu Kα 
+radiation (λ = 0.1541 nm), with a scanning angle (2θ) range of 3–80 ◦at 
+a scan speed of 10 ◦min−1. Quantitative analysis for metal elements 
+were performed on a Shimadzu ICPS-7500 inductively coupled plasma 
+emission spectrometer (ICP-ES). Typically, 20 mg of solid sample was 
+dissolved in aqua regia and heated at 120 ◦C for 6 h in a Teflon auto­
+clave. The resulting solution was then transferred to a 100 mL volu­
+metric flask and diluted to volume with deionized water. H2- 
+temperature programmed reduction (H2-TPR) measurements were car­
+ried out on a Micromeritics ChemiSorb 2750 chemisorption instrument 
+with a thermal conductivity detector (TCD). In each case, 100 mg of 
+sample was pre-treated in a flow of Ar (40 mL/min) at 150 ◦C for 1 h and 
+then cooled to room temperature. The H2-TPR profile was recorded from 
+50 ◦C to 700 ◦C at a temperature-programmed rate of 10 ◦C/min in a 
+flow of 10 vol% H2-Ar (40 mL/min). Scanning electron microscopic 
+(SEM) images were tak
+
+ess-steel tubular reactor (10 mm external diameter, 
+38 cm length) equipped with on-line gas chromatography (Shimadzu GC 
+2010). The procedures are the same as the ethanol coupling reaction 
+except that the 40 μL/min of mixture of acetaldehyde/hexane (acetal­
+dehyde in 10 wt%) was introduced to the system. During the reaction, 
+the products were analyzed quantitatively on an on-line gas chroma­
+tography (Shimadzu GC 2014 C) equipped with a HP-624Si column 
+(30 m, 0.25 mm inner diameter). The acetaldehyde conversion and 
+product selectivity were calculated as follows: 
+Acetaldehydeconversion(%) = Fin −Funreacted
+Fin
+× 100%
+(4) 
+Selectivity(%) = x mol of carbon in the target product
+x mol of carbon in all products
+× 100%
+(5) 
+where Fin and Funreacted are the moles of input and unreacted 
+acetaldehyde. 
+Calculations of mass transfer limitations on 1.04 wt% Ru/Mg3Al1- 
+LDO-P-A at 623 K, 0.1 MPa with ethanol conversion of 30% were carried 
+Fig. 1. (A) XRD patterns of (a) Mg3Al1-CO3
+2--LDHs, (b) Mg3Al0.9Ga0.1-CO3
+2--LDHs, and (c) Mg3Al0.9Zr0.1-CO3
+2--LDHs. (B) XRD patterns of (a) [Ru(OH)6]3- /Mg3Al1- 
+CO3
+2--LDHs-P, (b) [Ru(OH)6]3- /Mg3Al1-CO3
+2--LDHs-D, (c) Ru(OH)x /Mg3Al1-CO3
+2--LDHs-E, (d) RuCl3 /Mg3Al1-CO3
+2--LDHs-I, (e) [Ru(OH)6]3- /Mg3Al0.9Ga0.1-CO3
+2-- 
+LDHs-P and (f) [Ru(OH)6]3- /Mg3Al0.9Zr0.1-CO3
+2--LDHs-P. (C) XRD patterns of (a) Mg3Al1-LDO, (b) 1.04 wt% Ru/Mg3Al1-LDO-P-A, (c) 1.02 wt% Ru/Mg3Al1-LDO-D- 
+A, (d) 0.95 wt% Ru/Mg3Al1-LDO-E-A, (e) 0.97 wt% Ru/Mg3Al1-LDO-I-A, (f) 1.08 wt% Ru/Mg3Al1-LDO-P-N, (g) 1.11 wt% Ru/Mg3Al0.9Ga0.1-LDO-P-A, and (h) 
+1.07 wt% Ru/Mg3Al0.9Zr0.1-LDO-P-A. 
+Fig. 2. Ac-HAADF-STEM images and the corresponding atom number distribution of (a) 1.04 wt% Ru/Mg3Al1-LDO-P-A, (b) 1.02 wt% Ru/Mg3Al1-LDO-D-A, (c) 
+0.95 wt% Ru/Mg3Al1-LDO-E-A, (d) 0.97 wt% Ru/Mg3Al1-LDO-I-A, (e) 1.08 wt% Ru/Mg3Al1-LDO-P-N, (f) 1.11 wt% Ru/Mg3Al0.9Ga0.1-LDO-P-A, (g) 1.07 wt% Ru/ 
+Mg3Al0.9Zr0.1-LDO-P-A, and (h) EDS elemental mapping for 1.04 wt% Ru/Mg3Al1-LDO-P-A. For 
+
+
+========== RESULTS ==========
+
+anoparticles coexisting with 8% atomic 
+Ru and 25% 0.2–1.0 nm nanoclusters (Fig. 2e). The pristine Mg3Al1-LDO 
+and Ru-loaded Mg3Al1-LDO show similar morphology, BET surface area, 
+and pore size distribution (Fig. S2 and Fig. S3). On Ga- or Zr- introduced 
+LDO (Mg3Al0.9Ga0.1-LDO or Mg3Al0.9Zr0.1-LDO), Ru dispersion (Fig. 2f 
+and g) is similar to that on Mg3Al1-LDO (Fig. 2a), with similar Ru- 
+loading and thermal treatment procedure, in 98% atomic Ru. EDS 
+(Fig. 2h) mappings of 1.04 wt% Ru/Mg3Al1-LDO-P-A display that 
+atomic Ru is uniformly distributed on Mg3Al1-LDO. 
+In the Fourier transforms of k3-weighted Ru EXAFS spectra (Fig. 3A), 
+no Ru-Ru interactions were identified in either 1.04 wt% Ru/Mg3Al1- 
+LDO-P-A or RuOx/Mg3Al1-LDO-P-A, while obvious Ru-Ru interactions 
+were identified in the 1.08 wt% Ru/Mg3Al1-LDO-P-N, indicating the 
+isolate Ru species in 1.04 wt% Ru/Mg3Al1-LDO-P-A and RuOx/Mg3Al1- 
+LDO-P-A while Ru particles in 1.08 wt% Ru/Mg3Al1-LDO-P-N. The 
+EXAFS identifications of 1.04 wt% Ru/Mg3Al1-LDO-P-A and 1.08 wt% 
+Ru/Mg3Al1-LDO-P-N are in agreement with the structural de­
+terminations by Ac-HAADF-STEM (Fig. 2), and also supported by the FT- 
+IR spectra of CO adsorption-desorption (Fig. S4). In the FT-IR spectra of 
+CO adsorption-desorption on Ru-loaded LDO, two adsorption bands at 
+2035–2050 cm−1 and 1960–1976 cm−1, assigned to the linear CO 
+adsorption on atomic Ru [43,44], are clearly observed on 1.04 wt% 
+Ru/Mg3Al1-LDO-P-A, suggesting the atomically dispersed Ru in 1.04 wt 
+% Ru/Mg3Al1-LDO-P-A. Besides the band at 1960–1976 cm−1, a new 
+band at 2012 cm−1, assigned to the linear CO adsorption on Ru nano­
+particles [44], is observed on 1.08 wt% Ru/Mg3Al1-LDO-P-N, indicative 
+of the presence of Ru nanoparticles in Ru/Mg3Al1-LDO-P-N. Similar 
+results are detected on 1.11 wt% Ru/Mg3Al0.9Ga0.1-LDO-P-A and 
+1.07 wt% Ru/Mg3Al0.9Zr0.1-LDO-P-A to that on 1.04 wt% Ru/M­
+g3Al1-LDO-P-A, indicative of the atomically dispersed Ru in 1.11 wt% 
+Ru/Mg3Al0.9Ga0.1-LDO-P-A
+
+-N, indicative 
+of the presence of Ru nanoparticles in Ru/Mg3Al1-LDO-P-N. Similar 
+results are detected on 1.11 wt% Ru/Mg3Al0.9Ga0.1-LDO-P-A and 
+1.07 wt% Ru/Mg3Al0.9Zr0.1-LDO-P-A to that on 1.04 wt% Ru/M­
+g3Al1-LDO-P-A, indicative of the atomically dispersed Ru in 1.11 wt% 
+Ru/Mg3Al0.9Ga0.1-LDO-P-A and 1.07 wt% Ru/Mg3Al0.9Zr0.1-LDO-P-A. 
+These results are well consistent with the Ac-HAADF-STEM, EXAFS, and 
+Wavelet transform of EXAFS spectra results. In the wavelet transforms of 
+the EXAFS spectra (Fig. 3B), the WT contour plots of 1.04 wt% 
+Fig. 3. (A) Fourier transforms of k3-weighted Ru EXAFS spectra and (B) Wavelet transform of the EXAFS spectra for (a) 1.04 wt% Ru/Mg3Al1-LDO-P-A, (b) RuOx/ 
+Mg3Al1-LDO-P-A, (c) 1.08 wt% Ru/Mg3Al1-LDO-P-N, (d) Ru foil, and (e) RuO2. 
+Table 1 
+EXAFS fitting parameters at the Ru K-edge for various samples. 
+Samples 
+Shell 
+R 
+(Å)a 
+Nb 
+σ2 
+(Å2.10−3)c 
+ΔE0 
+(eV)d 
+R factor 
+(%) 
+1.04 wt% Ru/ 
+Mg3Al1-LDO-P- 
+A 
+Ru-O 
+2.08 
+4.3 
+4.4 
+6.4 
+1.1 
+Ru-O- 
+M 
+2.98 
+4.3 
+5.3 
+-1.4 
+RuOx/Mg3Al1- 
+LDO-P-A 
+Ru-O 
+2.08 
+4.2 
+6.8 
+4.1 
+0.8 
+Ru-O- 
+M 
+2.97 
+4.2 
+8.4 
+-2.9 
+1.08 wt% Ru/ 
+Mg3Al1-LDO-P- 
+N 
+Ru-O 
+1.98 
+2.7 
+9.0 
+-3.1 
+1.0 
+Ru- 
+Ru 
+2.68 
+5.0 
+6.3 
+6.2 
+Ru foil 
+Ru- 
+Ru 
+2.68 
+12 
+3.0 
+-4.5 
+0.8 
+RuO2 
+Ru-O 
+1.98 
+6 
+3.2 
+-4.4 
+1.0 
+a R: bond distance. 
+b N: coordination number. 
+c σ2: Debye-Waller factor. 
+d ΔE0: the inner potential correction. R factor: goodness of fit. Ѕ0
+2 was set as 
+0.95/0.90 for Ru-O/Ru-Ru, which were obtained from the experimental EXAFS 
+fit of reference RuO2 and Ru foil by fixing coordination number as the known 
+crystallographic value and was fixed to all the samples. Ru foil parameter is from 
+data_41515-ICSD. RuO2 parameter is from data_66939-ICSD. Error bounds 
+(accuracies) of the above structural parameters obtained by EXAFS spectra were 
+estimated as N, ± 20%; R, ± 1%; σ2, ±20%; ΔE0, ±20%. 
+B. Yuan et al. 
+Applied Catalysis B: Environmental 309 (2022) 121271
+6
+Ru/Mg3Al1-LDO-P-A and RuOx/Mg3Al1-LDO-P-A s
+
+O2 parameter is from data_66939-ICSD. Error bounds 
+(accuracies) of the above structural parameters obtained by EXAFS spectra were 
+estimated as N, ± 20%; R, ± 1%; σ2, ±20%; ΔE0, ±20%. 
+B. Yuan et al. 
+Applied Catalysis B: Environmental 309 (2022) 121271
+6
+Ru/Mg3Al1-LDO-P-A and RuOx/Mg3Al1-LDO-P-A show two intensities, 
+corresponding to Ru-O and Ru-O-M coordination. No intensity 
+maximum related to Ru-Ru contribution can be resolved at high coor­
+dination shells, which has been observed in the WT plot of 1.08 wt% 
+Ru/Mg3Al1-LDO-P-N and Ru foil. The WT contour plots of 1.04 wt% 
+Ru/Mg3Al1-LDO-P-A and RuOx/Mg3Al1-LDO-P-A are also different from 
+RuO2. The results indicate that the Ru species in 1.04 wt% Ru/M­
+g3Al1-LDO-P-A and RuOx/Mg3Al1-LDO-P-A are dispersed in atomic 
+scale. From the spectra of RuOx/Mg3Al1-LDO-P-A, it can be deduced that 
+atomic Ru has been formed by the calcination of [Ru(OH)6]3-/M­
+g3Al1-CO3
+2--LDHs-P under air atmosphere. 
+To explore further the coordination structure of atomic Ru, the Ru K- 
+edge EXAFS fitting have been performed. The parameters based on the 
+EXAFS are shown in Table 1. The detailed fitting results are presented in 
+Fig. S5 for k space and Fig. S6 for R space. Model-based EXAFS fitting 
+further indicates that the Ru atoms in 1.04 wt% Ru/Mg3Al1-LDO-P-A 
+possesses a Ru-O coordination of 4.3 without Ru-Ru coordination. The 
+EXAFS fitting parameter R (Å) is defined as the distance between 
+absorber and backscatter atoms, also called bond distance, indicates that 
+the mean bond length of Ru-O is 2.08 Å, and meanwhile, the Mg or Al 
+atom in the support forms a Ru-O-M (M stands for Mg or Al atom) bond 
+with Ru atom through the oxygen bridge [45], with a distance between 
+Ru atom and M of 2.98 Å. In the 27Al MAS NMR results (Fig. S7, a), the 
+loading of atomic Ru increases the signal intensity of four-coordinated 
+[46] Al species, consistent with the formation of Ru-O-M bond. 
+The electronic structure of atomic Ru has been investigated
+
+ [45], with a distance between 
+Ru atom and M of 2.98 Å. In the 27Al MAS NMR results (Fig. S7, a), the 
+loading of atomic Ru increases the signal intensity of four-coordinated 
+[46] Al species, consistent with the formation of Ru-O-M bond. 
+The electronic structure of atomic Ru has been investigated by 
+XANES (Fig. 4) and XPS (Fig. S8) spectra. The absorption edge of 1.04 wt 
+% Ru/Mg3Al1-LDO-P-A (atomic Ru dominant) and 1.08 wt% Ru/ 
+Mg3Al1-LDO-P-N (Ru cluster and 1.0–2.0 nm particle dominant) are 
+very close, located between the absorption edge of Ru foil and RuO2, 
+while the absorption edge of RuOx/Mg3Al1-LDO-P-A approaches that of 
+RuO2 (Fig. 4a). From the first-derivative of absorption edge in Fig. 4a, 
+the absorption threshold (E0) was obtained (Fig. 4b). Then the E0 value 
+was plotted as a function of oxidation state (Fig. 4c). The linear fitting 
+result in Fig. 4c clearly indicates that either the atomic Ru in 1.04 wt% 
+Ru/Mg3Al1-LDO-P-A or the Ru cluster and 1.0–2.0 nm particle in 
+1.08 wt% Ru/Mg3Al1-LDO-P-N deviate from both Ru0 but is not Ru4+ in 
+RuO2. In the XPS spectra (Fig. S8), 1.04 wt% Ru/Mg3Al1-LDO-P-A shows 
+Fig. 4. (a) Ru K-edge XANES spectra, (b) first-derivative XANES curves, and (c) oxidation state analysis for Ru K-edge. 
+Table 2 
+Catalytic results of catalysts for ethanol coupling to C4+ alcohols. 
+Entry 
+Catalysts 
+The proportion 
+of atomic Ru/ 
+% 
+EtOH 
+Conv./ 
+% 
+Selectivity/% 
+Carbon 
+balance/ 
+% 
+diethyl 
+ether 
+acetaldehyde 
+n- 
+butanal 
+n- 
+butanol 
+2-ethyl- 
+1- 
+butanol 
+n- 
+hexanol 
+C4+alcohols 
+Others 
+1 
+Mg3Al1-LDO 
+– 
+13.2 
+25.8 
+6.5 
+3.6 
+54.5 
+0.6 
+3.9 
+59.0 
+5.1 
+95 
+2 
+1.04 wt% Ru/ 
+Mg3Al1-LDO-P-A 
+99 
+29.6 
+(30.0) 
+7.2(7.0) 
+6.0(6.1) 
+0.8 
+(1.3) 
+70.1 
+(70.8) 
+2.8(2.2) 
+9.7(9.0) 
+82.6(82.0) 
+3.4 
+(3.6) 
+94(92) 
+3 
+Mg3Al1-LDOa 
+– 
+2.1 
+33.2 
+3.4 
+0.7 
+55.8 
+– 
+2.3 
+58.1 
+4.6 
+96 
+4 
+1.04 wt% Ru/ 
+Mg3Al1-LDO-P-Aa 
+99 
+6.3 
+6.6 
+6.0 
+1.0 
+73.2 
+4.4 
+5.6 
+83.2 
+3.2 
+95 
+5 
+1.02 wt% Ru/ 
+Mg3Al1-LDO-D-A 
+90 
+28.3 
+(27.6) 
+9.2(8.6)

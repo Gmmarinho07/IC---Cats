@@ -1,0 +1,252 @@
+========== ABSTRACT ==========
+
+ABSTRACT: The Lewis and Brønsted basic properties of a
+stoichiometric hydroxyapatite (HAp) were investigated by
+infrared spectroscopy following the adsorption and desorption
+processes of a Lewis acidic molecule, CO2, and a Brønsted
+acidic molecule, C2H2. CO2 interacts with basic OH−and O2−
+of PO4
+3−groups to form hydrogenocarbonates and surface
+carbonates, respectively. It also generates surface type A
+carbonates and related water upon substitution of two
+neighboring structural OH−groups. Water modiﬁes the basic
+properties of the HAp by decreasing the surface carbonatation and enhancing the formation of hydrogenocarbonates, and
+promotes the substitution ability of OH−by carbonates. Due to the aﬃnity of HAp for carbonatation, the thermodesorption
+experiment of CO2 accounts for the thermal decomposition of bulk type A and B carbonates rather than for the lone surface
+basicity. As for the acetylene probe, three nondissociative adsorption modes of acetylene on the HAp surface are observed: a π
+complex interaction with acidic POH, an interaction with an acid−base (POH−OH) pair, and ﬁnally, a σ complex interaction
+with basic OH−that is the most stable upon desorption. There is no evidence of the involvement of basic O2−of PO4
+3−in the
+interaction with acetylene. It is thus proposed that both acidic POH and basic OH−groups may play a determinant role in acid−
+base properties of hydroxyapatites.
+1.
+
+
+========== EXPERIMENTAL ==========
+
+EXPERIMENTAL SECTION
+2.1. HAp Preparation. A stoichiometric calcium hydrox-
+yapatite sample (Ca10(PO4)6(OH)2) was prepared according to
+the procedure previously described:23 the coprecipitation of
+solutions of Ca(NO3)2 and (NH4)2HPO4 previously adjusted
+at pH = 10 was performed at 353 K under a N2 ﬂow to limit
+carbonation of the material. The pH was maintained at pH = 10
+during the precipitation and maturation time by periodic
+addition of NH3. The washed precipitate was then dried
+overnight at 373 K and thermally treated under an Ar ﬂow (150
+mL min−1) up to 623 K (5 K min−1) and maintained at this
+temperature for 90 min.
+From elemental analysis performed by ICP-AES by the
+“Service Central d’Analyse” of the CNRS (Solaize, France), the
+Ca and P contents were determined and conﬁrmed that the
+sample was stoichiometric (Ca/P ratio of ∼1.67). The C
+content was found to be about 0.5 wt %. It was also checked
+from XRD (Siemens diﬀractometer equipped with a Copper
+anode generator (λ = 1.5418 Å)) that the sample exhibited the
+hydroxyapatite structure (ICDD pattern 01−074−9780(A)).
+Its speciﬁc surface area, measured by N2 adsorption at 77 K on
+a Micromeritics (ASAP 2010) apparatus, was estimated to be
+39 m2 g−1 from the BET method.
+2.2. FTIR. The sample was pressed at 2.5 ton·cm−2 into self-
+supporting wafers (20−25 mg, 16 mm diameter). Wafers were
+placed in a quartz cell equipped with ZnSe windows and
+connected to a vacuum line allowing thermal treatments and
+adsorption−desorption experiments to be carried out in situ.
+The FTIR spectra were recorded using a Brüker FTIR Vertex
+70 spectrometer, equipped with a MCT detector (2 cm−1
+resolution, 64 scans per spectrum).
+The wafers were pretreated under an Ar ﬂow (20 mL min−1)
+up to 623 K (5 K min−1) for 90 min before being evacuated at
+623 K (10−4 Pa). The interaction of CO2 with the surface was
+monitored at room temperature (RT) while adding incremental
+doses of CO2 up to a ﬁnal equilibrium pressure of 133 Pa. An
+evacuation step 
+
+pretreated under an Ar ﬂow (20 mL min−1)
+up to 623 K (5 K min−1) for 90 min before being evacuated at
+623 K (10−4 Pa). The interaction of CO2 with the surface was
+monitored at room temperature (RT) while adding incremental
+doses of CO2 up to a ﬁnal equilibrium pressure of 133 Pa. An
+evacuation step was then carried out starting from RT up to
+Figure 1. FTIR spectrum of a self-supported wafer of the stoichiometric HAp recorded at RT after in situ pretreatment under vacuum at 623 K: (a)
+Zoom in the 3740−3600 cm−1 area, (b) zoom in the 1650−1300 cm−1 area.
+The Journal of Physical Chemistry C
+Article
+dx.doi.org/10.1021/jp500469x | J. Phys. Chem. C XXXX, XXX, XXX−XXX
+B
+523 K until a residual pressure of about 10−4 Pa was reached.
+Additional set of data were obtained from CO2 adsorption on a
+HAp surface that had been previously partially deuterated
+following the surface isotopic labeling procedure already
+reported elsewhere: D2O (266 Pa) was adsorbed at 373 K
+for 10 min on the pretreated sample before the sample was
+outgassed at this temperature for 10 min. This cycle was
+repeated twice. An additional evacuation step at 473 K was then
+performed for 20 min to remove most of the residual
+chemisorbed D2O.48 The related partially deuterated surface
+will be hereafter referred to as deuterated sample.
+Unless speciﬁed otherwise, the FTIR spectra of adsorbed
+molecules are reported in absorbance, after subtraction of the
+background of the sample before the adsorption. The two series
+of spectra recorded on the nondeuterated and deuterated
+samples have been normalized using the overtone and
+combination modes of the P−O bands (2200−1900 cm−1).
+2.3. DRIFTS. Diﬀuse reﬂectance infrared spectra were
+recorded using a Brüker IFS 66 V spectrometer (4 cm−1
+resolution, 256 scans/spectrum, MCT detector). About 40
+mg of powdered sample, corresponding either to pure HAp or
+to a mechanical mixture of 10 mg of HAp in 90 mg of diamond
+powder, was placed inside a heated crucible located in a
+Thermo 
+
+
+========== RESULTS ==========
+
+n at 1501 cm−1, are assigned to the incorporation of
+bulk carbonates located in the A sites (corresponding to
+substitution of the OH−groups inside the channels) during the
+preparation (Table 1). This is supported by the fact that such a
+type A incorporation predominance was already reported for
+low carbonate contents HAp sample (<4 wt %) synthesized
+upon a precipitation route at high pH value.57 The weak
+contributions at 1545 and 1456 cm−1 corresponding to B-type
+carbonates (Table 1).22,58,59 indicate that they are only present
+in small amounts compared to those located in the A sites.
+Additional contributions at 1485−1385 cm−1 and 1370−1345
+cm−1 are also observed. Given that these bands are strongly
+inﬂuenced upon heating from RT to 623 K (see Supporting
+Information, Figure S2), they can be assigned to surface
+carbonates (Table 1). The presence of such surface carbonates
+results from the chemisorption of CO2 from the atmosphere on
+basic O2−oxide ions exposed at the surface. From the
+hydroxyapatite structure, the only oxygen atoms available to
+form carbonates belong to PO4 groups, as those belonging to
+OH groups of the channels led to the formation of
+hydrogenocarbonates. Note that the possible close vicinity of
+these surface carbonates with calcium cations cannot be
+excluded, some oxygen atoms might bridge between
+phosphorus and calcium in the structure via an O atom
+belonging to the PO4 group. Because those oxygen atoms are
+covalently bonded to phosphorus, the related surface
+chemisorbed carbonates will be hereafter referred to as
+(POx)s-carbonates. The fact that these surface (POx)s-
+carbonate contributions have been previously scarcely discussed
+in the assignment of νCO bands of hydroxyapatites is probably
+due to the fact that most of the spectroscopic studies dealing
+with this system come from the biological application ﬁeld
+(hydroxyapatite being the main mineral component of teeth
+and bones)60−63 and that the corresponding infrared character-
+izations (mostly 
+
+curring at RT
+from solid−gas interaction is, however, surprising, and more
+insights into the occurring processes can be obtained by
+examining the diﬀerence spectra.
+Indeed, exposure of HAp samples to incremental doses of
+CO2 resulted in an increase in the intensity of three
+multicomponent areas at about 1420, 1670, and 1210 cm−1
+(Figure 3).
+The bands at 1420 and 1409 cm−1, can be assigned to the
+formation surface type A carbonates (Table 1) by substitution
+of two neighboring surface OH−by carbonate species. The
+Figure 2. Inﬂuence of CO2 adsorption in the 1800−1150 cm−1 area on the absolute infrared spectra of (A) nondeuterated and (B) surface
+deuterated HAp samples. Hydroxyapatite spectra before (dashed line) and after (solid line) exposure to CO2 (Peq(CO2) = 133 Pa).
+Figure 3. Diﬀerence spectra obtained after adsorption of incremental
+doses of CO2 (0.5, 2.3, and 6.8 μmol and Peq = 133 Pa) for (A) the
+nondeuterated and (B) the surface-deuterated HAp samples.
+The Journal of Physical Chemistry C
+Article
+dx.doi.org/10.1021/jp500469x | J. Phys. Chem. C XXXX, XXX, XXX−XXX
+D
+expected diﬀerent local conﬁgurations for carbonates located in
+A sites at the surface compared to those already present in the
+bulk might explain the slight shift of these surface contributions
+compared to those corresponding to the original bulk type A
+species (1444 and 1414 cm−1). This substitution process is
+supported by the concomitant formation of water, as illustrated
+by the band around 1640 cm−1, ascribed to the δ(H2O) bending
+mode of physisorbed water (CO2 + 2 OH−→CO3
+2−+ H2O).
+However, there is a quite important discrepancy between the
+intensity of this contribution at 1640 cm−1 and that of the
+corresponding ν(OH) broad band between 3500 and 2700 cm−1
+that is related to physisorbed molecular water (not shown).
+This can be explained by the involvement of multicomponents
+contributions in the 1800−1600 cm−1 area. Focusing ﬁrst on
+the case of the nondeuterated sample, (Figure 3 A), besides the
+b
+
+ement of basicity of HAp surface ascribed to OH−
+groups with increasing hydration level, whereas that ascribed to
+O2−belonging to surface PO4
+3−groups is decreased.
+3.2.1.3. Evolution of the Bands upon Exposure Time to
+CO2. Such a modiﬁcation of the amount of basic sites in the
+presence of physisorbed water is also consistent with the
+evolution of the relative intensities of the infrared bands
+observed upon time of exposure to CO2 for both samples
+(Figure 5). Indeed, as reported above, water is formed in situ
+upon CO2 adsorption. This might thus explain why, as
+illustrated on Figure 5A,B in the case of the nondeuterated
+sample (similar tendency for the deuterated one), the intensity
+of the band at 2352 cm−1 ascribed to physisorbed CO2
+progressively decreases upon increasing time of exposure to
+Figure 4. Diﬀerence spectra obtained after adsorption of incremental
+doses of CO2 (0.5, 2.3, and 6.8 μmol and Peq= 133 Pa) in the ν(OH)
+areas for (A) the nondeuterated, (B) the surface-deuterated HAp
+samples, and (C) in the ν(OD) area for the surface-deuterated HAp
+sample.
+The Journal of Physical Chemistry C
+Article
+dx.doi.org/10.1021/jp500469x | J. Phys. Chem. C XXXX, XXX, XXX−XXX
+F
+CO2 (Figure 5A), whereas the intensities of those related to
+hydrogenocarbonates and water (Figure 5B) simultaneously
+increase. Thus, physisorbed CO2 appears to be progressively
+consumed at the beneﬁt of those species. Even if such evolution
+of the band at 2352 cm−1 has previously been reported by
+Cheng et al.,37 they proposed that the hydrogenocarbonate
+species might be involved only as transitory species, which is
+not so clear in the present study since the related bands
+increase together with those of surface type A carbonates. It
+should be noted, however, that the hydroxyapatite sample
+studied in this work37 was under-stoichiometric (Ca/P = 1.59)
+and, thus, exhibited a lower concentration in basic OH−groups
+compared to stoichiometric HAp.14 This could account for the
+lack of formation of hydro
+
+f surface type A carbonates. It
+should be noted, however, that the hydroxyapatite sample
+studied in this work37 was under-stoichiometric (Ca/P = 1.59)
+and, thus, exhibited a lower concentration in basic OH−groups
+compared to stoichiometric HAp.14 This could account for the
+lack of formation of hydrogenocarbonates in their study.
+3.2.2. Evolution of the Spectra upon Evacuation. Upon
+evacuation at RT, the intensity of all the bands formed upon
+adsorption decreases (Figure 6). Among them, that at 3707
+cm−1 vanishes the fastest, which is in agreement with the
+metastable property of the pseudolattice brucite70 (Figure 6A).
+All the bands associated with hydrogenocarbonate species
+(νas(OCO) at 1758, 1704, 1673, 1664, 1610, and 1590 cm−1,
+νs(OCO) at 1398 cm−1, δ(COH) at 1211 cm−1 (Figure 6B; Table
+1), ν(OCO) at 833 cm−1 (not shown), and ν(OH) at 3616 cm−1
+(Figure 6A)) and to surface (POx)s-carbonate ν(CO) (1370−
+1345 cm−1; Table 1) also decrease rapidly. On the other hand,
+the band associated with water (see the relative evolution of the
+δ(H2O) band at 1634 cm−1 compared to the νas(OCO) contribution
+related to hydrogenocarbonates) and that at 1409 cm−1 seem to
+be more persistent (Figure 6B). Surprisingly, the two bands
+ascribed to surface type A carbonates (at 1420 and 1409 cm−1;
+Table 1) do not seem to decrease simultaneously. As shown
+from a comparison with the inset (b) in Figure 1, this could be
+due to the overlapping with a band corresponding to a
+contribution of surface (POx)s-carbonates that is expected at
+1485 cm−1 (Table 1). Thus, the more rapid desorption of
+surface (POx)s-carbonates compared to surface type A
+carbonates could ﬁnally explain the apparent fastest decrease
+of the 1420 cm−1 contribution compared to that of the band at
+1409 cm−1. Water and surface type A carbonate that are both
+formed upon substitution process (CO2 + 2OH−→CO3
+2−+
+H2O) are the most stable species. The complete recovery of the
+initial spectrum is ﬁnally achieved after outgassing at 523
