@@ -1,0 +1,94 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Nonstoichiometric HAP (Ca/P ratio 1.61)",
+                "raw_name": "Nonstoichiometric HAP (Ca/P ratio 1.61)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Hydrotalcite",
+                "raw_name": "hydrotalcite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg(OH)2 (particle size: 0.07 µm)",
+                "raw_name": "Mg(OH)2 (particle size: 0.07 µm)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CaF2",
+                "raw_name": "CaF2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg3(PO4)2‚8H2O",
+                "raw_name": "Mg3(PO4)2‚8H2O",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Li3PO4",
+                "raw_name": "Li3PO4",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Talc",
+                "raw_name": "talc",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Kaolin",
+                "raw_name": "kaolin",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "AlPO4",
+                "raw_name": "AlPO4",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP catalyst with a Ca/P ratio of 1.52",
+                "raw_name": "HAP catalyst with a low Ca/P ratio of 1.52",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Al2O3",
+                "raw_name": "Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Zeolite",
+                "raw_name": "zeolite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP with a Ca/P ratio of 1.64",
+                "raw_name": "HAP with a Ca/P ratio of 1.64",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP catalyst with Ca2+ ions replaced by strontium",
+                "raw_name": "HAP catalyst with Ca2+ ions replaced by strontium",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP catalyst containing both Ca2+ and Cu2+ ions",
+                "raw_name": "HAP catalyst containing both Ca2+ and Cu2+ ions in its cation portion",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Metal catalysts supported on HAP",
+                "raw_name": "metal catalysts supported on HAP",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "HAP",
+            "article_identifiers": []
+        }
+    }
+}

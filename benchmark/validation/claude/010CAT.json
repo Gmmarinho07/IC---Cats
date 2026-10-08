@@ -1,0 +1,87 @@
+{
+    "paper": "010CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Table 4 shows that ethylene is readily formed on alumina, which is a typical E2 catalyst (33).",
+                "reason": "The catalyst 'alumina' is explicitly identified in the text as a catalyst for ethylene formation."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The high-temperature peak is predominant on pure MgO, representing 59.3% of the total evolved CO2.",
+                "reason": "The catalyst 'MgO' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The formation of diethyl ether from ethanol on alumina is a second-order reaction.",
+                "reason": "The catalyst 'Al2O3' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "calcined hydrotalcite",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "Ethanol is converted on Mg-Al calcined hydrotalcites via three main groups of reactions.",
+                "reason": "The term 'calcined hydrotalcite' is mentioned, but it is not clear if it refers to a specific catalyst or a general category."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite CHT1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalytic results obtained on MgO, Al2O3, and CHT samples are shown in Table 4.",
+                "reason": "The catalyst 'Mg-Al calcined hydrotalcite CHT1' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite CHT2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalytic results obtained on MgO, Al2O3, and CHT samples are shown in Table 4.",
+                "reason": "The catalyst 'Mg-Al calcined hydrotalcite CHT2' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite CHT3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalytic results obtained on MgO, Al2O3, and CHT samples are shown in Table 4.",
+                "reason": "The catalyst 'Mg-Al calcined hydrotalcite CHT3' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite CHT4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "It was found that dehydrogenation of ethanol forms acetaldehyde as a primary product.",
+                "reason": "The catalyst 'Mg-Al calcined hydrotalcite CHT4' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite CHT5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The ethylene formation rate on Al2O3 was almost two orders of magnitude higher than on sample CHT5.",
+                "reason": "The catalyst 'Mg-Al calcined hydrotalcite CHT5' is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "incorrect": 0,
+            "correct": 8,
+            "not_supported": 0
+        }
+    }
+}

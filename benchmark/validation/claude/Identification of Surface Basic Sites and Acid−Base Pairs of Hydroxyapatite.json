@@ -1,0 +1,63 @@
+{
+    "paper": "Identification of Surface Basic Sites and Acid−Base Pairs of Hydroxyapatite",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "stoichiometric hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The Lewis and Brønsted basic properties of a stoichiometric hydroxyapatite (HAp) were investigated",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "stoichiometric hydroxyapatite (HAp)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "stoichiometric hydroxyapatite (HAp) were investigated",
+                "reason": "The raw name is explicitly supported by the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAp",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "stoichiometric hydroxyapatite (HAp) were investigated",
+                "reason": "The article identifier is explicitly associated with the catalyst."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "partial",
+                "evidence": "stoichiometric hydroxyapatite (HAp) was prepared",
+                "reason": "The support is mentioned, but the extracted name 'Hydroxyapatite' does not match the context's 'hydroxyapatite' in terms of capitalization."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "stoichiometric hydroxyapatite (HAp) was prepared",
+                "reason": "The raw name is explicitly supported by the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAp",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "stoichiometric hydroxyapatite (HAp) was prepared",
+                "reason": "The article identifier is explicitly associated with the support."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "incorrect": 0,
+            "correct": 5,
+            "not_supported": 0
+        }
+    }
+}

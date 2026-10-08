@@ -1,0 +1,28 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "wire-like HAP",
+                "raw_name": "wire-like HAP",
+                "article_identifiers": [
+                    "HAP-W"
+                ]
+            },
+            {
+                "catalyst": "cobalt–HAP",
+                "raw_name": "cobalt–HAP",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "HAP",
+            "article_identifiers": [
+                "HAP-W"
+            ]
+        }
+    }
+}

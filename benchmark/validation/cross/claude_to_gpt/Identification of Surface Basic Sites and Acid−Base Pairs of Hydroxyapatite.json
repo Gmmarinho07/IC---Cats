@@ -1,0 +1,63 @@
+{
+    "paper": "Identification of Surface Basic Sites and Acid−Base Pairs of Hydroxyapatite",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "stoichiometric hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "A stoichiometric calcium hydrox-yapatite sample (Ca10(PO4)6(OH)2) was prepared according to the procedure previously described.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "stoichiometric hydroxyapatite (HAp)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "A stoichiometric calcium hydrox-yapatite sample (Ca10(PO4)6(OH)2) was prepared according to the procedure previously described.",
+                "reason": "The raw name is explicitly supported by the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAp",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "A stoichiometric calcium hydrox-yapatite sample (Ca10(PO4)6(OH)2) was prepared according to the procedure previously described.",
+                "reason": "The article identifier is explicitly associated with the catalyst."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "partial",
+                "evidence": "A stoichiometric calcium hydrox-yapatite sample (Ca10(PO4)6(OH)2) was prepared according to the procedure previously described.",
+                "reason": "The support is partially supported as 'Hydroxyapatite' is a common name, but the context refers to it as 'calcium hydrox-yapatite'."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "A stoichiometric calcium hydrox-yapatite sample (Ca10(PO4)6(OH)2) was prepared according to the procedure previously described.",
+                "reason": "The raw name is explicitly supported by the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAp",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "A stoichiometric calcium hydrox-yapatite sample (Ca10(PO4)6(OH)2) was prepared according to the procedure previously described.",
+                "reason": "The article identifier is explicitly associated with the support."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "not_supported": 0,
+            "correct": 5,
+            "incorrect": 0
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "paper": "Ethanol condensation at elevated pressure over copper on AlMgO and AlCaO porous mixed-oxide supports",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/AlMgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Stable performance was observed for all catalysts between 10 and 30 h time-on-stream (TOS).",
+                "reason": "The catalyst Cu/AlMgO is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/AlMgO-P",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Stable performance was observed for all catalysts between 10 and 30 h time-on-stream (TOS).",
+                "reason": "The catalyst Cu/AlMgO-P is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/AlCaO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "These catalysts were more active than their Ca counterparts with conversions of 8.7 and 8.4% for Cu/AlCaO for Cu/AlCaO-P, respectively.",
+                "reason": "The catalyst Cu/AlCaO is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/AlCaO-P",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "These catalysts were more active than their Ca counterparts with conversions of 8.7 and 8.4% for Cu/AlCaO for Cu/AlCaO-P, respectively.",
+                "reason": "The catalyst Cu/AlCaO-P is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "AlMgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the absence of Cu, lower activities were observed with AlMgO and AlMgO-P achieving only 7.1 and 11.1% conversion.",
+                "reason": "The catalyst AlMgO is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "AlMgO-P",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the absence of Cu, lower activities were observed with AlMgO and AlMgO-P achieving only 7.1 and 11.1% conversion.",
+                "reason": "The catalyst AlMgO-P is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "AlCaO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "AlCaO and AlCaO-P demonstrating essentially no activity with ∼0.2% conversion.",
+                "reason": "The catalyst AlCaO is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "AlCaO-P",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "AlCaO and AlCaO-P demonstrating essentially no activity with ∼0.2% conversion.",
+                "reason": "The catalyst AlCaO-P is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The Cu loading of catalysts were determined with inductively coupled plasma absorption emission spectroscopy (ICP-AES).",
+                "reason": "The metal Cu is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The Cu loading of catalysts were determined with inductively coupled plasma absorption emission spectroscopy (ICP-AES).",
+                "reason": "The metal Cu is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": null,
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for a support entity."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": null,
+                "field": "raw_name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for a support entity."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 2,
+            "correct": 10,
+            "incorrect": 0
+        }
+    }
+}

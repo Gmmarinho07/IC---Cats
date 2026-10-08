@@ -1,0 +1,79 @@
+{
+    "paper": "Controllable in situ surface restructuring of Cu catalysts for increasing their catalytic activity",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "as exemplified by Cu/SiO2 catalyst in CH3CH2OH dehydrogenation to acetaldehyde (CH3CHO)",
+                "reason": "The catalyst Cu/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu catalysts are widely used in the industrially important reactions",
+                "reason": "The metal Cu is explicitly identified as a catalyst in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu2O",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "XAS spectra of Cu, Cu2O and CuO standard samples",
+                "reason": "Cu2O is explicitly mentioned in the context as a standard sample."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "XAS spectra of Cu, Cu2O and CuO standard samples",
+                "reason": "CuO is explicitly mentioned in the context as a standard sample."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu catalysts are widely used in the industrially important reactions",
+                "reason": "The metal Cu is explicitly identified in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu catalysts are widely used in the industrially important reactions",
+                "reason": "The raw name Cu is explicitly identified in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "SiO2",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu/SiO2 as a model catalyst",
+                "reason": "The support SiO2 is explicitly identified in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "SiO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu/SiO2 as a model catalyst",
+                "reason": "The raw name SiO2 is explicitly identified in the context."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 8,
+            "incorrect": 0
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "paper": "020CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al1-LDO-D-A",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the catalyst Ru/Mg3Al1-LDO-D-A."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al1-LDO-E-A",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the catalyst Ru/Mg3Al1-LDO-E-A."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al1-LDO-I-A",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the catalyst Ru/Mg3Al1-LDO-I-A."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al0.9Ga0.1-LDO-P-A",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the catalyst Ru/Mg3Al0.9Ga0.1-LDO-P-A."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al0.9Zr0.1-LDO-P-A",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the catalyst Ru/Mg3Al0.9Zr0.1-LDO-P-A."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/Mg3Al1-LDO-P-N",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the catalyst Ru/Mg3Al1-LDO-P-N."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg3Al1-LDO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The pristine Mg3Al1-LDO and Ru-loaded Mg3Al1-LDO show similar morphology.",
+                "reason": "The catalyst Mg3Al1-LDO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1.04 wt% Ru/Mg3Al1-LDO-P-A",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1.04 wt% Ru/Mg3Al1-LDO-P-A display that atomic Ru is uniformly distributed on Mg3Al1-LDO.",
+                "reason": "The catalyst 1.04 wt% Ru/Mg3Al1-LDO-P-A is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1.02 wt% Ru/Mg3Al1-LDO-D-A",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the catalyst 1.02 wt% Ru/Mg3Al1-LDO-D-A."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ru",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Ru dispersion is similar to that on Mg3Al1-LDO.",
+                "reason": "The metal Ru is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ru",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Ru dispersion is similar to that on Mg3Al1-LDO.",
+                "reason": "The metal Ru is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAl-LDO",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The support is referred to as Mg3Al1-LDO in the context, not MgAl-LDO."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg3Al1-LDO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The pristine Mg3Al1-LDO and Ru-loaded Mg3Al1-LDO show similar morphology.",
+                "reason": "The support Mg3Al1-LDO is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 1,
+            "correct": 5,
+            "not_supported": 7
+        }
+    }
+}

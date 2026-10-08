@@ -1,0 +1,14 @@
+{
+    "paper": "018MCN",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 0,
+            "not_supported": 0
+        }
+    }
+}

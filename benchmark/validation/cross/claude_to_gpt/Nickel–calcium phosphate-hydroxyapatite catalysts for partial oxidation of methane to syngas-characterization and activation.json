@@ -1,0 +1,167 @@
+{
+    "paper": "Nickel–calcium phosphate-hydroxyapatite catalysts for partial oxidation of methane to syngas-characterization and activation",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Nickel–calcium phosphate/hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Nickel–calcium phosphate/hydroxyapatite catalysts exhibited high activity and selectivity in the partial oxidation of methane (POM).",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca80NiP(5)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "X-ray diffractograms for Ca80NiP(5), Ca80NiP(15), and Ca80NiP(25)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca80NiP(15)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "X-ray diffractograms for Ca80NiP(5), Ca80NiP(15), and Ca80NiP(25)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca80NiP(25)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "X-ray diffractograms for Ca80NiP(5), Ca80NiP(15), and Ca80NiP(25)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca80NiP(30)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In Ca80NiP(30) having the highest nickel content among the Ca80NiP(a) catalysts investigated (ca. 16.0 wt% Ni)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca85NiP(5)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the catalyst with a low content of Ni such as Ca85NiP(5), the phosphate was the dominant phase",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca85NiP(15)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the catalysts with higher contents of Ni such as Ca85NiP(15) and Ca95NiP(25)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca85NiP(25)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the catalysts with higher contents of Ni such as Ca85NiP(15) and Ca95NiP(25)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca90NiP(a)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For Ca90NiP(a) catalysts (not shown for brevity’s sake)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca95NiP(5)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In Ca95NiP(5), the phosphate phase was not seen",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca95NiP(15)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the catalysts with higher contents of Ni such as Ca95NiP(15) and Ca95NiP(25)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca95NiP(25)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the catalysts with higher contents of Ni such as Ca95NiP(15) and Ca95NiP(25)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca100NiP(5)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For Ca100NiP(a) catalysts, the apatite was the dominant phase",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca100NiP(15)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For Ca100NiP(a) catalysts, the apatite was the dominant phase",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca100NiP(25)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For Ca100NiP(a) catalysts, the apatite was the dominant phase",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The catalytically active component is certainly the metallic nickel that is produced under reducing environment during the reaction",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Nickel",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The catalytically active component is certainly the metallic nickel that is produced under reducing environment during the reaction",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "calcium phosphate/hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The crystalline phases observed were calcium phosphate, calcium hydroxyapatite, NiO, and metallic Ni.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "calcium phosphate/hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The crystalline phases observed were calcium phosphate, calcium hydroxyapatite, NiO, and metallic Ni.",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 19,
+            "incorrect": 0
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "paper": "Kinetic and process modeling of Guerbet coupling chemistry over Cu-Mg-Al mixed oxides",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "copper catalysts supported on Mg–Al mixed oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ethanol oligomerization over copper catalysts supported on Mg–Al mixed oxides has been reported to produce more than 160 different species including alcohols, aldehydes, esters, ketones.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The article does not explicitly mention 'Cu' as an identifier for the metal."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "copper",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Coke formation, rather than metal sintering, was identified as the primary deactivation mechanism.",
+                "reason": "The metal is explicitly identified in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAl mixed oxides",
+                "field": "name",
+                "decision": "partial",
+                "evidence": "Ethanol oligomerization over copper catalysts supported on Mg–Al mixed oxides has been reported to produce more than 160 different species including alcohols, aldehydes, esters, ketones.",
+                "reason": "The support is mentioned, but the extracted name does not preserve the original notation 'Mg–Al mixed oxides' as used in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg–Al mixed oxides",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Ethanol oligomerization over copper catalysts supported on Mg–Al mixed oxides has been reported to produce more than 160 different species including alcohols, aldehydes, esters, ketones.",
+                "reason": "The raw name is explicitly supported and correctly represented."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "incorrect": 0,
+            "correct": 3,
+            "not_supported": 1
+        }
+    }
+}

@@ -3,7 +3,7 @@
         "catalysts": [
             {
                 "catalyst": "ordered mesoporous Cu-La-Al composite metal oxides",
-                "raw_name": "OM-CuxLayAl100",
+                "raw_name": "ordered mesoporous Cu-La-Al composite metal oxides",
                 "article_identifiers": [
                     "OM-CuxLayAl100"
                 ]
@@ -17,21 +17,21 @@
             },
             {
                 "catalyst": "ordered mesoporous Cu-Al composite metal oxides",
-                "raw_name": "OM-CuxAl100",
+                "raw_name": "ordered mesoporous Cu-Al composite metal oxides",
                 "article_identifiers": [
                     "OM-CuxAl100"
                 ]
             },
             {
                 "catalyst": "ordered mesoporous La-Al composite metal oxides",
-                "raw_name": "OM-LayAl100",
+                "raw_name": "ordered mesoporous La-Al composite metal oxides",
                 "article_identifiers": [
                     "OM-LayAl100"
                 ]
             },
             {
-                "catalyst": "copper aluminate spinel",
-                "raw_name": "CuAl2O4",
+                "catalyst": "copper aluminate spinel (CuAl2O4)",
+                "raw_name": "Stoichiometric copper aluminate spinel (CuAl2O4)",
                 "article_identifiers": []
             },
             {
@@ -52,9 +52,7 @@
             {
                 "catalyst": "OM-Cu4La2.6Al100",
                 "raw_name": "OM-Cu4La2.6Al100",
-                "article_identifiers": [
-                    "OM-Cu4-La2.6-Al100"
-                ]
+                "article_identifiers": []
             },
             {
                 "catalyst": "OM-Cu6.3La2.6Al100",
@@ -62,8 +60,8 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "OM-CuxLa2.6Al100",
-                "raw_name": "OM-CuxLa2.6Al100",
+                "catalyst": "OM-Cu4-La2.6-Al100",
+                "raw_name": "OM-Cu4-La2.6-Al100",
                 "article_identifiers": []
             },
             {

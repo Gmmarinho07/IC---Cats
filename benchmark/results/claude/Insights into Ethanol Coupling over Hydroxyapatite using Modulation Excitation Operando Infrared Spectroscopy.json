@@ -1,0 +1,19 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "HAP",
+                "raw_name": "HAP",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "HAP",
+            "article_identifiers": []
+        }
+    }
+}

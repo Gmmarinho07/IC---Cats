@@ -1,0 +1,95 @@
+{
+    "paper": "026CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium-iron-modified Mg-Al based-hydrotalcite precursor",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "Calcium-iron-modified Mg-Al based-hydrotalcite precursor was prepared by a co-precipitation method",
+                "reason": "The extracted catalyst name is partially supported as it describes the precursor rather than the final catalyst designation."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca20Fe20MgAl-LDH",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the powder was milled and sieved (100-80 MESH) and labeled as Ca20Fe20MgAl-LDH.",
+                "reason": "The raw name is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Non-modified mixed oxide hydrotalcite-base precursor",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "Another non-modified mixed oxide hydrotalcite-base precursor, MgAl-LDH, was synthesized",
+                "reason": "The extracted catalyst name is partially supported as it describes the precursor rather than the final catalyst designation."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAl-LDH",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Another non-modified mixed oxide hydrotalcite-base precursor, MgAl-LDH, was synthesized",
+                "reason": "The raw name is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium-iron-modified mixed oxide catalyst",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "The resulting hydrotalcites were calcined at 400 ◦C... deriving in mixed oxides catalysts designated as Ca20Fe20MgAl-Ox",
+                "reason": "The extracted catalyst name is partially supported as it describes the catalyst composition but does not match the exact terminology used in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca20Fe20MgAl-Ox",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "deriving in mixed oxides catalysts designated as Ca20Fe20MgAl-Ox.",
+                "reason": "The raw name is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mixed oxide catalyst",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "deriving in mixed oxides catalysts designated as Ca20Fe20MgAl-Ox and MgAl-Ox",
+                "reason": "The extracted catalyst name is partially supported as it describes the catalyst composition but does not match the exact terminology used in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAl-Ox",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "deriving in mixed oxides catalysts designated as Ca20Fe20MgAl-Ox and MgAl-Ox.",
+                "reason": "The raw name is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg-Al based-hydrotalcite",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not explicitly identify 'Mg-Al based-hydrotalcite' as a support."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Ca20Fe20MgAl-Ox",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "The resulting hydrotalcites were calcined at 400 ◦C... deriving in mixed oxides catalysts designated as Ca20Fe20MgAl-Ox.",
+                "reason": "The extracted raw name is incorrectly classified as a support; it is a catalyst."
+            }
+        ],
+        "summary": {
+            "partial": 4,
+            "not_supported": 1,
+            "correct": 4,
+            "incorrect": 1
+        }
+    }
+}

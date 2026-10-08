@@ -1,0 +1,127 @@
+{
+    "paper": "007CAT",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "A | Alumina | Al2O3 | Puralox SBa 200 | Sasol | As received | 190 ± 10",
+                "reason": "The catalyst 'Alumina' is explicitly listed in Table 1 under the 'Phase' column."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "A",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "A | Alumina | Al2O3 | Puralox SBa 200",
+                "reason": "The notation 'A' is explicitly assigned to Alumina in Table 1 under the 'Notation' column."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Silica–alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "SA | Silica–alumina | SiO2–Al2O313% wt Al2O3 | Cracking catalyst | Strem chemical",
+                "reason": "The catalyst 'Silica–alumina' is explicitly listed in Table 1 under the 'Phase' column."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "SA",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "SA | Silica–alumina | SiO2–Al2O313% wt Al2O3",
+                "reason": "The notation 'SA' is explicitly assigned to Silica–alumina in Table 1 under the 'Notation' column."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-ferrierite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "FER | H-ferrierite | SiO2/Al2O3 mol 20 | CP 914C | Zeolyst",
+                "reason": "The catalyst 'H-ferrierite' is explicitly listed in Table 1 under the 'Phase' column."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "FER",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "FER | H-ferrierite | SiO2/Al2O3 mol 20 | CP 914C | Zeolyst",
+                "reason": "The notation 'FER' is explicitly assigned to H-ferrierite in Table 1 under the 'Notation' column."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-ZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MFI | H-ZSM-5 | SiO2/Al2O3 mol 280 | CBV 28014 | Zeolyst",
+                "reason": "The catalyst 'H-ZSM-5' is explicitly listed in Table 1 under the 'Phase' column."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "MFI",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "MFI | H-ZSM-5 | SiO2/Al2O3 mol 280 | CBV 28014 | Zeolyst",
+                "reason": "The notation 'MFI' is explicitly assigned to H-ZSM-5 in Table 1 under the 'Notation' column."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-faujasite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "USY | H-faujasite | SiO2/Al2O3 mol 30 | CBV 720 | Zeolyst",
+                "reason": "The catalyst 'H-faujasite' is explicitly listed in Table 1 under the 'Phase' column."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "USY",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "USY | H-faujasite | SiO2/Al2O3 mol 30 | CBV 720 | Zeolyst",
+                "reason": "The notation 'USY' is explicitly assigned to H-faujasite in Table 1 under the 'Notation' column."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcined hydrotalcite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgA | Calcined hydrotalcite | MgO/Al2O3 wt%70:30 | Pural MG70 | Sasol | Calcined at 773 K for 4 h",
+                "reason": "The catalyst 'Calcined hydrotalcite' is explicitly listed in Table 1 under the 'Phase' column."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "MgA",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "MgA | Calcined hydrotalcite | MgO/Al2O3 wt%70:30 | Pural MG70 | Sasol",
+                "reason": "The notation 'MgA' is explicitly assigned to Calcined hydrotalcite in Table 1 under the 'Notation' column."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Alumina",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "A | Alumina | Al2O3 | Puralox SBa 200 | Sasol | As received | 190 ± 10",
+                "reason": "Alumina (Al2O3) is explicitly listed as a catalyst/material in Table 1. It is a recognized support material and its presence in the article is confirmed."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Al2O3",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "A | Alumina | Al2O3 | Puralox SBa 200",
+                "reason": "The raw name 'Al2O3' is explicitly listed in Table 1 as the composition of the Alumina catalyst."
+            }
+        ],
+        "summary": {
+            "not_supported": 0,
+            "correct": 14,
+            "incorrect": 0,
+            "partial": 0
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "paper": "034MCN",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the presence of H2 has no effect on the rate of the ethanol coupling reaction or the selectivity towards butanol over HAP.",
+                "reason": "The catalyst HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the mass spectrum changes very little after the switch from H2 to D2. In contrast, the intensity of the butanol peaks... increases significantly when MgO was used as the catalyst.",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the presence of H2 has no effect on the rate of the ethanol coupling reaction or the selectivity towards butanol over HAP.",
+                "reason": "The support HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the mass spectrum changes very little after the switch from H2 to D2. In contrast, the intensity of the butanol peaks... increases significantly when MgO was used as the catalyst.",
+                "reason": "The support MgO is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 4,
+            "not_supported": 0
+        }
+    }
+}

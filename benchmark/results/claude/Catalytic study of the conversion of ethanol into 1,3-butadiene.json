@@ -1,0 +1,140 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgO(x)–SiO2-a",
+                "raw_name": "MgO(x)–SiO2-a",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO(x)–SiO2-b",
+                "raw_name": "MgO(x)–SiO2-b",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO(1)–SiO2-c",
+                "raw_name": "MgO(1)–SiO2-c",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO(x)–SiO2-d",
+                "raw_name": "MgO(x)–SiO2-d",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO(2)–SiO2-e",
+                "raw_name": "MgO(2)–SiO2-e",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MOx(y)/MgO(2)–SiO2-e",
+                "raw_name": "MOx(y)/MgO(2)–SiO2-e",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag(y)/MgO(x)–SiO2-b",
+                "raw_name": "Ag(y)/MgO(x)–SiO2-b",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "ZnO(y)/MgO(2)–SiO2-f",
+                "raw_name": "ZnO(y)/MgO(2)–SiO2-f",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CrOx/MgO(2)–SiO2-e",
+                "raw_name": "CrOx/MgO(2)–SiO2-e",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO/SiO2",
+                "raw_name": "MgO/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO/SiO2 (Mg/Si = 3)",
+                "raw_name": "MgO/SiO2\n(Mg/Si\n =\n 3)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO/SiO2 (Mg/Si = 0.83)",
+                "raw_name": "MgO/SiO2\n(Mg/Si\n =\n 0.83)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO/SiO2 (Mg/Si = 1)",
+                "raw_name": "MgO/SiO2 (Mg/Si\n = 1)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "2%Cr2O3–59%MgO–39%SiO2",
+                "raw_name": "2%Cr2O3–59%MgO–39%SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "ZnO–MgO–SiO2",
+                "raw_name": "ZnO–MgO–SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag–sepiolite",
+                "raw_name": "Ag–sepiolite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "silver-exchanged aluminated sepiolite",
+                "raw_name": "silver-exchanged aluminated sepiolite",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cr",
+                "raw_name": "Cr",
+                "article_identifiers": []
+            },
+            {
+                "name": "Mn",
+                "raw_name": "Mn",
+                "article_identifiers": []
+            },
+            {
+                "name": "Fe",
+                "raw_name": "Fe",
+                "article_identifiers": []
+            },
+            {
+                "name": "Co",
+                "raw_name": "Co",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Zn",
+                "raw_name": "Zn",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ag",
+                "raw_name": "Ag",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgO-SiO2",
+            "raw_name": "MgO(x)–SiO2",
+            "article_identifiers": []
+        }
+    }
+}

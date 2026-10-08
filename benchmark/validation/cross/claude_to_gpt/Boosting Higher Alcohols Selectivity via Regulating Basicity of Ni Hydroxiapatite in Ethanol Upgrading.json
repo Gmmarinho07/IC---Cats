@@ -1,0 +1,191 @@
+{
+    "paper": "Boosting Higher Alcohols Selectivity via Regulating Basicity of Ni Hydroxiapatite in Ethanol Upgrading",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni on hydroxyapatite (HAP)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "base-Ni synergistic catalysis, with Niδ+ on hydroxyapatite (HAP)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP4−0.5Ni",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "selectivity of 62.4% to C6+−OH... on HAP4−0.5Ni",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni/HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the mechanism of upgrading ethanol to C6+−OH on Ni/HAP was also proposed",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Continuous Catalytic Upgrading of Ethanol to N-Butanol over Cu/CeO2 Catalysts in Supercritical CO2",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg and Al Mixed Oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg and Al Mixed Oxides and the Synthesis of N-Butanol from Ethanol",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CeO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Continuous Catalytic Upgrading of Ethanol to N-Butanol over Cu/CeO2 Catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-CeO2/AC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Continuous Catalytic Upgrading of Ethanol to N-Butanol over Cu-CeO2/AC Catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd/Mg",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Continuous Gas-Phase Condensation of Bioethanol to 1-Butanol over Bifunctional Pd/Mg",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd/Mg-Carbon",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Continuous Gas-Phase Condensation of Bioethanol to 1-Butanol over Bifunctional Pd/Mg-Carbon Catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "PdCu nanoalloy supported on alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Pdcu Nanoalloy Supported on Alumina: A Stable and Selective Catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni-MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Upgrading Ethanol to N-Butanol over Highly Dispersed Ni-Mgalo Catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni−MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Efficient One-Pot Valorization of Ethanol to 1-Butanol over an Earth-Abundant Ni−Mgo Catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiCeO2 based catalysts",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Conversion of Ethanol to N-Butanol over Niceo2 Based Catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn/MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Upgrading of Aqueous Bioethanol to Higher Alcohols over Nisn/Mgalo Catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "supported Ag particles",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Acid-Base Promoted Dehydrogenation Coupling of Ethanol on Supported Ag Particles",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "copper-hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Enhancing Ethanol Coupling to Produce Higher Alcohols by Tuning H2 Partial Pressure over a Copper-Hydroxyapatite Catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd@UiO-66",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Multifunctional Pd@UiO-66 Catalysts for Continuous Catalytic Upgrading of Ethanol to n-Butanol",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni-Sn",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Upgrading of Aqueous Ethanol to Fuel Grade Higher Alcohols over Dandelion-Like Ni-Sn Catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "base-Ni synergistic catalysis",
+                "reason": "The active metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Niδ+ on hydroxyapatite (HAP)",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Niδ+ on hydroxyapatite (HAP)",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate HAP as an identifier for hydroxyapatite."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 1,
+            "correct": 21,
+            "incorrect": 0
+        }
+    }
+}

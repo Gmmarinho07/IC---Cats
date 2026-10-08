@@ -1,0 +1,39 @@
+{
+    "paper": "Insights into Ethanol Coupling over Hydroxyapatite using Modulation Excitation Operando Infrared Spectroscopy",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The transmission IR spectrum of the commercial HAP sample dehydrated at 600°C is shown in Figure S1.",
+                "reason": "The catalyst HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The transmission IR spectrum of the commercial HAP sample dehydrated at 600°C is shown in Figure S1.",
+                "reason": "The support HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not explicitly mention Hydroxyapatite as a name for HAP."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 1,
+            "correct": 2,
+            "incorrect": 0
+        }
+    }
+}

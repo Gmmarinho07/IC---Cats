@@ -1,0 +1,87 @@
+{
+    "paper": "Boosting C6−12 Higher Alcohols Yield from Ethanol Upgrading over Ca-Deficient Mesoporous Hydroxyapatite through Intermediates Enrichment of C4 Aldehyde",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca-deficient mesoporous hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Here, we report an efficient conversion of ethanol to C6−12 alcohols using Ca-deficient mesoporous hydroxyapatite as the catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "(NH4)2HPO4-modified hydroxyapatite",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "the (NH4)2HPO4−HAP catalyst exhibited good regeneration stability in ethanol conversion",
+                "reason": "The extracted name is not fully supported as the article refers to it as (NH4)2HPO4−HAP, which is a specific representation."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NH3-modified hydroxyapatite",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "the NH3−HAP catalyst",
+                "reason": "The extracted name is not fully supported as the article refers to it as NH3−HAP, which is a specific representation."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "the original hydroxyapatite",
+                "reason": "The extracted name is not fully supported as the article refers to it as HAP, which is a specific representation."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-hydroxyapatite",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H3PO4-modified hydroxyapatite",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "For the H3PO4−HAP catalyst",
+                "reason": "The extracted name is not fully supported as the article refers to it as H3PO4−HAP, which is a specific representation."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "partial",
+                "evidence": "hydroxyapatite showed enhanced density of basic sites",
+                "reason": "The extracted name is not fully supported as the article refers to it as HAP, which is a specific representation."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "hydroxyapatite showed enhanced density of basic sites",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the original hydroxyapatite, the Ca-deficient hydroxyapatite",
+                "reason": "The article explicitly associates HAP with hydroxyapatite."
+            }
+        ],
+        "summary": {
+            "partial": 5,
+            "not_supported": 1,
+            "correct": 3,
+            "incorrect": 0
+        }
+    }
+}

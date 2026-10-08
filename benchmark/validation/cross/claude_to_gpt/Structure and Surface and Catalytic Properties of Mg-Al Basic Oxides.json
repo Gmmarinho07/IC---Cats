@@ -1,0 +1,87 @@
+{
+    "paper": "Structure and Surface and Catalytic Properties of Mg-Al Basic Oxides",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Table 4 shows that ethylene is readily formed on alumina, which is a typical E2 catalyst (33).",
+                "reason": "The catalyst 'alumina' is explicitly identified in the text as a catalyst for ethylene formation."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The high-temperature peak is predominant on pure MgO, representing 59.3% of the total evolved CO2.",
+                "reason": "The catalyst 'MgO' is explicitly identified in the text and its catalytic properties are discussed."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The alumina sample is especially active for producing ethylene.",
+                "reason": "The catalyst 'Al2O3' is explicitly identified in the text and its catalytic activity is mentioned."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ethanol is converted on Mg-Al calcined hydrotalcites via three main groups of reactions.",
+                "reason": "The catalyst 'Mg-Al calcined hydrotalcite' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite",
+                "field": "raw_name",
+                "decision": "partial",
+                "evidence": "Ethanol is converted on Mg-Al calcined hydrotalcites via three main groups of reactions.",
+                "reason": "While 'Mg-Al calcined hydrotalcite' is mentioned, the raw_name should reflect the specific identifiers (CHT1, CHT2, etc.) associated with the samples."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "It was found that dehydrogenation of ethanol forms acetaldehyde as a primary product.",
+                "reason": "The article identifiers (CHT1, CHT2, CHT3, CHT4, CHT5) are explicitly associated with the Mg-Al calcined hydrotalcite catalysts."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The formation rate of ethylene and diethyl ether on CHT samples increase with the Al content.",
+                "reason": "The article identifiers (CHT1, CHT2, CHT3, CHT4, CHT5) are explicitly associated with the Mg-Al calcined hydrotalcite catalysts."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The formation rate of ethylene and diethyl ether on CHT samples increase with the Al content.",
+                "reason": "The article identifiers (CHT1, CHT2, CHT3, CHT4, CHT5) are explicitly associated with the Mg-Al calcined hydrotalcite catalysts."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The formation rate of ethylene and diethyl ether on CHT samples increase with the Al content.",
+                "reason": "The article identifiers (CHT1, CHT2, CHT3, CHT4, CHT5) are explicitly associated with the Mg-Al calcined hydrotalcite catalysts."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "not_supported": 0,
+            "correct": 8,
+            "incorrect": 0
+        }
+    }
+}

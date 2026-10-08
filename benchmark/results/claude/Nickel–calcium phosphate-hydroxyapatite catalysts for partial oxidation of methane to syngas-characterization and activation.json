@@ -1,0 +1,95 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Nickel–calcium phosphate/hydroxyapatite",
+                "raw_name": "Nickel–calcium phosphate/hydroxyapatite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca80NiP(5)",
+                "raw_name": "Ca80NiP(5)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca80NiP(15)",
+                "raw_name": "Ca80NiP(15)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca80NiP(25)",
+                "raw_name": "Ca80NiP(25)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca80NiP(30)",
+                "raw_name": "Ca80NiP(30)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca85NiP(5)",
+                "raw_name": "Ca85NiP(5)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca85NiP(15)",
+                "raw_name": "Ca85NiP(15)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca85NiP(25)",
+                "raw_name": "Ca85NiP(25)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca90NiP(a)",
+                "raw_name": "Ca90NiP(a)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca95NiP(5)",
+                "raw_name": "Ca95NiP(5)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca95NiP(15)",
+                "raw_name": "Ca95NiP(15)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca95NiP(25)",
+                "raw_name": "Ca95NiP(25)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca100NiP(5)",
+                "raw_name": "Ca100NiP(5)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca100NiP(15)",
+                "raw_name": "Ca100NiP(15)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca100NiP(25)",
+                "raw_name": "Ca100NiP(25)",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Nickel",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "calcium phosphate/hydroxyapatite",
+            "raw_name": "calcium phosphate/hydroxyapatite",
+            "article_identifiers": []
+        }
+    }
+}

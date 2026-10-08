@@ -1,0 +1,95 @@
+{
+    "paper": "Catalytic Conversion of Ethanol into an Advanced Biofuel - unprecendented selectivity for n-butanol",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "[RuCl(h6-p-cymene)(3)]Cl",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "[RuCl(h6-p-cymene)(3)]Cl",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "trans-[RuCl2(3)]",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "trans-[RuCl2(3)]",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "[RuH2(3)]",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "[RuH2(3)]",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "trans-[RuCl2(L)] complex of ligand 1",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "trans-[RuCl2(L)]",
+                "reason": "The complex is mentioned, but the specific identifier 'complex of ligand 1' is not explicitly supported."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "trans-[RuCl2(L)] complex of ligand 2",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "trans-[RuCl2(L)]",
+                "reason": "The complex is mentioned, but the specific identifier 'complex of ligand 2' is not explicitly supported."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "trans-[RuCl2(3)2]",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "trans-[RuCl2(3)2]",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "[RuCl2(3)2]",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "[RuCl2(3)2]",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "[RuCl2(L)2]",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "[RuCl2(L)2]",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ru",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "ruthenium",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "ruthenium",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "ruthenium",
+                "reason": "The metal is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 2,
+            "not_supported": 0,
+            "correct": 8,
+            "incorrect": 0
+        }
+    }
+}

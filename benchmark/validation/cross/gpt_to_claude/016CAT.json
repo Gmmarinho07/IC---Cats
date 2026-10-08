@@ -1,0 +1,119 @@
+{
+    "paper": "016CAT",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Au/MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The selected Au/MgO-SiO2 catalyst can produce 1,3-BD with ~2% butenes",
+                "reason": "Au/MgO-SiO2 is explicitly identified as a catalyst in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Effect of MgO loading on the activity and selectivity of MgO-SiO2 for ethanol conversion to 1,3-BD.",
+                "reason": "MgO-SiO2 is explicitly identified as a catalyst in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Au",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "Among the different redox metals evaluated, Au showed a much higher selectivity to 1,3-BD than Ag, Pd, and Cu",
+                "reason": "Au is mentioned as a redox metal evaluated, but it is not clearly presented as a standalone catalyst entity in the article. It is primarily discussed as a metal deposited on supports. Classifying bare 'Au' as a catalyst is only partially supported."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Au/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Au/SiO2 showed a negligible ethanol conversion (~5%)",
+                "reason": "Au/SiO2 is explicitly mentioned as a catalyst tested in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "50%MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Au supported on magnesia-silica (50%MgO-SiO2, Mg/Si=2.6) has a sevenfold higher ethanol conversion",
+                "reason": "50%MgO-SiO2 is explicitly identified in the article as a catalyst composition."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "10%MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "29Si MAS NMR spectra of Au doped various samples: a) SiO2, b) 10%MgO-SiO2",
+                "reason": "10%MgO-SiO2 is explicitly mentioned in the article as a sample/catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "30%MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "IR spectra of CO2 adsorbed on a) SiO2, b) 10%MgO-SiO2, c) 30%MgO-SiO2",
+                "reason": "30%MgO-SiO2 is explicitly mentioned in the article as a sample/catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "80%MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "IR spectra of CO2 adsorbed on a) SiO2, b) 10%MgO-SiO2, c) 30%MgO-SiO2, d) 50%MgO-SiO2, and e) 80%MgO-SiO2",
+                "reason": "80%MgO-SiO2 is explicitly mentioned in the article as a sample/catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Au/MgO showed a moderate ethanol conversion (~25%) with acetaldehyde formed as the major product and only ~10% selectivity to 1,3-BD",
+                "reason": "MgO is explicitly mentioned as a catalyst material in the article, and Au/MgO is tested as a catalyst. MgO itself is also referenced as a catalytic material."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Au",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Among the different redox metals evaluated, Au showed a much higher selectivity to 1,3-BD than Ag, Pd, and Cu",
+                "reason": "Au is explicitly identified as an active metal in the article."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Au",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Among the different redox metals evaluated, Au showed a much higher selectivity to 1,3-BD than Ag, Pd, and Cu",
+                "reason": "The raw name 'Au' matches the text representation used in the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO-SiO2",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "A modified DP method using urea as the precipitating agent was used to deposit Au on the MgO-SiO2 samples.",
+                "reason": "MgO-SiO2 is explicitly identified as a support material in the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO-SiO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "A modified DP method using urea as the precipitating agent was used to deposit Au on the MgO-SiO2 samples.",
+                "reason": "The raw name 'MgO-SiO2' matches the text representation used in the article."
+            }
+        ],
+        "summary": {
+            "not_supported": 0,
+            "correct": 12,
+            "incorrect": 0,
+            "partial": 1
+        }
+    }
+}

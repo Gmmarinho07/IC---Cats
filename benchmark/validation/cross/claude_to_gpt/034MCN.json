@@ -1,0 +1,47 @@
+{
+    "paper": "034MCN",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "These observations do not preclude the possibility that H2 interacts with the catalyst surface and can incorporate into product molecules.",
+                "reason": "The catalyst HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In contrast, the intensity of the butanol peaks at m/z = 57 and 58 increases significantly when MgO was used as the catalyst.",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The mass spectra of butanol produced over HAP and MgO in H2 and D2 diluent gas are shown in Fig. 1.",
+                "reason": "The support HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The mass spectra of butanol produced over HAP and MgO in H2 and D2 diluent gas are shown in Fig. 1.",
+                "reason": "The support MgO is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 4,
+            "incorrect": 0
+        }
+    }
+}

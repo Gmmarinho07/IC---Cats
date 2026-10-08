@@ -1,0 +1,63 @@
+{
+    "paper": "023CAT",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Amberlyst™70",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Amberlyst™70 was crushed and sieved to <177 µm and dried at 110 °C prior to reaction. In a typical reaction, 15 g of feed were first added to the reactor along with 750 mg of Amberlyst™70.",
+                "reason": "Amberlyst™70 is explicitly identified as a catalyst used in etherification reactions in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Amberlyst™70",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Amberlyst™70 was crushed and sieved to <177 µm and dried at 110 °C prior to reaction.",
+                "reason": "The raw name 'Amberlyst™70' accurately preserves the original text representation as it appears in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Guerbet coupling of (a, b) ethanol and (c, d) 1-butanol with HAP as a function of contact time at 350 °C, 8 kPa alcohol, and 93 kPa H2.",
+                "reason": "HAP is explicitly identified as a catalyst used in Guerbet coupling reactions in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Guerbet coupling of (a, b) ethanol and (c, d) 1-butanol with HAP as a function of contact time at 350 °C",
+                "reason": "The raw name 'HAP' accurately preserves the original text representation as it appears in the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Amberlyst™70",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "Amberlyst™70 was crushed and sieved to <177 µm and dried at 110 °C prior to reaction. In a typical reaction, 15 g of feed were first added to the reactor along with 750 mg of Amberlyst™70.",
+                "reason": "Amberlyst™70 is explicitly identified as a catalyst (acid resin catalyst) in the article, not as a support material. Classifying it as a support is not supported by the article context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Amberlyst™70",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "Amberlyst™70 was crushed and sieved to <177 µm and dried at 110 °C prior to reaction.",
+                "reason": "While the raw name text is accurate, Amberlyst™70 is not identified as a support in the article; it is used as a catalyst. The entity classification is incorrect."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 4,
+            "incorrect": 2
+        }
+    }
+}

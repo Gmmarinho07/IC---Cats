@@ -1,0 +1,95 @@
+{
+    "paper": "039MCN",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAAl mixed oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Similar butanol concentration versus contact time curves had been observed by Iglesia and co-workers in the case of ethanol conversion over MgAAl mixed oxides [14]",
+                "reason": "The catalyst 'MgAAl mixed oxides' is explicitly mentioned in the article context as a catalyst used for ethanol conversion."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAAl mixed oxides",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "ethanol conversion over MgAAl mixed oxides [14]",
+                "reason": "The raw name 'MgAAl mixed oxides' accurately preserves the original text representation from the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "acetaldehyde production tends to level off over our HAP (Fig. 2)",
+                "reason": "HAP is explicitly referenced in the article as a catalyst used in the experiments described."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "acetaldehyde production tends to level off over our HAP (Fig. 2)",
+                "reason": "The raw name 'HAP' accurately preserves the original text representation from the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAAlAO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a similar acetaldehyde leveling off can be noted in the case of the data reported by Di Cosimo et al. [14] over a MgAAlAO catalyst",
+                "reason": "MgAAlAO is explicitly identified as a catalyst in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAAlAO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "over a MgAAlAO catalyst",
+                "reason": "The raw name 'MgAAlAO' accurately preserves the original text representation from the article."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "This approach has proved successful in unraveling the mechanism of methanol formation over Cu-based catalysts [16]",
+                "reason": "Cu is explicitly mentioned in the article as the active metal in Cu-based catalysts, though only as a reference example for the thermodynamic approach methodology."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "methanol formation over Cu-based catalysts [16]",
+                "reason": "The raw name 'Cu' accurately preserves the original text representation from the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAAlAO",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "over a MgAAlAO catalyst",
+                "reason": "MgAAlAO is explicitly identified as a catalyst in the article, not as a support. Classifying it as a support is not supported by the article context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAAlAO",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "over a MgAAlAO catalyst",
+                "reason": "While the raw name accurately reflects the text, MgAAlAO is described as a catalyst, not a support, making its classification as a support incorrect."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 8,
+            "incorrect": 2
+        }
+    }
+}

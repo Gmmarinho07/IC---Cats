@@ -1,24 +1,21 @@
-
 """
-plot_validation.py
+plot_cross_validation.py
 
-Gera gráficos das avaliações do Agente 3 (GPT)
-do projeto IC-CATS.
+Analisa os resultados da validação cruzada:
 
-Gráfico 1:
-    Distribuição geral das classificações.
+    GPT extraction    -> Claude judge
+    Claude extraction -> GPT judge
 
-Gráfico 2:
-    Distribuição das classificações por artigo,
-    em barras horizontais empilhadas, ordenadas
-    pela quantidade de avaliações não corretas.
+IMPORTANTE:
+Os arquivos antigos GPT -> GPT também podem estar presentes
+em benchmark/validation/gpt/.
 
-Entrada:
-    benchmark/validation/gpt/*.json
+Por isso, o script NÃO usa apenas a pasta.
+Ele verifica:
+    extraction_model
+    judge_model
 
-Saídas:
-    benchmark/validation/validation_gpt.png
-    benchmark/validation/validation_gpt_por_artigo.png
+para identificar corretamente cada experimento.
 """
 
 import json
@@ -32,15 +29,10 @@ import matplotlib.pyplot as plt
 # CONFIGURAÇÕES
 # =====================================================
 
-VALIDATION_FOLDER = Path("benchmark/validation/gpt")
+VALIDATION_FOLDER = Path("benchmark/validation")
 
 OUTPUT_FOLDER = Path("benchmark/validation")
 
-OUTPUT_GENERAL = OUTPUT_FOLDER / "validation_gpt.png"
-
-OUTPUT_ARTICLES = (
-    OUTPUT_FOLDER / "validation_gpt_por_artigo.png"
-)
 
 DECISIONS = [
     "correct",
@@ -48,6 +40,7 @@ DECISIONS = [
     "incorrect",
     "not_supported"
 ]
+
 
 LABELS = [
     "Corretas",
@@ -58,432 +51,163 @@ LABELS = [
 
 
 # =====================================================
-# LEITURA DOS RESULTADOS
+# EXPERIMENTOS
 # =====================================================
 
-def load_validations():
-    """
-    Lê os JSONs de validação do GPT e contabiliza
-    as classificações gerais e por artigo.
+EXPERIMENTS = {
+    "GPT → Claude": {
+        "extraction_model": "gpt",
+        "judge_model": "claude"
+    },
 
-    Retorna:
-        counts: contador geral das decisões.
-        article_counts: contador de decisões por artigo.
-        files_processed: quantidade de arquivos lidos.
-        files_with_errors: quantidade de arquivos com erro.
+    "Claude → GPT": {
+        "extraction_model": "claude",
+        "judge_model": "gpt"
+    }
+}
+
+
+# =====================================================
+# LEITURA
+# =====================================================
+
+def load_experiment(
+    extraction_model,
+    judge_model
+):
+    """
+    Lê todos os JSONs e mantém somente aqueles
+    pertencentes ao experimento especificado.
     """
 
     counts = Counter()
-    article_counts = {}
 
-    files_processed = 0
-    files_with_errors = 0
+    articles = 0
+    evaluations = 0
+    errors = 0
 
-    if not VALIDATION_FOLDER.exists():
-        raise FileNotFoundError(
-            f"Pasta não encontrada: {VALIDATION_FOLDER}"
+    # Procuramos em ambas as pastas porque os resultados
+    # podem estar organizados de acordo com o modelo
+    # de extração.
+    for folder_model in ["gpt", "claude"]:
+
+        folder = (
+            VALIDATION_FOLDER
+            / folder_model
         )
 
-    json_files = sorted(
-        VALIDATION_FOLDER.glob("*.json")
-    )
+        if not folder.exists():
+            continue
 
-    if not json_files:
-        raise FileNotFoundError(
-            f"Nenhum JSON encontrado em {VALIDATION_FOLDER}"
-        )
+        for file_path in folder.glob("*.json"):
 
-    print(f"\n{len(json_files)} arquivos encontrados.")
+            try:
 
-    for file_path in json_files:
+                with open(
+                    file_path,
+                    "r",
+                    encoding="utf-8"
+                ) as file:
 
-        try:
-            with open(
-                file_path,
-                "r",
-                encoding="utf-8"
-            ) as file:
-                data = json.load(file)
+                    data = json.load(file)
 
-            # Estrutura esperada:
-            # {
-            #     "paper": "...",
-            #     "extraction_model": "gpt",
-            #     "judge_model": "gpt",
-            #     "validation": {
-            #         "validation": [...],
-            #         "summary": {...}
-            #     }
-            # }
+                # -----------------------------------------
+                # FILTRO DO EXPERIMENTO
+                # -----------------------------------------
 
-            validation_data = data.get("validation", {})
-
-            if not isinstance(validation_data, dict):
-                raise ValueError(
-                    "Estrutura inválida na chave 'validation'."
-                )
-
-            items = validation_data.get("validation", [])
-
-            if not isinstance(items, list):
-                raise ValueError(
-                    "A lista de avaliações está inválida."
-                )
-
-            paper_name = data.get(
-                "paper",
-                file_path.stem
-            )
-
-            article_counts[paper_name] = Counter()
-
-            for item in items:
-
-                if not isinstance(item, dict):
-                    print(
-                        f"[AVISO] Item inválido em "
-                        f"{file_path.name}"
-                    )
+                if data.get("extraction_model") != extraction_model:
                     continue
 
-                decision = item.get("decision")
-
-                if decision not in DECISIONS:
-                    print(
-                        f"[AVISO] Decisão desconhecida em "
-                        f"{file_path.name}: {decision}"
-                    )
+                if data.get("judge_model") != judge_model:
                     continue
 
-                # Contabilização geral.
-                counts[decision] += 1
+                # -----------------------------------------
+                # VALIDAÇÃO
+                # -----------------------------------------
 
-                # Contabilização por artigo.
-                article_counts[paper_name][decision] += 1
+                validation_data = data.get(
+                    "validation",
+                    {}
+                )
 
-            files_processed += 1
+                items = validation_data.get(
+                    "validation",
+                    []
+                )
 
-            print(f"[OK] {paper_name}")
+                if not isinstance(items, list):
+                    continue
 
-        except (
-            OSError,
-            json.JSONDecodeError,
-            ValueError,
-            AttributeError,
-            TypeError
-        ) as error:
+                articles += 1
 
-            files_with_errors += 1
+                # -----------------------------------------
+                # CONTAGEM
+                # -----------------------------------------
 
-            print(
-                f"[ERRO] Falha ao ler "
-                f"{file_path.name}: {error}"
-            )
+                for item in items:
+
+                    if not isinstance(item, dict):
+                        continue
+
+                    decision = item.get(
+                        "decision"
+                    )
+
+                    if decision in DECISIONS:
+
+                        counts[decision] += 1
+                        evaluations += 1
+
+            except (
+                OSError,
+                json.JSONDecodeError,
+                TypeError,
+                AttributeError
+            ) as error:
+
+                errors += 1
+
+                print(
+                    f"[ERRO] {file_path.name}: "
+                    f"{error}"
+                )
 
     return (
         counts,
-        article_counts,
-        files_processed,
-        files_with_errors
+        articles,
+        evaluations,
+        errors
     )
 
 
 # =====================================================
-# GRÁFICO 1: DISTRIBUIÇÃO GERAL
-# =====================================================
-
-def generate_general_chart(counts, files_processed):
-    """
-    Gera um gráfico de barras com a quantidade
-    e o percentual de cada classificação.
-    """
-
-    values = [
-        counts.get(decision, 0)
-        for decision in DECISIONS
-    ]
-
-    total = sum(values)
-
-    if total == 0:
-        print(
-            "\n[AVISO] Nenhuma avaliação válida "
-            "para gerar o gráfico geral."
-        )
-        return
-
-    percentages = [
-        (value / total) * 100
-        for value in values
-    ]
-
-    fig, ax = plt.subplots(figsize=(11, 7))
-
-    bars = ax.bar(
-        LABELS,
-        values
-    )
-
-    # Quantidade e percentual sobre cada barra.
-    for bar, value, percentage in zip(
-        bars,
-        values,
-        percentages
-    ):
-
-        ax.annotate(
-            f"{value}\n({percentage:.1f}%)",
-            xy=(
-                bar.get_x() + bar.get_width() / 2,
-                bar.get_height()
-            ),
-            xytext=(0, 6),
-            textcoords="offset points",
-            ha="center",
-            va="bottom",
-            fontsize=10
-        )
-
-    ax.set_title(
-        "Distribuição das avaliações do Agente 3 (GPT)",
-        fontsize=15,
-        pad=18
-    )
-
-    ax.set_xlabel(
-        "Categoria da avaliação",
-        fontsize=11
-    )
-
-    ax.set_ylabel(
-        "Quantidade de entidades",
-        fontsize=11
-    )
-
-    ax.set_ylim(
-        0,
-        max(values) * 1.2 + 1
-    )
-
-    ax.grid(
-        axis="y",
-        linestyle="--",
-        alpha=0.4
-    )
-
-    ax.set_axisbelow(True)
-
-    fig.text(
-        0.5,
-        0.015,
-        (
-            f"Artigos analisados: {files_processed} | "
-            f"Total de avaliações: {total}"
-        ),
-        ha="center",
-        fontsize=10
-    )
-
-    plt.tight_layout(
-        rect=[0, 0.05, 1, 1]
-    )
-
-    OUTPUT_FOLDER.mkdir(
-        parents=True,
-        exist_ok=True
-    )
-
-    plt.savefig(
-        OUTPUT_GENERAL,
-        dpi=300,
-        bbox_inches="tight"
-    )
-
-    print(
-        f"\n[OK] Gráfico geral salvo em: "
-        f"{OUTPUT_GENERAL}"
-    )
-
-    plt.show()
-    plt.close(fig)
-
-
-# =====================================================
-# GRÁFICO 2: DISTRIBUIÇÃO POR ARTIGO
-# =====================================================
-
-def generate_article_chart(article_counts, files_processed):
-    """
-    Gera um gráfico de barras horizontais empilhadas,
-    mostrando a distribuição das classificações por
-    artigo.
-
-    Os artigos são ordenados pela quantidade de
-    avaliações não corretas, em ordem decrescente.
-    """
-
-    if not article_counts:
-        print(
-            "\n[AVISO] Nenhum dado por artigo "
-            "para gerar o segundo gráfico."
-        )
-        return
-
-    # Ordena pelos artigos com mais avaliações
-    # parciais, incorretas e não sustentadas.
-    articles = sorted(
-        article_counts.keys(),
-        key=lambda article: (
-            sum(
-                article_counts[article].get(
-                    decision,
-                    0
-                )
-                for decision in (
-                    "partial",
-                    "incorrect",
-                    "not_supported"
-                )
-            ),
-            article_counts[article].get(
-                "correct",
-                0
-            )
-        ),
-        reverse=True
-    )
-
-    # Quantidades por categoria e artigo.
-    values = {
-        decision: [
-            article_counts[article].get(
-                decision,
-                0
-            )
-            for article in articles
-        ]
-        for decision in DECISIONS
-    }
-
-    # Altura dinâmica para manter os nomes legíveis.
-    fig_height = max(
-        8,
-        len(articles) * 0.30
-    )
-
-    fig, ax = plt.subplots(
-        figsize=(14, fig_height)
-    )
-
-    left = [0] * len(articles)
-
-    # Barras horizontais empilhadas.
-    for decision, label in zip(
-        DECISIONS,
-        LABELS
-    ):
-
-        ax.barh(
-            articles,
-            values[decision],
-            left=left,
-            label=label
-        )
-
-        left = [
-            previous + current
-            for previous, current in zip(
-                left,
-                values[decision]
-            )
-        ]
-
-    ax.set_title(
-        "Distribuição das avaliações do Agente 3 por artigo",
-        fontsize=15,
-        pad=18
-    )
-
-    ax.set_xlabel(
-        "Quantidade de entidades avaliadas",
-        fontsize=11
-    )
-
-    ax.set_ylabel(
-        "Artigo",
-        fontsize=11
-    )
-
-    # Artigos com mais avaliações não corretas no topo.
-    ax.invert_yaxis()
-
-    ax.legend(
-        title="Classificação",
-        loc="lower right"
-    )
-
-    ax.grid(
-        axis="x",
-        linestyle="--",
-        alpha=0.4
-    )
-
-    ax.set_axisbelow(True)
-
-    fig.text(
-        0.5,
-        0.01,
-        (
-            f"Artigos analisados: {files_processed} | "
-            "Ordenação: avaliações não corretas "
-            "(decrescente)"
-        ),
-        ha="center",
-        fontsize=10
-    )
-
-    plt.tight_layout(
-        rect=[0, 0.025, 1, 1]
-    )
-
-    OUTPUT_FOLDER.mkdir(
-        parents=True,
-        exist_ok=True
-    )
-
-    plt.savefig(
-        OUTPUT_ARTICLES,
-        dpi=300,
-        bbox_inches="tight"
-    )
-
-    print(
-        f"\n[OK] Gráfico por artigo salvo em: "
-        f"{OUTPUT_ARTICLES}"
-    )
-
-    plt.show()
-    plt.close(fig)
-
-
-# =====================================================
-# RESUMO DOS RESULTADOS
+# RESUMO
 # =====================================================
 
 def print_summary(
+    experiment,
     counts,
-    files_processed,
-    files_with_errors
+    articles,
+    evaluations
 ):
-    """
-    Exibe no terminal o resumo das avaliações.
-    """
 
-    total = sum(counts.values())
+    print("\n" + "=" * 65)
 
-    print("\n" + "=" * 55)
-    print("RESUMO DA VALIDAÇÃO GPT")
-    print("=" * 55)
+    print(
+        f"EXPERIMENTO: {experiment}"
+    )
+
+    print("=" * 65)
+
+    print(
+        f"Artigos: {articles}"
+    )
+
+    print(
+        f"Entidades avaliadas: {evaluations}"
+    )
+
+    print()
 
     for decision, label in zip(
         DECISIONS,
@@ -496,61 +220,391 @@ def print_summary(
         )
 
         percentage = (
-            (value / total) * 100
-            if total > 0
+            value / evaluations * 100
+            if evaluations > 0
             else 0
         )
 
         print(
-            f"{label}: {value} "
+            f"{label}: "
+            f"{value} "
             f"({percentage:.1f}%)"
         )
 
-    print("-" * 55)
-    print(f"Artigos lidos: {files_processed}")
-    print(f"Arquivos com erro: {files_with_errors}")
-    print(f"Total de avaliações: {total}")
-    print("=" * 55)
+
+# =====================================================
+# GRÁFICO INDIVIDUAL
+# =====================================================
+
+def generate_individual_chart(
+    experiment,
+    counts,
+    articles,
+    evaluations
+):
+
+    values = [
+        counts.get(
+            decision,
+            0
+        )
+        for decision in DECISIONS
+    ]
+
+    if evaluations == 0:
+
+        print(
+            f"[AVISO] Nenhum resultado para "
+            f"{experiment}"
+        )
+
+        return
+
+    percentages = [
+        value / evaluations * 100
+        for value in values
+    ]
+
+    fig, ax = plt.subplots(
+        figsize=(10, 6)
+    )
+
+    bars = ax.bar(
+        LABELS,
+        values
+    )
+
+    for bar, value, percentage in zip(
+        bars,
+        values,
+        percentages
+    ):
+
+        ax.annotate(
+            f"{value}\n({percentage:.1f}%)",
+
+            xy=(
+                bar.get_x()
+                + bar.get_width() / 2,
+
+                bar.get_height()
+            ),
+
+            xytext=(0, 6),
+
+            textcoords="offset points",
+
+            ha="center",
+
+            va="bottom",
+
+            fontsize=10
+        )
+
+    ax.set_title(
+        f"Validação cruzada — {experiment}",
+        fontsize=15,
+        pad=18
+    )
+
+    ax.set_xlabel(
+        "Categoria da avaliação"
+    )
+
+    ax.set_ylabel(
+        "Quantidade de entidades"
+    )
+
+    ax.grid(
+        axis="y",
+        linestyle="--",
+        alpha=0.4
+    )
+
+    ax.set_axisbelow(True)
+
+    ax.set_ylim(
+        0,
+        max(values) * 1.18 + 1
+    )
+
+    fig.text(
+        0.5,
+        0.015,
+        (
+            f"Artigos: {articles} | "
+            f"Entidades avaliadas: {evaluations}"
+        ),
+        ha="center",
+        fontsize=10
+    )
+
+    plt.tight_layout(
+        rect=[0, 0.05, 1, 1]
+    )
+
+    filename = (
+        experiment
+        .replace(" → ", "_")
+        .replace(" ", "")
+        .lower()
+    )
+
+    output = (
+        OUTPUT_FOLDER
+        / f"validation_{filename}.png"
+    )
+
+    plt.savefig(
+        output,
+        dpi=300,
+        bbox_inches="tight"
+    )
+
+    print(
+        f"[OK] Gráfico salvo: {output}"
+    )
+
+    plt.close(fig)
 
 
 # =====================================================
-# EXECUÇÃO PRINCIPAL
+# GRÁFICO COMPARATIVO
+# =====================================================
+
+def generate_comparison_chart(
+    experiment_results
+):
+
+    experiments = list(
+        experiment_results.keys()
+    )
+
+    # ---------------------------------------------
+    # Percentuais
+    # ---------------------------------------------
+
+    percentages = {}
+
+    for experiment in experiments:
+
+        counts = experiment_results[
+            experiment
+        ]["counts"]
+
+        total = sum(
+            counts.values()
+        )
+
+        percentages[experiment] = [
+            (
+                counts.get(
+                    decision,
+                    0
+                ) / total * 100
+            )
+            if total > 0
+            else 0
+
+            for decision in DECISIONS
+        ]
+
+    # ---------------------------------------------
+    # POSIÇÕES
+    # ---------------------------------------------
+
+    import numpy as np
+
+    x = np.arange(
+        len(LABELS)
+    )
+
+    width = 0.36
+
+    fig, ax = plt.subplots(
+        figsize=(11, 7)
+    )
+
+    bars1 = ax.bar(
+        x - width / 2,
+        percentages["GPT → Claude"],
+        width,
+        label="GPT → Claude"
+    )
+
+    bars2 = ax.bar(
+        x + width / 2,
+        percentages["Claude → GPT"],
+        width,
+        label="Claude → GPT"
+    )
+
+    # ---------------------------------------------
+    # RÓTULOS
+    # ---------------------------------------------
+
+    for bars in [bars1, bars2]:
+
+        for bar in bars:
+
+            height = bar.get_height()
+
+            ax.annotate(
+                f"{height:.1f}%",
+
+                xy=(
+                    bar.get_x()
+                    + bar.get_width() / 2,
+
+                    height
+                ),
+
+                xytext=(0, 4),
+
+                textcoords="offset points",
+
+                ha="center",
+
+                va="bottom",
+
+                fontsize=9
+            )
+
+    ax.set_title(
+        "Comparação da validação cruzada",
+        fontsize=16,
+        pad=18
+    )
+
+    ax.set_ylabel(
+        "Percentual das avaliações (%)"
+    )
+
+    ax.set_xlabel(
+        "Categoria da avaliação"
+    )
+
+    ax.set_xticks(
+        x
+    )
+
+    ax.set_xticklabels(
+        LABELS
+    )
+
+    ax.set_ylim(
+        0,
+        100
+    )
+
+    ax.grid(
+        axis="y",
+        linestyle="--",
+        alpha=0.4
+    )
+
+    ax.set_axisbelow(True)
+
+    ax.legend()
+
+    plt.tight_layout()
+
+    output = (
+        OUTPUT_FOLDER
+        / "validation_cross_comparison.png"
+    )
+
+    plt.savefig(
+        output,
+        dpi=300,
+        bbox_inches="tight"
+    )
+
+    print(
+        f"\n[OK] Gráfico comparativo salvo:"
+    )
+
+    print(output)
+
+    plt.close(fig)
+
+
+# =====================================================
+# MAIN
 # =====================================================
 
 def main():
 
     print(
-        "\nLendo os resultados da validação GPT..."
+        "\n"
+        + "=" * 65
     )
 
-    (
-        counts,
-        article_counts,
-        files_processed,
-        files_with_errors
-    ) = load_validations()
-
-    # Exibe o resumo.
-    print_summary(
-        counts,
-        files_processed,
-        files_with_errors
+    print(
+        "ANÁLISE DA VALIDAÇÃO CRUZADA"
     )
 
-    # Gera o gráfico geral.
-    generate_general_chart(
-        counts,
-        files_processed
+    print(
+        "=" * 65
     )
 
-    # Gera o gráfico por artigo.
-    generate_article_chart(
-        article_counts,
-        files_processed
+    experiment_results = {}
+
+    # ---------------------------------------------
+    # PROCESSA OS DOIS EXPERIMENTOS
+    # ---------------------------------------------
+
+    for experiment, config in EXPERIMENTS.items():
+
+        counts, articles, evaluations, errors = (
+            load_experiment(
+                config["extraction_model"],
+                config["judge_model"]
+            )
+        )
+
+        experiment_results[experiment] = {
+            "counts": counts,
+            "articles": articles,
+            "evaluations": evaluations
+        }
+
+        print_summary(
+            experiment,
+            counts,
+            articles,
+            evaluations
+        )
+
+        generate_individual_chart(
+            experiment,
+            counts,
+            articles,
+            evaluations
+        )
+
+    # ---------------------------------------------
+    # COMPARATIVO
+    # ---------------------------------------------
+
+    generate_comparison_chart(
+        experiment_results
     )
 
-    print("\nProcessamento dos gráficos concluído.")
+    print(
+        "\n"
+        + "=" * 65
+    )
+
+    print(
+        "ANÁLISE CONCLUÍDA"
+    )
+
+    print(
+        "=" * 65
+    )
 
 
 if __name__ == "__main__":
+
     main()

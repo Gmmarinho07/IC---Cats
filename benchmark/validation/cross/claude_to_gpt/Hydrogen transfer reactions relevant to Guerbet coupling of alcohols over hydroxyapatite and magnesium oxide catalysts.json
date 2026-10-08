@@ -1,0 +1,47 @@
+{
+    "paper": "Hydrogen transfer reactions relevant to Guerbet coupling of alcohols over hydroxyapatite and magnesium oxide catalysts",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The mass spectra of butanol produced over HAP and MgO in H2 and D2 diluent gas are shown in Fig. 1.",
+                "reason": "The catalyst HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The mass spectra of butanol produced over HAP and MgO in H2 and D2 diluent gas are shown in Fig. 1.",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "null",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for a support name."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "null",
+                "field": "raw_name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for a support raw name."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 2,
+            "correct": 2,
+            "incorrect": 0
+        }
+    }
+}

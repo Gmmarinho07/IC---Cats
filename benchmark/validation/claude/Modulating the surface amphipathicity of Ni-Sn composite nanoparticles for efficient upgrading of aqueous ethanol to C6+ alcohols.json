@@ -1,0 +1,119 @@
+{
+    "paper": "Modulating the surface amphipathicity of Ni-Sn composite nanoparticles for efficient upgrading of aqueous ethanol to C6+ alcohols",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn NPs with carbon shell and TiO2",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "the modification of NiSn NPs with carbon shell and TiO2 precisely regulates the amphipathicity",
+                "reason": "While the catalyst is mentioned, the extracted name does not match the specific notation used in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C/TiO2-1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the optimal NiSn@C/TiO2-1 catalyst exhibits excellent performance",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn/TiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the Ni-based catalyst provides metallic sites",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the contact angle further increases to 41.1◦when the molar ratio of C/TiO2 was increased to 1 (NiSn@C/TiO2-1)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C/TiO2-0.5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the contact angle increases to 27.1◦(Fig. 3c), leading to the re-distribution of sample both in the water phase and at the water–oil interface",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C/TiO2-2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the contact angle further increases from 41.1◦to 65.1◦, leading to the distribution of the sample in oil phase",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C/TiO2-3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the contact angle further increases from 41.1◦to 65.1◦, leading to the distribution of the sample in oil phase",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not explicitly identify Ni as a separate entity; it is part of the NiSn composition."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "NiSn",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "the Ni-based catalyst provides metallic sites",
+                "reason": "NiSn is not a metal; it is a composition of metals."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Sn",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not explicitly identify Sn as a separate entity; it is part of the NiSn composition."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "NiSn",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "the Ni-based catalyst provides metallic sites",
+                "reason": "NiSn is not a metal; it is a composition of metals."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "TiO2",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "TiO2 was used directly to modify the hydrophilia of the catalyst",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "TiO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "TiO2 was used directly to modify the hydrophilia of the catalyst",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "incorrect": 2,
+            "correct": 8,
+            "not_supported": 2
+        }
+    }
+}

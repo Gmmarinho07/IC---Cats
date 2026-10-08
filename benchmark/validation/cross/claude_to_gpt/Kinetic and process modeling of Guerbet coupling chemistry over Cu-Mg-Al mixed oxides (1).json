@@ -1,0 +1,63 @@
+{
+    "paper": "Kinetic and process modeling of Guerbet coupling chemistry over Cu-Mg-Al mixed oxides (1)",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "copper-based catalysts",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "copper-based catalysts.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "copper catalysts supported on Mg–Al mixed oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "copper catalysts supported on Mg–Al mixed oxides has been reported.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not explicitly mention 'Cu' as a metal; it refers to 'copper' instead."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "copper",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "copper.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAl mixed oxides",
+                "field": "name",
+                "decision": "partial",
+                "evidence": "copper catalysts supported on Mg–Al mixed oxides.",
+                "reason": "The support is mentioned, but the extracted name does not preserve the original notation 'Mg–Al mixed oxides'."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg–Al mixed oxides",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Mg–Al mixed oxides.",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "not_supported": 1,
+            "correct": 4,
+            "incorrect": 0
+        }
+    }
+}

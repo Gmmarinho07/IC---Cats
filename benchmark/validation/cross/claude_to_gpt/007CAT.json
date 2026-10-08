@@ -1,0 +1,111 @@
+{
+    "paper": "007CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcined hydrotalcite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcined hydrotalcite",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "MgA",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Notation\nMgA",
+                "reason": "The article explicitly associates MgA with Calcined hydrotalcite."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Alumina",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "A",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Notation\nA",
+                "reason": "The article explicitly associates A with Alumina."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Silica-alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Silica–alumina",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "SA",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Notation\nSA",
+                "reason": "The article explicitly associates SA with Silica-alumina."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-ferrierite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "H-ferrierite",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "FER",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Notation\nFER",
+                "reason": "The article explicitly associates FER with H-ferrierite."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-ZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "H-ZSM-5",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "MFI",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Notation\nMFI",
+                "reason": "The article explicitly associates MFI with H-ZSM-5."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-faujasite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "H-faujasite",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "USY",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Notation\nUSY",
+                "reason": "The article explicitly associates USY with H-faujasite."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 12,
+            "incorrect": 0
+        }
+    }
+}

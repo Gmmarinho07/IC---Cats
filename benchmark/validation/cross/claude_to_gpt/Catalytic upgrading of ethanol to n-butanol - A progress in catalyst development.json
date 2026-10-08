@@ -1,0 +1,191 @@
+{
+    "paper": "Catalytic upgrading of ethanol to n-butanol - A progress in catalyst development",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Iridium complexes",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "homogeneous catalysts such as Iridium and Ruthenium complexes catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ruthenium complexes",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "homogeneous catalysts such as Iridium and Ruthenium complexes catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "metal oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "heterogeneous catalysts mainly including metal oxides",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "heterogeneous catalysts mainly including ... hydroxyapatite (HAP)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "supported metal catalysts",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "heterogeneous catalysts mainly including ... supported metal catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg1Al1O",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the catalyst with the Mg/Al ratio of 3 showed superior catalytic performance",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg3Al1O",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the catalyst with the Mg/Al ratio of 3 showed superior catalytic performance",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "no n-butanol and C4 products were generated (Table 3) mainly because of the lack of Lewis acid sites to stabilize ethoxide intermediates in the course of reaction.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "almost ＞95% ethylene selectivity was achieved over pure Al2O3 catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "M-Mg-Al-O mixed oxide catalysts",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "various M-Mg-Al-O mixed oxide catalysts (M=Cu, Pd, Ag, Mn, Fe, Sm, Yb)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Iridium",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "homogeneous catalysts such as Iridium and Ruthenium complexes catalysts",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ru",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "homogeneous catalysts such as Iridium and Ruthenium complexes catalysts",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "various M-Mg-Al-O mixed oxide catalysts (M=Cu, Pd, Ag, Mn, Fe, Sm, Yb)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Pd",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "various M-Mg-Al-O mixed oxide catalysts (M=Cu, Pd, Ag, Mn, Fe, Sm, Yb)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ag",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "various M-Mg-Al-O mixed oxide catalysts (M=Cu, Pd, Ag, Mn, Fe, Sm, Yb)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Mn",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "various M-Mg-Al-O mixed oxide catalysts (M=Cu, Pd, Ag, Mn, Fe, Sm, Yb)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Fe",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "various M-Mg-Al-O mixed oxide catalysts (M=Cu, Pd, Ag, Mn, Fe, Sm, Yb)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Sm",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "various M-Mg-Al-O mixed oxide catalysts (M=Cu, Pd, Ag, Mn, Fe, Sm, Yb)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Yb",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "various M-Mg-Al-O mixed oxide catalysts (M=Cu, Pd, Ag, Mn, Fe, Sm, Yb)",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "heterogeneous catalysts mainly including ... hydroxyapatite (HAP)",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite (HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "heterogeneous catalysts mainly including ... hydroxyapatite (HAP)",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "heterogeneous catalysts mainly including ... hydroxyapatite (HAP)",
+                "reason": "The article explicitly associates HAP with hydroxyapatite."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 22,
+            "incorrect": 0
+        }
+    }
+}

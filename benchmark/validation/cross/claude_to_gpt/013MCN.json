@@ -1,0 +1,31 @@
+{
+    "paper": "013MCN",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "results in emission spectra of MgO, which are better-resolved and more stable in time",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "precipitation-MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the case of the precipitation-MgO sample, the O2 3C=O2 4C ratio has been found to be 0.06.",
+                "reason": "The catalyst precipitation-MgO is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 2,
+            "incorrect": 0
+        }
+    }
+}

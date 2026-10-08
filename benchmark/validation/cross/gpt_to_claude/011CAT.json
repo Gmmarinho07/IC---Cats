@@ -1,0 +1,111 @@
+{
+    "paper": "011CAT",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the density, nature and strength of surface base sites of MgO, and as a consequence its catalytic properties, change by increasing the solid calcination temperature.",
+                "reason": "MgO is explicitly identified as a catalyst in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the density, nature and strength of surface base sites of MgO",
+                "reason": "The raw name 'MgO' accurately preserves the original text representation found in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-673",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "which was then treated for 18 h in N2 either at 673, 773 or 873 K to give samples MgO-673, MgO-773 and MgO-873, respectively.",
+                "reason": "MgO-673 is explicitly identified as a catalyst sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-673",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "to give samples MgO-673, MgO-773 and MgO-873, respectively.",
+                "reason": "The raw name 'MgO-673' accurately preserves the original text representation found in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-773",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "which was then treated for 18 h in N2 either at 673, 773 or 873 K to give samples MgO-673, MgO-773 and MgO-873, respectively.",
+                "reason": "MgO-773 is explicitly identified as a catalyst sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-773",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "to give samples MgO-673, MgO-773 and MgO-873, respectively.",
+                "reason": "The raw name 'MgO-773' accurately preserves the original text representation found in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-873",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "which was then treated for 18 h in N2 either at 673, 773 or 873 K to give samples MgO-673, MgO-773 and MgO-873, respectively.",
+                "reason": "MgO-873 is explicitly identified as a catalyst sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-873",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "to give samples MgO-673, MgO-773 and MgO-873, respectively.",
+                "reason": "The raw name 'MgO-873' accurately preserves the original text representation found in the article."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "temperature programmed decomposition (TPDe) using a flame ionization detector (FID) with a methanation catalyst (Ni/Kieselghur) operating at 673 K",
+                "reason": "Ni appears in the article only as part of a characterization instrument's methanation catalyst (Ni/Kieselghur), not as an active metal in any of the studied catalysts. Classifying Ni as an active metal entity in this study is not supported by the article context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "with a methanation catalyst (Ni/Kieselghur) operating at 673 K",
+                "reason": "Ni is mentioned only as part of an analytical instrument's methanation catalyst used for characterization, not as an active metal in the studied catalysts. The raw_name extraction is therefore not supported as an active metal."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "the density, nature and strength of surface base sites of MgO, and as a consequence its catalytic properties",
+                "reason": "MgO is explicitly identified as the catalyst itself throughout the article, not as a support material. There is no evidence in the context that MgO functions as a support for another active metal in this study."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "the density, nature and strength of surface base sites of MgO, and as a consequence its catalytic properties",
+                "reason": "MgO is the catalyst, not a support material. Classifying it as a support is not supported by the article context."
+            }
+        ],
+        "summary": {
+            "not_supported": 0,
+            "correct": 8,
+            "incorrect": 4,
+            "partial": 0
+        }
+    }
+}

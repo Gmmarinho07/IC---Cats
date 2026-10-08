@@ -1,0 +1,59 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Al2O3",
+                "raw_name": "Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg-Al mixed oxides",
+                "raw_name": "MgyAlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg9AlOx",
+                "raw_name": "Mg9AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg5AlOx",
+                "raw_name": "Mg5AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg1AlOx",
+                "raw_name": "Mg1AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg0.5AlOx",
+                "raw_name": "Mg0.5AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "ZnO",
+                "raw_name": "ZnO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cr2O3",
+                "raw_name": "Cr2O3",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "MgAl mixed oxide",
+            "raw_name": "MgyAlOx",
+            "article_identifiers": []
+        }
+    }
+}

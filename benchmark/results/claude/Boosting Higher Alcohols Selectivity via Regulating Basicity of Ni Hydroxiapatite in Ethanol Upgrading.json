@@ -1,0 +1,112 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Ni on hydroxyapatite (HAP)",
+                "raw_name": "Niδ+ on hydroxyapatite (HAP)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP4−0.5Ni",
+                "raw_name": "HAP4−0.5Ni",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni/HAP",
+                "raw_name": "Ni/HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "Mgo",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg and Al Mixed Oxides",
+                "raw_name": "Mg and Al Mixed Oxides",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/CeO2",
+                "raw_name": "Cu/CeO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-CeO2/AC",
+                "raw_name": "Cu-CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd/Mg",
+                "raw_name": "Pd/Mg",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd/Mg-Carbon",
+                "raw_name": "Pd/Mg-Carbon",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "PdCu nanoalloy supported on alumina",
+                "raw_name": "Pdcu Nanoalloy Supported on Alumina",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni-MgAlO",
+                "raw_name": "Ni-Mgalo",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni−MgO",
+                "raw_name": "Ni−Mgo",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiCeO2 based catalysts",
+                "raw_name": "Niceo2 Based Catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn/MgAlO",
+                "raw_name": "Nisn/Mgalo",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "supported Ag particles",
+                "raw_name": "Supported Ag Particles",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "copper-hydroxyapatite",
+                "raw_name": "copper-hydroxyapatite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd@UiO-66",
+                "raw_name": "Pd@UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni-Sn",
+                "raw_name": "Ni-Sn",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "hydroxyapatite",
+            "article_identifiers": [
+                "HAP"
+            ]
+        }
+    }
+}

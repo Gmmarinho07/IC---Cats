@@ -22,11 +22,6 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "CuO",
-                "raw_name": "CuO",
-                "article_identifiers": []
-            },
-            {
                 "catalyst": "Cu/MFI-IM",
                 "raw_name": "Cu/MFI-IM",
                 "article_identifiers": []
@@ -49,7 +44,9 @@
         "support": {
             "name": "MFI",
             "raw_name": "MFI",
-            "article_identifiers": []
+            "article_identifiers": [
+                "MFI-AE"
+            ]
         }
     }
 }

@@ -22,10 +22,24 @@
     },
     "metal_support": {
         "metal": [],
-        "support": {
-            "name": null,
-            "raw_name": null,
-            "article_identifiers": []
-        }
+        "support": [
+            {
+                "name": "TiO2",
+                "raw_name": "anatase titania (TiO2)",
+                "article_identifiers": []
+            },
+            {
+                "name": "Hydroxyapatite",
+                "raw_name": "hydroxyapatite (HAP)",
+                "article_identifiers": [
+                    "HAP"
+                ]
+            },
+            {
+                "name": "MgO",
+                "raw_name": "magnesia (MgO)",
+                "article_identifiers": []
+            }
+        ]
     }
 }

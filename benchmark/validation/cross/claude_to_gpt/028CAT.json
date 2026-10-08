@@ -1,0 +1,103 @@
+{
+    "paper": "028CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the benchmark catalyst of NiMgAlO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the CuMgAlO catalyst with a higher Cu content",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.5%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "0.5%Cu-NiMgAlO represents the theoretical Cu loading in the catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1%Cu-NiMgAlO represents the theoretical Cu loading in the catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "reaching the maximum values of 23.5% and 65.7%, respectively, over the 2%Cu-NiMgAlO catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "3%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "3%Cu-NiMgAlO catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "4%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the 4%Cu-NiMgAlO catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "8%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "8%Cu-NiMgAlO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the actual Ni, Cu, Mg, Al contents were measured",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the actual Ni, Cu, Mg, Al contents were measured",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAlO",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The support is not explicitly identified as MgAlO in the context."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 1,
+            "correct": 10,
+            "incorrect": 0
+        }
+    }
+}

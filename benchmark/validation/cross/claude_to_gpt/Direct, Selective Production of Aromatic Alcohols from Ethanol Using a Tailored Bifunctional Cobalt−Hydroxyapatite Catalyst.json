@@ -1,0 +1,151 @@
+{
+    "paper": "Direct, Selective Production of Aromatic Alcohols from Ethanol Using a Tailored Bifunctional Cobalt−Hydroxyapatite Catalyst",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Co-containing hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Here we report a Co-containing hydroxyapatite (HAP) catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Co−HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In this work, a cobalt-doped hydroxyapatite (Co−HAP) was prepared",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the surface of hexagonal hydroxyapatite [HAP, Ca10(OH)2(PO4)6]",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Co/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "No aromatics were obtained over Co/Al2O3",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Co/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "No aromatics were obtained over Co/SiO2",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Co/carbon",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "No aromatics were obtained over Co/carbon",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Co and MgAlxOy",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the combination of Co and MgAlxOy does not produce aromatics",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Co/CaO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "small amounts of MB−O/−OH were detected over Co/CaO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Co/Ca3(PO4)2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "small amounts of MB−O/−OH were detected over Co/Ca3(PO4)2",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "solid base materials such as MgO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the surface of hexagonal hydroxyapatite [HAP, Ca10(OH)2(PO4)6]",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "cobalt-doped hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a cobalt-doped hydroxyapatite (Co−HAP) was prepared",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Co",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the presence of Co sites in Co−HAP",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Co",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the presence of Co sites in Co−HAP",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the surface of hexagonal hydroxyapatite [HAP, Ca10(OH)2(PO4)6]",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the surface of hexagonal hydroxyapatite [HAP, Ca10(OH)2(PO4)6]",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the surface of hexagonal hydroxyapatite [HAP, Ca10(OH)2(PO4)6]",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 17,
+            "incorrect": 0
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Hydroxyapatite",
+                "raw_name": "Hydroxyapatite (HAP)",
+                "article_identifiers": [
+                    "HAP"
+                ]
+            },
+            {
+                "catalyst": "Zinc-loaded hydroxyapatite",
+                "raw_name": "zinc-loaded hydroxyapatite (Zn-HAP)",
+                "article_identifiers": [
+                    "Zn-HAP"
+                ]
+            },
+            {
+                "catalyst": "Co-HAP",
+                "raw_name": "Co-HAP",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Zn",
+                "raw_name": "Zn",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "hydroxyapatite",
+            "article_identifiers": [
+                "HAP"
+            ]
+        }
+    }
+}

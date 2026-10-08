@@ -1,0 +1,40 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Hydroxyapatite",
+                "raw_name": "HAp",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Amorphous calcium phosphate",
+                "raw_name": "ACP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Octacalcium phosphate",
+                "raw_name": "OCP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Dicalcium phosphate dihydrate",
+                "raw_name": "DCPD",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Dicalcium phosphate anhydrous",
+                "raw_name": "DCPA",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Calcium-deficient hydroxyapatite",
+                "raw_name": "CDHAp",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": null
+    }
+}

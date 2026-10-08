@@ -8,10 +8,8 @@
             },
             {
                 "catalyst": "Calcium-deficient hydroxyapatite",
-                "raw_name": "calcium-deficient hydroxyapatite",
-                "article_identifiers": [
-                    "CDHAp"
-                ]
+                "raw_name": "CDHAp",
+                "article_identifiers": []
             }
         ]
     },

@@ -1,0 +1,64 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Hydroxyapatite",
+                "raw_name": "hydroxyapatite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Hydroxyapatite (stoichiometric, 623 K)",
+                "raw_name": "HAp-S623 K",
+                "article_identifiers": [
+                    "HAp-S623 K"
+                ]
+            },
+            {
+                "catalyst": "Hydroxyapatite (over-stoichiometric, 623 K)",
+                "raw_name": "HAp-O623 K",
+                "article_identifiers": [
+                    "HAp-O623 K"
+                ]
+            },
+            {
+                "catalyst": "Hydroxyapatite (over-stoichiometric, 873 K)",
+                "raw_name": "HAp-O873 K",
+                "article_identifiers": [
+                    "HAp-O873 K"
+                ]
+            },
+            {
+                "catalyst": "Hydroxyapatite (under-stoichiometric, 623 K)",
+                "raw_name": "HAp-U623 K",
+                "article_identifiers": [
+                    "HAp-U623 K"
+                ]
+            },
+            {
+                "catalyst": "beta tricalcium phosphate",
+                "raw_name": "beta tricalcium phosphate",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "fluorapatite",
+                "raw_name": "fluorapatite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "octacalcium phosphate",
+                "raw_name": "octacalcium phosphate",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "hydroxyapatite",
+            "article_identifiers": [
+                "HAp"
+            ]
+        }
+    }
+}

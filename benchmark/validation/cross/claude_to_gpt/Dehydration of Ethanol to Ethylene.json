@@ -1,0 +1,191 @@
+{
+    "paper": "Dehydration of Ethanol to Ethylene",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "phosphoric acid catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the catalyst of phosphoric acids.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "clay",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "using clay or alumina as the catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the catalyst currently used in the industrial equipment of the ethanol dehydration to ethylene is mainly the actived alumina-based catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "γ-Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "γ-Al2O3 was used as the catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Si−Al catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the Si−Al catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "A12O3−MgO/SiO2",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "the main components of A12O3−MgO/SiO2.",
+                "reason": "The correct notation should be Al2O3−MgO/SiO2, and the article identifier is not explicitly associated."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3−Cr2O3 catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the Al2O3−Cr2O3 catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HZSM-5 zeolite modified to NKC-03A",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "modiﬁed HZSM-5 zeolite and then developed NKC-03A catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZSM-5 zeolite modified with zinc and manganese",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "ZSM-5 zeolite modiﬁed with zinc and manganese.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-ZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "H-ZSM-5 catalyzed ethanol dehydrogenation effectively.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-ZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu-ZSM-5 zeolite was deeply oxidized to generate CO2 and CO.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-NaZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "H-NaZSM-5 surface can enhance the dehydrogenation activity.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-NaZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu-NaZSM-5 surface is good for the ethanol catalytic oxidation reaction.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "mordenite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "mordenite had the highest catalytic activity for alcohol dehydrogenation.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZSM-5 zeolite",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "ZSM-5 zoelite.",
+                "reason": "The correct spelling should be ZSM-5 zeolite, and the article identifier is not explicitly associated."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hβ hydrogen type zeolite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Hβ hydrogen type zoelite.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Si−Al compounds",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Si−Al compounds.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZSM-5 zeolite catalyst modified with La",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "ZSM-5 zeolite catalyst modiﬁed with La.",
+                "reason": "The article identifier is not explicitly associated."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "SAPO-34",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "studied the reaction of ethanol dehydration on SAPO-34.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HZSM-5 (Si/Al = 25)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HZSM-5 (Si/Al = 25).",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiAPSO-34",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "NiAPSO-34 is most suitable for the ethanol catalytic dehydration to ethylene reaction.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "SAPO-11/HZSM-5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the composite catalyst of SAPO-11/HZSM-5.",
+                "reason": "The catalyst is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 3,
+            "not_supported": 0,
+            "correct": 19,
+            "incorrect": 0
+        }
+    }
+}

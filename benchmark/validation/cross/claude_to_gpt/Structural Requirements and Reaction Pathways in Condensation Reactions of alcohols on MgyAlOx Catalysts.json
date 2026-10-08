@@ -1,0 +1,95 @@
+{
+    "paper": "Structural Requirements and Reaction Pathways in Condensation Reactions of alcohols on MgyAlOx Catalysts",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Pure MgO is active for dehydrogenation and coupling reactions but shows negligible dehydration activity.",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Al-rich MgyAlOx samples and Al2O3 mainly dehydrate alcohols to ethers and to a lesser extent to olefins.",
+                "reason": "The catalyst Al2O3 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al mixed oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "C2H5OH and CH3OH/C3H7OH mixtures undergo dehydrogenation, dehydration, and condensation reactions on MgyAlOx samples.",
+                "reason": "The catalyst Mg-Al mixed oxides is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg9AlOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg9AlOx and Mg1AlOx (Fig. 10a) are the main coupling products.",
+                "reason": "The catalyst Mg9AlOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg5AlOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg5AlOx is mentioned in the context of catalytic reactions.",
+                "reason": "The catalyst Mg5AlOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg1AlOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The nucleation of a separate stable Al-rich phase provides a thermodynamic sink for Al3+ cations, and the density of basic sites increases as Al migrates from MgO surfaces to the Al-rich phase to reach a second maximum for the Mg1AlOx sample.",
+                "reason": "The catalyst Mg1AlOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg0.5AlOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In Al-rich samples (sample Mg0.5AlOx), the nucleation of a separate bulk MgAl2O4 spinel lacking basic surface oxygens causes the basic site density to decrease again at higher Al contents.",
+                "reason": "The catalyst Mg0.5AlOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZnO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "It has been reported that on Al2O3 activated at low temperatures, alcohol dehydrogenation is largely determined by the density of structural defects, specifically Al vacancies (53). Al-rich MgyAlOx samples contain a high density of Al–O pairs with unsaturated surface aluminum cations, which can form aldehydes via the abstraction of the α-hydrogen as a hydride, as reported for ZnO and Cr2O3 (54).",
+                "reason": "The catalyst ZnO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cr2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "as reported for ZnO and Cr2O3 (54).",
+                "reason": "The catalyst Cr2O3 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAl mixed oxide",
+                "field": "support",
+                "decision": "correct",
+                "evidence": "The dependence of dehydrogenation and condensation rates on catalyst composition (Figs. 10a and 11a) are qualitatively similar, suggesting that both reactions require common intermediates and similar acid–base surface properties.",
+                "reason": "The support MgAl mixed oxide is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 10,
+            "incorrect": 0
+        }
+    }
+}

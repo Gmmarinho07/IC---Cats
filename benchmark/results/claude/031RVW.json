@@ -121,15 +121,13 @@
             {
                 "catalyst": "Sr-HAP (Sr/P = 1.70)",
                 "raw_name": "Sr-HAP (Sr/P = 1.70)",
-                "article_identifiers": [
-                    "Sr-HAP"
-                ]
+                "article_identifiers": []
             },
             {
-                "catalyst": "HAP-W",
-                "raw_name": "HAP-W",
+                "catalyst": "nanowire-like hydroxyapatite",
+                "raw_name": "HAP−W",
                 "article_identifiers": [
-                    "HAP-W"
+                    "HAP−W"
                 ]
             },
             {
@@ -236,6 +234,10 @@
                 "article_identifiers": []
             }
         ],
-        "support": null
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "HAP",
+            "article_identifiers": []
+        }
     }
 }

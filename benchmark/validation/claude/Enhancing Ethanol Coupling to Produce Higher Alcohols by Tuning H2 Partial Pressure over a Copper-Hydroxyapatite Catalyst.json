@@ -1,0 +1,111 @@
+{
+    "paper": "Enhancing Ethanol Coupling to Produce Higher Alcohols by Tuning H2 Partial Pressure over a Copper-Hydroxyapatite Catalyst",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the bifunctional Cu-HAP catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-hydroxyapatite (Cu-HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the bifunctional Cu-HAP catalyst",
+                "reason": "The raw name is explicitly supported by the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the bifunctional Cu-HAP catalyst",
+                "reason": "The article identifier is explicitly associated with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.5Cu-HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "over 0.5Cu-HAP (a) and HAP (b) catalysts.",
+                "reason": "The article identifier is explicitly associated with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "on bare HAP",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "on bare HAP",
+                "reason": "The raw name is explicitly supported by the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "on bare HAP",
+                "reason": "The article identifier is explicitly associated with the catalyst."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu sites catalyze the hydrogenation",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu sites catalyze the hydrogenation",
+                "reason": "The raw name is explicitly supported by the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "on bare HAP",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "on bare HAP",
+                "reason": "The raw name is explicitly supported by the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "on bare HAP",
+                "reason": "The article identifier is explicitly associated with the support."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 12,
+            "not_supported": 0
+        }
+    }
+}

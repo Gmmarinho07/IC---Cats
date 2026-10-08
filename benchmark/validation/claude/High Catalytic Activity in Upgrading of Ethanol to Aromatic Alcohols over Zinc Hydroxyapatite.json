@@ -1,0 +1,119 @@
+{
+    "paper": "High Catalytic Activity in Upgrading of Ethanol to Aromatic Alcohols over Zinc Hydroxyapatite",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Hydroxyapatite (HAP) obtained from Acros Organics with a Ca/P ratio of 1.67 was used as the precursor",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hydroxyapatite (HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Hydroxyapatite (HAP) obtained from Acros Organics with a Ca/P ratio of 1.67 was used as the precursor",
+                "reason": "The raw name is explicitly supported by the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Hydroxyapatite (HAP) obtained from Acros Organics with a Ca/P ratio of 1.67 was used as the precursor",
+                "reason": "The article identifier is explicitly associated with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Zinc-loaded hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the synthesis of zinc-loaded hydroxyapatite (Zn-HAP) through an impregnation method",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "zinc-loaded hydroxyapatite (Zn-HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the synthesis of zinc-loaded hydroxyapatite (Zn-HAP) through an impregnation method",
+                "reason": "The raw name is explicitly supported by the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Zn-HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the synthesis of zinc-loaded hydroxyapatite (Zn-HAP) through an impregnation method",
+                "reason": "The article identifier is explicitly associated with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Co-HAP",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Zn",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the Zn site plays a role in hydrogen transfer for dehydrogenation and hydrogenation",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Zn",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the Zn site plays a role in hydrogen transfer for dehydrogenation and hydrogenation",
+                "reason": "The raw name is explicitly supported by the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "",
+                "field": "article_identifiers",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide any explicit article identifiers associated with the metal."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Hydroxyapatite (HAP) obtained from Acros Organics with a Ca/P ratio of 1.67 was used as the precursor",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Hydroxyapatite (HAP) obtained from Acros Organics with a Ca/P ratio of 1.67 was used as the precursor",
+                "reason": "The raw name is explicitly supported by the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Hydroxyapatite (HAP) obtained from Acros Organics with a Ca/P ratio of 1.67 was used as the precursor",
+                "reason": "The article identifier is explicitly associated with the support."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 11,
+            "not_supported": 2
+        }
+    }
+}

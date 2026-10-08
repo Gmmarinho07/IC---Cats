@@ -1,0 +1,103 @@
+{
+    "paper": "Hierarchical Echinus-like Cu-MFI Catalysts for Ethanol dehydrogenation",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Au/MgCuCr2O4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "over a Au/MgCuCr2O4 catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-MFI-AE (silicalite-1)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a hierarchical echinus-like catalyst of Cu-MFI-AE (silicalite-1)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-SiO2-AE",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/MFI-IM",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuO",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the coexistence of Cu+ and Cu0 on the catalyst",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the coexistence of Cu+ and Cu0 on the catalyst",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Au",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "over a Au/MgCuCr2O4 catalyst",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Au",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "over a Au/MgCuCr2O4 catalyst",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MFI",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the strong interfacial interactions between Cu and crystallized MFI",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MFI",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the strong interfacial interactions between Cu and crystallized MFI",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 8,
+            "not_supported": 3
+        }
+    }
+}

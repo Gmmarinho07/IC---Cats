@@ -1,0 +1,35 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu@S-1",
+                "raw_name": "Cu@S-1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/S-1",
+                "raw_name": "Cu/S-1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/SiO2",
+                "raw_name": "Cu/SiO2",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "",
+            "raw_name": "",
+            "article_identifiers": []
+        }
+    }
+}

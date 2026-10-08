@@ -1,0 +1,79 @@
+{
+    "paper": "Efficient Catalytic Upgrading of Ethanol to Higher Alcohols via Inhibiting C−C Cleavage and Promoting C−C Coupling over Biomass-Derived NiZn@NC Catalys",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Zn- and nitrogen-codoped Ni-based lignin-derived carbon catalysts",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "Zn- and nitrogen-codoped Ni-based lignin-derived carbon catalysts (NiZn@NC) were prepared",
+                "reason": "The catalyst is mentioned, but the specific name 'Zn- and nitrogen-codoped Ni-based lignin-derived carbon catalysts' is not explicitly used as a standalone identifier in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni20Zn1@NC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the Ni20Zn1@NC catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the synergetic effect between Ni and Zn",
+                "reason": "The metal Ni is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the synergetic effect between Ni and Zn",
+                "reason": "The raw name Ni is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Zn",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the synergetic effect between Ni and Zn",
+                "reason": "The metal Zn is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Zn",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the synergetic effect between Ni and Zn",
+                "reason": "The raw name Zn is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "nitrogen-doped carbon",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The support is not explicitly identified as 'nitrogen-doped carbon' in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "lignin-derived carbon",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "lignin-derived carbon catalysts",
+                "reason": "The raw name 'lignin-derived carbon' is explicitly mentioned in the context."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "incorrect": 0,
+            "correct": 6,
+            "not_supported": 1
+        }
+    }
+}

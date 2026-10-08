@@ -1,0 +1,143 @@
+{
+    "paper": "016CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "XRD patterns of a) SiO2",
+                "reason": "The catalyst SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "10%MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "XRD patterns of b) 10%MgO-SiO2",
+                "reason": "The catalyst 10%MgO-SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "30%MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "XRD patterns of c) 30%MgO-SiO2",
+                "reason": "The catalyst 30%MgO-SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "50%MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "XRD patterns of d) 50%MgO-SiO2",
+                "reason": "The catalyst 50%MgO-SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "80%MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "XRD patterns of e) 80%MgO-SiO2",
+                "reason": "The catalyst 80%MgO-SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the use of Au deposited onto MgO-SiO2",
+                "reason": "The catalyst MgO-SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "~3%Au/50%MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Au supported on MgO-SiO2 (50%MgO-SiO2, Mg/Si=2.6)",
+                "reason": "The catalyst ~3%Au/50%MgO-SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "~3%Au/MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the deposition of Au on a magnesia-silica catalyst that contains the bulk MgO phase",
+                "reason": "The catalyst ~3%Au/MgO-SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Au/MgO-SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Au supported on magnesia-silica (50%MgO-SiO2, Mg/Si=2.6)",
+                "reason": "The catalyst Au/MgO-SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Au/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "under similar reaction conditions, Au/SiO2 showed a negligible ethanol conversion",
+                "reason": "The catalyst Au/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Au/MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Au/MgO showed a moderate ethanol conversion",
+                "reason": "The catalyst Au/MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the treatment of MgO-SiO2 with an aqueous solution of HCl results in the formation of the MSH phase",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Au",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the addition of Au increased the ethanol conversion",
+                "reason": "The metal Au is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Au",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the addition of Au increased the ethanol conversion",
+                "reason": "The metal Au is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO-SiO2",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the use of Au deposited onto MgO-SiO2",
+                "reason": "The support MgO-SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO-SiO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the use of Au deposited onto MgO-SiO2",
+                "reason": "The support MgO-SiO2 is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 16,
+            "incorrect": 0
+        }
+    }
+}

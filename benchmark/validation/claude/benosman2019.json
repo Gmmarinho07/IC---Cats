@@ -1,0 +1,103 @@
+{
+    "paper": "benosman2019",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "hydroxyapatite is the only catalyst to exhibit both Lewis (Ca2+) and Brønsted (POH) acid sites",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hydroxyapatite (stoichiometric, 623 K)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The samples will be hereafter referred to as HAp-S623 K",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hydroxyapatite (over-stoichiometric, 623 K)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The samples will be hereafter referred to as HAp-O623 K",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hydroxyapatite (over-stoichiometric, 873 K)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The samples will be hereafter referred to as HAp-O873 K",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hydroxyapatite (under-stoichiometric, 623 K)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The samples will be hereafter referred to as HAp-U623 K",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "beta tricalcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "other calcium phosphate phases that do not exhibit basic OH groups, such as beta tricalcium phosphate",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "fluorapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "other calcium phosphate phases that do not exhibit basic OH groups, such as fluorapatite",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "octacalcium phosphate",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "other calcium phosphate phases that do not exhibit basic OH groups, such as octacalcium phosphate",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "hydroxyapatite is the only catalyst to exhibit both Lewis (Ca2+) and Brønsted (POH) acid sites",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "hydroxyapatite is the only catalyst to exhibit both Lewis (Ca2+) and Brønsted (POH) acid sites",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAp",
+                "field": "article_identifiers",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate 'HAp' as an identifier for hydroxyapatite."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 10,
+            "not_supported": 1
+        }
+    }
+}

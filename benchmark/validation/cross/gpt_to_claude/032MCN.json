@@ -1,0 +1,79 @@
+{
+    "paper": "032MCN",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The mechanism and kinetics for ethanol coupling to n-butanol over hydroxyapatite (HAP) were investigated at 573−613 K.",
+                "reason": "Hydroxyapatite is explicitly identified as a catalyst in the article abstract and throughout the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite (HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The mechanism and kinetics for ethanol coupling to n-butanol over hydroxyapatite (HAP) were investigated at 573−613 K.",
+                "reason": "The raw name 'hydroxyapatite (HAP)' accurately preserves the original text representation from the article."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The mechanism and kinetics for ethanol coupling to n-butanol over hydroxyapatite (HAP) were investigated at 573−613 K.",
+                "reason": "HAP is explicitly established as an abbreviation/identifier for hydroxyapatite by the authors and is used consistently throughout the article (e.g., 'Figure 4 shows butanol formation rates over HAP')."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium oxide",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium oxide was synthesized by a precipitation method using aqueous solutions of calcium chloride and sodium hydroxide to form the corresponding hydroxide before calcining at 773 K for 1 h.",
+                "reason": "Calcium oxide is explicitly mentioned as a synthesized material in the experimental section, indicating it is used as a catalyst or reference material."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium oxide",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Calcium oxide was synthesized by a precipitation method using aqueous solutions of calcium chloride and sodium hydroxide to form the corresponding hydroxide before calcining at 773 K for 1 h.",
+                "reason": "The raw name 'Calcium oxide' accurately preserves the original text representation from the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "The mechanism and kinetics for ethanol coupling to n-butanol over hydroxyapatite (HAP) were investigated at 573−613 K.",
+                "reason": "Hydroxyapatite is identified as a catalyst in the article, not explicitly as a support material. The article does not describe hydroxyapatite as a support for an active metal. Classifying it as a support is not explicitly supported by the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite (HAP)",
+                "field": "raw_name",
+                "decision": "not_supported",
+                "evidence": "The mechanism and kinetics for ethanol coupling to n-butanol over hydroxyapatite (HAP) were investigated at 573−613 K.",
+                "reason": "While the raw name accurately reflects the text, the classification of hydroxyapatite as a support is not explicitly supported by the article. The article treats it as a standalone catalyst, not as a support material."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "",
+                "reason": "No article identifiers are claimed for the support entity, and the context does not provide any additional identifiers beyond what is already validated for the catalyst entity. An empty list is appropriate here."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 2,
+            "correct": 6,
+            "incorrect": 0
+        }
+    }
+}

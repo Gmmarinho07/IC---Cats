@@ -1,0 +1,71 @@
+{
+    "paper": "036CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "anatase titania (TiO2)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The condensation reaction was studied over three catalysts: anatase TiO2, HAP, and MgO.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite (HAP)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The condensation reaction was studied over three catalysts: anatase TiO2, HAP, and MgO.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "magnesia (MgO)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The condensation reaction was studied over three catalysts: anatase TiO2, HAP, and MgO.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "TiO2",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The condensation reaction was studied over three catalysts: anatase TiO2, HAP, and MgO.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "hydroxyapatite (HAP)",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The condensation reaction was studied over three catalysts: anatase TiO2, HAP, and MgO.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The condensation reaction was studied over three catalysts: anatase TiO2, HAP, and MgO.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Both HAP and MgO are common Guerbet coupling catalysts, whereas TiO2 is a commonly studied catalyst for aldol condensation.",
+                "reason": "The article explicitly associates HAP with the catalyst."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 7,
+            "not_supported": 0
+        }
+    }
+}

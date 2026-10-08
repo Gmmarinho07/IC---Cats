@@ -1,0 +1,63 @@
+{
+    "paper": "013MCN",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the effect of MgO-preparation methods on the distribution of oxide ions in low coordination can be evaluated by this procedure",
+                "reason": "MgO is explicitly mentioned in the article as a material under study, and its use in catalysis is referenced."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "O2 3C",
+                "field": "catalyst",
+                "decision": "incorrect",
+                "evidence": "the expected higher reactivity of O2 3C to air contaminants such as CO2 or water",
+                "reason": "O2 3C (O2- ions in 3-coordinate surface sites) refers to surface oxide ions on MgO, not a catalyst. It is a surface species/ion, not a catalyst entity."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "O2 4C",
+                "field": "catalyst",
+                "decision": "incorrect",
+                "evidence": "the decrease in intensity of the emission at 460 and 380 nm as well as that of their respective contributions at 270 and 230 nm in the corresponding excitation spectra indicates that propyne is adsorbed on O2 3C and O2 4C",
+                "reason": "O2 4C refers to surface oxide ions in 4-coordinate sites on MgO, not a catalyst. It is a surface species/ion, not a catalyst entity."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "O2 5C",
+                "field": "catalyst",
+                "decision": "incorrect",
+                "evidence": "the shift of the maximum of the emission band from 380 to 355 nm shows that the O2 5C ions do not interact with propyne",
+                "reason": "O2 5C refers to surface oxide ions in 5-coordinate sites on MgO, not a catalyst. It is a surface species/ion, not a catalyst entity."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "the effect of MgO-preparation methods on the distribution of oxide ions in low coordination can be evaluated by this procedure, complementary to TEM and BET characterizations, and the results obtained are consistent with catalysis data for MgO samples prepared with different methods",
+                "reason": "MgO is the primary material studied in this article, not a support for another active metal. The article does not describe MgO as a support in the context of a metal-support catalyst system. There is no active metal identified in the extraction or the article context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "not_supported",
+                "evidence": "the effect of MgO-preparation methods on the distribution of oxide ions in low coordination",
+                "reason": "While MgO appears explicitly in the article, it is not described as a support in a metal-support system. The raw_name is textually accurate, but the classification as a support is not supported by the context."
+            }
+        ],
+        "summary": {
+            "not_supported": 2,
+            "correct": 1,
+            "incorrect": 3,
+            "partial": 0
+        }
+    }
+}

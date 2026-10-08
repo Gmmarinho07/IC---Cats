@@ -1,0 +1,151 @@
+{
+    "paper": "025CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Magnesium oxide",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the results obtained with the reference catalysts, MgO, previously synthetized in the lab.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sepiolite calcined at 500°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the sepiolite supports, i.e. Sep@ 500 and Sep@ 700, are more active compared to MgO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sepiolite calcined at 700°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the sepiolite supports, i.e. Sep@ 500 and Sep@ 700, are more active compared to MgO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2 wt% Na on sepiolite calcined at 500°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Noteworthy the Na-modified Sep@ 500 supported catalysts led to the formation of the Guerbet reaction product of ethanol: n-butanol.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "5 wt% Na on sepiolite calcined at 500°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Noteworthy the Na-modified Sep@ 500 supported catalysts led to the formation of the Guerbet reaction product of ethanol: n-butanol.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2 wt% Na on sepiolite calcined at 700°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Noteworthy the Na-modified Sep@ 500 supported catalysts led to the formation of the Guerbet reaction product of ethanol: n-butanol.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "5 wt% Na on sepiolite calcined at 700°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Noteworthy the Na-modified Sep@ 500 supported catalysts led to the formation of the Guerbet reaction product of ethanol: n-butanol.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2 wt% K on sepiolite calcined at 500°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In particular, potassium and cesium have been added through incipient wetness impregnation with different metal loading.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "5 wt% K on sepiolite calcined at 500°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In particular, potassium and cesium have been added through incipient wetness impregnation with different metal loading.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2 wt% Cs on sepiolite calcined at 500°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In particular, potassium and cesium have been added through incipient wetness impregnation with different metal loading.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "4 wt% Cs on sepiolite calcined at 500°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In particular, potassium and cesium have been added through incipient wetness impregnation with different metal loading.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "7 wt% Cs on sepiolite calcined at 500°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In particular, potassium and cesium have been added through incipient wetness impregnation with different metal loading.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "14 wt% Cs on sepiolite calcined at 500°C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In particular, potassium and cesium have been added through incipient wetness impregnation with different metal loading.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Na",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the sodium addition over sepiolite resulted in a generalized reduction in activity",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "K",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "In particular, potassium and cesium have been added through incipient wetness impregnation with different metal loading.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cs",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "In particular, potassium and cesium have been added through incipient wetness impregnation with different metal loading.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Sepiolite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Natural sepiolite (Sepiolite 11AS-13) was provided by Tolsa, S.A.",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 17,
+            "not_supported": 0
+        }
+    }
+}

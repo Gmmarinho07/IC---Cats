@@ -1,0 +1,60 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "alumina",
+                "raw_name": "alumina",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Al2O3",
+                "raw_name": "Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg-Al calcined hydrotalcite",
+                "raw_name": "CHT1",
+                "article_identifiers": [
+                    "CHT1"
+                ]
+            },
+            {
+                "catalyst": "Mg-Al calcined hydrotalcite",
+                "raw_name": "CHT2",
+                "article_identifiers": [
+                    "CHT2"
+                ]
+            },
+            {
+                "catalyst": "Mg-Al calcined hydrotalcite",
+                "raw_name": "CHT3",
+                "article_identifiers": [
+                    "CHT3"
+                ]
+            },
+            {
+                "catalyst": "Mg-Al calcined hydrotalcite",
+                "raw_name": "CHT4",
+                "article_identifiers": [
+                    "CHT4"
+                ]
+            },
+            {
+                "catalyst": "Mg-Al calcined hydrotalcite",
+                "raw_name": "CHT5",
+                "article_identifiers": [
+                    "CHT5"
+                ]
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": null
+    }
+}

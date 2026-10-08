@@ -1,0 +1,9 @@
+﻿experimento,modelo_extracao,modelo_juiz,categoria,quantidade,percentual,artigos,total_avaliacoes
+GPT → Claude,gpt,claude,correct,164,81.19,21,202
+GPT → Claude,gpt,claude,partial,8,3.96,21,202
+GPT → Claude,gpt,claude,incorrect,18,8.91,21,202
+GPT → Claude,gpt,claude,not_supported,12,5.94,21,202
+Claude → GPT,claude,gpt,correct,886,88.16,98,1005
+Claude → GPT,claude,gpt,partial,29,2.89,98,1005
+Claude → GPT,claude,gpt,incorrect,19,1.89,98,1005
+Claude → GPT,claude,gpt,not_supported,71,7.06,98,1005

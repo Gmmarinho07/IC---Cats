@@ -2,6 +2,11 @@
     "catalyst": {
         "catalysts": [
             {
+                "catalyst": "MgAl-LDHs",
+                "raw_name": "MgAl-LDHs",
+                "article_identifiers": []
+            },
+            {
                 "catalyst": "Ag/Mg2Al-LDO",
                 "raw_name": "Ag/Mg2Al-LDO",
                 "article_identifiers": []

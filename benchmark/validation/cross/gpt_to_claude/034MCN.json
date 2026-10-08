@@ -1,0 +1,63 @@
+{
+    "paper": "034MCN",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalyst bed (HAP or MgO) was supported in the reactor on quartz wool",
+                "reason": "HAP is explicitly identified as a catalyst in the article context, used for Guerbet coupling and other reactions."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The catalyst bed (HAP or MgO) was supported in the reactor on quartz wool",
+                "reason": "The raw name 'HAP' matches the exact text used in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalyst bed (either HAP or MgO) was supported on quartz wool",
+                "reason": "MgO is explicitly identified as a catalyst in the article context, used for Guerbet coupling and H2-D2 exchange reactions."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The catalyst bed (either HAP or MgO) was supported on quartz wool",
+                "reason": "The raw name 'MgO' matches the exact text used in the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "The catalyst bed (HAP or MgO) was supported in the reactor on quartz wool",
+                "reason": "HAP is explicitly identified as a catalyst in the article, not as a support material. There is no evidence in the context that HAP functions as a support for any active metal."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "The catalyst bed (HAP or MgO) was supported in the reactor on quartz wool",
+                "reason": "HAP appears in the article as a catalyst, not as a support. Classifying it as a support raw_name is not supported by the context."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 4,
+            "incorrect": 2
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "paper": "021CAT",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the Cu-hydroxyapatite (Cu-HAP) catalyst shift stepwise to higher alcohols from aromatic oxygenates with the partial pressure of hydrogen increasing from 0 to 95 kPa.",
+                "reason": "The catalyst Cu-hydroxyapatite is explicitly named in the abstract."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-hydroxyapatite (Cu-HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the Cu-hydroxyapatite (Cu-HAP) catalyst shift stepwise to higher alcohols",
+                "reason": "The raw name 'Cu-hydroxyapatite (Cu-HAP)' is explicitly present in the article context."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "Cu-HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the Cu-hydroxyapatite (Cu-HAP) catalyst shift stepwise to higher alcohols from aromatic oxygenates",
+                "reason": "The article explicitly establishes 'Cu-HAP' as an abbreviation for Cu-hydroxyapatite, and uses it consistently throughout the text as a label for this catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Dependence of the product distribution on H2 partial pressure over 0.5Cu-HAP (a) and HAP (b) catalysts.",
+                "reason": "HAP is explicitly identified as a catalyst in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "HAP was prepared via coprecipitation",
+                "reason": "The raw name 'HAP' appears explicitly in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.5Cu-HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Dependence of the product distribution on H2 partial pressure over 0.5Cu-HAP (a) and HAP (b) catalysts.",
+                "reason": "0.5Cu-HAP is explicitly identified as a catalyst in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.5Cu-HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Dependence of the product distribution on H2 partial pressure over 0.5Cu-HAP (a) and HAP (b) catalysts.",
+                "reason": "The raw name '0.5Cu-HAP' is explicitly present in the article context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The loading amount of the Cu metal detected by inductively coupled plasma optical emission spectrometry (ICP-OES) was about 0.7 wt %",
+                "reason": "Cu is explicitly identified as the active metal in the article context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The loading amount of the Cu metal detected by inductively coupled plasma optical emission spectrometry (ICP-OES) was about 0.7 wt %",
+                "reason": "The raw name 'Cu' is explicitly present in the article context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "HAP was prepared via coprecipitation, which is based on adding calcium nitrate to diammonium hydrogen phosphate solution",
+                "reason": "Hydroxyapatite (HAP) is explicitly identified as the support material in the article context, with HAP being the standard abbreviation for hydroxyapatite."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "HAP was prepared via coprecipitation",
+                "reason": "The raw name 'HAP' is explicitly present in the article context as the abbreviation used for the support."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 11,
+            "incorrect": 0
+        }
+    }
+}

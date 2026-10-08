@@ -1,0 +1,55 @@
+{
+    "paper": "Zeolite-encapsulated Cu nanoparticles with enhanced performance for ethanol dehydrogenation",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu@S-1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu@S-1 shows a more apparent decrease in microporosity in terms of micropore surface area and micropore volume than Cu/S-1 after Cu addition.",
+                "reason": "The catalyst Cu@S-1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/S-1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/S-1 shows a major decrease in the external surface area after Cu addition.",
+                "reason": "The catalyst Cu/S-1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/SiO2 also retain the patterns of the supports after Cu loading.",
+                "reason": "The catalyst Cu/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "well-dispersed Cu nanoparticles within the cavities of S-1 could be obtained.",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted support name."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 1,
+            "correct": 4,
+            "incorrect": 0
+        }
+    }
+}

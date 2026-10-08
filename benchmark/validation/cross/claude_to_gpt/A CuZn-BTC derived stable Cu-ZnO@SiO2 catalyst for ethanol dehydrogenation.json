@@ -1,0 +1,87 @@
+{
+    "paper": "A CuZn-BTC derived stable Cu-ZnO@SiO2 catalyst for ethanol dehydrogenation",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuZn-BTC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CuZn-BTC was prepared in a rapid method at room temperature",
+                "reason": "The catalyst CuZn-BTC is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuZnBTC@SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "SiO2 encapsulated CuZn-BTC was synthesized via a steam-assisted hydrolysis process.",
+                "reason": "The catalyst CuZnBTC@SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuZnO@Si2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CuZnO@SiO2 was prepared via the controlled calcination of above prepared CuZnBTC@SiO2 in air flow.",
+                "reason": "The catalyst CuZnO@SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/ZnO@SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The reduced catalyst was denoted as Cu/ZnO@SiO2.",
+                "reason": "The catalyst Cu/ZnO@SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/ZnO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/ZnO catalyst without SiO2 hollow was prepared via the direct calcination and reduction of CuZn-BTC.",
+                "reason": "The catalyst Cu/ZnO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZnO@SiO2",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for ZnO@SiO2 as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu@SiO2",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for Cu@SiO2 as a catalyst."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The existence of Cu0 in reduced Cu/ZnO@SiO2 was also confirmed via Cu LMM auger spectra.",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "ZnO@SiO2",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for ZnO@SiO2 as a support."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 3,
+            "correct": 6,
+            "incorrect": 0
+        }
+    }
+}

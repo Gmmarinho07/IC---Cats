@@ -1,0 +1,67 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "NiSn@C-MgO",
+                "raw_name": "NiSn@C-MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C-MgO-550",
+                "raw_name": "NiSn@C-MgO-550",
+                "article_identifiers": [
+                    "NiSn@C-MgO"
+                ]
+            },
+            {
+                "catalyst": "NiSn@C-MgO-400",
+                "raw_name": "NiSn@C-MgO-400",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C-MgO-500",
+                "raw_name": "NiSn@C-MgO-500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C-MgO-600",
+                "raw_name": "NiSn@C-MgO-600",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C-MgO-700",
+                "raw_name": "NiSn@C-MgO-700",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn/MgO",
+                "raw_name": "NiSn/MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C",
+                "raw_name": "NiSn@C",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Sn",
+                "raw_name": "Sn",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgO",
+            "raw_name": "MgO",
+            "article_identifiers": []
+        }
+    }
+}

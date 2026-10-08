@@ -1,0 +1,55 @@
+{
+    "paper": "n-Butanol Synthesis from Ethanol on Hydroxiapatite",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "nonstoichiometric hydroxyapatite (Ca10.2(HP04) 2(P04) 6.2(0H)2_z · n H20; O<Z::Ol, n=0~2.5)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Hydroxyapatite catalyzed selective ethanol conversion to n-butanol",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the HAP catalyst showed a maximum n-butanol yield",
+                "reason": "The article explicitly associates HAP with hydroxyapatite."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Hydroxyapatite with Ca/P=l.64 catalyzed selective ethanol conversion",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Hydroxyapatite with Ca/P=l.64 catalyzed selective ethanol conversion",
+                "reason": "The raw name is explicitly supported by the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the HAP catalyst showed a maximum n-butanol yield",
+                "reason": "The article explicitly associates HAP with hydroxyapatite."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 5,
+            "not_supported": 0
+        }
+    }
+}

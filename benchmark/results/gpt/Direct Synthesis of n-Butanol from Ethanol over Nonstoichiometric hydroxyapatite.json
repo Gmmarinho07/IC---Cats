@@ -48,6 +48,11 @@
             },
             {
                 "catalyst": "HAP",
+                "raw_name": "HAP with a Ca/P ratio of 1.64",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP",
                 "raw_name": "HAP with a low Ca/P ratio",
                 "article_identifiers": []
             },

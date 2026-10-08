@@ -1,0 +1,60 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "4%Cu/4%ZrO2/SBA-16",
+                "raw_name": "4%Cu/4%ZrO2/SBA-16",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "4%Ag/4%ZrO2/SBA-16",
+                "raw_name": "4%Ag/4%ZrO2/SBA-16",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "4%Cu/4%ZrO2/dealuminated zeolite Beta",
+                "raw_name": "4%Cu/4%ZrO2/dealuminated zeolite Beta",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "4%Cu/4%ZrO2 supported on aluminum silicate",
+                "raw_name": "aluminum silicate",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/ZrO2/SiO2",
+                "raw_name": "Cu/ZrO2/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/ZrO2/SiO2",
+                "raw_name": "Ag/ZrO2/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/ZrO2/SBA-16",
+                "raw_name": "Ag/ZrO2/SBA-16",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ag",
+                "raw_name": "Ag",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "SBA-16",
+            "raw_name": "SBA-16",
+            "article_identifiers": []
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "paper": "019CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZrO2(M)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "ZrO2(M)",
+                "reason": "The catalyst ZrO2(M) is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZrO2(M + T)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "ZrO2(M + T)",
+                "reason": "The catalyst ZrO2(M + T) is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "SiO2",
+                "reason": "The catalyst SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1Ag/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1Ag/SiO2",
+                "reason": "The catalyst 1Ag/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2ZrO2/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "2ZrO2/SiO2",
+                "reason": "The catalyst 2ZrO2/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "4ZrO2/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "4ZrO2/SiO2",
+                "reason": "The catalyst 4ZrO2/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "8ZrO2/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "8ZrO2/SiO2",
+                "reason": "The catalyst 8ZrO2/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "16ZrO2/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "16ZrO2/SiO2",
+                "reason": "The catalyst 16ZrO2/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "20ZrO2/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "20ZrO2/SiO2",
+                "reason": "The catalyst 20ZrO2/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1Ag/4ZrO2/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1Ag/4ZrO2/SiO2",
+                "reason": "The catalyst 1Ag/4ZrO2/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ag",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Silver catalyzed the initial dehydrogenation of ethanol to acetaldehyde.",
+                "reason": "The metal Ag is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ag",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Silver catalyzed the initial dehydrogenation of ethanol to acetaldehyde.",
+                "reason": "The metal Ag is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "SiO2",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The silica-supported ZrO2 exhibited superior selectivity relative to bulk ZrO2.",
+                "reason": "The support SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "SiO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The silica-supported ZrO2 exhibited superior selectivity relative to bulk ZrO2.",
+                "reason": "The support SiO2 is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 14,
+            "not_supported": 0
+        }
+    }
+}

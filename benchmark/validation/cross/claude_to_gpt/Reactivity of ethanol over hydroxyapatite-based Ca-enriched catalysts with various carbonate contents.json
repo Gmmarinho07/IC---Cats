@@ -1,0 +1,79 @@
+{
+    "paper": "Reactivity of ethanol over hydroxyapatite-based Ca-enriched catalysts with various carbonate contents",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HapD",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The solids are further listed in Table 1 together with their main characteristics.",
+                "reason": "HapD is explicitly identified as a catalyst in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hap",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The solids are further listed in Table 1 together with their main characteristics.",
+                "reason": "Hap is explicitly identified as a catalyst in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hap-CO3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The solids are further listed in Table 1 together with their main characteristics.",
+                "reason": "Hap-CO3 is explicitly identified as a catalyst in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HapNa-CO3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The solids are further listed in Table 1 together with their main characteristics.",
+                "reason": "HapNa-CO3 is explicitly identified as a catalyst in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HapE-CO3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The solids are further listed in Table 1 together with their main characteristics.",
+                "reason": "HapE-CO3 is explicitly identified as a catalyst in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HapE-Na-CO3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The solids are further listed in Table 1 together with their main characteristics.",
+                "reason": "HapE-Na-CO3 is explicitly identified as a catalyst in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not explicitly identify Hydroxyapatite as a support; it only refers to the catalysts as apatite."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "apatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The catalysts are divided into three groups (corresponding to the groups given in Table 2): (i) HapD and Hap represented by circles, (ii) carbonated apatite catalysts, namely Hap-CO3 and HapNa-CO3, represented by squares, and (iii) carbonate-rich apatites, namely HapE-CO3 and HapE-Na-CO3, represented by triangles.",
+                "reason": "Apatite is explicitly mentioned in the context as a type of catalyst."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 1,
+            "correct": 7,
+            "incorrect": 0
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "paper": "029MCN",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "our MgO catalyst was prepared via precipitation of Mg(OH)2 by the addition of a solution of KOH and K2CO3 to Mg(NO3)2. Mg(OH)2 was then thermally treated to yield the used MgO.",
+                "reason": "MgO is explicitly identified as the catalyst used in the experimental work described in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "our MgO catalyst was prepared via precipitation of Mg(OH)2",
+                "reason": "The raw name 'MgO' accurately preserves the original text representation used in the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "our MgO catalyst was prepared via precipitation of Mg(OH)2 by the addition of a solution of KOH and K2CO3 to Mg(NO3)2.",
+                "reason": "The article describes MgO as the catalyst itself, not as a support material. There is no explicit evidence in the provided context that MgO functions as a support for an active metal. The article does not establish MgO in a support role."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "not_supported",
+                "evidence": "our MgO catalyst was prepared via precipitation of Mg(OH)2 by the addition of a solution of KOH and K2CO3 to Mg(NO3)2.",
+                "reason": "While 'MgO' appears verbatim in the article, the article does not identify MgO as a support. It is described as the catalyst itself, so classifying it as a support raw_name is not supported by the context."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 2,
+            "correct": 2,
+            "incorrect": 0
+        }
+    }
+}

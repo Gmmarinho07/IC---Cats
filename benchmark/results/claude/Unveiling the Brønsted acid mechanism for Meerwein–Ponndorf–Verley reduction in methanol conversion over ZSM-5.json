@@ -1,0 +1,29 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Proton-type ZSM-5 zeolites (Si/Al = 11.5)",
+                "raw_name": "Proton-type ZSM-5 zeolites (Si/Al = 11.5, Zeolyst)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "ZSM-5 enriched with Lewis acid sites",
+                "raw_name": "A control ZSM-5 sample enriched with Lewis acid sites",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "H-ZSM-5 zeolites",
+                "raw_name": "H-ZSM-5 zeolites",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "ZSM-5",
+            "raw_name": "ZSM-5",
+            "article_identifiers": []
+        }
+    }
+}

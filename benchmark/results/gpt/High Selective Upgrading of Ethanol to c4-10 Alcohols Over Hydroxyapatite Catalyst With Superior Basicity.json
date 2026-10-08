@@ -27,13 +27,18 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "HAP-3-x",
-                "raw_name": "HAP-3-x",
+                "catalyst": "HAP-3-0.44",
+                "raw_name": "HAP-3-0.44",
                 "article_identifiers": []
             },
             {
-                "catalyst": "HAP-3-0.44",
-                "raw_name": "HAP-3-0.44",
+                "catalyst": "Ca(H2PO4)2",
+                "raw_name": "Ca(H2PO4)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ca(OH)2",
+                "raw_name": "Ca(OH)2",
                 "article_identifiers": []
             }
         ]

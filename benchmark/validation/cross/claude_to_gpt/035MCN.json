@@ -1,0 +1,47 @@
+{
+    "paper": "035MCN",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the adsorption properties of ethanol on diﬀerent MgO/SiO2 surfaces were researched",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the adsorption properties of ethanol on diﬀerent MgO/SiO2 surfaces were researched",
+                "reason": "The catalyst SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the role of SiO2 in increasing the MgO crystal defects in the MgO/SiO2 has been obtained",
+                "reason": "The catalyst composition MgO/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO/SiO2",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "MgO/SiO2 is identified as a catalyst composition, not as a support."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 3,
+            "incorrect": 1
+        }
+    }
+}

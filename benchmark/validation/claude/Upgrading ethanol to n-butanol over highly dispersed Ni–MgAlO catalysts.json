@@ -1,0 +1,111 @@
+{
+    "paper": "Upgrading ethanol to n-butanol over highly dispersed Ni–MgAlO catalysts",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni–MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ni–MgAlO catalysts in a ﬁxed-bed reactor.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni4MgAlO (19.5 wt.% Ni)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Over the best catalyst, Ni4MgAlO (19.5 wt.% Ni), the selectivities for n-butanol and C4–C8 primary alcohols were 55.2 and 85%, respectively.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "5%Ni/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the ethanol conversion over the 5%Ni/Al2O3 catalyst was 25%, with 35% selectivity for n-butanol.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni/MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the mixed oxide catalyst in the absence of Ni, the predominant product was n-butanol.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the selectivities for n-butanol over the NiAlO and Ni3AlO catalysts were inferior to that over Ni4MgAlO.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni3AlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the selectivities for n-butanol over the NiAlO and Ni3AlO catalysts were inferior to that over Ni4MgAlO.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni4MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the Ni–MgO catalysts of Ni4MgO and Ni6MgO.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni6MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the Ni–MgO catalysts of Ni4MgO and Ni6MgO.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the presence of Ni facilitated hydrogen evolution from ethanol via dehydrogenation.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the presence of Ni facilitated hydrogen evolution from ethanol via dehydrogenation.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAlO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the Mg/Al ratio in the Ni/MgAlO catalysts was ﬁrst optimized.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAlO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the Mg/Al ratio in the Ni/MgAlO catalysts was ﬁrst optimized.",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 12,
+            "not_supported": 0
+        }
+    }
+}

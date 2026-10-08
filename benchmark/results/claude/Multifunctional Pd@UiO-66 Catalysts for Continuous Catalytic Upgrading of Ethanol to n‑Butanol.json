@@ -1,0 +1,85 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "M-CeO2/AC (M = Cu, Fe, Co, Ni and Pd)",
+                "raw_name": "M-CeO2/AC (M = Cu, Fe, Co, Ni and Pd)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd-CeO2/AC",
+                "raw_name": "Pd-CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "0.5 wt %Pd@UiO-66",
+                "raw_name": "0.5 and 2 wt %Pd@UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "2 wt %Pd@UiO-66",
+                "raw_name": "2 wt %Pd@UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "3 wt %Pd@UiO-66",
+                "raw_name": "3 wt %Pd@UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "2 wt %Pd/UiO-66",
+                "raw_name": "2 wt %Pd/UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "UiO-66",
+                "raw_name": "UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd/UiO-66",
+                "raw_name": "Pd/UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd@UiO-66",
+                "raw_name": "Pd@UiO-66",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Pd",
+                "raw_name": "Pd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Fe",
+                "raw_name": "Fe",
+                "article_identifiers": []
+            },
+            {
+                "name": "Co",
+                "raw_name": "Co",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "UiO-66",
+            "raw_name": "UiO-66",
+            "article_identifiers": []
+        }
+    }
+}

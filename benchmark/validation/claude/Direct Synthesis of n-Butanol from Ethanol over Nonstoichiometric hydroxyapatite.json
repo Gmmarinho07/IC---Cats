@@ -1,0 +1,159 @@
+{
+    "paper": "Direct Synthesis of n-Butanol from Ethanol over Nonstoichiometric hydroxyapatite",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Nonstoichiometric HAP (Ca/P ratio 1.61)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Nonstoichiometric HAP (Ca/P ratio 1.61) exhibited the highest n-butanol yield at 19.8%",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hydrotalcite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "followed by hydrotalcite at 12.2%",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg(OH)2 (particle size: 0.07 µm)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg(OH)2 (particle size: 0.07 µm) at 9.0%",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CaF2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "and CaF2 at 5.2%",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg3(PO4)2‚8H2O",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "it was not formed on Mg3(PO4)2‚8H2O",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Li3PO4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "it was not formed on Li3PO4",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Talc",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "it was not formed on talc",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Kaolin",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "it was not formed on kaolin",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "AlPO4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "it was not formed on AlPO4",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP catalyst with a Ca/P ratio of 1.52",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP catalyst with a low Ca/P ratio of 1.52 converted ethanol to ethylene with 80% selectivity by dehydration.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "not synthesized on solid acid catalysts such as Al2O3",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Zeolite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "lower capacity to convert ethanol to ethylene or butanol to butene than zeolite",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP with a Ca/P ratio of 1.64",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP with a Ca/P ratio of 1.64 showed both the highest conversion of ethanol (22.7%) and the highest selectivity to n-butanol (62.4%)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP catalyst with Ca2+ ions replaced by strontium",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP catalyst with Ca2+ ions replaced by strontium showed oxidative dehydrogenation of ethane",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP catalyst containing both Ca2+ and Cu2+ ions",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP catalyst containing both Ca2+ and Cu2+ ions in its cation portion.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Metal catalysts supported on HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "focuses on metal catalysts supported on HAP, which show high catalytic activity in the oxidation of alcohols.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "partial",
+                "evidence": "",
+                "reason": "The support is referred to as HAP in the text, but Hydroxyapatite is not explicitly mentioned."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Nonstoichiometric HAP (Ca/P ratio 1.61) exhibited the highest n-butanol yield at 19.8%",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "incorrect": 0,
+            "correct": 17,
+            "not_supported": 0
+        }
+    }
+}

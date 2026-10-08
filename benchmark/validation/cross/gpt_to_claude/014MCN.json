@@ -1,0 +1,127 @@
+{
+    "paper": "014MCN",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO samples were prepared starting from two kinds of precursors, magnesium hydroxide or metallic magnesium.",
+                "reason": "MgO is explicitly identified as a material studied in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "MgO samples were prepared starting from two kinds of precursors, magnesium hydroxide or metallic magnesium.",
+                "reason": "The raw name 'MgO' matches the text exactly as it appears in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-hydration",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "It resulted in samples hereafter referred to as MgO-hydration, MgO-precipitation and MgO-sol-gel, respectively.",
+                "reason": "MgO-hydration is explicitly named as a sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-hydration",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "It resulted in samples hereafter referred to as MgO-hydration, MgO-precipitation and MgO-sol-gel, respectively.",
+                "reason": "The raw name 'MgO-hydration' matches the text exactly as it appears in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-precipitation",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "It resulted in samples hereafter referred to as MgO-hydration, MgO-precipitation and MgO-sol-gel, respectively.",
+                "reason": "MgO-precipitation is explicitly named as a sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-precipitation",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "It resulted in samples hereafter referred to as MgO-hydration, MgO-precipitation and MgO-sol-gel, respectively.",
+                "reason": "The raw name 'MgO-precipitation' matches the text exactly as it appears in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-sol-gel",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "It resulted in samples hereafter referred to as MgO-hydration, MgO-precipitation and MgO-sol-gel, respectively.",
+                "reason": "MgO-sol-gel is explicitly named as a sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-sol-gel",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "It resulted in samples hereafter referred to as MgO-hydration, MgO-precipitation and MgO-sol-gel, respectively.",
+                "reason": "The raw name 'MgO-sol-gel' matches the text exactly as it appears in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-smoke",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO-smoke was prepared by burning Mg ribbons (Aldrich, 98%) in static air above the melting temperature, 923 K, and collecting the resulting oxide on silica plates.",
+                "reason": "MgO-smoke is explicitly named as a sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-smoke",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "MgO-smoke was prepared by burning Mg ribbons (Aldrich, 98%) in static air above the melting temperature, 923 K, and collecting the resulting oxide on silica plates.",
+                "reason": "The raw name 'MgO-smoke' matches the text exactly as it appears in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-CVD",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO-CVD was obtained by chemical vapor deposition as described earlier.",
+                "reason": "MgO-CVD is explicitly named as a sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-CVD",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "MgO-CVD was obtained by chemical vapor deposition as described earlier.",
+                "reason": "The raw name 'MgO-CVD' matches the text exactly as it appears in the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The article discusses MgO as the primary material under study, not as a support for an active metal catalyst. There is no evidence in the provided context that MgO is used as a support in a metal-support catalyst system."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "While 'MgO' appears in the article, it is not identified as a support material in a catalyst system. The article studies MgO itself, not MgO as a support for an active metal."
+            }
+        ],
+        "summary": {
+            "not_supported": 2,
+            "correct": 12,
+            "incorrect": 0,
+            "partial": 0
+        }
+    }
+}

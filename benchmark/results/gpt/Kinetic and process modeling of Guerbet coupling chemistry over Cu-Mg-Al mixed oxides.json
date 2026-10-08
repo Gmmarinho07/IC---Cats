@@ -7,8 +7,13 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "copper catalysts supported on Mg–Al mixed oxides",
-                "raw_name": "copper catalysts supported on Mg–Al mixed oxides",
+                "catalyst": "copper catalysts",
+                "raw_name": "copper catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg–Al mixed oxides",
+                "raw_name": "Mg–Al mixed oxides",
                 "article_identifiers": []
             }
         ]
@@ -16,7 +21,7 @@
     "metal_support": {
         "metal": [
             {
-                "name": "Cu",
+                "name": "copper",
                 "raw_name": "copper",
                 "article_identifiers": []
             }

@@ -1,0 +1,35 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Mg-Al mixed oxide (Mg/Al = 1:1)",
+                "raw_name": "MgAl 1:1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg-Al mixed oxide (Mg/Al = 3:1)",
+                "raw_name": "MgAl 3:1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Magnesium oxide",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Alumina",
+                "raw_name": "Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO + Al2O3 physical mixture",
+                "raw_name": "MgO + Al2O3 physical mixture",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": null
+    }
+}

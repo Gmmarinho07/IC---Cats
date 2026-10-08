@@ -1,0 +1,127 @@
+{
+    "paper": "Continuous liquid-phase valorization of bio-ethanol towards bio-butanol over metal modified alumina",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HTC-500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The model catalyst (HTC-500, 20.7 wt-% Ni/Al2O3, Crossﬁeld) presented before [33]",
+                "reason": "The catalyst HTC-500 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni-19",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the home-made Ni-19 catalyst.",
+                "reason": "The catalyst Ni-19 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Co-16",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "further investigations were carried out over the cobalt (Co-16) catalyst",
+                "reason": "The catalyst Co-16 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-1.8",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the low wt-% Cu-1.8 (Fig. 7) catalyst",
+                "reason": "The catalyst Cu-1.8 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-4.5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the high wt-% Cu-4.5 (Fig. 8) gives rise to relatively sharp CuO-peaks.",
+                "reason": "The catalyst Cu-4.5 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the only one exception being the double peak on the home-made Ni-19 catalyst.",
+                "reason": "The metal Ni is explicitly identified in the context of the Ni-19 catalyst."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Co",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the three metals presented here were found to be the best metals when aiming at producing 1-butanol (Cu, Ni) or ethyl acetate (Co).",
+                "reason": "The metal Co is explicitly identified in the context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the three metals presented here were found to be the best metals when aiming at producing 1-butanol (Cu, Ni) or ethyl acetate (Co).",
+                "reason": "The metal Cu is explicitly identified in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Al2O3",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The support Al2O3 is not explicitly mentioned in the context; it is only referred to as 'alumina'."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "alumina",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the model catalyst (HTC-500, 20.7 wt-% Ni/Al2O3, Crossﬁeld)",
+                "reason": "The support alumina is explicitly identified in the context."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "Ni-19",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the home-made Ni-19 catalyst.",
+                "reason": "The article explicitly associates Ni-19 with the catalyst."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "Co-16",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "further investigations were carried out over the cobalt (Co-16) catalyst",
+                "reason": "The article explicitly associates Co-16 with the catalyst."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "Cu-1.8",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the low wt-% Cu-1.8 (Fig. 7) catalyst",
+                "reason": "The article explicitly associates Cu-1.8 with the catalyst."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "Cu-4.5",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the high wt-% Cu-4.5 (Fig. 8) gives rise to relatively sharp CuO-peaks.",
+                "reason": "The article explicitly associates Cu-4.5 with the catalyst."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 13,
+            "not_supported": 1
+        }
+    }
+}

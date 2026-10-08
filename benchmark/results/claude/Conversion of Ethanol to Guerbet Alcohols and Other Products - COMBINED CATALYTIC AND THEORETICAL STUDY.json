@@ -1,0 +1,50 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu_0.5",
+                "raw_name": "Cu_0.5",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu_5.0",
+                "raw_name": "Cu_5.0",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu_10.0",
+                "raw_name": "Cu_10.0",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/Li-Al mixed metal oxides",
+                "raw_name": "Cu/Li-Al catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/Mg-Al",
+                "raw_name": "Cu/Mg-Al",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg-Al mixed oxide",
+                "raw_name": "Mg-Al mixed oxide",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Copper",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Li-Al mixed metal oxide",
+            "raw_name": "Li-Al mixed metal oxides",
+            "article_identifiers": []
+        }
+    }
+}

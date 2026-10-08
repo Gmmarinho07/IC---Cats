@@ -1,0 +1,60 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "NiSn NPs with carbon shell and TiO2",
+                "raw_name": "NiSn@C/TiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C/TiO2-1",
+                "raw_name": "NiSn@C/TiO2-1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn/TiO2",
+                "raw_name": "NiSn/TiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C",
+                "raw_name": "NiSn@C",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C/TiO2-0.5",
+                "raw_name": "NiSn@C/TiO2-0.5",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C/TiO2-2",
+                "raw_name": "NiSn@C/TiO2-2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C/TiO2-3",
+                "raw_name": "NiSn@C/TiO2-3",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ni",
+                "raw_name": "NiSn",
+                "article_identifiers": []
+            },
+            {
+                "name": "Sn",
+                "raw_name": "NiSn",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "TiO2",
+            "raw_name": "TiO2",
+            "article_identifiers": []
+        }
+    }
+}

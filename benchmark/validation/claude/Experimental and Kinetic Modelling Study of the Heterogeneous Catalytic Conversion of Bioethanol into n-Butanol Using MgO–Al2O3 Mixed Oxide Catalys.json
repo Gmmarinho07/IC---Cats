@@ -1,0 +1,31 @@
+{
+    "paper": "Experimental and Kinetic Modelling Study of the Heterogeneous Catalytic Conversion of Bioethanol into n-Butanol Using MgO–Al2O3 Mixed Oxide Catalys",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO–Al2O3 mixed oxide",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalyst was a MgO–Al2O3 mixed oxide (Mg/Al = 2:1), derived from a hydrotalcite precursor.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "MgO-Al2O3",
+                "field": "support",
+                "decision": "correct",
+                "evidence": "The hydrotalcite precursor for the mixed oxide catalyst, with a Mg to Al molar ratio of 2:1, was synthesized using a controlled co-precipitation method.",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 2,
+            "not_supported": 0
+        }
+    }
+}

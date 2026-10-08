@@ -1,0 +1,30 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "cHT1",
+                "raw_name": "cHT1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "cHT1US",
+                "raw_name": "cHT1US",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "cHT2",
+                "raw_name": "cHT2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "cHT2US",
+                "raw_name": "cHT2US",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": null
+    }
+}

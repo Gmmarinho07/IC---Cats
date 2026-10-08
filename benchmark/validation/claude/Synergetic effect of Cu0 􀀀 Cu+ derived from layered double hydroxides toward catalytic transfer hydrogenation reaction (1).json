@@ -1,0 +1,103 @@
+{
+    "paper": "Synergetic effect of Cu0 􀀀 Cu+ derived from layered double hydroxides toward catalytic transfer hydrogenation reaction (1)",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CuAl-MMO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/CuAl-MMO catalysts with tunable dual active sites",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu2Al-LDHs",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu2Al-LDHs at different reduction temperatures",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CuAl-MMO-400",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/CuAl-MMO-400 sample gives an extremely high reaction rate",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CuAl-MMO-300",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/CuAl-MMO-300",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CuAl-MMO-500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/CuAl-MMO-500",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CuAl-MMO-600",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/CuAl-MMO-600",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuAl-MMO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CuAl-MMO and four Cu/CuAl-MMO samples",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the catalytic performance of Al2O3 support",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuAl-MMO-400",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CuAl-MMO-400 catalyst shows the highest FAL conversion",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu0 and Cu+ were prepared",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "CuAl-MMO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu/CuAl-MMO catalysts",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 11,
+            "not_supported": 0
+        }
+    }
+}

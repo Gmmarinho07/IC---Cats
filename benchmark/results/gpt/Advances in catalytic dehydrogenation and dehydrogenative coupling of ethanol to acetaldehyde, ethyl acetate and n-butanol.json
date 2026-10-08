@@ -2,63 +2,68 @@
     "catalyst": {
         "catalysts": [
             {
-                "catalyst": "Cu/MC",
-                "raw_name": "Cu catalyst supported on mesoporous carbon (Cu/MC)",
+                "catalyst": "Cu catalyst supported on mesoporous carbon",
+                "raw_name": "Cu/MC",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Cu/SBA-15",
-                "raw_name": "silica-based counterpart (Cu/SBA-15)",
+                "catalyst": "silica-based counterpart",
+                "raw_name": "Cu/SBA-15",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Ni–Cu",
+                "catalyst": "copper bimetallic systems",
                 "raw_name": "Ni–Cu",
                 "article_identifiers": []
             },
             {
                 "catalyst": "Pd–CeO2/AC",
-                "raw_name": "Pd–CeO2/AC catalyst",
+                "raw_name": "Pd–CeO2/AC",
                 "article_identifiers": []
             },
             {
                 "catalyst": "Cu–CeO2/AC",
-                "raw_name": "Cu–CeO2/AC catalyst",
+                "raw_name": "Cu–CeO2/AC",
                 "article_identifiers": []
             },
             {
                 "catalyst": "Pd@UiO-66",
-                "raw_name": "Pd@UiO-66 catalyst",
+                "raw_name": "Pd@UiO-66",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Ag/MgAl-LDO",
-                "raw_name": "Ag particles supported on MgAl-layered double oxides (Ag/MgAl-LDO)",
+                "catalyst": "Ag particles supported on MgAl-layered double oxides",
+                "raw_name": "Ag/MgAl-LDO",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Pt-Y/Beta",
-                "raw_name": "Pt-Y/Beta catalyst",
+                "catalyst": "bifunctional Pt-Y/Beta catalyst",
+                "raw_name": "Pt-Y/Beta",
                 "article_identifiers": []
             },
             {
                 "catalyst": "Cu@UiO-66",
-                "raw_name": "Cu@UiO-66 catalysts",
+                "raw_name": "Cu@UiO-66",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Cu-Cr",
-                "raw_name": "Cu-Cr catalyst",
+                "catalyst": "reduced Cu–Cr catalyst",
+                "raw_name": "Cu–Cr",
                 "article_identifiers": []
             },
             {
                 "catalyst": "CuCeZr",
-                "raw_name": "CuCeZr catalyst",
+                "raw_name": "CuCeZr",
                 "article_identifiers": []
             },
             {
-                "catalyst": "Ni0.1Zn0.7Al0.3InOx",
-                "raw_name": "Ni0.1Zn0.7Al0.3InOx catalyst",
+                "catalyst": "Ni0.1Zn0.7Al0.3InOx catalyst",
+                "raw_name": "Ni0.1Zn0.7Al0.3InOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg-Fe mixed oxide catalysts",
+                "raw_name": "Mg-Fe",
                 "article_identifiers": []
             },
             {

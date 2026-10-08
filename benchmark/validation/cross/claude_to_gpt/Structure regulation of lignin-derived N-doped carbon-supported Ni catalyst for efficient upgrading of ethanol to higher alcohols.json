@@ -1,0 +1,39 @@
+{
+    "paper": "Structure regulation of lignin-derived N-doped carbon-supported Ni catalyst for efficient upgrading of ethanol to higher alcohols",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni-N-C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "forms a Ni-N-C structure",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the metal active component, forms a Ni-N-C structure",
+                "reason": "The metal is explicitly identified in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "nitrogen-doped lignin",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "nitrogen-doped lignin, in appropriate quantities",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 3,
+            "incorrect": 0
+        }
+    }
+}

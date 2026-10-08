@@ -1,0 +1,79 @@
+{
+    "paper": "Unveiling the Brønsted acid mechanism for Meerwein–Ponndorf–Verley reduction in methanol conversion over ZSM-5",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Proton-type ZSM-5 zeolites (Si/Al = 11.5)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Proton-type ZSM-5 zeolites (Si/Al = 11.5) were utilized as catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Proton-type ZSM-5 zeolites (Si/Al = 11.5)",
+                "field": "raw_name",
+                "decision": "partial",
+                "evidence": "Proton-type ZSM-5 zeolites (Si/Al = 11.5) were utilized as catalysts",
+                "reason": "The raw_name includes additional information (Zeolyst) that is not present in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZSM-5 enriched with Lewis acid sites",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "A control ZSM-5 sample enriched with Lewis acid sites was prepared",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ZSM-5 enriched with Lewis acid sites",
+                "field": "raw_name",
+                "decision": "partial",
+                "evidence": "A control ZSM-5 sample enriched with Lewis acid sites was prepared",
+                "reason": "The raw_name is a more detailed description than what is explicitly stated in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-ZSM-5 zeolites",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "H-ZSM-5 zeolites at 523 K for 8 s",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H-ZSM-5 zeolites",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "H-ZSM-5 zeolites at 523 K for 8 s",
+                "reason": "The raw_name accurately reflects the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "ZSM-5",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Proton-type ZSM-5 zeolites (Si/Al = 11.5) were utilized as catalysts",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "ZSM-5",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Proton-type ZSM-5 zeolites (Si/Al = 11.5) were utilized as catalysts",
+                "reason": "The raw_name accurately reflects the context."
+            }
+        ],
+        "summary": {
+            "partial": 2,
+            "not_supported": 0,
+            "correct": 6,
+            "incorrect": 0
+        }
+    }
+}

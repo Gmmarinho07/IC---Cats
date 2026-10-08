@@ -19,14 +19,12 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "Synthetic silica",
+                "catalyst": "SiO2",
                 "raw_name": "Syn-SiO2",
-                "article_identifiers": [
-                    "Syn-SiO2"
-                ]
+                "article_identifiers": []
             },
             {
-                "catalyst": "Zirconia",
+                "catalyst": "ZrO2",
                 "raw_name": "ZrO2",
                 "article_identifiers": []
             },
@@ -91,7 +89,7 @@
     "metal_support": {
         "metal": [],
         "support": {
-            "name": "Zirconia",
+            "name": "ZrO2",
             "raw_name": "ZrO2",
             "article_identifiers": []
         }

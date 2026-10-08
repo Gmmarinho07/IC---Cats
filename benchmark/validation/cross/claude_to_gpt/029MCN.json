@@ -1,0 +1,55 @@
+{
+    "paper": "029MCN",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO catalyst was prepared via precipitation of Mg(OH)2",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/CeO2",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the catalyst Ru/CeO2."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/CeO2-ZrO2",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the catalyst Ru/CeO2-ZrO2."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Rh(111)",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the catalyst Rh(111)."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the so-called β-route, which goes through scission of a Cβ−H bond and formation of an oxametallacycle-like intermediate, would dominate the coupling, whereas at higher temperatures, up to 673 K, a more usual Guerbet mechanism, via an aldol coupling step and then consecutive hydrogenations, would be expected.",
+                "reason": "The support MgO is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 3,
+            "correct": 2,
+            "incorrect": 0
+        }
+    }
+}

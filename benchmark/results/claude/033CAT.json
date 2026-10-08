@@ -12,6 +12,11 @@
                 "article_identifiers": []
             },
             {
+                "catalyst": "Cu/ZnO",
+                "raw_name": "Cu/ZnO",
+                "article_identifiers": []
+            },
+            {
                 "catalyst": "0.8 wt% K–Mg5CeOx",
                 "raw_name": "0.8 wt% K–Mg5CeOx",
                 "article_identifiers": []
@@ -24,11 +29,6 @@
             {
                 "catalyst": "1.2 wt% K–Cu7.5Mg5CeOx",
                 "raw_name": "1.2 wt% K–Cu7.5Mg5CeOx",
-                "article_identifiers": []
-            },
-            {
-                "catalyst": "Cu/ZnO",
-                "raw_name": "Cu/ZnO",
                 "article_identifiers": []
             }
         ]

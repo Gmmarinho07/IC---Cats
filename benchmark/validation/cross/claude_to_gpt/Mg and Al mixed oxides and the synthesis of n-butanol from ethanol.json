@@ -1,0 +1,55 @@
+{
+    "paper": "Mg and Al mixed oxides and the synthesis of n-butanol from ethanol",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al mixed oxide (Mg/Al = 1:1)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the case of the MgAl 1:1 catalyst, is lower than the one from chemical analysis.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al mixed oxide (Mg/Al = 3:1)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In the case of the MgAl 3:1 sample, the Mg/Al ratio inferred by XRD is much higher than the one obtained by the chemical analyses.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Magnesium oxide",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "90.6% of the MgO inferred by XRD, in the case of MgAl 3:1 sample, refers to the MgO structure containing Al.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "70% of -Al2O3 observed in the case of the MgAl 1:1 sample, is associated with the presence of Mg in this structure.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO + Al2O3 physical mixture",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Fig. 4 shows the catalytic test behavior of the mixed oxides as well as MgO + Al2O3 physical mixture.",
+                "reason": "The catalyst is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 5,
+            "incorrect": 0
+        }
+    }
+}

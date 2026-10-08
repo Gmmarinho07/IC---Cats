@@ -1,0 +1,95 @@
+{
+    "paper": "Conversion of Ethanol to Guerbet Alcohols and Other Products - COMBINED CATALYTIC AND THEORETICAL STUDY",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu_0.5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu_0.5",
+                "reason": "The catalyst Cu_0.5 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu_5.0",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu_5.0",
+                "reason": "The catalyst Cu_5.0 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu_10.0",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu_10.0",
+                "reason": "The catalyst Cu_10.0 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/Li-Al mixed metal oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/Li-Al catalysts",
+                "reason": "The catalyst Cu/Li-Al mixed metal oxides is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/Mg-Al",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu/Mg-Al",
+                "reason": "The catalyst Cu/Mg-Al is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al mixed oxide",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg-Al mixed oxide",
+                "reason": "The catalyst Mg-Al mixed oxide is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Copper-impregnated Li-Al mixed metal oxides",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Copper",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Copper-impregnated Li-Al mixed metal oxides",
+                "reason": "The metal Copper is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Li-Al mixed metal oxide",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Li-Al mixed metal oxides",
+                "reason": "The support Li-Al mixed metal oxide is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Li-Al mixed metal oxides",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Li-Al mixed metal oxides",
+                "reason": "The support Li-Al mixed metal oxides is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 10,
+            "incorrect": 0
+        }
+    }
+}

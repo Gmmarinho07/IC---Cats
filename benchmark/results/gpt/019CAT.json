@@ -2,7 +2,7 @@
     "catalyst": {
         "catalysts": [
             {
-                "catalyst": "Silica-supported Ag",
+                "catalyst": "Ag",
                 "raw_name": "silica-supported Ag",
                 "article_identifiers": []
             },
@@ -54,6 +54,11 @@
             {
                 "catalyst": "1Ag/4ZrO2/SiO2",
                 "raw_name": "1Ag/4ZrO2/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "1Ag/SiO2 and 4ZrO2/SiO2",
+                "raw_name": "1Ag/SiO2 and 4ZrO2/SiO2",
                 "article_identifiers": []
             }
         ]

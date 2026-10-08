@@ -1,0 +1,124 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "phosphoric acid catalyst",
+                "raw_name": "phosphoric acid catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "clay",
+                "raw_name": "clay",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "alumina",
+                "raw_name": "alumina",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "γ-Al2O3",
+                "raw_name": "γ-Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Si−Al catalyst",
+                "raw_name": "Si−Al catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "A12O3−MgO/SiO2",
+                "raw_name": "A12O3−MgO/SiO2",
+                "article_identifiers": [
+                    "Syndol catalyst"
+                ]
+            },
+            {
+                "catalyst": "Al2O3−Cr2O3 catalyst",
+                "raw_name": "Al2O3−Cr2O3 catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HZSM-5 zeolite modified to NKC-03A",
+                "raw_name": "NKC-03A catalyst",
+                "article_identifiers": [
+                    "NKC-03A"
+                ]
+            },
+            {
+                "catalyst": "ZSM-5 zeolite modified with zinc and manganese",
+                "raw_name": "ZSM-5 zeolite modiﬁed with zinc and manganese",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "H-ZSM-5",
+                "raw_name": "H-ZSM-5",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-ZSM-5",
+                "raw_name": "Cu-ZSM-5",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "H-NaZSM-5",
+                "raw_name": "H-NaZSM-5",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-NaZSM-5",
+                "raw_name": "Cu-NaZSM-5",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "mordenite",
+                "raw_name": "mordenite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "ZSM-5 zeolite",
+                "raw_name": "ZSM-5 zoelite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Hβ hydrogen type zeolite",
+                "raw_name": "Hβ hydrogen type zoelite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Si−Al compounds",
+                "raw_name": "Si−Al compounds",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "ZSM-5 zeolite catalyst modified with La",
+                "raw_name": "ZSM-5 zeolite catalyst modiﬁed with La",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "SAPO-34",
+                "raw_name": "SAPO-34",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HZSM-5 (Si/Al = 25)",
+                "raw_name": "HZSM-5 (Si/Al = 25)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiAPSO-34",
+                "raw_name": "NiAPSO-34",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "SAPO-11/HZSM-5",
+                "raw_name": "SAPO-11/HZSM-5",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": null
+    }
+}

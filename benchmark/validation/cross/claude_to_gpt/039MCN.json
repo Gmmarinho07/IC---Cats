@@ -1,0 +1,87 @@
+{
+    "paper": "039MCN",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Butanol formation shows an offset above a certain W/F are worth noting. A possible explanation of these observations is that... acetaldehyde production tends to level off over our HAP (Fig. 2)",
+                "reason": "The catalyst hydroxyapatite is explicitly identified in the text as HAP."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "acetaldehyde production tends to level off over our HAP (Fig. 2)",
+                "reason": "The article explicitly associates HAP with hydroxyapatite."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAAl mixed oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Similar butanol concentration versus contact time curves had been observed by Iglesia and co-workers in the case of ethanol conversion over MgAAl mixed oxides [14]",
+                "reason": "The catalyst MgAAl mixed oxides is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAAlAO catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a similar acetaldehyde leveling off can be noted in the case of the data reported by Di Cosimo et al. [14] over a MgAAlAO catalyst.",
+                "reason": "The catalyst MgAAlAO catalyst is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-based catalysts",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "This approach has proved successful in unraveling the mechanism of methanol formation over Cu-based catalysts [16]",
+                "reason": "The catalyst Cu-based catalysts is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "alumina-based catalysts",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "NO oxidation to NO2 over alumina-based catalysts [17]",
+                "reason": "The catalyst alumina-based catalysts is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "acetaldehyde production tends to level off over our HAP (Fig. 2)",
+                "reason": "The support hydroxyapatite is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "acetaldehyde production tends to level off over our HAP (Fig. 2)",
+                "reason": "The support hydroxyapatite is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "acetaldehyde production tends to level off over our HAP (Fig. 2)",
+                "reason": "The article explicitly associates HAP with hydroxyapatite."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 9,
+            "incorrect": 0
+        }
+    }
+}

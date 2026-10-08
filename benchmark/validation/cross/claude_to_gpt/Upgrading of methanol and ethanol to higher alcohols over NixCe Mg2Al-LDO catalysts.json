@@ -1,0 +1,111 @@
+{
+    "paper": "Upgrading of methanol and ethanol to higher alcohols over NixCe Mg2Al-LDO catalysts",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni30Ce/Mg2Al-LDO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a series of NixCe/Mg2Al-LDO catalysts were synthesized",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg2Al-LDO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg2Al-LDO provided a high surface area for metal dispersion",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NixCe/Mg2Al-LDO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a series of NixCe/Mg2Al-LDO catalysts were synthesized",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni/Mg2Al-LDO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ni/Mg2Al-LDO catalysts are shown in Fig. 4",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "M-CeO2/AC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "M-CeO2/AC(M=Cu, Fe, Co, Ni, Pd)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiCeO2@C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "NiCeO2@C catalysts which achieved a 89.7 % selectivity",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the metal Ni promotes ethanol dehydrogenation",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the metal Ni promotes ethanol dehydrogenation",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ce",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "CeO2 with abundant basic sites has been used as an active catalyst",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ce",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "CeO2 with abundant basic sites has been used as an active catalyst",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg2Al-LDO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Mg2Al-LDO provided a high surface area for metal dispersion",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg2Al-LDO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Mg2Al-LDO provided a high surface area for metal dispersion",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 12,
+            "incorrect": 0
+        }
+    }
+}

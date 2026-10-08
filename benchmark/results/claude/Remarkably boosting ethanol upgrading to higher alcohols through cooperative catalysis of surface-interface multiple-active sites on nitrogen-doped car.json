@@ -1,0 +1,190 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "CuLax/γ-Al2O3",
+                "raw_name": "CuLax/γ-Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-MFI",
+                "raw_name": "Cu-MFI",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd/HBeta",
+                "raw_name": "Pd/HBeta",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-SiO2",
+                "raw_name": "Cu-SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/SiO2",
+                "raw_name": "Cu/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-NC-0-550",
+                "raw_name": "Cu-NC-0–550",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-NC-1-550",
+                "raw_name": "Cu-NC-1–550",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-NC-2-550",
+                "raw_name": "Cu-NC-2–550",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-NC-3-550",
+                "raw_name": "Cu-NC-3–550",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-NC-2-550(A)",
+                "raw_name": "Cu-NC-2–550(A)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-NC-2-450",
+                "raw_name": "Cu-NC-2–450",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-NC-2-650",
+                "raw_name": "Cu-NC-2–650",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-NC-2-750",
+                "raw_name": "Cu-NC-2–750",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg3AlOx",
+                "raw_name": "Mg3AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Sr-HAP",
+                "raw_name": "Sr-HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/AlMgO-P",
+                "raw_name": "Cu/AlMgO-P",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/HSACeO2",
+                "raw_name": "Cu/HSACeO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-CeO2/AC",
+                "raw_name": "Cu-CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Co-MgAlOx",
+                "raw_name": "Co-MgAlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni-MgAlOx",
+                "raw_name": "Ni-MgAlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuLaAlOx",
+                "raw_name": "CuLaAlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiO-Cu-LaAlOx",
+                "raw_name": "NiO-Cu-LaAlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/Mg2AlOx",
+                "raw_name": "Ag/Mg2AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd@UiO-66",
+                "raw_name": "Pd@UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ru/Mg3AlOx",
+                "raw_name": "Ru/Mg3AlOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-NiMgAl",
+                "raw_name": "Cu-NiMgAl",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Co",
+                "raw_name": "Co",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cu",
+                "raw_name": "CuLa",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ni",
+                "raw_name": "NiO",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ag",
+                "raw_name": "Ag",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pd",
+                "raw_name": "Pd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ru",
+                "raw_name": "Ru",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgAl-LDO",
+            "raw_name": "CuMgAl-LDH",
+            "article_identifiers": []
+        }
+    }
+}

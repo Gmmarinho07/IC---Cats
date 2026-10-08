@@ -1,0 +1,65 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu/CuAl-MMO",
+                "raw_name": "Cu/CuAl-MMO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu2Al-LDHs",
+                "raw_name": "Cu2Al-LDHs",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/CuAl-MMO-400",
+                "raw_name": "Cu/CuAl-MMO-400",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/CuAl-MMO-300",
+                "raw_name": "Cu/CuAl-MMO-300",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/CuAl-MMO-500",
+                "raw_name": "Cu/CuAl-MMO-500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/CuAl-MMO-600",
+                "raw_name": "Cu/CuAl-MMO-600",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuAl-MMO",
+                "raw_name": "CuAl-MMO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Al2O3",
+                "raw_name": "Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuAl-MMO-400",
+                "raw_name": "CuAl-MMO-400",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "CuAl-MMO",
+            "raw_name": "CuAl-MMO",
+            "article_identifiers": []
+        }
+    }
+}

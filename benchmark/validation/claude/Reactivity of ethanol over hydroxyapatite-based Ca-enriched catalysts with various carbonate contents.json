@@ -1,0 +1,79 @@
+{
+    "paper": "Reactivity of ethanol over hydroxyapatite-based Ca-enriched catalysts with various carbonate contents",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HapD",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HapD",
+                "reason": "The catalyst HapD is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hap",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Hap",
+                "reason": "The catalyst Hap is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hap-CO3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Hap-CO3",
+                "reason": "The catalyst Hap-CO3 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HapNa-CO3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HapNa-CO3",
+                "reason": "The catalyst HapNa-CO3 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HapE-CO3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HapE-CO3",
+                "reason": "The catalyst HapE-CO3 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HapE-Na-CO3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HapE-Na-CO3",
+                "reason": "The catalyst HapE-Na-CO3 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not explicitly identify Hydroxyapatite as a support; it only refers to the solids as apatite."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "apatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "apatite",
+                "reason": "The term apatite is explicitly used in the context to describe the type of solids."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 7,
+            "not_supported": 1
+        }
+    }
+}

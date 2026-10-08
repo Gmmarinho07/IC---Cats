@@ -1,0 +1,127 @@
+{
+    "paper": "024CAT",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "four different supported Cu catalysts, i.e., Cu/Al2O3, Cu/NiO, Cu/Ni3AlOx, and Cu/Ni1AlOx",
+                "reason": "Cu/Al2O3 is explicitly listed as one of the four supported Cu catalysts in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/Al2O3",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu/Al2O3, Cu/NiO, Cu/Ni3AlOx, and Cu/Ni1AlOx",
+                "reason": "The raw name Cu/Al2O3 matches the text exactly as written in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/NiO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "four different supported Cu catalysts, i.e., Cu/Al2O3, Cu/NiO, Cu/Ni3AlOx, and Cu/Ni1AlOx",
+                "reason": "Cu/NiO is explicitly listed as one of the four supported Cu catalysts in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/NiO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu/Al2O3, Cu/NiO, Cu/Ni3AlOx, and Cu/Ni1AlOx",
+                "reason": "The raw name Cu/NiO matches the text exactly as written in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/Ni3AlOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "four different supported Cu catalysts, i.e., Cu/Al2O3, Cu/NiO, Cu/Ni3AlOx, and Cu/Ni1AlOx",
+                "reason": "Cu/Ni3AlOx is explicitly listed as one of the four supported Cu catalysts in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/Ni3AlOx",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu/Al2O3, Cu/NiO, Cu/Ni3AlOx, and Cu/Ni1AlOx",
+                "reason": "The raw name Cu/Ni3AlOx matches the text exactly as written in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/Ni1AlOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "four different supported Cu catalysts, i.e., Cu/Al2O3, Cu/NiO, Cu/Ni3AlOx, and Cu/Ni1AlOx",
+                "reason": "Cu/Ni1AlOx is explicitly listed as one of the four supported Cu catalysts in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/Ni1AlOx",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu/Al2O3, Cu/NiO, Cu/Ni3AlOx, and Cu/Ni1AlOx",
+                "reason": "The raw name Cu/Ni1AlOx matches the text exactly as written in the article."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu species provide the active sites for ethanol dehydrogenation/hydrogenation",
+                "reason": "Cu is explicitly identified as an active metal in the catalysts throughout the article."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "four different supported Cu catalysts, i.e., Cu/Al2O3, Cu/NiO, Cu/Ni3AlOx, and Cu/Ni1AlOx",
+                "reason": "Cu appears as written in the article context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Ni-containing catalysts exhibit better reactivity",
+                "reason": "Ni is explicitly referenced as a component in the catalysts and discussed in the context of catalytic performance."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Ni-containing catalysts exhibit better reactivity",
+                "reason": "Ni appears as written in the article context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Al2O3",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu/Al2O3, Cu/NiO, Cu/Ni3AlOx, and Cu/Ni1AlOx",
+                "reason": "Al2O3 is explicitly identified as a support in the catalyst Cu/Al2O3 in the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Al2O3",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu/Al2O3",
+                "reason": "The raw name Al2O3 matches the text as written in the article for the support of Cu/Al2O3."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 14,
+            "incorrect": 0
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "paper": "Efficient catalytic conversion of ethanol to 1-butanol via the Guerbet reaction over copper- and nickel- dooped porous metal oxides",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "porous metal oxides (PMO)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The novel PMO catalysts that do not contain any noble metals are obtained by calcination of a series of hydrotalcite precursors.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "PMO",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The novel PMO catalysts that do not contain any noble metals are obtained by calcination of a series of hydrotalcite precursors.",
+                "reason": "The article explicitly associates PMO with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-Ni PMOs",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The best catalytic performance was achieved with catalysts containing both copper and nickel.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HTC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The HTC alone was also active, but the yield of 1-butanol was much lower.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The best catalytic performance was achieved with catalysts containing both copper and nickel.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The best catalytic performance was achieved with catalysts containing both copper and nickel.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The best catalytic performance was achieved with catalysts containing both copper and nickel.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The best catalytic performance was achieved with catalysts containing both copper and nickel.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "PMO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The novel PMO catalysts that do not contain any noble metals are obtained by calcination of a series of hydrotalcite precursors.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "porous metal oxides",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The novel PMO catalysts that do not contain any noble metals are obtained by calcination of a series of hydrotalcite precursors.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "PMO",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The novel PMO catalysts that do not contain any noble metals are obtained by calcination of a series of hydrotalcite precursors.",
+                "reason": "The article explicitly associates PMO with the support."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 11,
+            "incorrect": 0
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "paper": "023CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Amberlyst™70",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Amberlyst™70 was crushed and sieved to <177 µm and dried at 110 °C prior to reaction.",
+                "reason": "The catalyst Amberlyst™70 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP have shown ethanol condensation to be nearly zero order.",
+                "reason": "The catalyst HAP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "HAP have shown ethanol condensation to be nearly zero order.",
+                "reason": "HAP is explicitly identified as a support in the context."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 3,
+            "incorrect": 0
+        }
+    }
+}

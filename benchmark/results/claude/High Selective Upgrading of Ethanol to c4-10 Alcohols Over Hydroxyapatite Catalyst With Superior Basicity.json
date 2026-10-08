@@ -1,0 +1,64 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "hydroxyapatite (HAP-1)",
+                "raw_name": "HAP-1",
+                "article_identifiers": [
+                    "HAP-1"
+                ]
+            },
+            {
+                "catalyst": "hydroxyapatite (HAP-2)",
+                "raw_name": "HAP-2",
+                "article_identifiers": [
+                    "HAP-2"
+                ]
+            },
+            {
+                "catalyst": "hydroxyapatite (HAP-3)",
+                "raw_name": "HAP-3",
+                "article_identifiers": [
+                    "HAP-3"
+                ]
+            },
+            {
+                "catalyst": "hydroxyapatite (HAP-4)",
+                "raw_name": "HAP-4",
+                "article_identifiers": [
+                    "HAP-4"
+                ]
+            },
+            {
+                "catalyst": "hydroxyapatite (HAP-3-x)",
+                "raw_name": "HAP-3-x",
+                "article_identifiers": [
+                    "HAP-3-x"
+                ]
+            },
+            {
+                "catalyst": "hydroxyapatite (HAP-3-0.44)",
+                "raw_name": "HAP-3-0.44",
+                "article_identifiers": [
+                    "HAP-3-0.44",
+                    "HAP-3−0.44"
+                ]
+            },
+            {
+                "catalyst": "Commercial Ca3(PO4)2 calcined at 400 °C",
+                "raw_name": "Commercial Ca3(PO4)2 calcined at 400 °C",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "hydroxyapatite (HAP)",
+            "article_identifiers": [
+                "HAP"
+            ]
+        }
+    }
+}

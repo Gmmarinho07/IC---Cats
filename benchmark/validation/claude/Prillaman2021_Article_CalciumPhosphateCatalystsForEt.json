@@ -1,0 +1,135 @@
+{
+    "paper": "Prillaman2021_Article_CalciumPhosphateCatalystsForEt",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Catalyst Compositiona Support Thermal treatmentb (K) Surface area (m2 g−1) Reference materials MgO/SiO2 c 1:1 Mg/Si Syn-SiO2 d 1073 17",
+                "reason": "The catalyst MgO/SiO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium hydroxyapatite (CaHAP) is well-recognized as an excellent catalyst for Guerbet coupling of ethanol to produce butanol and other C4 oxygenates.",
+                "reason": "The catalyst Calcium hydroxyapatite is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Catalyst Compositiona Support Thermal treatmentb (K) Surface area (m2 g−1) Reference materials MgO MgO – 973 100",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Silica",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Catalyst Compositiona Support Thermal treatmentb (K) Surface area (m2 g−1) Reference materials Syn-SiO2 d SiO2 – 973 6",
+                "reason": "The catalyst Silica is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Zirconia",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Catalyst Compositiona Support Thermal treatmentb (K) Surface area (m2 g−1) Reference materials ZrO2 e ZrO2 – 973 13",
+                "reason": "The catalyst Zirconia is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate untreated",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments CaP untreated Ca9(HPO4)(PO4)5(OH) – none 71",
+                "reason": "The catalyst Calcium phosphate untreated is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate treated at 873 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments CaP 873 K Ca9(HPO4)(PO4)5(OH) – 873 54",
+                "reason": "The catalyst Calcium phosphate treated at 873 K is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate treated at 923 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments CaP 923 K Ca9(HPO4)(PO4)5(OH) – 923 43",
+                "reason": "The catalyst Calcium phosphate treated at 923 K is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate treated at 973 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments CaP 973 K Ca3(PO4)2 – 973 20",
+                "reason": "The catalyst Calcium phosphate treated at 973 K is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate treated at 1073 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments CaP 1073 K Ca3(PO4)2 – 1073 8.7",
+                "reason": "The catalyst Calcium phosphate treated at 1073 K is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate treated at 1173 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium phosphate thermal treatments CaP 1173 K Ca3(PO4)2 – 1173 5.4",
+                "reason": "The catalyst Calcium phosphate treated at 1173 K is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate on silica",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Supported materials CaP/SiO2 Ca3(PO4)2, 1:1 Ca/Si Syn-SiO2 d 973 12",
+                "reason": "The catalyst Calcium phosphate on silica is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate on zirconia",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Supported materials CaP/ZrO2 Ca3(PO4)2, 1:1 Ca/Zr ZrO2 e 973 17",
+                "reason": "The catalyst Calcium phosphate on zirconia is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "ZrO2",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Catalyst Compositiona Support Thermal treatmentb (K) Surface area (m2 g−1) Reference materials ZrO2 e ZrO2 – 973 13",
+                "reason": "The support ZrO2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "ZrO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Catalyst Compositiona Support Thermal treatmentb (K) Surface area (m2 g−1) Reference materials ZrO2 e ZrO2 – 973 13",
+                "reason": "The support ZrO2 is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 15,
+            "not_supported": 0
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "paper": "Insights on Guerbet Reaction - Production of Biobutanol From Bioethanol Over a Mg–Al Spinel Catalyst",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg–Al spinel catalyst",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the aim of this work is to study the effect of operating conditions in the performance of a Mg–Al spinel catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAl2O4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the calcined MgAl2O4 mixed oxide catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cimino et al. (2018) tested a Ru/MgO catalyst for only 6 h.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAl2O4",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the calcined MgAl2O4 mixed oxide catalyst",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAl2O4",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the calcined MgAl2O4 mixed oxide catalyst",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 5,
+            "incorrect": 0
+        }
+    }
+}

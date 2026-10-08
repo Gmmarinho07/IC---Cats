@@ -44,8 +44,8 @@ OUTPUT_FOLDER = "benchmark/results"
 CONTEXT_FOLDER = "benchmark/contexts"
 
 MODELS = [
-    "gpt"
-    #"claude"
+    "gpt",
+    "claude"
 ]
 
 SELECTION_POLICY = {

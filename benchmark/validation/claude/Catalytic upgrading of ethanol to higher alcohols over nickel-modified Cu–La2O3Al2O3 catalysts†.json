@@ -1,0 +1,143 @@
+{
+    "paper": "Catalytic upgrading of ethanol to higher alcohols over nickel-modified Cu–La2O3Al2O3 catalysts†",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiO–Cu–La2O3/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the NiO–Cu–La2O3/Al2O3 catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.65%NiO–Cu–La2O3/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the 0.65%NiO–Cu–La2O3/Al2O3 catalyst exhibited excellent catalytic activity",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "xNiO–Cu–La2O3/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The xNiO–Cu–La2O3/Al2O3 catalysts, where x (0.32–2.55%) represented the mass fraction of NiO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu–La2O3/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu–La2O3/Al2O3 catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiO/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "NiO/Al2O3 catalysts were prepared",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiO–La2O3/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "NiO–La2O3/Al2O3 catalysts were prepared",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.32%NiO–Cu–La2O3/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "0.32%NiO–Cu–La2O3/Al2O3",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1.27%NiO–Cu–La2O3/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1.27%NiO–Cu–La2O3/Al2O3",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2.55%NiO–Cu–La2O3/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "2.55%NiO–Cu–La2O3/Al2O3",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuO/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CuO/Al2O3 catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuO–NiO/Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CuO–NiO/Al2O3 catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the intensity of metal Cu diffraction peaks",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the nickel-modified Cu–La2O3/Al2O3 catalysts",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "NiO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the nickel species on the surface of the catalyst mainly existed in the form of NiO",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Al2O3",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "a commercial alumina support was purchased",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Al2O3",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the γ-alumina support",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 16,
+            "not_supported": 0
+        }
+    }
+}

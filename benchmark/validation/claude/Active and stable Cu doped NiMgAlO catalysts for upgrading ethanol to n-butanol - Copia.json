@@ -1,0 +1,103 @@
+{
+    "paper": "Active and stable Cu doped NiMgAlO catalysts for upgrading ethanol to n-butanol - Copia",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The benchmark catalyst of NiMgAlO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CuMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the CuMgAlO catalyst with a higher Cu content",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.5%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "0.5%Cu-NiMgAlO represents the theoretical Cu loading in the catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1%Cu-NiMgAlO represents the theoretical Cu loading in the catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "2%Cu-NiMgAlO catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "3%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "3%Cu-NiMgAlO catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "4%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "4%Cu-NiMgAlO catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "8%Cu-NiMgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "8%Cu-NiMgAlO catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The actual Ni, Cu, Mg, Al contents were measured by the ICP-AES.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The actual Ni, Cu, Mg, Al contents were measured by the ICP-AES.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAlO",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The support is not explicitly identified in the text as MgAlO."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 10,
+            "not_supported": 1
+        }
+    }
+}

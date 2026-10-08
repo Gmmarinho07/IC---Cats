@@ -35,27 +35,11 @@
                 "catalyst": "MgAl2O4",
                 "raw_name": "MgAl2O4",
                 "article_identifiers": []
-            },
-            {
-                "catalyst": "-Al2O3",
-                "raw_name": "-Al2O3",
-                "article_identifiers": []
             }
         ]
     },
     "metal_support": {
-        "metal": [
-            {
-                "name": "Mg",
-                "raw_name": "Mg",
-                "article_identifiers": []
-            },
-            {
-                "name": "Al",
-                "raw_name": "Al",
-                "article_identifiers": []
-            }
-        ],
+        "metal": [],
         "support": {
             "name": "Mg–Al mixed oxides",
             "raw_name": "Mg–Al mixed oxides",

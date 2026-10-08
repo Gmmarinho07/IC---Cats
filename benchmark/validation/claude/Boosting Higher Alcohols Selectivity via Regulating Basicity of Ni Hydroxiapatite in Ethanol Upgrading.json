@@ -1,0 +1,199 @@
+{
+    "paper": "Boosting Higher Alcohols Selectivity via Regulating Basicity of Ni Hydroxiapatite in Ethanol Upgrading",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni on hydroxyapatite (HAP)",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "base-Ni synergistic catalysis, with Niδ+ on hydroxyapatite (HAP)",
+                "reason": "The catalyst is mentioned, but the extracted name does not match the exact representation in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP4−0.5Ni",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "A selectivity of 62.4% to C6+−OH... has been achieved on HAP4−0.5Ni",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni/HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the mechanism of upgrading ethanol to C6+−OH on Ni/HAP was also proposed.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of MgO as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg and Al Mixed Oxides",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of Mg and Al Mixed Oxides as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/CeO2",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of Cu/CeO2 as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-CeO2/AC",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of Cu-CeO2/AC as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd/Mg",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of Pd/Mg as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd/Mg-Carbon",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of Pd/Mg-Carbon as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "PdCu nanoalloy supported on alumina",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of PdCu nanoalloy supported on alumina as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni-MgAlO",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of Ni-MgAlO as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni−MgO",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of Ni−MgO as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiCeO2 based catalysts",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of NiCeO2 based catalysts as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn/MgAlO",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of NiSn/MgAlO as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "supported Ag particles",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of supported Ag particles as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "copper-hydroxyapatite",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of copper-hydroxyapatite as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd@UiO-66",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of Pd@UiO-66 as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni-Sn",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence to support the identification of Ni-Sn as a catalyst."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the amount of Niδ+",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the amount of Niδ+",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "partial",
+                "evidence": "with Niδ+ on hydroxyapatite (HAP)",
+                "reason": "The support is mentioned, but the extracted name does not match the exact representation in the context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "with Niδ+ on hydroxyapatite (HAP)",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the mechanism of upgrading ethanol to C6+−OH on Ni/HAP was also proposed.",
+                "reason": "The article explicitly associates HAP with hydroxyapatite."
+            }
+        ],
+        "summary": {
+            "partial": 2,
+            "incorrect": 0,
+            "correct": 6,
+            "not_supported": 15
+        }
+    }
+}

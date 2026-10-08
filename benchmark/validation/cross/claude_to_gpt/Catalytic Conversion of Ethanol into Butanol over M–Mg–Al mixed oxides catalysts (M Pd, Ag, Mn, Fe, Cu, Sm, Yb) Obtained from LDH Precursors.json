@@ -1,0 +1,135 @@
+{
+    "paper": "Catalytic Conversion of Ethanol into Butanol over M–Mg–Al mixed oxides catalysts (M Pd, Ag, Mn, Fe, Cu, Sm, Yb) Obtained from LDH Precursors",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd5MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Pd5MgAlO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ag5MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ag5MgAlO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mn5MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mn5MgAlO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Fe5MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Fe5MgAlO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu5MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Cu5MgAlO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sm5MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Sm5MgAlO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Yb5MgAlO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Yb5MgAlO",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Pd",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "M = Pd",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ag",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "M = Ag",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Mn",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "M = Mn",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Fe",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "M = Fe",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "M = Cu",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Sm",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "M = Sm",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Yb",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "M = Yb",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAlO",
+                "field": "name",
+                "decision": "partial",
+                "evidence": "MMgAlO mixed oxide catalysts",
+                "reason": "The support is mentioned, but the raw_name 'MMgAlO' does not match the extracted 'MgAlO'."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "not_supported": 0,
+            "correct": 14,
+            "incorrect": 0
+        }
+    }
+}

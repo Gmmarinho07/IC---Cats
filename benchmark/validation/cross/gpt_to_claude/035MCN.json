@@ -1,0 +1,63 @@
+{
+    "paper": "035MCN",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The adsorption properties of ethanol on different MgO/SiO2 surfaces were researched by the density functional theory method and the result is that ethanol mainly adsorbed on MgO surface.",
+                "reason": "MgO is explicitly mentioned as a catalyst surface in the article context, including discussion of ethanol adsorption and dehydrogenation on MgO surfaces."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "ethanol on diﬀerent MgO/SiO2 surfaces",
+                "reason": "The raw name 'MgO' matches the text as it appears in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "SiO2",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "the adsorption of ethanol on MgO or SiO2 is competitive adsorption, it will produce the by-product of ethylene when ethanol is adsorbed on the SiO2.",
+                "reason": "SiO2 is mentioned as a surface on which ethanol adsorbs, but the article primarily treats it as a support component in MgO/SiO2 rather than as a standalone catalyst. Classifying it as an independent catalyst is only partially supported."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "SiO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the adsorption of ethanol on MgO or SiO2 is competitive adsorption",
+                "reason": "The raw name 'SiO2' matches the text as it appears in the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO/SiO2",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "The adsorption properties of ethanol on diﬀerent MgO/SiO2 surfaces were researched",
+                "reason": "MgO/SiO2 is described in the article as a catalyst system or composite surface, not as a support. Classifying MgO/SiO2 as a support entity is not supported by the article context, which treats it as the overall catalyst material."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO/SiO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The adsorption properties of ethanol on diﬀerent MgO/SiO2 surfaces were researched",
+                "reason": "The raw name 'MgO/SiO2' matches the text as it appears in the article, though the entity classification as a support is incorrect."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "not_supported": 0,
+            "correct": 4,
+            "incorrect": 1
+        }
+    }
+}

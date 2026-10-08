@@ -1,0 +1,85 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Pd5MgAlO",
+                "raw_name": "Pd5MgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag5MgAlO",
+                "raw_name": "Ag5MgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mn5MgAlO",
+                "raw_name": "Mn5MgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Fe5MgAlO",
+                "raw_name": "Fe5MgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu5MgAlO",
+                "raw_name": "Cu5MgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Sm5MgAlO",
+                "raw_name": "Sm5MgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Yb5MgAlO",
+                "raw_name": "Yb5MgAlO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Pd",
+                "raw_name": "Pd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ag",
+                "raw_name": "Ag",
+                "article_identifiers": []
+            },
+            {
+                "name": "Mn",
+                "raw_name": "Mn",
+                "article_identifiers": []
+            },
+            {
+                "name": "Fe",
+                "raw_name": "Fe",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Sm",
+                "raw_name": "Sm",
+                "article_identifiers": []
+            },
+            {
+                "name": "Yb",
+                "raw_name": "Yb",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgAlO",
+            "raw_name": "MMgAlO",
+            "article_identifiers": []
+        }
+    }
+}

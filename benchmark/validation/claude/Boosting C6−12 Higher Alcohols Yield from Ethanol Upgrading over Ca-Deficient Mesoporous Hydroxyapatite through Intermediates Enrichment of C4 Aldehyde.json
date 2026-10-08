@@ -1,0 +1,87 @@
+{
+    "paper": "Boosting C6−12 Higher Alcohols Yield from Ethanol Upgrading over Ca-Deficient Mesoporous Hydroxyapatite through Intermediates Enrichment of C4 Aldehyde",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca-deficient mesoporous hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Here, we report an efficient conversion of ethanol to C6−12 alcohols using Ca-deficient mesoporous hydroxyapatite as the catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "(NH4)2HPO4-modified hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the (NH4)2HPO4−HAP catalyst exhibited good regeneration stability in ethanol conversion",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NH3-modified hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the ethanol conversion on NH3−HAP increased from 22.8 to 29.4% compared to HAP",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the original hydroxyapatite showed enhanced density of basic sites",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "comparable to the performance of the reported Cu-HAP catalyst",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "H3PO4-modified hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the H3PO4−HAP catalyst, the selectivity of C6−12 alcohols",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the original hydroxyapatite showed enhanced density of basic sites",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the original hydroxyapatite showed enhanced density of basic sites",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "the original hydroxyapatite showed enhanced density of basic sites",
+                "reason": "The article explicitly associates HAP with hydroxyapatite."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 9,
+            "not_supported": 0
+        }
+    }
+}

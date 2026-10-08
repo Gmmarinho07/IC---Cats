@@ -1,0 +1,103 @@
+{
+    "paper": "Boosting the selectivity of higher alcohols in upgrading of aqueous bioethanol over amphiphilic NiSn@C-MgO catalyst",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "NiSn@C-MgO, synthesized via a facile sol–gel method followed by pyrolysis and carbonization strategy, displays amphipathy...",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO-550",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Interestingly, NiSn@C-MgO-550 catalyst exhibited the highest ethanol conversion of 73.3 %...",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO-400",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For NiSn@C-MgO-400, there is no distinct carbon shell around the NiSn NPs...",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO-500",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The average size of particles increased from 3.4 ± 0.8 to 9.1 ± 2.1 nm slowly with carbonization temperature from 400 to 550 ◦C...",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO-600",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The peaks at 44.5◦, 51.8◦and 76.4◦are corresponded to Ni (111), (200) and (220) facets, respectively...",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C-MgO-700",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The average size of particles increased from 3.4 ± 0.8 to 9.1 ± 2.1 nm slowly with carbonization temperature from 400 to 550 ◦C and then increased sharply to 54.7 ± 15.4 nm when the carbonization temperature reached 700 ◦C...",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn/MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the hydrophilic NiSn/MgO catalyst, the ethanol conversion and organic liquid products yield are only 50.8 % and 38.2 %, respectively...",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The ethanol conversion and liquid product selectivity for lipophilic NiSn@C catalyst are to some extent similar to that for hydrophilic NiSn/MgO...",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Moreover, the peaks at 44.5◦, 51.8◦and 76.4◦are corresponded to Ni (111), (200) and (220) facets...",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Sn",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Note that there are indistinctive diffraction peaks of Sn and C in the XRD pattern...",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "while MgO was used as the hydrophilic support...",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 11,
+            "not_supported": 0
+        }
+    }
+}

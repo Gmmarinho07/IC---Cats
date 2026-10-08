@@ -1,0 +1,145 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu-CeO2/AC",
+                "raw_name": "Cu-CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "3Cu1CeO2/AC",
+                "raw_name": "3Cu1CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/AC",
+                "raw_name": "Cu/AC",
+                "article_identifiers": [
+                    "(a)"
+                ]
+            },
+            {
+                "catalyst": "5Cu1Ce/AC",
+                "raw_name": "5Cu1Ce/AC",
+                "article_identifiers": [
+                    "(b)"
+                ]
+            },
+            {
+                "catalyst": "4Cu1Ce/AC",
+                "raw_name": "4Cu1Ce/AC",
+                "article_identifiers": [
+                    "(c)"
+                ]
+            },
+            {
+                "catalyst": "3Cu1Ce/AC",
+                "raw_name": "3Cu1Ce/AC",
+                "article_identifiers": [
+                    "(d)"
+                ]
+            },
+            {
+                "catalyst": "2Cu1Ce/AC",
+                "raw_name": "2Cu1Ce/AC",
+                "article_identifiers": [
+                    "(e)"
+                ]
+            },
+            {
+                "catalyst": "1Cu1Ce/AC",
+                "raw_name": "1Cu1Ce/AC",
+                "article_identifiers": [
+                    "(f)"
+                ]
+            },
+            {
+                "catalyst": "3Cu1Ce/SiO2",
+                "raw_name": "3Cu1Ce/SiO2",
+                "article_identifiers": [
+                    "(g)"
+                ]
+            },
+            {
+                "catalyst": "3Cu1Ce/Al2O3",
+                "raw_name": "3Cu1Ce/Al2O3",
+                "article_identifiers": [
+                    "(h)"
+                ]
+            },
+            {
+                "catalyst": "Mg-Al mixed oxide catalysts",
+                "raw_name": "Mg-Al mixed oxide catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP catalysts",
+                "raw_name": "HAP catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni/Al2O3 catalysts",
+                "raw_name": "Ni/Al2O3 catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/CeO2 catalysts",
+                "raw_name": "Cu/CeO2 catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "basic zeolites",
+                "raw_name": "basic zeolites",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg-Al metal oxides",
+                "raw_name": "Mg-Al metal oxides",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "hydroxyapaties",
+                "raw_name": "hydroxyapaties (HAP)",
+                "article_identifiers": [
+                    "HAP"
+                ]
+            },
+            {
+                "catalyst": "basic aluminum oxide supported Cu, Ni and Co catalysts",
+                "raw_name": "basic aluminum oxide supported Cu, Ni and Co catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "high surface area CeO2 supported Cu catalyst",
+                "raw_name": "high surface area CeO2 (HSACeO2) supported Cu catalyst",
+                "article_identifiers": [
+                    "HSACeO2"
+                ]
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ce",
+                "raw_name": "CeO2",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Activated Carbon",
+            "raw_name": "AC",
+            "article_identifiers": []
+        }
+    }
+}

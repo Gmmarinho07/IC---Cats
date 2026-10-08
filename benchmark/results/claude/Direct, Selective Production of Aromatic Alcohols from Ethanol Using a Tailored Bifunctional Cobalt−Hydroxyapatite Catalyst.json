@@ -1,0 +1,82 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Co-containing hydroxyapatite",
+                "raw_name": "Co-containing hydroxyapatite (HAP)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Co−HAP",
+                "raw_name": "Co−HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "hydroxyapatite",
+                "raw_name": "HAP",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Co/Al2O3",
+                "raw_name": "Co/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Co/SiO2",
+                "raw_name": "Co/SiO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Co/carbon",
+                "raw_name": "Co/carbon",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Co and MgAlxOy",
+                "raw_name": "Co and MgAlxOy",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Co/CaO",
+                "raw_name": "Co/CaO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Co/Ca3(PO4)2",
+                "raw_name": "Co/Ca3(PO4)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "hydroxyapatite",
+                "raw_name": "hydroxyapatite",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "cobalt-doped hydroxyapatite",
+                "raw_name": "cobalt-doped hydroxyapatite (Co−HAP)",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Co",
+                "raw_name": "Co",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "hydroxyapatite",
+            "article_identifiers": [
+                "HAP"
+            ]
+        }
+    }
+}

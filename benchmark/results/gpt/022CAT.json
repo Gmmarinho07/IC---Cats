@@ -45,11 +45,6 @@
                 "catalyst": "0.1CuMMO(pm)",
                 "raw_name": "0.1CuMMO(pm)",
                 "article_identifiers": []
-            },
-            {
-                "catalyst": "0.3CuMMO(m)",
-                "raw_name": "0.3CuMMO(m)",
-                "article_identifiers": []
             }
         ]
     },
@@ -73,9 +68,7 @@
         "support": {
             "name": "MgAl hydrotalcite",
             "raw_name": "MgAl hydrotalcite",
-            "article_identifiers": [
-                "Sigma-Aldrich 652288"
-            ]
+            "article_identifiers": []
         }
     }
 }

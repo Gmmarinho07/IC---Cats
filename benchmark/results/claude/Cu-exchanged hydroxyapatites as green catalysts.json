@@ -1,0 +1,80 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "needle HA",
+                "raw_name": "needle HA",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "plate HA",
+                "raw_name": "plate HA",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "needle HA with 4 Cu wt%",
+                "raw_name": "needle HA with both 4 and 6 Cu wt%",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "needle HA with 6 Cu wt%",
+                "raw_name": "needle_6 sample",
+                "article_identifiers": [
+                    "needle_6"
+                ]
+            },
+            {
+                "catalyst": "plate HA with 4 Cu wt%",
+                "raw_name": "plate HA with 4, 11 or 14 Cu wt%",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "plate HA with 11 Cu wt%",
+                "raw_name": "plate HA with 4, 11 or 14 Cu wt%",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "plate HA with 14 Cu wt%",
+                "raw_name": "plate_14 sample",
+                "article_identifiers": [
+                    "plate_14"
+                ]
+            },
+            {
+                "catalyst": "needle HA with higher Cu concentration",
+                "raw_name": "needle_6′",
+                "article_identifiers": [
+                    "needle_6′"
+                ]
+            },
+            {
+                "catalyst": "needle HA with higher Cu concentration",
+                "raw_name": "needle_6″",
+                "article_identifiers": [
+                    "needle_6″"
+                ]
+            },
+            {
+                "catalyst": "plate HA with higher Cu concentration",
+                "raw_name": "plate_14′",
+                "article_identifiers": [
+                    "plate_14′"
+                ]
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "HA",
+            "article_identifiers": []
+        }
+    }
+}

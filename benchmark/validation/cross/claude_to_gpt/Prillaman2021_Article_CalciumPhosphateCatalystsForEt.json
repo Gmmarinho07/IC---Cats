@@ -1,0 +1,135 @@
+{
+    "paper": "Prillaman2021_Article_CalciumPhosphateCatalystsForEt",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO/SiO2",
+                "field": "catalyst",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The extracted catalyst 'MgO/SiO2' is not explicitly supported by the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Calcium hydroxyapatite (CaHAP) is well-recognized as an excellent catalyst for Guerbet coupling of ethanol to produce butanol and other C4 oxygenates.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The extracted catalyst 'MgO' is not explicitly supported by the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Silica",
+                "field": "catalyst",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The extracted catalyst 'Silica' is not explicitly supported by the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Zirconia",
+                "field": "catalyst",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The extracted catalyst 'Zirconia' is not explicitly supported by the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate untreated",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CaP untreated",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate treated at 873 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CaP 873 K",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate treated at 923 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CaP 923 K",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate treated at 973 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CaP 973 K",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate treated at 1073 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CaP 1073 K",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate treated at 1173 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CaP 1173 K",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate on silica",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CaP/SiO2",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium phosphate on zirconia",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CaP/ZrO2",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "ZrO2",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "ZrO2",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "ZrO2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "ZrO2",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 11,
+            "incorrect": 4
+        }
+    }
+}

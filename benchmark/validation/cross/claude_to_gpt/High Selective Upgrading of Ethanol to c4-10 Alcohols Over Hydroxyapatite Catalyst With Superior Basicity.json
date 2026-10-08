@@ -1,0 +1,151 @@
+{
+    "paper": "High Selective Upgrading of Ethanol to c4-10 Alcohols Over Hydroxyapatite Catalyst With Superior Basicity",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite (HAP-1)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "These samples are labeled HAP-1, HAP-2, HAP-3, and HAP-4, respectively.",
+                "reason": "The catalyst HAP-1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP-1",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "These samples are labeled HAP-1, HAP-2, HAP-3, and HAP-4, respectively.",
+                "reason": "The article explicitly associates HAP-1 with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite (HAP-2)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "These samples are labeled HAP-1, HAP-2, HAP-3, and HAP-4, respectively.",
+                "reason": "The catalyst HAP-2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP-2",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "These samples are labeled HAP-1, HAP-2, HAP-3, and HAP-4, respectively.",
+                "reason": "The article explicitly associates HAP-2 with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite (HAP-3)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "These samples are labeled HAP-1, HAP-2, HAP-3, and HAP-4, respectively.",
+                "reason": "The catalyst HAP-3 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP-3",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "These samples are labeled HAP-1, HAP-2, HAP-3, and HAP-4, respectively.",
+                "reason": "The article explicitly associates HAP-3 with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite (HAP-4)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "These samples are labeled HAP-1, HAP-2, HAP-3, and HAP-4, respectively.",
+                "reason": "The catalyst HAP-4 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP-4",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "These samples are labeled HAP-1, HAP-2, HAP-3, and HAP-4, respectively.",
+                "reason": "The article explicitly associates HAP-4 with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite (HAP-3-x)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "These samples were noted as HAP-3-x, where x represents the molar ratio of Ca(H2PO4)2 and Ca(OH)2.",
+                "reason": "The catalyst HAP-3-x is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP-3-x",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "These samples were noted as HAP-3-x, where x represents the molar ratio of Ca(H2PO4)2 and Ca(OH)2.",
+                "reason": "The article explicitly associates HAP-3-x with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite (HAP-3-0.44)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The HAP-3−0.44 catalyst exhibits the highest basic sites among these materials.",
+                "reason": "The catalyst HAP-3-0.44 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP-3-0.44",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The HAP-3−0.44 catalyst exhibits the highest basic sites among these materials.",
+                "reason": "The article explicitly associates HAP-3-0.44 with the catalyst."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP-3−0.44",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The HAP-3−0.44 catalyst exhibits the highest basic sites among these materials.",
+                "reason": "The article explicitly associates HAP-3−0.44 with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Commercial Ca3(PO4)2 calcined at 400 °C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Commercial Ca3(PO4)2 calcined at 400 °C were used as representative catalysts for comparison.",
+                "reason": "The catalyst Commercial Ca3(PO4)2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The mechanochemically synthesized HAP catalysts extend along the c-axis and expose the (002) crystal plane with enriched strong basic [Ca−O−P] sites.",
+                "reason": "Hydroxyapatite is explicitly identified as the support in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "hydroxyapatite (HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The mechanochemically synthesized HAP catalysts extend along the c-axis and expose the (002) crystal plane with enriched strong basic [Ca−O−P] sites.",
+                "reason": "Hydroxyapatite is explicitly identified as the support in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate HAP as an article identifier."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 1,
+            "correct": 16,
+            "incorrect": 0
+        }
+    }
+}

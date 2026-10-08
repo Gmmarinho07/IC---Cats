@@ -1,0 +1,71 @@
+{
+    "paper": "032MCN",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The X-ray diﬀraction pattern of HAP shown in Figure 1a is characteristic of nanocrystalline apatite.",
+                "reason": "The catalyst hydroxyapatite is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite (HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The X-ray diﬀraction pattern of HAP shown in Figure 1a is characteristic of nanocrystalline apatite.",
+                "reason": "The raw name hydroxyapatite (HAP) is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The X-ray diﬀraction pattern of HAP shown in Figure 1a is characteristic of nanocrystalline apatite.",
+                "reason": "The article explicitly associates HAP as an identifier for hydroxyapatite."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium oxide",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate Calcium oxide as a catalyst."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The X-ray diﬀraction pattern of HAP shown in Figure 1a is characteristic of nanocrystalline apatite.",
+                "reason": "Hydroxyapatite is explicitly identified as a support in the context."
+            },
+            {
+                "entity_type": "metal_support",
+                "extracted_value": "hydroxyapatite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The X-ray diﬀraction pattern of HAP shown in Figure 1a is characteristic of nanocrystalline apatite.",
+                "reason": "The raw name hydroxyapatite is explicitly mentioned in the context."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The X-ray diﬀraction pattern of HAP shown in Figure 1a is characteristic of nanocrystalline apatite.",
+                "reason": "The article explicitly associates HAP as an identifier for hydroxyapatite."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 6,
+            "not_supported": 1
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "paper": "Structure and Surface and Catalytic Properties of Mg-Al Basic Oxides",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Table 4 shows that the ethylene formation rate on Al2O3 was almost two orders of magnitude higher than on sample CHT5.",
+                "reason": "The catalyst alumina is explicitly identified in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Pure MgO shows very low reaction rates.",
+                "reason": "The catalyst MgO is explicitly identified in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Table 4 shows that the ethylene formation rate on Al2O3 was almost two orders of magnitude higher than on sample CHT5.",
+                "reason": "The catalyst Al2O3 is explicitly identified in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ethanol is converted on Mg-Al calcined hydrotalcites via three main groups of reactions.",
+                "reason": "The catalyst Mg-Al calcined hydrotalcite is explicitly identified in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CHT1",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Ethanol is converted on Mg-Al calcined hydrotalcites via three main groups of reactions.",
+                "reason": "The raw_name CHT1 is explicitly associated with the catalyst Mg-Al calcined hydrotalcite in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CHT2",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Ethanol is converted on Mg-Al calcined hydrotalcites via three main groups of reactions.",
+                "reason": "The raw_name CHT2 is explicitly associated with the catalyst Mg-Al calcined hydrotalcite in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CHT3",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Ethanol is converted on Mg-Al calcined hydrotalcites via three main groups of reactions.",
+                "reason": "The raw_name CHT3 is explicitly associated with the catalyst Mg-Al calcined hydrotalcite in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CHT4",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Ethanol is converted on Mg-Al calcined hydrotalcites via three main groups of reactions.",
+                "reason": "The raw_name CHT4 is explicitly associated with the catalyst Mg-Al calcined hydrotalcite in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CHT5",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Ethanol is converted on Mg-Al calcined hydrotalcites via three main groups of reactions.",
+                "reason": "The raw_name CHT5 is explicitly associated with the catalyst Mg-Al calcined hydrotalcite in the context."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 9,
+            "not_supported": 0
+        }
+    }
+}

@@ -1,0 +1,247 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Cu catalyst supported on mesoporous carbon",
+                "raw_name": "Cu/MC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu catalyst supported on SBA-15",
+                "raw_name": "Cu/SBA-15",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiCu single-atom alloy",
+                "raw_name": "NiCu",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiAu single-atom alloy",
+                "raw_name": "NiAu",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pt–Cu single-atom alloy",
+                "raw_name": "Pt–Cu",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu–CeO2/AC",
+                "raw_name": "Cu–CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd–CeO2/AC",
+                "raw_name": "Pd–CeO2/AC",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "M-CeO2/activated carbon",
+                "raw_name": "M-CeO2/ activated carbon (AC) (M = Cu, Fe, Co, Ni, Pd)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd@UiO-66",
+                "raw_name": "Pd@UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/MgAl-LDO",
+                "raw_name": "Ag/MgAl-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pt-Y/Beta",
+                "raw_name": "Pt-Y/Beta",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu@UiO-66",
+                "raw_name": "Cu@UiO-66",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "reduced Cu–Cr catalyst",
+                "raw_name": "Cu–Cr catalyst",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/ZrO2",
+                "raw_name": "Cu/ZrO2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "50 Cu-Cr (50 wt% CuO)",
+                "raw_name": "50 Cu-Cr (50 wt% CuO)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuCeZr (10 wt% Cu, 10 wt% Ce)",
+                "raw_name": "CuCeZr (10 wt% Cu, 10 wt% Ce)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "5Cu/ZrO2",
+                "raw_name": "5Cu/ZrO2",
+                "article_identifiers": [
+                    "A"
+                ]
+            },
+            {
+                "catalyst": "10Cu/ZrO2",
+                "raw_name": "10Cu/ZrO2",
+                "article_identifiers": [
+                    "B"
+                ]
+            },
+            {
+                "catalyst": "20Cu/ZrO2",
+                "raw_name": "20Cu/ZrO2",
+                "article_identifiers": [
+                    "C"
+                ]
+            },
+            {
+                "catalyst": "30Cu/ZrO2",
+                "raw_name": "30Cu/ZrO2",
+                "article_identifiers": [
+                    "D"
+                ]
+            },
+            {
+                "catalyst": "CuCeZrO (calcined at 500°C)",
+                "raw_name": "CCZ-500",
+                "article_identifiers": [
+                    "CCZ-500"
+                ]
+            },
+            {
+                "catalyst": "CuCeZrO (calcined at 700°C)",
+                "raw_name": "CCZ-700",
+                "article_identifiers": [
+                    "CCZ-700"
+                ]
+            },
+            {
+                "catalyst": "Pd–Zn alloy catalyst",
+                "raw_name": "Pd–Zn",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd–Ga alloy catalyst",
+                "raw_name": "Pd–Ga",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Pd–In alloy catalyst",
+                "raw_name": "Pd–In",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni0.1Zn0.7Al0.3InOx",
+                "raw_name": "Ni0.1Zn0.7Al0.3InOx",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "transition metal promoted Mg-Fe mixed oxide catalysts",
+                "raw_name": "transition metal (Co, Ni, Cu, Mn, Cr) promoted Mg-Fe mixed oxide catalysts",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni/La2O3/γ-Al2O3",
+                "raw_name": "Ni/La2O3/ γ-Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ni-MgAlO",
+                "raw_name": "Ni-MgAlO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu–CeO2/AC",
+                "raw_name": "Cu–CeO2/ AC",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ag",
+                "raw_name": "Ag",
+                "article_identifiers": []
+            },
+            {
+                "name": "Co",
+                "raw_name": "Co",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ni",
+                "raw_name": "Ni",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cd",
+                "raw_name": "Cd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pt",
+                "raw_name": "Pt",
+                "article_identifiers": []
+            },
+            {
+                "name": "Pd",
+                "raw_name": "Pd",
+                "article_identifiers": []
+            },
+            {
+                "name": "Fe",
+                "raw_name": "Fe",
+                "article_identifiers": []
+            },
+            {
+                "name": "Cr",
+                "raw_name": "Cr",
+                "article_identifiers": []
+            },
+            {
+                "name": "Mn",
+                "raw_name": "Mn",
+                "article_identifiers": []
+            },
+            {
+                "name": "Y",
+                "raw_name": "Y",
+                "article_identifiers": []
+            },
+            {
+                "name": "Zn",
+                "raw_name": "Zn",
+                "article_identifiers": []
+            },
+            {
+                "name": "Ga",
+                "raw_name": "Ga",
+                "article_identifiers": []
+            },
+            {
+                "name": "In",
+                "raw_name": "In",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": null,
+            "raw_name": null,
+            "article_identifiers": []
+        }
+    }
+}

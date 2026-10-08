@@ -3,7 +3,7 @@
         "catalysts": [
             {
                 "catalyst": "Calcium-iron-modified Mg-Al based-hydrotalcite",
-                "raw_name": "Calcium-iron-modified Mg-Al based-hydrotalcite",
+                "raw_name": "Calcium-iron-modified Mg-Al based-hydrotalcite precursor",
                 "article_identifiers": []
             },
             {
@@ -52,8 +52,8 @@
             }
         ],
         "support": {
-            "name": "MgAl-LDH",
-            "raw_name": "MgAl-LDH",
+            "name": "Mg-Al based-hydrotalcite",
+            "raw_name": "Mg-Al based-hydrotalcite",
             "article_identifiers": []
         }
     }

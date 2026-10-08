@@ -1,0 +1,159 @@
+{
+    "paper": "Enabling direct-growth route for highly efficient ethanol upgrading to long-chain alcohols in aqueous phase",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-Sx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalytic performance of Ni@C-Sx catalysts was evaluated in a stainless-steel autoclave reactor for the conversion of 50.0 wt% aqueous EtOH to LAS.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-S0",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Under the optimized reaction temperature of 250 °C, the selectivity of LAS over S-free Ni@C-S0 catalyst is only 23.5%.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-S1/30",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "In contrast to Ni@C-S0 catalyst, both Ni@C-S1/30-y (y stands for sulfur precursor) and optimal Ni@C-DMSO0.006 catalysts exhibit desirable LAS selectivity (>58.0%) at high conversions of EtOH (>80.0%).",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-S1/25",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The low LAS selectivity is associated with the deactivation of adsorption sites, which can be ascribed to excess sulfur covering the active sites for aldehydes strong adsorption.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-S1/20",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-S1/60",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-DMSOz",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "DMSO was directly introduced to the aqueous EtOH solution for in situ modifying Ni@C-S0 catalyst during the reaction.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-DMSO0.006",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The optimal Ni@C-DMSO0.006 catalysts exhibit desirable LAS selectivity (>58.0%) at high conversions of EtOH (>80.0%).",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-S1/30-y",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The y represented the abbreviation name of sulfur precursor.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-S1/30-NiSO4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalyst using NiSO4 as a precursor shows a high selectivity for LAS.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-S1/30-SDS",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalysts using LA and SDS as precursors have higher poisoning degree.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@C-S1/30-LA",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalysts using LA and SDS as precursors have higher poisoning degree.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "NiSn@C",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "This correlation was again confirmed on NiSn@C and Ni@NC catalysts.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni@NC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "This correlation was again confirmed on NiSn@C and Ni@NC catalysts.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The y represented the abbreviation name of sulfur precursor.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The y represented the abbreviation name of sulfur precursor.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "C",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "The sulfur species are mainly distributed on the catalyst surface.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "C",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The sulfur species are mainly distributed on the catalyst surface.",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 2,
+            "correct": 16,
+            "incorrect": 0
+        }
+    }
+}

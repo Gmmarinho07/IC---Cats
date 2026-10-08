@@ -7,11 +7,6 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "NiSn@C-MgO-550",
-                "raw_name": "NiSn@C-MgO-550",
-                "article_identifiers": []
-            },
-            {
                 "catalyst": "NiSn@C-MgO-400",
                 "raw_name": "NiSn@C-MgO-400",
                 "article_identifiers": []
@@ -19,6 +14,11 @@
             {
                 "catalyst": "NiSn@C-MgO-500",
                 "raw_name": "NiSn@C-MgO-500",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "NiSn@C-MgO-550",
+                "raw_name": "NiSn@C-MgO-550",
                 "article_identifiers": []
             },
             {

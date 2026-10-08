@@ -1,0 +1,111 @@
+{
+    "paper": "030CAT",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a systematic screening of different catalysts (MgO, Ru/MgO, ­MgxAlOy, and Ru/MgxAlOy)",
+                "reason": "MgO is explicitly listed as one of the catalysts in the abstract."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "a systematic screening of different catalysts (MgO, Ru/MgO, ­MgxAlOy, and Ru/MgxAlOy)",
+                "reason": "The raw name 'MgO' matches the text representation in the article exactly."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a systematic screening of different catalysts (MgO, Ru/MgO, ­MgxAlOy, and Ru/MgxAlOy)",
+                "reason": "Ru/MgO is explicitly listed as one of the catalysts in the abstract."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "a systematic screening of different catalysts (MgO, Ru/MgO, ­MgxAlOy, and Ru/MgxAlOy)",
+                "reason": "The raw name 'Ru/MgO' matches the text representation in the article exactly."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgxAlOy",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a systematic screening of different catalysts (MgO, Ru/MgO, ­MgxAlOy, and Ru/MgxAlOy)",
+                "reason": "MgxAlOy is explicitly listed as one of the catalysts in the abstract."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "­MgxAlOy",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "a systematic screening of different catalysts (MgO, Ru/MgO, ­MgxAlOy, and Ru/MgxAlOy)",
+                "reason": "The raw name '­MgxAlOy' preserves the representation from the article, including the soft-hyphen character present in the source text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/MgxAlOy",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a systematic screening of different catalysts (MgO, Ru/MgO, ­MgxAlOy, and Ru/MgxAlOy)",
+                "reason": "Ru/MgxAlOy is explicitly listed as one of the catalysts in the abstract."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ru/MgxAlOy",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "a systematic screening of different catalysts (MgO, Ru/MgO, ­MgxAlOy, and Ru/MgxAlOy)",
+                "reason": "The raw name 'Ru/MgxAlOy' matches the text representation in the article."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ruthenium",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Ru increased ethanol conversion in the systems, but directed the product distribution towards methane.",
+                "reason": "Ruthenium (Ru) is explicitly identified as an active metal component in the catalysts throughout the article."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ru",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "the roles of Ru and of the oxides in the several parallel reactions",
+                "reason": "The raw name 'Ru' matches the abbreviation used throughout the article for ruthenium."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Magnesium oxide",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Mg-containing oxides are widely studied as effective catalysts for ethanol upgrading",
+                "reason": "MgO (magnesium oxide) is explicitly identified as a support material in the article, used in both MgO and Ru/MgO catalysts."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "a systematic screening of different catalysts (MgO, Ru/MgO, ­MgxAlOy, and Ru/MgxAlOy)",
+                "reason": "The raw name 'MgO' matches the text representation used in the article for magnesium oxide."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 12,
+            "incorrect": 0
+        }
+    }
+}

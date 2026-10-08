@@ -1,0 +1,103 @@
+{
+    "paper": "Cu-exchanged hydroxyapatites as green catalysts",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "needle HA",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "both pristine needle and plate HAs showed poor CO conversion (<5%)",
+                "reason": "The catalyst 'needle HA' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "plate HA",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "both pristine needle and plate HAs showed poor CO conversion (<5%)",
+                "reason": "The catalyst 'plate HA' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "needle HA with 4 Cu wt%",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "needle HA with both 4 and 6 Cu wt% achieved higher CO conversion (up to 61%)",
+                "reason": "The extraction is partially supported as it does not specify the exact context for '4 Cu wt%'."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "needle HA with 6 Cu wt%",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the maximum copper uptake for the HA needle series is 6 wt% and is reached for a 0.05 M Cu(NO3)2 solution (needle_6 sample)",
+                "reason": "The catalyst 'needle HA with 6 Cu wt%' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "plate HA with 4 Cu wt%",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "plate HA with 4, 11 or 14 Cu wt%",
+                "reason": "The extraction is partially supported as it does not specify the exact context for '4 Cu wt%'."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "plate HA with 11 Cu wt%",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "plate HA with 4, 11 or 14 Cu wt%",
+                "reason": "The extraction is partially supported as it does not specify the exact context for '11 Cu wt%'."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "plate HA with 14 Cu wt%",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the maximum copper content is 14 wt% (plate_14 sample)",
+                "reason": "The catalyst 'plate HA with 14 Cu wt%' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "needle HA with higher Cu concentration",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "for more concentrated initial Cu(NO3)2 solutions (samples needle_6′, needle_6″ and plate_14′)",
+                "reason": "The extraction is partially supported as it does not specify the exact context for 'higher Cu concentration'."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "plate HA with higher Cu concentration",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "for more concentrated initial Cu(NO3)2 solutions (samples needle_6′, needle_6″ and plate_14′)",
+                "reason": "The extraction is partially supported as it does not specify the exact context for 'higher Cu concentration'."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the maximum copper uptake for the HA needle series is 6 wt%",
+                "reason": "The metal 'Cu' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the Cu exchange has occurred only at the surface, without significantly altering the crystal structure.",
+                "reason": "The support 'Hydroxyapatite' is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 5,
+            "not_supported": 0,
+            "correct": 6,
+            "incorrect": 0
+        }
+    }
+}

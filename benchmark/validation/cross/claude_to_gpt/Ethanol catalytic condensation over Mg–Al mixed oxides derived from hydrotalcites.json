@@ -1,0 +1,47 @@
+{
+    "paper": "Ethanol catalytic condensation over Mg–Al mixed oxides derived from hydrotalcites",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "cHT1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Results concerning the chemical and morphological character-ization of the catalyst are summarized in Table 1",
+                "reason": "The catalyst cHT1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "cHT1US",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Results concerning the chemical and morphological character-ization of the catalyst are summarized in Table 1",
+                "reason": "The catalyst cHT1US is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "cHT2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Results concerning the chemical and morphological character-ization of the catalyst are summarized in Table 1",
+                "reason": "The catalyst cHT2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "cHT2US",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Results concerning the chemical and morphological character-ization of the catalyst are summarized in Table 1",
+                "reason": "The catalyst cHT2US is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 4,
+            "incorrect": 0
+        }
+    }
+}

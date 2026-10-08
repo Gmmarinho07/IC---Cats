@@ -1,0 +1,111 @@
+{
+    "paper": "027CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ordered mesoporous Cu-La-Al composite metal oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The resulting solid samples were heated at a rate of 1 K/min to 673 K for 4 h, and then calcined at 973 K for 1 h with a heating rate of 10 K/min. The ordered mesoporous Cu-La-Al composite metal oxides obtained finally were denoted as OM-CuxLayAl100.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "OM-CuxLayAl100",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "The ordered mesoporous Cu-La-Al composite metal oxides obtained finally were denoted as OM-CuxLayAl100.",
+                "reason": "The article explicitly associates OM-CuxLayAl100 with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ordered mesoporous Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "As reference, ordered mesoporous Al2O3, La-Al and Cu-Al composite metal oxides (denoted as OMA, OM-CuxAl100, and OM-LayAl100, respectively) were prepared in the same process without the addition of lanthanum acetate and/or copper acetate.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "OMA",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "As reference, ordered mesoporous Al2O3, La-Al and Cu-Al composite metal oxides (denoted as OMA, OM-CuxAl100, and OM-LayAl100, respectively) were prepared in the same process without the addition of lanthanum acetate and/or copper acetate.",
+                "reason": "The article explicitly associates OMA with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ordered mesoporous Cu-Al composite metal oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "As reference, ordered mesoporous Al2O3, La-Al and Cu-Al composite metal oxides (denoted as OMA, OM-CuxAl100, and OM-LayAl100, respectively) were prepared in the same process without the addition of lanthanum acetate and/or copper acetate.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "OM-CuxAl100",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "As reference, ordered mesoporous Al2O3, La-Al and Cu-Al composite metal oxides (denoted as OMA, OM-CuxAl100, and OM-LayAl100, respectively) were prepared in the same process without the addition of lanthanum acetate and/or copper acetate.",
+                "reason": "The article explicitly associates OM-CuxAl100 with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "ordered mesoporous La-Al composite metal oxides",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "As reference, ordered mesoporous Al2O3, La-Al and Cu-Al composite metal oxides (denoted as OMA, OM-CuxAl100, and OM-LayAl100, respectively) were prepared in the same process without the addition of lanthanum acetate and/or copper acetate.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "OM-LayAl100",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "As reference, ordered mesoporous Al2O3, La-Al and Cu-Al composite metal oxides (denoted as OMA, OM-CuxAl100, and OM-LayAl100, respectively) were prepared in the same process without the addition of lanthanum acetate and/or copper acetate.",
+                "reason": "The article explicitly associates OM-LayAl100 with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "copper aluminate spinel (CuAl2O4)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Stoichiometric copper aluminate spinel (CuAl2O4) catalyst was prepared by grinding Al(NO3)3⋅9H2O and Cu(NO3)2⋅3H2O with Al/Cu molar ratio of 2:1 to uniform powder mixture in quartz inkstone.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Stoichiometric copper aluminate spinel (CuAl2O4) catalyst was prepared by grinding Al(NO3)3⋅9H2O and Cu(NO3)2⋅3H2O with Al/Cu molar ratio of 2:1 to uniform powder mixture in quartz inkstone.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Al2O3",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "As reference, ordered mesoporous Al2O3, La-Al and Cu-Al composite metal oxides (denoted as OMA, OM-CuxAl100, and OM-LayAl100, respectively) were prepared in the same process without the addition of lanthanum acetate and/or copper acetate.",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "OMA",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "As reference, ordered mesoporous Al2O3, La-Al and Cu-Al composite metal oxides (denoted as OMA, OM-CuxAl100, and OM-LayAl100, respectively) were prepared in the same process without the addition of lanthanum acetate and/or copper acetate.",
+                "reason": "The article explicitly associates OMA with the support."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 12,
+            "incorrect": 0
+        }
+    }
+}

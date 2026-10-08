@@ -1,0 +1,95 @@
+{
+    "paper": "Bifunctional Condensation Reactions of Alcohols on Basic Oxides modified by copper and potassium",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg5CeOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "On Mg5CeOx catalysts, ethanol is produced selectively over acetone.",
+                "reason": "The catalyst Mg5CeOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "K–CuyMg5CeOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1.0 wt% K–Cu0.5Mg5CeOx, and 1.2 wt% K–Cu7.5Mg5CeOx catalysts.",
+                "reason": "The catalyst K–CuyMg5CeOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.8 wt% K–Mg5CeOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "0.8 wt% K–Mg5CeOx, 1.0 wt% K–Cu0.5Mg5CeOx, and 1.2 wt% K–Cu7.5Mg5CeOx catalysts.",
+                "reason": "The catalyst 0.8 wt% K–Mg5CeOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1.0 wt% K–Cu0.5Mg5CeOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1.0 wt% K–Cu0.5Mg5CeOx, and 1.2 wt% K–Cu7.5Mg5CeOx catalysts.",
+                "reason": "The catalyst 1.0 wt% K–Cu0.5Mg5CeOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1.2 wt% K–Cu7.5Mg5CeOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "1.0 wt% K–Cu0.5Mg5CeOx, and 1.2 wt% K–Cu7.5Mg5CeOx catalysts.",
+                "reason": "The catalyst 1.2 wt% K–Cu7.5Mg5CeOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/ZnO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "using CH313CH2OH/C2O4H mixtures on Cu/ZnO catalysts.",
+                "reason": "The catalyst Cu/ZnO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu sites also increase rates of C–H bond activation in acetaldehyde.",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu sites also increase rates of C–H bond activation in acetaldehyde.",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg5CeOx",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "On Mg5CeOx catalysts, ethanol is produced selectively over acetone.",
+                "reason": "The support Mg5CeOx is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg5CeOx",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "On Mg5CeOx catalysts, ethanol is produced selectively over acetone.",
+                "reason": "The support Mg5CeOx is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 10,
+            "not_supported": 0
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "paper": "Influence of surface acid and base sites on the Guerbet coupling of ethanol to butanol over metal phosphate catalysts",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The HAP catalyst exhibited the highest catalytic activity for butanol production",
+                "reason": "The catalyst HAP is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The MgO catalyst was the least active among all of the catalysts tested",
+                "reason": "The catalyst MgO is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr3(PO4)2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The inﬂuence of cations in the metal phosphate catalysts was also explored by investigating the catalytic activity of Mg- and Sr-phosphate",
+                "reason": "The catalyst Sr3(PO4)2 is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "b-TCP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The b-TCP catalyst had the lowest surface coverage of CO2",
+                "reason": "The catalyst b-TCP is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "FAP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The b-TCP and FAP catalysts were 3 times less active on an area basis",
+                "reason": "The catalyst FAP is explicitly identified and discussed in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg3(PO4)2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The inﬂuence of cations in the metal phosphate catalysts was also explored by investigating the catalytic activity of Mg- and Sr-phosphate",
+                "reason": "The catalyst Mg3(PO4)2 is explicitly identified and discussed in the context."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 6,
+            "incorrect": 0
+        }
+    }
+}

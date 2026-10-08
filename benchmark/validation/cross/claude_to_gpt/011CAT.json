@@ -1,0 +1,71 @@
+{
+    "paper": "011CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the density, nature and strength of surface base sites of MgO",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO calcined at 673 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO-673",
+                "reason": "The catalyst MgO-673 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO calcined at 773 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO-773",
+                "reason": "The catalyst MgO-773 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO calcined at 873 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "MgO-873",
+                "reason": "The catalyst MgO-873 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni/Kieselghur",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a methanation catalyst (Ni/Kieselghur)",
+                "reason": "The catalyst Ni/Kieselghur is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg(OH)2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Mg(OH)2 was decomposed",
+                "reason": "The catalyst Mg(OH)2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the density, nature and strength of surface base sites of MgO",
+                "reason": "The support MgO is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 7,
+            "incorrect": 0
+        }
+    }
+}

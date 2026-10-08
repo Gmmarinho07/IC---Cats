@@ -1,0 +1,63 @@
+{
+    "paper": "Development of a thermodynamic approach to assist the contrrol of precipitation of hydroxyappatites and associated calcium phospates in open systems",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAp(s) = 5Ca2+(aq) + 3PO3−4(aq) + HO−(aq)",
+                "reason": "The catalyst Hydroxyapatite is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Amorphous calcium phosphate",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the identification of Amorphous calcium phosphate as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Octacalcium phosphate",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the identification of Octacalcium phosphate as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Dicalcium phosphate dihydrate",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the identification of Dicalcium phosphate dihydrate as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Dicalcium phosphate anhydrous",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide explicit evidence for the identification of Dicalcium phosphate anhydrous as a catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium-deficient hydroxyapatite",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "also referred to as calcium-deficient hydroxyapatite (CDHAp, x = 0–1 and Ca/P = 1.67–1.50)",
+                "reason": "The context refers to Calcium-deficient hydroxyapatite but does not explicitly identify it as a catalyst."
+            }
+        ],
+        "summary": {
+            "partial": 1,
+            "incorrect": 0,
+            "correct": 1,
+            "not_supported": 4
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "paper": "036CAT",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "anatase titania",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The kinetics of aldol condensation of acetaldehyde were studied over anatase titania (TiO2), hydroxyapatite (HAP), and magnesia (MgO).",
+                "reason": "The catalyst 'anatase titania' is explicitly identified in the abstract and throughout the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "anatase titania (TiO2)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The kinetics of aldol condensation of acetaldehyde were studied over anatase titania (TiO2), hydroxyapatite (HAP), and magnesia (MgO).",
+                "reason": "The raw name 'anatase titania (TiO2)' matches the text exactly as it appears in the abstract."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The kinetics of aldol condensation of acetaldehyde were studied over anatase titania (TiO2), hydroxyapatite (HAP), and magnesia (MgO).",
+                "reason": "The catalyst 'hydroxyapatite' is explicitly identified in the abstract and throughout the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "hydroxyapatite (HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The kinetics of aldol condensation of acetaldehyde were studied over anatase titania (TiO2), hydroxyapatite (HAP), and magnesia (MgO).",
+                "reason": "The raw name 'hydroxyapatite (HAP)' matches the text exactly as it appears in the abstract."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "magnesia",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The kinetics of aldol condensation of acetaldehyde were studied over anatase titania (TiO2), hydroxyapatite (HAP), and magnesia (MgO).",
+                "reason": "The catalyst 'magnesia' is explicitly identified in the abstract and throughout the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "magnesia (MgO)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The kinetics of aldol condensation of acetaldehyde were studied over anatase titania (TiO2), hydroxyapatite (HAP), and magnesia (MgO).",
+                "reason": "The raw name 'magnesia (MgO)' matches the text exactly as it appears in the abstract."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "anatase titania",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "The condensation reaction was studied over three catalysts: anatase TiO2, HAP, and MgO.",
+                "reason": "Anatase titania (TiO2) is explicitly identified as a catalyst in the article, not as a support material. There is no evidence in the context that TiO2 functions as a support for another active metal."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "TiO2",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "The condensation reaction was studied over three catalysts: anatase TiO2, HAP, and MgO.",
+                "reason": "TiO2 is used as a standalone catalyst in this study, not as a support. Classifying it as a support is not supported by the article context."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 6,
+            "incorrect": 2
+        }
+    }
+}

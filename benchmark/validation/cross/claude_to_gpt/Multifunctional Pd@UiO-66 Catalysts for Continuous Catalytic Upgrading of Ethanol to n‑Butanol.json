@@ -1,0 +1,135 @@
+{
+    "paper": "Multifunctional Pd@UiO-66 Catalysts for Continuous Catalytic Upgrading of Ethanol to n‑Butanol",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "M-CeO2/AC (M = Cu, Fe, Co, Ni and Pd)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "M-CeO2/AC (M = Cu, Fe, Co, Ni and Pd) catalysts developed by our group exhibited a selectivity dependence on the synergy of metal sites and CeO2 basic sites.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd-CeO2/AC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The highest selectivity to n-butanol (67.6%) was achieved over Pd-CeO2/AC catalyst at 523 K and 2.0 MPa.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.5 wt %Pd@UiO-66",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Pd-NPs with a mean diameter of 1.8 nm were evenly dispersed over the reduced 0.5 and 2 wt %Pd@UiO-66 catalyst.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2 wt %Pd@UiO-66",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the reduced 2 wt % Pd/UiO-66 catalyst, larger and unevenly distributed Pd-NPs with the size of 5.0 nm were observed dominantly on the external surface of UiO-66.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "3 wt %Pd@UiO-66",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Even for the catalyst with high Pd loading (3 wt %Pd@UiO-66), the average particle size of Pd-NPs was only 2.7 nm.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "2 wt %Pd/UiO-66",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The higher BE value of Pd 3d over the 2 wt %Pd@UiO-66 catalyst than that over the 2 wt %Pd/UiO-66 catalyst (335.9 vs 335.6 eV).",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "UiO-66",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "UiO-66 consists of 12-connected Zr6(μ3-O)4(μ3-OH)4 inorganic nodes coordinated by 1,4-benzene-dicarboxylate (BDC) linkers.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd/UiO-66",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The 2 wt %Pd/UiO-66 catalyst displayed a similar NH3 desorption pattern as that on UiO-66.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Pd@UiO-66",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The high dispersion of Pd-NPs over the Pd@UiO-66 catalysts stems from the interaction of Pd precursors with μ3−OH groups of the Zr6 nodes.",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Pd",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Pd metals improved the basicity of CeO2 because of their strong capabilities of hydrogen activation and spillover.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "M-CeO2/AC (M = Cu, Fe, Co, Ni and Pd) catalysts developed by our group exhibited a selectivity dependence on the synergy of metal sites and CeO2 basic sites.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Fe",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "M-CeO2/AC (M = Cu, Fe, Co, Ni and Pd) catalysts developed by our group exhibited a selectivity dependence on the synergy of metal sites and CeO2 basic sites.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Co",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "M-CeO2/AC (M = Cu, Fe, Co, Ni and Pd) catalysts developed by our group exhibited a selectivity dependence on the synergy of metal sites and CeO2 basic sites.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "M-CeO2/AC (M = Cu, Fe, Co, Ni and Pd) catalysts developed by our group exhibited a selectivity dependence on the synergy of metal sites and CeO2 basic sites.",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "UiO-66",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "UiO-66 consists of 12-connected Zr6(μ3-O)4(μ3-OH)4 inorganic nodes coordinated by 1,4-benzene-dicarboxylate (BDC) linkers.",
+                "reason": "The support is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 15,
+            "incorrect": 0
+        }
+    }
+}

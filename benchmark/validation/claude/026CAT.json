@@ -1,0 +1,95 @@
+{
+    "paper": "026CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium-iron-modified Mg-Al based-hydrotalcite precursor",
+                "field": "catalyst",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The extracted catalyst name does not match the context; the correct name is 'Ca20Fe20MgAl-LDH' which is explicitly mentioned in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca20Fe20MgAl-LDH",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The gel was dried overnight under vacuum at 40 ◦C and then, the powder was milled and sieved (100-80 MESH) and labeled as Ca20Fe20MgAl-LDH.",
+                "reason": "The raw name is explicitly supported by the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Non-modified mixed oxide hydrotalcite-base precursor",
+                "field": "catalyst",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The extracted catalyst name does not match the context; the correct name is 'MgAl-LDH' which is explicitly mentioned in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAl-LDH",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Another non-modified mixed oxide hydrotalcite-base precursor, MgAl-LDH, was synthesized using the same divalent-trivalent cation ratio.",
+                "reason": "The raw name is explicitly supported by the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcium-iron-modified mixed oxide catalyst",
+                "field": "catalyst",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The extracted catalyst name does not match the context; the correct name is 'Ca20Fe20MgAl-Ox' which is explicitly mentioned in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ca20Fe20MgAl-Ox",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The resulting hydrotalcites were calcined at 400 ◦C... deriving in mixed oxides catalysts designated as Ca20Fe20MgAl-Ox.",
+                "reason": "The raw name is explicitly supported by the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mixed oxide catalyst",
+                "field": "catalyst",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The extracted catalyst name does not match the context; the correct name is 'MgAl-Ox' which is explicitly mentioned in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgAl-Ox",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "The resulting hydrotalcites were calcined at 400 ◦C... deriving in mixed oxides catalysts designated as MgAl-Ox.",
+                "reason": "The raw name is explicitly supported by the article context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg-Al based-hydrotalcite",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not explicitly identify 'Mg-Al based-hydrotalcite' as a support; it refers to hydrotalcite precursors and catalysts without establishing this as a support."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Ca20Fe20MgAl-Ox",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "",
+                "reason": "The extracted raw name does not correspond to a support; it is a catalyst name."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 5,
+            "correct": 4,
+            "not_supported": 1
+        }
+    }
+}

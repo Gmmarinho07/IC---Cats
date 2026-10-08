@@ -1,0 +1,87 @@
+{
+    "paper": "010CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Table 4 shows that ethylene is readily formed on alumina, which is a typical E2 catalyst (33).",
+                "reason": "The catalyst 'alumina' is explicitly identified in the text as a catalyst for ethylene formation."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The high-temperature peak is predominant on pure MgO, representing 59.3% of the total evolved CO2.",
+                "reason": "The catalyst 'MgO' is explicitly identified in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The alumina sample is especially active for producing ethylene.",
+                "reason": "The catalyst 'Al2O3' is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "calcined hydrotalcite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ethanol is converted on Mg-Al calcined hydrotalcites via three main groups of reactions.",
+                "reason": "The catalyst 'calcined hydrotalcite' is explicitly identified in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite CHT1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The effect of contact time on the product distribution was investigated using sample CHT4.",
+                "reason": "The catalyst 'Mg-Al calcined hydrotalcite CHT1' is explicitly identified in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite CHT2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The effect of contact time on the product distribution was investigated using sample CHT4.",
+                "reason": "The catalyst 'Mg-Al calcined hydrotalcite CHT2' is explicitly identified in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite CHT3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The effect of contact time on the product distribution was investigated using sample CHT4.",
+                "reason": "The catalyst 'Mg-Al calcined hydrotalcite CHT3' is explicitly identified in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite CHT4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The effect of contact time on the product distribution was investigated using sample CHT4.",
+                "reason": "The catalyst 'Mg-Al calcined hydrotalcite CHT4' is explicitly identified in the context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg-Al calcined hydrotalcite CHT5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The formation rate of ethylene and diethyl ether on CHT samples increase with the Al content.",
+                "reason": "The catalyst 'Mg-Al calcined hydrotalcite CHT5' is explicitly identified in the context."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 9,
+            "incorrect": 0
+        }
+    }
+}

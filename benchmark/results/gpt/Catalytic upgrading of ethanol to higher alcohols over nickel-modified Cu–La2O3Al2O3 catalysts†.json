@@ -22,8 +22,13 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "NiO–La2O3/Al2O3",
-                "raw_name": "NiO–La2O3/Al2O3",
+                "catalyst": "CuO/Al2O3",
+                "raw_name": "CuO/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuO–NiO/Al2O3",
+                "raw_name": "CuO–NiO/Al2O3",
                 "article_identifiers": []
             },
             {
@@ -40,23 +45,13 @@
                 "catalyst": "0.32%NiO–Cu–La2O3/Al2O3",
                 "raw_name": "0.32%NiO–Cu–La2O3/Al2O3",
                 "article_identifiers": []
-            },
-            {
-                "catalyst": "CuO/Al2O3",
-                "raw_name": "CuO/Al2O3",
-                "article_identifiers": []
-            },
-            {
-                "catalyst": "CuO–NiO/Al2O3",
-                "raw_name": "CuO–NiO/Al2O3",
-                "article_identifiers": []
             }
         ]
     },
     "metal_support": {
         "metal": [
             {
-                "name": "Ni",
+                "name": "NiO",
                 "raw_name": "NiO",
                 "article_identifiers": []
             },
@@ -67,7 +62,7 @@
             }
         ],
         "support": {
-            "name": "Alumina",
+            "name": "Al2O3",
             "raw_name": "Al2O3",
             "article_identifiers": []
         }

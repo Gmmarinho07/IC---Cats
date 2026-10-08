@@ -1,0 +1,52 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "Au/MgCuCr2O4",
+                "raw_name": "Au/MgCuCr2O4",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu-MFI-AE (silicalite-1)",
+                "raw_name": "Cu-MFI-AE (silicalite-1)",
+                "article_identifiers": [
+                    "Cu-MFI-AE"
+                ]
+            },
+            {
+                "catalyst": "Cu-SiO2-AE",
+                "raw_name": "Cu-SiO2-AE",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Cu/MFI-IM",
+                "raw_name": "Cu/MFI-IM",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CuO",
+                "raw_name": "CuO",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "Cu",
+                "article_identifiers": []
+            },
+            {
+                "name": "Au",
+                "raw_name": "Au",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MFI",
+            "raw_name": "MFI",
+            "article_identifiers": []
+        }
+    }
+}

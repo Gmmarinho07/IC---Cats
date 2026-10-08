@@ -1,0 +1,44 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "HAP-1",
+                "raw_name": "HAP-1",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP-2",
+                "raw_name": "HAP-2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP-3",
+                "raw_name": "HAP-3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "HAP-4",
+                "raw_name": "HAP-4",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "CaO",
+                "raw_name": "CaO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "β-TCP",
+                "raw_name": "β-TCP",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "HAP",
+            "article_identifiers": []
+        }
+    }
+}

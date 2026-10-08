@@ -1,0 +1,120 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "MgAl-LDHs",
+                "raw_name": "MgAl-LDHs",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg(OH)2",
+                "raw_name": "Mg(OH)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "AlO(OH)",
+                "raw_name": "AlO(OH)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag+/MgAl-LDHs",
+                "raw_name": "Ag+/MgAl-LDHs",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag+/Mg(OH)2",
+                "raw_name": "Ag+/Mg(OH)2",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag+/AlO(OH)",
+                "raw_name": "Ag+/AlO(OH)",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/Mg2Al-LDO",
+                "raw_name": "Ag/Mg2Al-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/Mg3Al-LDO",
+                "raw_name": "Ag/Mg3Al-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/Mg4Al-LDO",
+                "raw_name": "Ag/Mg4Al-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/Mg2.23Al-LDO",
+                "raw_name": "Ag/Mg2.23Al-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/Mg3.17Al-LDO",
+                "raw_name": "Ag/Mg3.17Al-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/Mg4.15Al-LDO",
+                "raw_name": "Ag/Mg4.15Al-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/Al2O3",
+                "raw_name": "Ag/Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Ag/MgO",
+                "raw_name": "Ag/MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg4Al-LDO",
+                "raw_name": "Mg4Al-LDO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Al2O3",
+                "raw_name": "Al2O3",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "MgO",
+                "raw_name": "MgO",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg2.23Al-LDHs",
+                "raw_name": "Mg2.23Al-LDHs",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg3.17Al-LDHs",
+                "raw_name": "Mg3.17Al-LDHs",
+                "article_identifiers": []
+            },
+            {
+                "catalyst": "Mg4.15Al-LDHs",
+                "raw_name": "Mg4.15Al-LDHs",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Ag",
+                "raw_name": "Ag",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgAl-LDO",
+            "raw_name": "MgAl-LDO",
+            "article_identifiers": []
+        }
+    }
+}

@@ -27,38 +27,13 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "Ca10(PO4)6(OH)2",
-                "raw_name": "Ca10(PO4)6(OH)2",
-                "article_identifiers": []
-            },
-            {
-                "catalyst": "Sr10(PO4)6(OH)2",
-                "raw_name": "Sr10(PO4)6(OH)2",
-                "article_identifiers": []
-            },
-            {
-                "catalyst": "Ca10(VO4)6(OH)2",
-                "raw_name": "Ca10(VO4)6(OH)2",
-                "article_identifiers": []
-            },
-            {
-                "catalyst": "Sr10(VO4)6(OH)2",
-                "raw_name": "Sr10(VO4)6(OH)2",
-                "article_identifiers": []
-            },
-            {
                 "catalyst": "Sr−HAP",
                 "raw_name": "Sr−HAP",
                 "article_identifiers": []
             },
             {
-                "catalyst": "HAP-W",
-                "raw_name": "HAP-W",
-                "article_identifiers": []
-            },
-            {
-                "catalyst": "Cu-HAP",
-                "raw_name": "Cu-HAP",
+                "catalyst": "HAP−W",
+                "raw_name": "HAP−W",
                 "article_identifiers": []
             },
             {
@@ -92,7 +67,7 @@
                 "article_identifiers": []
             },
             {
-                "catalyst": "β-Ca3(PO4)2",
+                "catalyst": "β-Ca3 (PO4)2",
                 "raw_name": "β-Ca3 (PO4)2",
                 "article_identifiers": []
             },

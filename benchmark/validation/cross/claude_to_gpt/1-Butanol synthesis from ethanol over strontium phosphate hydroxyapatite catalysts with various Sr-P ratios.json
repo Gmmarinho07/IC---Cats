@@ -1,0 +1,87 @@
+{
+    "paper": "1-Butanol synthesis from ethanol over strontium phosphate hydroxyapatite catalysts with various Sr-P ratios",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Strontium phosphate hydroxyapatite (Sr-HAP) with Sr/P molar ratio 1.58",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.58)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Strontium phosphate hydroxyapatite (Sr-HAP) with Sr/P molar ratio 1.64",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.64)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Strontium phosphate hydroxyapatite (Sr-HAP) with Sr/P molar ratio 1.67",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.67)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Strontium phosphate hydroxyapatite (Sr-HAP) with Sr/P molar ratio 1.70",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.70)",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP-NH3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Sr-HAP-NH3",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "SrO/SiO2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "SrO/SiO2",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Strontium phosphate hydroxyapatite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP)",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Strontium phosphate hydroxyapatite (Sr-HAP)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP)",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Sr-HAP",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "Sr-HAP",
+                "reason": "The article explicitly associates Sr-HAP with the support."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 9,
+            "incorrect": 0
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "paper": "1-Butanol synthesis from ethanol over strontium phosphate hydroxyapatite catalysts with various Sr-P ratios",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Strontium phosphate hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared using hydrothermal methods described previously",
+                "reason": "The article explicitly identifies 'Strontium phosphate hydroxyapatite' as the full name of the Sr-HAP catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared using hydrothermal methods",
+                "reason": "The raw name 'Sr-HAP' is explicitly used in the article as the abbreviation for strontium phosphate hydroxyapatite."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Strontium phosphate hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared",
+                "reason": "The article explicitly identifies strontium phosphate hydroxyapatite as the catalyst material, and Sr-HAP (1.58) is one of the variants with a specific Sr/P molar ratio."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP (1.58)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.58) 1.50 9.5 6.0 0.50 1.58 30.8",
+                "reason": "The raw name 'Sr-HAP (1.58)' appears explicitly in Table 1 and throughout the results section."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Strontium phosphate hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared",
+                "reason": "Sr-HAP (1.64) is explicitly listed as one of the Sr-HAP catalysts with a specific Sr/P molar ratio in Table 1 and the results section."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP (1.64)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.64) 1.60 9.8 6.0 0.28 1.64 29.6",
+                "reason": "The raw name 'Sr-HAP (1.64)' appears explicitly in Table 1 and throughout the results section."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Strontium phosphate hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared",
+                "reason": "Sr-HAP (1.67) is explicitly listed as one of the Sr-HAP catalysts with a specific Sr/P molar ratio in Table 1 and the results section."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP (1.67)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.67) 1.67 10.0 6.0 0.04 1.67 29.4",
+                "reason": "The raw name 'Sr-HAP (1.67)' appears explicitly in Table 1 and throughout the results section."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Strontium phosphate hydroxyapatite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared",
+                "reason": "Sr-HAP (1.70) is explicitly listed as one of the Sr-HAP catalysts with a specific Sr/P molar ratio in Table 1 and the results section."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP (1.70)",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Sr-HAP (1.70) 2.00 10.2 6.0 n.d. 1.70 37.6",
+                "reason": "The raw name 'Sr-HAP (1.70)' appears explicitly in Table 1 and throughout the results section."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP-NH3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Sr-HAP-NH3 catalysts were prepared by the same method as Sr-HAP catalysts except for using NH3 instead of NaOH as the alkaline source.",
+                "reason": "The article explicitly identifies 'Sr-HAP-NH3' as a distinct catalyst preparation."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Sr-HAP-NH3",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Sr-HAP-NH3 catalysts were prepared by the same method as Sr-HAP catalysts except for using NH3 instead of NaOH as the alkaline source.",
+                "reason": "The raw name 'Sr-HAP-NH3' is explicitly used in the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Sr-HAP",
+                "field": "name",
+                "decision": "incorrect",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared using hydrothermal methods",
+                "reason": "In the article, Sr-HAP is described as the catalyst itself, not as a support material. There is no evidence in the context that Sr-HAP functions as a support for an active metal. Classifying it as a support is not supported by the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Sr-HAP",
+                "field": "raw_name",
+                "decision": "incorrect",
+                "evidence": "Strontium phosphate hydroxyapatite (Sr-HAP) with various Sr/P molar ratios was prepared using hydrothermal methods",
+                "reason": "While 'Sr-HAP' appears in the article, it is used as the catalyst name, not as a support. The classification of Sr-HAP as a support raw_name is not supported by the article context."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "not_supported": 0,
+            "correct": 12,
+            "incorrect": 2
+        }
+    }
+}

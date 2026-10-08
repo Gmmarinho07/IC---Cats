@@ -1,0 +1,23 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "stoichiometric hydroxyapatite",
+                "raw_name": "stoichiometric hydroxyapatite (HAp)",
+                "article_identifiers": [
+                    "HAp"
+                ]
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [],
+        "support": {
+            "name": "Hydroxyapatite",
+            "raw_name": "hydroxyapatite",
+            "article_identifiers": [
+                "HAp"
+            ]
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "paper": "010CAT",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Alumina",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Table 4 shows that ethylene is readily formed on alumina, which is a typical E2 catalyst (33).",
+                "reason": "Alumina is explicitly identified as a catalyst in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Calcined hydrotalcite",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Ethanol is converted on Mg-Al calcined hydrotalcites via three main groups of reactions: dehydrogenation, coupling, and dehydration.",
+                "reason": "Calcined hydrotalcites are explicitly identified as catalysts for ethanol conversion in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalytic results obtained on MgO, Al2O3, and CHT samples are shown in Table 4.",
+                "reason": "MgO is explicitly identified as a catalyst in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Al2O3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The catalytic results obtained on MgO, Al2O3, and CHT samples are shown in Table 4.",
+                "reason": "Al2O3 is explicitly identified as a catalyst in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CHT1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "On Mg-rich samples (samples CHT1 and CHT2), dehydration of ethanol to ethylene probably occurs via an E1cB mechanism.",
+                "reason": "CHT1 is explicitly identified as a catalyst sample in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CHT2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "On Mg-rich samples (samples CHT1 and CHT2), dehydration of ethanol to ethylene probably occurs via an E1cB mechanism.",
+                "reason": "CHT2 is explicitly identified as a catalyst sample in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CHT3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Sample CHT3 530.6 1.47 1.74 0.33 0.90 14.6 39.6 45.8 0.59",
+                "reason": "CHT3 is explicitly listed as a sample in Table 3 of the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CHT4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "condensation to form n-butanol reaches a maximum rate on sample CHT4.",
+                "reason": "CHT4 is explicitly identified as a catalyst sample in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CHT5",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Samples CHT5 and CHT4 contain a relatively high density of Al3+-O2− pairs and a lower density of strong basic sites.",
+                "reason": "CHT5 is explicitly identified as a catalyst sample in the article context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Alumina",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The article context does not explicitly identify alumina or Al2O3 as a support material. It is discussed as a standalone catalyst, not as a support for another active metal. There is no metal-support relationship established in the extraction or the article context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Al2O3",
+                "field": "raw_name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "While Al2O3 appears in the article, it is presented as a standalone catalyst, not as a support. The article does not establish Al2O3 as a support material in the context provided."
+            }
+        ],
+        "summary": {
+            "not_supported": 2,
+            "correct": 9,
+            "incorrect": 0,
+            "partial": 0
+        }
+    }
+}

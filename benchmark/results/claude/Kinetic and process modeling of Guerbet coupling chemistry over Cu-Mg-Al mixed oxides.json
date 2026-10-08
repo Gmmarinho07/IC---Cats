@@ -1,0 +1,25 @@
+{
+    "catalyst": {
+        "catalysts": [
+            {
+                "catalyst": "copper catalysts supported on Mg–Al mixed oxides",
+                "raw_name": "copper catalysts supported on Mg–Al mixed oxides",
+                "article_identifiers": []
+            }
+        ]
+    },
+    "metal_support": {
+        "metal": [
+            {
+                "name": "Cu",
+                "raw_name": "copper",
+                "article_identifiers": []
+            }
+        ],
+        "support": {
+            "name": "MgAl mixed oxides",
+            "raw_name": "Mg–Al mixed oxides",
+            "article_identifiers": []
+        }
+    }
+}

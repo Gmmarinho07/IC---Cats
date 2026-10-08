@@ -1,0 +1,111 @@
+{
+    "paper": "033CAT",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg5CeOx",
+                "field": "catalyst",
+                "decision": "partial",
+                "evidence": "competitive reactions between 12C2H5OH and 13C2H4O were carried out on 0.8 wt% K–Mg5CeOx",
+                "reason": "The article refers to this catalyst as 'K–Mg5CeOx' (with K loading), not simply 'Mg5CeOx'. The extracted catalyst name omits the K component that is consistently present in the article context. However, 'Mg5CeOx' does appear as a component name in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg5CeOx",
+                "field": "raw_name",
+                "decision": "partial",
+                "evidence": "On Mg5CeOx catalysts, ethanol is produced selectively over acetone.",
+                "reason": "The raw_name 'Mg5CeOx' does appear in the article, but the catalyst as used in experiments is consistently referred to with a K loading prefix (e.g., '0.8 wt% K–Mg5CeOx'). The raw_name partially matches but omits the K prefix used in experimental contexts."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "K–Cu0.5Mg5CeOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "competitive reactions between 12C2H5OH and 13C2H4O were carried out on 0.8 wt% K–Mg5CeOx, 1.0 wt% K–Cu0.5Mg5CeOx, and 1.2 wt% K–Cu7.5Mg5CeOx catalysts.",
+                "reason": "The catalyst K–Cu0.5Mg5CeOx is explicitly mentioned in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1.0 wt% K–Cu0.5Mg5CeOx",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "1.0 wt% K–Cu0.5Mg5CeOx",
+                "reason": "The raw_name exactly matches the text as it appears in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "K–Cu7.5Mg5CeOx",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "competitive reactions between 12C2H5OH and 13C2H4O were carried out on 0.8 wt% K–Mg5CeOx, 1.0 wt% K–Cu0.5Mg5CeOx, and 1.2 wt% K–Cu7.5Mg5CeOx catalysts.",
+                "reason": "The catalyst K–Cu7.5Mg5CeOx is explicitly mentioned in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1.2 wt% K–Cu7.5Mg5CeOx",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "1.2 wt% K–Cu7.5Mg5CeOx",
+                "reason": "The raw_name exactly matches the text as it appears in the article context."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/ZnO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Chung et al. (49), using CH313CH2OH/C2O4H mixtures on Cu/ZnO catalysts",
+                "reason": "Cu/ZnO is explicitly mentioned in the article context as a catalyst used in referenced work."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu/ZnO",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "using CH313CH2OH/C2O4H mixtures on Cu/ZnO catalysts",
+                "reason": "The raw_name 'Cu/ZnO' exactly matches the text as it appears in the article context."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu sites also increase rates of C–H bond activation in acetaldehyde.",
+                "reason": "Cu is explicitly identified as an active metal component in the catalysts discussed throughout the article."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "When Cu sites are present, ethanol selectivity decreases markedly",
+                "reason": "The raw_name 'Cu' matches the text as it appears in the article context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg5CeOx",
+                "field": "name",
+                "decision": "partial",
+                "evidence": "On Mg5CeOx catalysts, ethanol is produced selectively over acetone.",
+                "reason": "Mg5CeOx appears in the article as a component of the catalyst compositions (e.g., K–CuyMg5CeOx), but the article does not explicitly designate Mg5CeOx as a 'support' in a formal metal-support relationship. Its role as a support is inferable from the catalyst naming convention but not explicitly stated as such in the provided context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Mg5CeOx",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "On Mg5CeOx catalysts, ethanol is produced selectively over acetone.",
+                "reason": "The raw_name 'Mg5CeOx' exactly matches the text as it appears in the article context."
+            }
+        ],
+        "summary": {
+            "partial": 3,
+            "not_supported": 0,
+            "correct": 9,
+            "incorrect": 0
+        }
+    }
+}

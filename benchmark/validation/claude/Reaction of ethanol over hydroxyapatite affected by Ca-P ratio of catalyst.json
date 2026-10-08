@@ -1,0 +1,79 @@
+{
+    "paper": "Reaction of ethanol over hydroxyapatite affected by Ca-P ratio of catalyst",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP-1",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP-1",
+                "reason": "The catalyst HAP-1 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP-2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP-2",
+                "reason": "The catalyst HAP-2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP-3",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP-3",
+                "reason": "The catalyst HAP-3 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HAP-4",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "HAP-4",
+                "reason": "The catalyst HAP-4 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "CaO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "CaO",
+                "reason": "The catalyst CaO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "β-TCP",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "β-TCP",
+                "reason": "The catalyst β-TCP is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "Hydroxyapatite",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The term Hydroxyapatite is not explicitly mentioned in the context; only HAP is used."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "HAP",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "HAP",
+                "reason": "The raw name HAP is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 7,
+            "not_supported": 1
+        }
+    }
+}

@@ -39,10 +39,16 @@
         ]
     },
     "metal_support": {
-        "metal": [],
+        "metal": [
+            {
+                "name": "Al3+",
+                "raw_name": "Al3+",
+                "article_identifiers": []
+            }
+        ],
         "support": {
-            "name": "MgO",
-            "raw_name": "MgO",
+            "name": "MgyAlOx",
+            "raw_name": "MgyAlOx",
             "article_identifiers": []
         }
     }

@@ -1,0 +1,95 @@
+{
+    "paper": "012MCN",
+    "extraction_model": "gpt",
+    "judge_model": "claude",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-sol–gel",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Four samples were studied: MgO-sol–gel, MgO-precipitation, MgO-hydration, and MgO-CVD, so named according to the preparation method",
+                "reason": "MgO-sol–gel is explicitly identified as a catalyst sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-sol–gel",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Four samples were studied: MgO-sol–gel, MgO-precipitation, MgO-hydration, and MgO-CVD",
+                "reason": "The raw name MgO-sol–gel matches exactly the text as written in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-precipitation",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Four samples were studied: MgO-sol–gel, MgO-precipitation, MgO-hydration, and MgO-CVD, so named according to the preparation method",
+                "reason": "MgO-precipitation is explicitly identified as a catalyst sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-precipitation",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Four samples were studied: MgO-sol–gel, MgO-precipitation, MgO-hydration, and MgO-CVD",
+                "reason": "The raw name MgO-precipitation matches exactly the text as written in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-hydration",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Four samples were studied: MgO-sol–gel, MgO-precipitation, MgO-hydration, and MgO-CVD, so named according to the preparation method",
+                "reason": "MgO-hydration is explicitly identified as a catalyst sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-hydration",
+                "field": "raw_name",
+                "decision": "partial",
+                "evidence": "MgO-hydratation",
+                "reason": "The article uses 'MgO-hydratation' (with an extra 'a') in Table 1, while the extracted raw_name is 'MgO-hydration'. The article uses both forms: 'MgO-hydration' in the experimental section and 'MgO-hydratation' in Table 1. The raw_name does not fully preserve all textual representations found in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-CVD",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Four samples were studied: MgO-sol–gel, MgO-precipitation, MgO-hydration, and MgO-CVD, so named according to the preparation method",
+                "reason": "MgO-CVD is explicitly identified as a catalyst sample in the article."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO-CVD",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Four samples were studied: MgO-sol–gel, MgO-precipitation, MgO-hydration, and MgO-CVD",
+                "reason": "The raw name MgO-CVD matches exactly the text as written in the article."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "While MgO appears throughout the article as the primary material studied, it is used as the catalyst itself rather than as a support for an active metal. The article does not identify MgO as a support in any metal-support relationship. Classifying MgO as a support is not explicitly supported by the article context."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "raw_name",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "Although 'MgO' appears in the article, it is not identified as a support material. The article treats MgO as the catalyst, not as a support for an active metal. The raw_name classification as a support is not supported by the article context."
+            }
+        ],
+        "summary": {
+            "not_supported": 2,
+            "correct": 7,
+            "incorrect": 0,
+            "partial": 1
+        }
+    }
+}

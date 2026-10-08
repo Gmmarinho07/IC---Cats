@@ -1,0 +1,119 @@
+{
+    "paper": "022CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.1CuMMO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "the aging was done for 20 h in a 1 L bottle at 60 ◦C with stirring, for 0.1CuMMO",
+                "reason": "The catalyst 0.1CuMMO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.3CuMMO(vl)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "for 0.3CuMMO(vl) and 0.3CuMMO(l) catalyst, aging was done at 60 ◦C for 12 h",
+                "reason": "The catalyst 0.3CuMMO(vl) is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.3CuMMO(l)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "for 0.3CuMMO(vl) and 0.3CuMMO(l) catalyst, aging was done at 60 ◦C for 12 h",
+                "reason": "The catalyst 0.3CuMMO(l) is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.3CuMMO(h)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "for 0.3CuMMO(h) the resultant gel was redispersed in 1 L of acetone at 60 ◦C for 2 h after washing.",
+                "reason": "The catalyst 0.3CuMMO(h) is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.3CuMMO(i)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "For the 0.3CuMMO(i) catalyst, Cu addition was done using incipient wetness impregnation",
+                "reason": "The catalyst 0.3CuMMO(i) is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0CuMMO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a physical mixture of 0CuMMO catalyst (no Cu content) with 1.2CuMMO catalyst was prepared",
+                "reason": "The catalyst 0CuMMO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "1.2CuMMO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "a physical mixture of 0CuMMO catalyst (no Cu content) with 1.2CuMMO catalyst was prepared",
+                "reason": "The catalyst 1.2CuMMO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.1CuMMO(pm)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "This mixture was labeled 0.1CuMMO(pm).",
+                "reason": "The catalyst 0.1CuMMO(pm) is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "0.3CuMMO(m)",
+                "field": "catalyst",
+                "decision": "not_supported",
+                "evidence": "",
+                "reason": "The context does not provide sufficient explicit evidence to validate the extracted information for 0.3CuMMO(m)."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu addition was done using incipient wetness impregnation by dropwise addition of Cu(NO3)2.3(H2O)",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu addition was done using incipient wetness impregnation by dropwise addition of Cu(NO3)2.3(H2O)",
+                "reason": "The metal Cu is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAl hydrotalcite",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "Cu addition was done using incipient wetness impregnation by dropwise addition of Cu(NO3)2.3(H2O) aqueous solution to MgAl hydrotalcite",
+                "reason": "The support MgAl hydrotalcite is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgAl hydrotalcite",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "Cu addition was done using incipient wetness impregnation by dropwise addition of Cu(NO3)2.3(H2O) aqueous solution to MgAl hydrotalcite",
+                "reason": "The support MgAl hydrotalcite is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 12,
+            "not_supported": 1
+        }
+    }
+}

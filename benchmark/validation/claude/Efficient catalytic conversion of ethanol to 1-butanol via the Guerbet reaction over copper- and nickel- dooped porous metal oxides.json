@@ -1,0 +1,103 @@
+{
+    "paper": "Efficient catalytic conversion of ethanol to 1-butanol via the Guerbet reaction over copper- and nickel- dooped porous metal oxides",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "porous metal oxides (PMO)",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "several novel compositions of porous metal oxides (PMO) as highly active and selective catalysts",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "PMO",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "several novel compositions of porous metal oxides (PMO) as highly active and selective catalysts",
+                "reason": "The article explicitly associates PMO with the catalyst."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Cu-Ni PMOs",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "catalysts containing both copper and nickel",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "HTC",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The HTC alone was also active",
+                "reason": "The catalyst is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "catalysts containing both copper and nickel",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Cu",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "catalysts containing both copper and nickel",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "catalysts containing both copper and nickel",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "metal",
+                "extracted_value": "Ni",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "catalysts containing both copper and nickel",
+                "reason": "The metal is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "PMO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "several novel compositions of porous metal oxides (PMO)",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "porous metal oxides",
+                "field": "raw_name",
+                "decision": "correct",
+                "evidence": "several novel compositions of porous metal oxides (PMO)",
+                "reason": "The support is explicitly identified in the text."
+            },
+            {
+                "entity_type": "article_identifier",
+                "extracted_value": "PMO",
+                "field": "article_identifiers",
+                "decision": "correct",
+                "evidence": "several novel compositions of porous metal oxides (PMO)",
+                "reason": "The article explicitly associates PMO with the support."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 11,
+            "not_supported": 0
+        }
+    }
+}

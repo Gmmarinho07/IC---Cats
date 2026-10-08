@@ -1,3 +1,32 @@
+"""
+run_judge.py
+
+Executa o Agente 3 em validação cruzada.
+
+Experimentos:
+
+    GPT extraction    -> Claude judge
+    Claude extraction -> GPT judge
+
+Os resultados antigos GPT -> GPT são preservados.
+
+Estrutura:
+
+benchmark/
+├── results/
+│   ├── gpt/
+│   └── claude/
+│
+├── contexts/
+│
+└── validation/
+    ├── gpt/
+    │   └── resultados antigos GPT -> GPT
+    │
+    └── cross/
+        ├── gpt_to_claude/
+        └── claude_to_gpt/
+"""
 
 import json
 from pathlib import Path
@@ -5,138 +34,436 @@ from pathlib import Path
 from agents.validation_judge import validate
 
 
-# =========================
+# =====================================================
 # CONFIGURAÇÕES
-# =========================
+# =====================================================
 
 RESULTS_FOLDER = Path("benchmark/results")
+
 CONTEXT_FOLDER = Path("benchmark/contexts")
-VALIDATION_FOLDER = Path("benchmark/validation")
 
-# Modelos cujas extrações serão avaliadas.
-EXTRACTION_MODELS = ["gpt"]
-
-# Por enquanto, todas as validações serão feitas pelo GPT.
-JUDGE_MODEL = "gpt"
+VALIDATION_FOLDER = Path(
+    "benchmark/validation/cross"
+)
 
 
-# =========================
+# =====================================================
+# VALIDAÇÃO CRUZADA
+# =====================================================
+
+EXPERIMENTS = {
+    "gpt_to_claude": {
+        "extraction_model": "gpt",
+        "judge_model": "claude"
+    },
+
+    "claude_to_gpt": {
+        "extraction_model": "claude",
+        "judge_model": "gpt"
+    }
+}
+
+
+# =====================================================
 # FUNÇÕES AUXILIARES
-# =========================
+# =====================================================
 
 def load_json(file_path):
-    """Carrega um arquivo JSON."""
-    with open(file_path, "r", encoding="utf-8") as file:
+
+    with open(
+        file_path,
+        "r",
+        encoding="utf-8"
+    ) as file:
+
         return json.load(file)
 
 
 def save_json(data, file_path):
-    """Salva os resultados da validação em JSON."""
-    file_path.parent.mkdir(parents=True, exist_ok=True)
 
-    with open(file_path, "w", encoding="utf-8") as file:
-        json.dump(data, file, ensure_ascii=False, indent=4)
+    file_path.parent.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    with open(
+        file_path,
+        "w",
+        encoding="utf-8"
+    ) as file:
+
+        json.dump(
+            data,
+            file,
+            ensure_ascii=False,
+            indent=4
+        )
 
 
-# =========================
-# PROCESSAMENTO
-# =========================
+# =====================================================
+# PROCESSAMENTO DE UM ARTIGO
+# =====================================================
 
-def process_file(model, result_path):
-    """Valida a extração de um artigo usando o GPT."""
+def process_file(
+    result_path,
+    extraction_model,
+    judge_model,
+    output_folder
+):
 
     paper_name = result_path.stem
 
-    context_path = CONTEXT_FOLDER / f"{paper_name}.txt"
+    context_path = (
+        CONTEXT_FOLDER
+        / f"{paper_name}.txt"
+    )
+
     output_path = (
-        VALIDATION_FOLDER
-        / model
+        output_folder
         / f"{paper_name}.json"
     )
 
-    print(f"\n{'=' * 60}")
-    print(f"Artigo: {paper_name}")
-    print(f"Modelo de extração: {model}")
-    print(f"Modelo juiz: {JUDGE_MODEL}")
-    print(f"{'=' * 60}")
+    print("\n" + "=" * 70)
 
-    # Evita reprocessar resultados já validados.
+    print(
+        f"Artigo: {paper_name}"
+    )
+
+    print(
+        f"Extração: {extraction_model.upper()}"
+    )
+
+    print(
+        f"Juiz: {judge_model.upper()}"
+    )
+
+    print("=" * 70)
+
+    # -------------------------------------------------
+    # EVITA REPETIÇÃO
+    # -------------------------------------------------
+
     if output_path.exists():
-        print(f"[SKIP] Validação já existe: {output_path}")
-        return
 
-    # Verifica se o contexto do artigo existe.
+        print(
+            f"[SKIP] Já existe: "
+            f"{output_path}"
+        )
+
+        return "skipped"
+
+    # -------------------------------------------------
+    # VERIFICA CONTEXTO
+    # -------------------------------------------------
+
     if not context_path.exists():
-        print(f"[ERRO] Contexto não encontrado: {context_path}")
-        return
+
+        print(
+            f"[ERRO] Contexto não encontrado: "
+            f"{context_path}"
+        )
+
+        return "error"
 
     try:
-        # Carrega a extração produzida pelo modelo.
-        extraction = load_json(result_path)
 
-        # Carrega o contexto textual do artigo.
-        context = context_path.read_text(encoding="utf-8")
+        # -------------------------------------------------
+        # CARREGA EXTRAÇÃO
+        # -------------------------------------------------
 
-        # Executa o agente juiz.
+        extraction = load_json(
+            result_path
+        )
+
+        # -------------------------------------------------
+        # CARREGA CONTEXTO
+        # -------------------------------------------------
+
+        context = context_path.read_text(
+            encoding="utf-8"
+        )
+
+        # -------------------------------------------------
+        # EXECUTA AGENTE 3
+        # -------------------------------------------------
+
         validation_result = validate(
             context=context,
             extraction=extraction,
-            model=JUDGE_MODEL
+            model=judge_model
         )
 
-        # Organiza o resultado final.
+        # -------------------------------------------------
+        # ORGANIZA RESULTADO
+        # -------------------------------------------------
+
         output = {
+
             "paper": paper_name,
-            "extraction_model": model,
-            "judge_model": JUDGE_MODEL,
-            "validation": validation_result
+
+            "extraction_model":
+                extraction_model,
+
+            "judge_model":
+                judge_model,
+
+            "validation":
+                validation_result
         }
 
-        # Salva o JSON de validação.
-        save_json(output, output_path)
+        # -------------------------------------------------
+        # SALVA
+        # -------------------------------------------------
 
-        print(f"[OK] Validação salva em: {output_path}")
+        save_json(
+            output,
+            output_path
+        )
+
+        print(
+            f"[OK] Validação salva em:"
+        )
+
+        print(
+            output_path
+        )
+
+        return "processed"
 
     except Exception as error:
-        print(f"[ERRO] Falha ao validar {paper_name}: {error}")
+
+        print(
+            f"[ERRO] Falha em "
+            f"{paper_name}: {error}"
+        )
+
+    return "errors"
 
 
-# =========================
-# EXECUÇÃO PRINCIPAL
-# =========================
+# =====================================================
+# EXECUTA UM EXPERIMENTO
+# =====================================================
+
+def run_experiment(
+    experiment_name,
+    extraction_model,
+    judge_model
+):
+
+    print("\n")
+    print("#" * 70)
+
+    print(
+        f"EXPERIMENTO: "
+        f"{experiment_name}"
+    )
+
+    print(
+        f"Extração: "
+        f"{extraction_model.upper()}"
+    )
+
+    print(
+        f"Juiz: "
+        f"{judge_model.upper()}"
+    )
+
+    print("#" * 70)
+
+    # -------------------------------------------------
+    # PASTA DAS EXTRAÇÕES
+    # -------------------------------------------------
+
+    results_folder = (
+        RESULTS_FOLDER
+        / extraction_model
+    )
+
+    if not results_folder.exists():
+
+        print(
+            f"[ERRO] Pasta não encontrada: "
+            f"{results_folder}"
+        )
+
+        return {
+            "found": 0,
+            "processed": 0,
+            "skipped": 0,
+            "errors": 0
+        }
+
+    # -------------------------------------------------
+    # PASTA DE SAÍDA
+    # -------------------------------------------------
+
+    output_folder = (
+        VALIDATION_FOLDER
+        / experiment_name
+    )
+
+    output_folder.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+    # -------------------------------------------------
+    # LOCALIZA JSONS
+    # -------------------------------------------------
+
+    result_files = sorted(
+        results_folder.glob("*.json")
+    )
+
+    print(
+        f"Artigos encontrados: "
+        f"{len(result_files)}"
+    )
+
+    stats = {
+        "found": len(result_files),
+        "processed": 0,
+        "skipped": 0,
+        "errors": 0
+    }
+
+    # -------------------------------------------------
+    # PROCESSAMENTO
+    # -------------------------------------------------
+
+    for result_path in result_files:
+
+        status = process_file(
+            result_path=result_path,
+
+            extraction_model=
+                extraction_model,
+
+            judge_model=
+                judge_model,
+
+            output_folder=
+                output_folder
+        )
+
+        stats[status] += 1
+
+    return stats
+
+
+# =====================================================
+# MAIN
+# =====================================================
 
 def main():
-    """Percorre os resultados e executa as validações."""
 
-    total_files = 0
+    print("\n" + "=" * 70)
 
-    for model in EXTRACTION_MODELS:
-        model_folder = RESULTS_FOLDER / model
+    print(
+        "VALIDAÇÃO CRUZADA — IC-CATS"
+    )
 
-        if not model_folder.exists():
-            print(f"[AVISO] Pasta não encontrada: {model_folder}")
-            continue
+    print("=" * 70)
 
-        result_files = sorted(model_folder.glob("*.json"))
+    total = {
+        "found": 0,
+        "processed": 0,
+        "skipped": 0,
+        "errors": 0
+    }
 
-        if not result_files:
-            print(f"[AVISO] Nenhum JSON encontrado em {model_folder}")
-            continue
+    # =================================================
+    # GPT → CLAUDE
+    # =================================================
 
-        print(f"\nModelo de extração: {model}")
-        print(f"Artigos encontrados: {len(result_files)}")
+    stats_gpt_claude = run_experiment(
+        experiment_name="gpt_to_claude",
 
-        for result_path in result_files:
-            total_files += 1
-            process_file(model, result_path)
+        extraction_model="gpt",
 
-    print(f"\n{'=' * 60}")
-    print("PROCESSAMENTO CONCLUÍDO")
-    print(f"Arquivos encontrados: {total_files}")
-    print(f"Resultados em: {VALIDATION_FOLDER}")
-    print(f"Modelo juiz utilizado: {JUDGE_MODEL}")
-    print(f"{'=' * 60}")
+        judge_model="claude"
+    )
 
+    # =================================================
+    # CLAUDE → GPT
+    # =================================================
+
+    stats_claude_gpt = run_experiment(
+        experiment_name="claude_to_gpt",
+
+        extraction_model="claude",
+
+        judge_model="gpt"
+    )
+
+    # =================================================
+    # SOMA
+    # =================================================
+
+    for stats in [
+        stats_gpt_claude,
+        stats_claude_gpt
+    ]:
+
+        for key in total:
+
+            total[key] += stats[key]
+
+    # =================================================
+    # RESUMO
+    # =================================================
+
+    print("\n" + "=" * 70)
+
+    print(
+        "PROCESSAMENTO CONCLUÍDO"
+    )
+
+    print("=" * 70)
+
+    print(
+        f"Arquivos encontrados: "
+        f"{total['found']}"
+    )
+
+    print(
+        f"Arquivos processados: "
+        f"{total['processed']}"
+    )
+
+    print(
+        f"Arquivos ignorados: "
+        f"{total['skipped']}"
+    )
+
+    print(
+        f"Arquivos com erro: "
+        f"{total['errors']}"
+    )
+
+    print("\nExperimentos:")
+
+    print(
+        "  GPT    → Claude"
+    )
+
+    print(
+        "  Claude → GPT"
+    )
+
+    print("\nResultados em:")
+
+    print(
+        VALIDATION_FOLDER
+    )
+
+    print("=" * 70)
+
+
+# =====================================================
+# EXECUÇÃO
+# =====================================================
 
 if __name__ == "__main__":
+
     main()

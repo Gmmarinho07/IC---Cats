@@ -1,0 +1,71 @@
+{
+    "paper": "011CAT",
+    "extraction_model": "claude",
+    "judge_model": "gpt",
+    "validation": {
+        "validation": [
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The effect of the calcination temperature on MgO activity and selectivity depends on the basicity requirements for the rate-limiting step of the base-catalyzed reaction.",
+                "reason": "The catalyst MgO is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO calcined at 673 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Samples characterized by X-ray diffraction were heated at 5 K/min until 773 K, taking diffractograms at 373, 573, 673 and 773 K.",
+                "reason": "The catalyst MgO-673 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO calcined at 773 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Samples characterized by X-ray diffraction were heated at 5 K/min until 773 K, taking diffractograms at 373, 573, 673 and 773 K.",
+                "reason": "The catalyst MgO-773 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "MgO calcined at 873 K",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "Samples characterized by X-ray diffraction were heated at 5 K/min until 773 K, taking diffractograms at 373, 573, 673 and 773 K.",
+                "reason": "The catalyst MgO-873 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Ni/Kieselghur",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "by temperature programmed decomposition (TPDe) using a flame ionization detector (FID) with a methanation catalyst (Ni/Kieselghur) operating at 673 K",
+                "reason": "The catalyst Ni/Kieselghur is explicitly identified in the text."
+            },
+            {
+                "entity_type": "catalyst",
+                "extracted_value": "Mg(OH)2",
+                "field": "catalyst",
+                "decision": "correct",
+                "evidence": "The resulting Mg(OH)2 was decomposed in N2 (30 ml/min STP) to obtain MgO",
+                "reason": "The catalyst Mg(OH)2 is explicitly identified in the text."
+            },
+            {
+                "entity_type": "support",
+                "extracted_value": "MgO",
+                "field": "name",
+                "decision": "correct",
+                "evidence": "the density, nature and strength of surface base sites of MgO, and as a consequence its catalytic properties",
+                "reason": "The support MgO is explicitly identified in the text."
+            }
+        ],
+        "summary": {
+            "partial": 0,
+            "incorrect": 0,
+            "correct": 7,
+            "not_supported": 0
+        }
+    }
+}
